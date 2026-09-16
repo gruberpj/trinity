@@ -13,7 +13,8 @@
 | Voice profile | `research/voice_profile.md` (24 timestamped exemplars) |
 | Chapter map | `chapters/outlines/` — talk_map.md (73 segments), theme_matrix.md (18 themes), chapter_briefs.md (7 briefs) |
 | Chapter drafts | 7 drafts + provenance sidecars in `chapters/drafts/`; G4 QA done (traceability 100%, findings fixed) |
-| Manuscript | `manuscript/Mystery_of_the_Trinity.md` — assembled draft, 26,771 words, 7 parts (Ch. 1–6 + Epilogue), 0 blocking markers |
+| Manuscript | `manuscript/Mystery_of_the_Trinity.md` — assembled draft, 26,885 words, 7 parts (Ch. 1–6 + Epilogue), 0 blocking markers |
+| Print PDF | `manuscript/Mystery_of_the_Trinity.pdf` — 93 pp, 4.25×6.875 in (matches MGS booklet), Baskerville substituted for Adobe Garamond Pro, 19/19 build checks, content parity PASS |
 | Human gates | OPEN — transcript listen sign-off, theological review, citation/rights review, author decisions (see `manuscript/notes.md` and `research/unresolved.md`) |
 
 ## Pinned ASR configuration

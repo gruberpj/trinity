@@ -55,19 +55,38 @@ BOLD_ITAL_FONT = "Baskerville-BoldItalic"
 SEMI_ITAL_FONT = "Baskerville-SemiBoldItalic"
 
 # Baskerville hhea ascent = 1839/2048 em -> reportlab ascent/1000 = 897.95
-ASCENT_10 = 8.98     # ascent at 10 pt
-ASCENT_13_BOLD = 11.654  # Bold ascent (896.484/1000) at 13 pt
-
-# Frame top edges so that first baselines land exactly on the grid
-BODY_FRAME_TOP = BODY_TOP_BASELINE + ASCENT_10            # 439.56
+# Empirically, reportlab 5.0.1 places the first paragraph baseline at
+# frame_top - fontSize (it falls back to fontSize for the line ascent), so
+# frame tops are set to (desired baseline + fontSize).
+BODY_FRAME_TOP = BODY_TOP_BASELINE + 10.0            # 440.58
 BODY_FRAME_BOTTOM = 34.0
-BODY_FRAME_HEIGHT = BODY_FRAME_TOP - BODY_FRAME_BOTTOM    # 405.56 (>= 40 lines + one 9pt gap)
-TITLE_FRAME_TOP = TITLE_BASELINE + ASCENT_13_BOLD         # 461.234
+BODY_FRAME_HEIGHT = BODY_FRAME_TOP - BODY_FRAME_BOTTOM    # 406.58 (>= 40 lines + one 9pt gap)
+TITLE_FRAME_TOP = TITLE_BASELINE + 13.0              # 462.58
 TITLE_FRAME_BOTTOM = TITLE_FRAME_TOP - 20.0
 TITLE_FRAME_HEIGHT = TITLE_FRAME_TOP - TITLE_FRAME_BOTTOM
 
-FRAME_TITLE = Frame(MARGIN, TITLE_FRAME_BOTTOM, TEXT_W, TITLE_FRAME_HEIGHT, id="title-frame")
-FRAME_BODY = Frame(MARGIN, BODY_FRAME_BOTTOM, TEXT_W, BODY_FRAME_HEIGHT, id="body-frame")
+FRAME_TITLE = Frame(
+    MARGIN,
+    TITLE_FRAME_BOTTOM,
+    TEXT_W,
+    TITLE_FRAME_HEIGHT,
+    id="title-frame",
+    leftPadding=0,
+    rightPadding=0,
+    topPadding=0,
+    bottomPadding=0,
+)
+FRAME_BODY = Frame(
+    MARGIN,
+    BODY_FRAME_BOTTOM,
+    TEXT_W,
+    BODY_FRAME_HEIGHT,
+    id="body-frame",
+    leftPadding=0,
+    rightPadding=0,
+    topPadding=0,
+    bottomPadding=0,
+)
 
 MANUSCRIPT = Path(__file__).resolve().parent / "Mystery_of_the_Trinity.md"
 OUT_PDF = Path(__file__).resolve().parent / "Mystery_of_the_Trinity.pdf"
@@ -235,11 +254,34 @@ def small_caps(text: str, size: float, font: str, scale: float = SC_SCALE) -> st
     return "".join(out)
 
 
+def small_caps_width(text: str, size: float, font: str, scale: float = SC_SCALE) -> float:
+    """Exact rendered width of a synthesized small-caps run (per-char sizes)."""
+    total = 0.0
+    for ch in text:
+        if ch.isalpha() and ch.islower():
+            total += pdfmetrics.stringWidth(ch.upper(), font, size * scale)
+        elif ch.isalpha():
+            total += pdfmetrics.stringWidth(ch.upper(), font, size)
+        else:
+            total += pdfmetrics.stringWidth(ch, font, size)
+    return total
+
+
+def chapter_title_size(text: str, size: float = 13.0) -> float:
+    """Shrink-to-fit: if the synthesized small-caps title exceeds the text
+    measure at 13 pt bold, scale the size so it fits on one line."""
+    w = small_caps_width(text, size, BOLD_FONT)
+    if w <= TEXT_W:
+        return size
+    return size * (TEXT_W / w)
+
+
 class ChapterTitle(Paragraph):
     """Chapter/head title paragraph; also an anchor for page-number capture."""
 
     def __init__(self, text: str, aname: str):
-        super().__init__(small_caps(text, 13, BOLD_FONT), H1_STYLE)
+        size = chapter_title_size(text)
+        super().__init__(small_caps(text, size, BOLD_FONT), H1_STYLE)
         self.aname = aname
 
 
@@ -337,15 +379,18 @@ def draw_page_number(canv, doc):
 
 def draw_title_page(canv, doc):
     canv.saveState()
+    # Synthetic ~9 deg oblique shear. The shear matrix shifts a point at page
+    # height y right by SHEAR*y, so each line is pre-shifted left by SHEAR*y:
+    # the baseline lands at x=MARGIN while ascenders lean right (italic look).
+    canv.transform(1, 0, SHEAR, 1, 0, 0)
     canv.setFont(SEMI_FONT, 18)
-    canv.transform(1, 0, SHEAR, 1, 0, 0)  # synthetic ~9 deg oblique
-    canv.drawString(MARGIN, 297, TITLE_MAIN)
+    canv.drawString(MARGIN - SHEAR * 297, 297, TITLE_MAIN)
     canv.setFont(SEMI_FONT, 14)
     y = 275
     for line in TITLE_SUB_LINES:
-        canv.drawString(MARGIN, y, line)
+        canv.drawString(MARGIN - SHEAR * y, y, line)
         y -= 23
-    canv.drawString(MARGIN, y, BYLINE)
+    canv.drawString(MARGIN - SHEAR * y, y, BYLINE)
     canv.restoreState()
     canv.setFont(BODY_FONT, 9)
     canv.drawCentredString(PAGE_W / 2.0, 43, EDITION_LINE)
@@ -356,6 +401,13 @@ def make_toc(page_numbers):
     numbers. Entries are pre-registered and drawn in the same build pass."""
     toc = TableOfContents(dotsMinLevel=1)
     toc.levelStyles = [TOC_ENTRY_STYLE, TOC_ENTRY_STYLE]
+    toc.tableStyle = [
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("LEFTPADDING", (0, 0), (-1, -1), 0),
+        ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+        ("TOPPADDING", (0, 0), (-1, -1), 0),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 0),
+    ]
     for text in TOC_ORDER:
         toc.addEntry(1, text, page_numbers.get(text, 0))
     toc._lastEntries = list(toc._entries)  # draw our own entries this pass
@@ -385,6 +437,9 @@ def assemble_story(blocks, page_numbers, blanks_before):
                 story.append(NextPageTemplate("chapter"))
                 story.append(PageBreak())
                 story.append(ChapterTitle(text, aname=text))
+                # interior pages of the chapter use the plain body template
+                # (no title frame) so paragraphs can never land in the head slot
+                story.append(NextPageTemplate("body"))
         elif kind == "h2":
             story.append(Paragraph(small_caps(payload, 10, SEMI_FONT), H2_STYLE))
         elif kind == "para":
@@ -453,14 +508,14 @@ def main():
     if pdfmetrics.stringWidth(TITLE_SUB, SEMI_FONT, 14) <= TEXT_W:
         TITLE_SUB_LINES = [TITLE_SUB]
     else:
+        # split so the author's name stays intact on the second line
         words = TITLE_SUB.split(" ")
-        best = 1
-        while (
-            best < len(words)
-            and pdfmetrics.stringWidth(" ".join(words[:best]), SEMI_FONT, 14) <= TEXT_W
-        ):
-            best += 1
-        TITLE_SUB_LINES = [" ".join(words[:best]), " ".join(words[best:])]
+        k = len(words) - 1
+        for j, w in enumerate(words):
+            if w.rstrip(".") == "Fr":
+                k = j
+                break
+        TITLE_SUB_LINES = [" ".join(words[:k]), " ".join(words[k:])]
 
     # TOC order: manuscript TOC links + Notes and Sources
     toclinks = [p for k, p in blocks if k == "toclink"]
