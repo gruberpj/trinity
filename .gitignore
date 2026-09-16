@@ -1,0 +1,9 @@
+audio_original/
+work/
+archive/
+logs/
+*.m4a
+*.wav
+*.partial
+__pycache__/
+.DS_Store

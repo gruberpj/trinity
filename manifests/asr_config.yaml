@@ -1,0 +1,52 @@
+# ASR configuration - approved by supervisor benchmark (16 Sep 2026).
+#
+# ACTIVE CONFIG (repetition-loop fix, 16 Sep 2026):
+# The original greedy config (run_id 20260916_fasterwhisper_largev3,
+# beam_size=1, temperature=0, condition_on_previous_text=true) degenerated at
+# ~12:20 of C01 into cycling "And on the right, we have the Holy Spirit, and
+# the Holy Spirit." for ~12.5 minutes over real speech (RMS ~ -17 dBFS) -
+# content lost, not silence. Diagnostic runs B/C/D/E on a 700-1000 s clip
+# (see scripts/06_validate_asr.py loop heuristic) showed the loop is driven by
+# conditioning on previous text. Winner: config C (beam_size=1, temperature=0,
+# condition_on_previous_text=false) - zero repeats, highest mean word
+# probability (0.9685), cleanest segmentation, ~2x faster than beam-5 default.
+# Do NOT change beam_size, temperature, condition_on_previous_text, or
+# compute_type. A model/engine upgrade requires a new run_id.
+engine: faster-whisper
+engine_version: 1.2.1
+model: large-v3
+device: cpu
+compute_type: int8
+language: en
+word_timestamps: true
+vad_filter: true
+beam_size: 1
+temperature: 0
+condition_on_previous_text: false
+initial_prompt: "This is a Catholic retreat conference about the mystery of the Holy Trinity: Trinitarian theology, Eucharist, liturgy, Ratzinger, Rublev, perichoresis, consubstantial, evangelization."
+run_id: 20260916_fasterwhisper_largev3_nocond
+
+# ---------------------------------------------------------------------------
+# HISTORY (evidence - do not delete)
+# ---------------------------------------------------------------------------
+history:
+  - run_id: 20260916_fasterwhisper_largev3
+    note: >
+      SUPERSEDED (loop failure). Greedy decoding: beam_size=1, temperature=0,
+      condition_on_previous_text=true (faster-whisper default). C01
+      degenerated at ~12:20 into cycling "And on the right, we have the Holy
+      Spirit, and the Holy Spirit." for ~12.5 minutes; real speech was lost.
+      JSON/MD artifacts are preserved as evidence in work/asr/ and
+      transcripts/raw/ (never overwritten).
+    engine: faster-whisper
+    engine_version: 1.2.1
+    model: large-v3
+    device: cpu
+    compute_type: int8
+    language: en
+    word_timestamps: true
+    vad_filter: true
+    beam_size: 1
+    temperature: 0
+    condition_on_previous_text: true
+    initial_prompt: "This is a Catholic retreat conference about the mystery of the Holy Trinity: Trinitarian theology, Eucharist, liturgy, Ratzinger, Rublev, perichoresis, consubstantial, evangelization."

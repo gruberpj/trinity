@@ -1,0 +1,146 @@
+---
+recording_id: C02_mystery
+derived_from: transcripts/clean/C02_mystery.clean.md
+status: editorial
+reviewer: pipeline-review
+reviewed_at: 2026-09-16
+note: Oral-to-written conversion of the clean transcript. No new content, examples, transitions, or citations added. Uncertainty flags [possibly: ...] carried over from the clean layer; provenance lives in work/review/C02_mystery.review.md.
+---
+
+# Mystery
+
+## Opening Prayer
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+O my God, Trinity, whom I adore, help me to forget myself entirely, that I may be established in you as still and as peaceful, as if my soul were already in eternity. May nothing trouble my peace or make me leave you, O my unchanging one, but may each minute carry me further into the depths of your mystery. Amen.
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+## A Mystery We Daren't Preach
+
+The Trinity is the most central mystery in our faith. It very much matters. It also matters what we mean by the word mystery. We think of the Trinity as something that we can't possibly understand. It confounds us.
+
+And I am sure that many of you have heard homilies on Trinity Sunday — the one Sunday a year where priests feel compelled to at least mention the Trinity, the central mystery of our faith — that we can't possibly speak too much about the Trinity, because if we do, we might fall into heresy. If you talk for longer than 10 minutes, you will likely say something wrong. And there are many Trinitarian heresies.
+
+We look over the history of Christianity, especially in the early years, and — as Pope Benedict says, as Joseph Ratzinger in *Introduction to Christianity* — we see a graveyard of heresies. We want out of that graveyard.
+
+The Trinity is a mystery. We can't understand it. It's there. It's a huge part of our faith, but we just can't get close to it at all. So we don't even try.
+
+## Mystery Novels and Jigsaw Puzzles
+
+When we hear the word mystery, one thing that comes to mind is mystery novels — Arthur Conan Doyle's Sherlock Holmes, Father Brown. Mysteries, in that case, are something that need to be solved. There's something we don't know. Who committed the murder? How did it happen? What were the motivations? Who needs to be arrested? That's solved in a mystery novel.
+
+There are pieces of information that are not there, or if they are present, they require us to deduce from the material given to arrive at the conclusion. So mysteries are usually: if there is something that we don't know and we need to know, we'll try to find that out. Or it's something where we just need to piece everything together. It's solved. Like a jigsaw puzzle, we put it together and we see the picture, and there you go.
+
+## What Christian Mystery Means
+
+That way of seeing mystery is not what we mean by Christian mystery. When we think about the mystery of faith — the central mystery of our faith being the Trinity — we also might think of the Holy Eucharist. We might know that in the Eastern Catholic tradition the sacraments are called mysteries. And the Blessed Sacrament is called the mysteries, very simply.
+
+When we say that, we don't mean, oh, a problem to be solved, that we can't know it. It's not possible to know it. We mean something that is so knowable that it overwhelms our ability to know.
+
+## The Sun: Blinding Light
+
+If you were to go outside on a sunny day and try to look at the sun — are you able to see the sun? In one sense, yes, because it's so much light. But in another sense, no. You can't really see the sun. You can't make out its circular form in the sky. You can't see its outline. All you see is blinding light.
+
+So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in halogy [possibly: analogy], because the sun is that by which we see everything else.
+
+## Maritain: Pregnant with Intelligibility
+
+A mystery is likewise. As Jacques Maritain said — he was a philosopher, a Thomist philosopher in the 20th century — mysteries are pregnant with intelligibility. They are so full of things we can know. It's too much. We are a finite intellect in the midst of something infinite. It's overwhelming.
+
+## Gabriel Marcel: Mysteries Implicate the Self
+
+Another philosopher in the 20th century — his name was Gabriel Marcel. He belonged to a school of philosophy called personalism. And you might recognize that as the school of philosophy that Karol Wojtyła was also involved in, on the other side of Europe.
+
+He said that mysteries — what distinguishes them from problems — is that mysteries implicate the self. You are involved in the mystery. When we approach something as a problem, we approach it as separate from ourselves. It is outside of us. It can be measured. It can be analyzed. And if it remains unchanged, we remain unchanged. And it can be solved.
+
+Gabriel Marcel said that many of the problems of the 20th century, with the massive amounts of death on scales never before envisioned, it came from treating mysteries as problems.
+
+## Persons Are Not Problems
+
+I referred to St. John Henry Newman yesterday, that each of us is an infinite abyss of existence. That is to say, each of us is a mystery, so knowable that it overwhelms anyone's ability to know. We are even a mystery unto ourselves. When we fully know ourselves, it overwhelms us. But to treat another person as a problem, to use them as part of an equation, is to dismiss them at their very core.
+
+This was the solution — I say that in quotes — to the, quote, Jewish problem in 1930s and 40s Germany: to treat a whole section of society, a whole accumulation of mysteries of persons, as problems — problems to be solved. And when you're dealing with persons, the solution is death.
+
+## The 21st Century: Everything Reduced to a Problem
+
+And we might think, well, that was a terrible time in our history. We've certainly learned from that — and hopefully we have. But we've moved now in the 21st century into the matters of the technical, the problematical. Everything is reduced to a problem. Everything can be solved now by artificial intelligence. Everything can be solved by analysis, by measurement.
+
+And there are many that would even espouse as their way of viewing the world — their central worldview — that science is their God. Because everything can be analyzed and measured, and they can be kept safe from it. This is fundamentally an attitude of fear that causes us to reduce the mysteries, the persons around us, into problems, and to deal with them on the merely technical level.
+
+## The Two Aspects of Mystery
+
+But to approach something as a mystery, we recognize that it is so knowable that it overwhelms us, and we are enveloped in it. The two aspects — mystery is first, so knowable it overwhelms us, and second, it necessarily involves us. We are implicated in it.
+
+We use the word "implicated" to talk about being implicated in a crime. I buy a bike from a friend at a really good deal and recognize that the friend stole the bike from someone else. I'm implicated in that crime. I'm involved in it. I'm not separate from it. I can't be detached from it as a mere external observer.
+
+## Elizabeth and the Moon
+
+I'll tell a story to illustrate this point about mystery involving the self. Several years ago, my sister's family was coming back from eastern Pennsylvania to visit my brother-in-law's family, and so I talked to my niece Elizabeth, who was five years old at that time. I just asked her, "Elizabeth, how was your trip?" She said to me, "Uncle PJ" — because she calls me Uncle PJ — "Uncle PJ, guess what? When we go in the car and we drive, the moon follows us."
+
+And my heart sunk. I felt bad for her. And in my mind, I'm thinking, this is like one of those Santa Claus moments. Elizabeth, you're five years old. You need to know something about reality. The moon does not follow you. It is so far away that any change in our distance here at 60 or 70 miles per hour — you will not be able to notice any change in position in the sky relative to you. It only looks like it's following you because of the great distance it is away from you. And it's so unbelievably large that its distance doesn't seem to — it seems to only be stuck in the sky. And as you travel, it looks like it's also going with you. That is not the case.
+
+And I'm thinking, okay, how can I prove this to her? And this is happening in a very short period of time, because I'm thinking, okay, I need to prove to her this is not true. And maybe I could apply the principle of non-contradiction, or some variant of it. Why don't we take you, Elizabeth, in one car at night, and your sister, Mary Margaret, and put her in another car? Okay? And why don't you drive separate directions, and both of you observe the moon. It can't both be following — it can't be following both of you. So therefore, that can't be true. You must look for another explanation.
+
+So quickly, I said to Elizabeth, "Elizabeth, that's not true. The moon doesn't follow you. It's so far away. It looks like it's following you." And she interrupted me. "No, Uncle PJ. Jake [possibly: 'kay], it really follows me."
+
+## The Moon as Mystery
+
+Elizabeth was right, in a sense. She approached the moon as a mystery. And its own movements were not separate from hers. She was involved in it.
+
+For me, the moon was a problem. It could be analyzed. We could measure it. I could explain the different things about it. I could talk about why it looks like it has different shapes — that's due to the phases. Why we only see one side of it, even though it is a sphere — because it is tidally locked to the Earth. I would love to be able to explain all these things — to talk about how those shapes you see on its surface are actually impact craters from asteroids and meteors and other space debris, that the moon actually acts as a cosmic vacuum cleaner protecting the Earth. Oh, there's so many things you could talk about with the moon that are interesting in its own way.
+
+## Wonder and the Fear of Being Cared For
+
+But she saw the moon as if it had a personality, as if it had a care for her. In my own fear — not wanting to think something cared for me, only to find out that it doesn't — I thought it was necessary to dissuade her from that childish notion, and in so doing, I squashed her wonder — or at least I tried to. She would not let me. The moon was a mystery to her. She was involved in it.
+
+## God Is a Mystery: The Mountain and the Sand
+
+When we think about God — God is a mystery. He overwhelms us. There's so much to know. We can't possibly contain God. You cannot hug a mountain. Or if you try to, you'll just look silly, because your arms do not go around it. You cannot encompass the mystery of God. You cannot grasp it into your hand. It is beyond you. And any attempts — it slips through your fingers like sand on the seashore.
+
+## St. Augustine and the Boy on the Beach
+
+We remember the dream of St. Augustine, walking along a beach and finding a boy, digging a hole, taking a pail and going to the ocean and dumping ocean water into that hole on the seashore. "What are you doing, boy?" "I'm pouring the ocean into this hole." "Well, you can't do that. The ocean will not fit. As much as you might try, it will not go into that. All the water you pour in will just seep into the sand and return to the ocean." And that is also the case, the boy says, when you try to understand God as one in three.
+
+## The Trinity: Analysis and Implication
+
+The Trinity overwhelms us. We can analyze it to an extent. We can divide it up. We can talk about its different parts. We can say that there is the Father, the Son, and the Holy Spirit. Each one of them is a subsistent relation. We can say that each one of them has their own role in coming down into this world. In some way or other, they go forth — the missions of the Trinity — to draw us into the Trinity.
+
+We can talk about this in history. We can talk about this in theology. We can apply the dictums of philosophy to this. We can expand our mind and try to grasp as much as we can, but we still find ourselves unable to. But the most proper response to the Trinity is to understand that we are involved in it already, that we are implicated in that very mystery.
+
+## Mysteries Everywhere
+
+The Trinity is not the only mystery. There are many things that we could apply this to. Being itself is a mystery. You cannot just simply study being, existence, because you also have existence. Matter is in some sense a mystery — you have matter. Fatherhood — you can study it, talk about it, but you're also involved in it as sons and as fathers.
+
+And when you try to explain it, it usually defaults, kind of like a quantum bit. And quantum physics: when you make a quantum computer, instead of zeros and ones, you have a [possibly: qubit], which are called bits — that make up the language of all computers — are just zeros and ones. In quantum computers, it's zero or one or anywhere in between. And when you try to study it, it defaults to a zero or to a one.
+
+I think quantum physics actually gives us more to work with in the realm of mystery than just normal Newtonian physics, but we are involved in these things.
+
+## This Table Is a Mystery
+
+Mystery is not just a category that we can put things in. It's a way of approaching reality. I can say this table is a mystery. I'm involved in it. I have a history with it. I have a story to tell. I have a way in which I'm connected to it. It's not just a horizontal plane elevated with finite width and length. Now this table is something that separates me from you, but it also is something that allows me to be here with you. The same thing with the tables in front of you. We recognize that we have a part to play in it.
+
+We could also look at it separately, as if I am not involved in it. I can do the measurements. I can weigh it on a scale. I can look at the materials used to make its legs and the contraption used to extend it when it is opened. I could also engage with it as mystery, as something that is brimming with the invisible.
+
+The engagement with our world, all creation, as mystery, is preparation for engaging with God — the creator of everything, the love that made the sun and the stars — to engage in God as mystery.
+
+## The Ancients and the Stars
+
+In the ancient world, this was not so uncommon, that even grown men would look up at the sky at night and they'd see the stars and they would draw pictures in the sky, and they would connect to their maps of meaning. The myths that they would tell, the stories that they would share with their children and with others in society — they'd see this reflected in the cosmos. Cosmos — they engage with the sky, with the stars, as mystery, as if it involved them.
+
+They were like my niece, Elizabeth, but the moon really does follow them. The stars really do care for us — in the sense that we are all made for relationship, we all live in relation to everything else.
+
+## What We Mean by Mystery Going Forward
+
+When we talk about the Trinity as mystery going forward on this retreat, we need to hold in our minds what we mean by mystery. We do not mean to ever excuse it and say we cannot access it, because that is actually the exact wrong approach to mystery. To approach mystery is to access it, is to enter in, to be enveloped by it, to see that we ourselves are included and caught up in a relationship.
+
+And the proper Christian response to mystery is to love, adore, and worship.
+
+## Closing Prayer
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.

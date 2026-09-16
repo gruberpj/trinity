@@ -1,0 +1,322 @@
+The Mystery of the Trinity
+Fr. Peter Gruber, C.O.
+
+First Conference: Icons of the Trinity
+Second Conference: Mystery
+Third Conference : Gift and Liturgy
+Fourth Conference: Relationship
+Fifth Conference: Intimacy
+Sixth Conference: Evangelization
+ Andrei Rublev, Trinity
+
+
+St Patrick’s Breastplate
+
+I bind unto myself today
+The strong Name of the Trinity,
+By invocation of the same,
+The Three in One and One in Three.
+
+I bind this day to me for ever.
+By power of faith, Christ’s incarnation;
+His baptism in the Jordan river;
+His death on Cross for my salvation;
+His bursting from the spicèd tomb;
+His riding up the heavenly way;
+His coming at the day of doom;*
+I bind unto myself today.
+
+I bind unto myself the power
+Of the great love of the cherubim;
+The sweet ‘well done’ in judgment hour,
+The service of the seraphim,
+Confessors’ faith, Apostles’ word,
+The Patriarchs’ prayers, the Prophets’ scrolls,
+All good deeds done unto the Lord,
+And purity of virgin souls.
+
+I bind unto myself today
+The virtues of the starlit heaven,
+The glorious sun’s life-giving ray,
+The whiteness of the moon at even,
+The flashing of the lightning free,
+The whirling wind’s tempestuous shocks,
+The stable earth, the deep salt sea,
+Around the old eternal rocks.
+
+I bind unto myself today
+The power of God to hold and lead,
+His eye to watch, His might to stay,
+His ear to hearken to my need.
+The wisdom of my God to teach,
+His hand to guide, His shield to ward,
+The word of God to give me speech,
+His heavenly host to be my guard.
+
+Against the demon snares of sin,
+The vice that gives temptation force,
+The natural lusts that war within,
+The hostile men that mar my course;
+Or few or many, far or nigh,
+
+
+In every place and in all hours,
+Against their fierce hostility,
+I bind to me these holy powers.
+
+Against all Satan’s spells and wiles,
+Against false words of heresy,
+Against the knowledge that defiles,
+Against the heart’s idolatry,
+Against the wizard’s evil craft,
+Against the death wound and the burning,
+The choking wave and the poisoned shaft,
+Protect me, Christ, till Thy returning.
+
+Christ be with me, Christ within me,
+Christ behind me, Christ before me,
+Christ beside me, Christ to win me,
+Christ to comfort and restore me.
+Christ beneath me, Christ above me,
+Christ in quiet, Christ in danger,
+Christ in hearts of all that love me,
+Christ in mouth of friend and stranger.
+
+I bind unto myself the Name,
+The strong Name of the Trinity;
+By invocation of the same.
+The Three in One, and One in Three,
+Of Whom all nature hath creation,
+Eternal Father, Spirit, Word:
+Praise to the Lord of my salvation,
+Salvation is of Christ the Lord.
+Amen.
+O My God, Trinity Whom I Adore
+St. Elizabeth of the Trinity
+
+O my God, Trinity whom I adore, help me to forget myself entirely that I may be established in you as still and as peaceful as if my soul were already in eternity. 
+May nothing trouble my peace or make me leave You, O my Unchanging One, but may each minute carry me further into the depths of Your Mystery. 
+
+Give peace to my soul; make it Your Heaven, Your beloved dwelling and Your resting place. May I never leave You there alone but be wholly present, my faith wholly vigilant, wholly adoring, and wholly surrendered to Your creative Action.
+O my beloved Christ, crucified by love, I wish to be a bride for Your Heart; I wish to cover You with glory; I wish to love You… even unto death!
+
+But I feel my weakness, and I ask You to clothe me with Yourself, to identify my soul with all the movements of Your Soul, to overwhelm me, to possess me, to substitute Yourself for me that my life may be but a radiance of Your Life. Come into me as Adorer, as Restorer, as Savior.
+
+O Eternal Word, Word of my God, I want to spend my life in listening to You, to become wholly teachable that I may learn all from You. Then, through all nights, all voids, all helplessness, I want to gaze on You always and remain in Your great light. O my beloved Star, so fascinate me that I may not withdraw from Your radiance.
+
+O consuming Fire, Spirit of Love, come upon me, and create in my soul a kind of incarnation of the Word: that I may be another humanity for Him in which He can renew His whole Mystery.
+
+And You, O Father, bend lovingly over Your poor little creature; cover her with Your shadow seeing in her only the “Beloved in whom You are well pleased.” (Mt. 17:5)
+
+O my Three, my All, my Beatitude, infinite Solitude, Immensity in which I lose myself, I surrender myself to You as Your prey. Bury Yourself in me that I may bury myself in You until I depart to contemplate in Your light the abyss of Your greatness. 
+
+ Quotes Referenced
+
+Joseph Ratzinger, Introduction to Christianity, 162
+“We cannot overlook the fact that we are now touching a realm in which Christian theology must be more aware of its limits than it has often been in the past; a realm in which any false forthrightness in the attempt to gain too precise a knowledge is bound to end in disastrous foolishness; a realm in which only the humble admission of ignorance can be true knowledge and only wondering attendance before the incomprehensible mystery can be the right profession of faith in God. Love is always mysterium—more than one can reckon or grasp by subsequent reckoning. Love itself—the uncreated, eternal God—must therefore be in the highest degree a mystery—‘the’ mysterium itself.”
+
+Joseph Ratzinger, Introduction to Christianity, 172
+“When one looks at the history of the dogma of the Trinity as it is reflected in a present-day manual of theology, it looks like a graveyard of heresies, whose emblems theology still carries around with it like the trophies from battles fought and won. But such a view does not represent a proper understanding of the matter….On the contrary, every heresy is at the same time the cipher for an abiding truth, a cipher we must now preserve with other simultaneously valid statements, separated from which it produces a false impression. In other words, all these statements are not so much gravestones as the bricks of a cathedral, which are, of course, only useful when they do not remain alone but are inserted into something bigger, just as even the positively accepted formulas are valid only if they are at the same time aware of their own inadequacy.”
+
+Joseph Ratzinger, Introduction to Christianity, 175
+“We know today that in a physical experiment the observer himself enters into the experiment and only by doing so can arrive at a physical experience. This means that there is no such thing as pure objectivity even in physics, that even here the result of the experiment, nature’s answer, depends on the question put to it. In the answer there is always a bit of the question and a bit of the questioner himself; it reflects not only nature in itself, in its pure objectivity, but also gives back something of man, of what is characteristically ours, a bit of the human subject. This too, mutatis mutandis, is true of the question of God. There is no such thing as a mere observer. There is no such thing as pure objectivity.”
+
+Pope Benedict XVI, Sermon April 24, 2005
+“It is really so: the purpose of our lives is to reveal God to men. And only where God is seen does life truly begin. Only when we meet the living God in Christ do we know what life is. We are not some casual and meaningless product of evolution. Each of us is the result of a thought of God. Each of us is willed, each of us is loved, each of us is necessary. There is nothing more beautiful than to be surprised by the Gospel, by the encounter with Christ. There is nothing more beautiful than to know Him and to speak to others of our friendship with Him.”
+
+Code of Canon Law, Can. 225.1 
+Since lay people, like all Christ’s faithful, are deputed to the apostolate by baptism and confirmation, they are bound by the general obligation and they have the right, whether s individuals or in associations, to strive so that the divine message of salvation may be known and accepted by all people throughout the world. This obligation is all the more insistent in circumstances in which only through them are people able to hear the gospel and to know Christ
+
+ Code of Canon Law, Can. 781 
+Since the whole Church is by its nature missionary and the work of evangelization must be held as a fundamental duty of the people of God, all the Christian faithful, conscious of their responsibility, are to assume their part in missionary work.
+
+Catechism of the Catholic Church, 234
+The mystery of the Most Holy Trinity is the central mystery of Christian faith and life. It is the mystery of God in himself. It is therefore the source of all the other mysteries of faith, the light that enlightens them. It is the most fundamental and essential teaching in the “hierarchy of the truths of faith.” (GCD 43) The whole history of salvation is identical with the history of the way and the means by which the one true God, Father, Son, and Holy Spirit, reveals himself to men “and reconciles and unites with himself those who turn away from sin.” (GCD 47)
+
+Catechism of the Catholic Church, 2845
+There is no limit or measure to this essentially divine forgiveness, whether one speaks of “sins” as in Luke (11:4), or “debts” as in Matthew (6:12). We are always debtors: “Owe no one anything, except to love one another.”( Rom 13:8.) The communion of the Holy Trinity is the source and criterion of truth in every relationship. It is lived out in prayer, above all in the Eucharist.
+God does not accept the sacrifice of a sower of disunion, but commands that he depart from the altar so that he may first be reconciled with his brother. For God can be appeased only by prayers that make peace. To God, the better offering is peace, brotherly concord, and a people made one in the unity of the Father, Son, and Holy Spirit. (St. Cyprian, De Dom. orat. 23: PL 4, 535–536; cf. Mt 5:24.)
+
+An Infinite Abyss of Existence, from St. John Henry Newman, “The Individuality of the Soul”
+
+Nothing is more difficult than to realize that every man has a distinct soul, that every one of all the millions who live or have lived, is as whole and independent a being in himself, as if there were no one else in the whole world but he. …
+This instance will show what I mean, and how open we all lie to the remark, that we do not understand the doctrine of the distinct individuality of the human soul. We class men in masses, as we might connect the stones of a building. Consider our common way of regarding history, politics, commerce, and the like, and you will own that I speak truly. We generalize, and lay down laws, and then contemplate these creations of our own minds, and act upon and towards them, as if they were the real things, dropping what are more truly such. …
+Or again, survey some populous town: crowds are pouring through the streets; some on foot, some in carriages; while the shops are full, and the houses too, could we see into them. Every part of it is full of life. Hence we gain a general idea of splendour, magnificence, opulence, and energy. But what is the truth? why, that every being in that great concourse is his own centre and all things about him are but shades, but a "vain shadow," in which he "walketh and disquieteth himself in vain." He has his own hopes and fears, desires, judgments, and aims; he is everything to himself, and no one else is really any thing. No one outside of him can really touch him, can touch his soul, his immortality; he must live with himself for ever. He has a depth within him unfathomable, an infinite abyss of existence; and the scene in which he bears part for the moment is but like a gleam of sunshine upon its surface.
+ Scripture Passages
+
+Psalm 42
+As a deer longs for flowing streams, 
+so longs my soul 
+for you, O God. 
+2 My soul thirsts for God, 
+for the living God. 
+When shall I come and behold 
+the face of God? 
+3 My tears have been my food 
+day and night, 
+while men say to me continually, 
+“Where is your God.” 
+4 These things I remember, 
+as I pour out my soul: 
+how I went with the throng, 
+and led them in procession to the house of God, 
+with glad shouts and songs of thanksgiving, 
+a multitude keeping festival. 
+5 Why are you cast down, O my soul, 
+and why are you disquieted within me? 
+Hope in God; for I shall again praise him, 
+my savior 6 and my God. 
+My soul is cast down within me, 
+therefore I remember you 
+from the land of Jordan and of Hermon, 
+from Mount Mizar. 
+7 Deep calls to deep 
+at the thunder of your cataracts; 
+all your waves and your billows 
+have gone over me. 
+8 By day the Lord commands his steadfast love; 
+and at night his song is with me, 
+a prayer to the God of my life. 
+9 I say to God, my rock: 
+“Why have you forgotten me? 
+Why do I go mourning 
+because of the oppression of the enemy.” 
+10 As with a deadly wound in my body, 
+my adversaries taunt me, 
+while they say to me continually, 
+“Where is your God.” 
+11 Why are you cast down, O my soul, 
+and why are you disquieted within me? 
+Hope in God; for I shall again praise him, 
+my help and my God. 
+
+Genesis 18:1-8
+And the Lord appeared to him by the Oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men stood in front of him. When he saw them, he ran from the tent door to meet them, and bowed himself to the earth, 3 and said, “My lord, if I have found favor in your sight, do not pass by your servant. 4 Let a little water be brought, and wash your feet, and rest yourselves under the tree, 5 while I fetch a morsel of bread, that you may refresh yourselves, and after that you may pass on—since you have come to your servant.” So they said, “Do as you have said.” 6 And Abraham hastened into the tent to Sarah, and said, “Make ready quickly three measures of fine meal, knead it, and make cakes.” 7 And Abraham ran to the herd, and took a calf, tender and good, and gave it to the servant, who hastened to prepare it. 8 Then he took curds, and milk, and the calf which he had prepared, and set it before them; and he stood by them under the tree while they ate. 
+
+Mark 1:9-13
+9 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. 10 And when he came up out of the water, immediately he saw the heavens opened and the Spirit descending upon him like a dove; 11 and a voice came from heaven, “You are my beloved Son; with you I am well pleased.” 
+12 The Spirit immediately drove him out into the wilderness. 13 And he was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels ministered to him.
+
+Matthew 17:1-8
+And after six days Jesus took with him Peter and James and John his brother, and led them up a high mountain apart. 2 And he was transfigured before them, and his face shone like the sun, and his garments became white as light. 3 And behold, there appeared to them Moses and Elijah, talking with him. 4 And Peter said to Jesus, “Lord, it is well that we are here; if you wish, I will make three booths here, one for you and one for Moses and one for Elijah.” 5 He was still speaking, when behold, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to him.” 6 When the disciples heard this, they fell on their faces, and were filled with awe. 7 But Jesus came and touched them, saying, “Rise, and have no fear.” 8 And when they lifted up their eyes, they saw no one but Jesus only. 
+
+John 14:1-15:12
+“Let not your hearts be troubled; believe in God, believe also in me. 2 In my Father’s house are many rooms; if it were not so, would I have told you that I go to prepare a place for you? 3 And when I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also. 4 And you know the way where I am going.”  5 Thomas said to him, “Lord, we do not know where you are going; how can we know the way?” 6 Jesus said to him, “I am the way, and the truth, and the life; no one comes to the Father, but by me. 7 If you had known me, you would have known my Father also; henceforth you know him and have seen him.” 
+8 Philip said to him, “Lord, show us the Father, and we shall be satisfied.” 9 Jesus said to him, “Have I been with you so long, and yet you do not know me, Philip? He who has seen me has seen the Father; how can you say, ‘Show us the Father’? 10 Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own authority; but the Father who dwells in me does his works. 11 Believe me that I am in the Father and the Father is in me; or else believe me for the sake of the works themselves. 
+12 “Truly, truly, I say to you, he who believes in me will also do the works that I do; and greater works than these will he do, because I go to the Father. 13 Whatever you ask in my name, I will do it, that the Father may be glorified in the Son; 14 if you ask anything in my name, I will do it. 
+15 “If you love me, you will keep my commandments. 16 And I will ask the Father, and he will give you another Counselor, to be with you for ever, 17 even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you. 
+18 “I will not leave you desolate; I will come to you. 19 Yet a little while, and the world will see me no more, but you will see me; because I live, you will live also. 20 In that day you will know that I am in my Father, and you in me, and I in you. 21 He who has my commandments and keeps them, he it is who loves me; and he who loves me will be loved by my Father, and I will love him and manifest myself to him.” 22 Judas (not Iscariot) said to him, “Lord, how is it that you will manifest yourself to us, and not to the world?” 23 Jesus answered him, “If a man loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him. 24 He who does not love me does not keep my words; and the word which you hear is not mine but the Father’s who sent me. 
+25 “These things I have spoken to you, while I am still with you. 26 But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things,  and bring to your remembrance all that I have said to you. 27 Peace I leave with you; my peace I give to you; not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid. 28 You heard me say to you, ‘I go away, and I will come to you.’ If you loved me, you would have rejoiced, because I go to the Father; for the Father is greater than I. 29 And now I have told you before it takes place, so that when it does take place, you may believe. 30 I will no longer talk much with you, for the ruler of this world is coming. He has no power over me; 31 but I do as the Father has commanded me, so that the world may know that I love the Father. Rise, let us go from here. 
+15 “I am the true vine, and my Father is the vinedresser. 2 Every branch of mine that bears no fruit, he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. 3 You are already made clean by the word which I have spoken to you. 4 Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. 5 I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing. 6 If a man does not abide in me, he is cast forth as a branch and withers; and the branches are gathered, thrown into the fire and burned. 7 If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you. 8 By this my Father is glorified, that you bear much fruit, and so prove to be my disciples. 9 As the Father has loved me, so have I loved you; abide in my love. 10 If you keep my commandments, you will abide in my love, just as I have kept my Father’s commandments and abide in his love. 11 These things I have spoken to you, that my joy may be in you, and that your joy may be full. 
+12  “This is my commandment, that you love one another as I have loved you. 13 Greater love has no man than this, that a man lay down his life for his friends. 14 You are my friends if you do what I command you. 15 No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you. 16 You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide; so that whatever you ask the Father in my name, he may give it to you. 17 This I command you, to love one another. 
+
+Matthew 28: 16-20
+Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them. 17 And when they saw him they worshiped him; but some doubted. 18 And Jesus came and said to them, “All authority in heaven and on earth has been given to me. 19 Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age.” 
+ Catechism of the Catholic Church, 199-267
+“I Believe In God The Father Almighty, Creator Of Heaven And Earth”
+Paragraph 1. I Believe in God
+199 “I believe in God”: this first affirmation of the Apostles’ Creed is also the most fundamental. The whole Creed speaks of God, and when it also speaks of man and of the world it does so in relation to God. The other articles of the Creed all depend on the first, just as the remaining Commandments make the first explicit. The other articles help us to know God better as he revealed himself progressively to men. “The faithful first profess their belief in God.”2 (2083)
+I.	“I Believe in One God”
+200 These are the words with which the Niceno-Constantinopolitan Creed begins. The confession of God’s oneness, which has its roots in the divine revelation of the Old Covenant, is inseparable from the profession of God’s existence and is equally fundamental. God is unique; there is only one God: “The Christian faith confesses that God is one in nature, substance, and essence.”3 (2085)
+201 To Israel, his chosen, God revealed himself as the only One: “Hear, O Israel: The Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might.”4 Through the prophets, God calls Israel and all nations to turn to him, the one and only God: “Turn to me and be saved, all the ends of the earth! For I am God, and there is no other.… To me every knee shall bow, every tongue shall swear. ‘Only in the Lord, it shall be said of me, are righteousness and strength.’ ”5 (2083)
+202 Jesus himself affirms that God is “the one Lord” whom you must love “with all your heart, and with all your soul, and with all your mind, and with all your strength.”6 At the same time Jesus gives us to understand that he himself is “the Lord.”7 To confess that Jesus is Lord is distinctive of Christian faith. This is not contrary to belief in the One God. Nor does believing in the Holy Spirit as “Lord and giver of life” introduce any division into the One God: (446; 152; 42)
+We firmly believe and confess without reservation that there is only one true God, eternal, infinite (immensus) and unchangeable, incomprehensible, almighty, and ineffable, the Father and the Son and the Holy Spirit; three persons indeed, but one essence, substance or nature entirely simple.8
+II.	God Reveals His Name
+203 God revealed himself to his people Israel by making his name known to them. A name expresses a person’s essence and identity and the meaning of this person’s life. God has a name; he is not an anonymous force. To disclose one’s name is to make oneself known to others; in a way it is to hand oneself over by becoming accessible, capable of being known more intimately and addressed personally. (2143)
+204 God revealed himself progressively and under different names to his people, but the revelation that proved to be the fundamental one for both the Old and the New Covenants was the revelation of the divine name to Moses in the theophany of the burning bush, on the threshold of the Exodus and of the covenant on Sinai. (63)
+The living God
+205 God calls Moses from the midst of a bush that burns without being consumed: “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.”9 God is the God of the fathers, the One who had called and guided the patriarchs in their wanderings. He is the faithful and compassionate God who remembers them and his promises; he comes to free their descendants from slavery. He is the God who, from beyond space and time, can do this and wills to do it, the God who will put his almighty power to work for this plan. (2575; 268)
+“I Am who I Am”
+Moses said to God, “If I come to the people of Israel and say to them, ‘The God of your fathers has sent me to you’, and they ask me, ‘What is his name?’ what shall I say to them?” God said to Moses, “I am who I Am.” And he said, “Say this to the people of Israel, ‘I Am has sent me to you’ … this is my name for ever, and thus I am to be remembered throughout all generations.”10
+206 In revealing his mysterious name, Yhwh (“I Am He who Is,” “I Am who Am” or “I am who I Am”), God says who he is and by what name he is to be called. This divine name is mysterious just as God is mystery. It is at once a name revealed and something like the refusal of a name, and hence it better expresses God as what he is—infinitely above everything that we can understand or say: he is the “hidden God,” his name is ineffable, and he is the God who makes himself close to men.11 (43)
+207 By revealing his name God at the same time reveals his faithfulness which is from everlasting to everlasting, valid for the past (“I am the God of your fathers”), as for the future (“I will be with you”).12 God, who reveals his name as “I AM,” reveals himself as the God who is always there, present to his people in order to save them.
+208 Faced with God’s fascinating and mysterious presence, man discovers his own insignificance. Before the burning bush, Moses takes off his sandals and veils his face in the presence of God’s holiness.13 Before the glory of the thrice-holy God, Isaiah cries out: “Woe is me! I am lost; for I am a man of unclean lips.”14 Before the divine signs wrought by Jesus, Peter exclaims: “Depart from me, for I am a sinful man, O Lord.”15 But because God is holy, he can forgive the man who realizes that he is a sinner before him: “I will not execute my fierce anger … for I am God and not man, the Holy One in your midst.”16 The apostle John says likewise: “We shall … reassure our hearts before him whenever our hearts condemn us; for God is greater than our hearts, and he knows everything.”17 (724; 448; 388)
+209 Out of respect for the holiness of God, the people of Israel do not pronounce his name. In the reading of Sacred Scripture, the revealed name (Yhwh) is replaced by the divine title “Lord” (in Hebrew Adonai, in Greek Kyrios). It is under this title that the divinity of Jesus will be acclaimed: “Jesus is Lord.” (446)
+“A God merciful and gracious”
+210 After Israel’s sin, when the people had turned away from God to worship the golden calf, God hears Moses’ prayer of intercession and agrees to walk in the midst of an unfaithful people, thus demonstrating his love.18 When Moses asks to see his glory, God responds “I will make all my goodness pass before you, and will proclaim before you my name ‘the Lord’ [Yhwh].”19 Then the Lord passes before Moses and proclaims, “Yhwh, Yhwh, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness”; Moses then confesses that the Lord is a forgiving God.20 (2116, 2577)
+211 The divine name, “I Am” or “He Is,” expresses God’s faithfulness: despite the faithlessness of men’s sin and the punishment it deserves, he keeps “steadfast love for thousands.”21 By going so far as to give up his own Son for us, God reveals that he is “rich in mercy.”22 By giving his life to free us from sin, Jesus reveals that he himself bears the divine name: “When you have lifted up the Son of man, then you will realize that ‘I Am.’ ”23 (604)
+God alone IS
+212 Over the centuries, Israel’s faith was able to manifest and deepen realization of the riches contained in the revelation of the divine name. God is unique; there are no other gods besides him.24 He transcends the world and history. He made heaven and earth: “They will perish, but you endure; they will all wear out like a garment … but you are the same, and your years have no end.”25 In God “there is no variation or shadow due to change.”26 God is “He who Is,” from everlasting to everlasting, and as such remains ever faithful to himself and to his promises. (42; 469, 2086)
+213 The revelation of the ineffable name “I Am who Am” contains then the truth that God alone IS. The Greek Septuagint translation of the Hebrew Scriptures, and following it the Church’s Tradition, understood the divine name in this sense: God is the fullness of Being and of every perfection, without origin and without end. All creatures receive all that they are and have from him; but he alone is his very being, and he is of himself everything that he is. (41)
+III.	God, “He Who Is,” Is Truth and Love
+214 God, “He who is,” revealed himself to Israel as the one “abounding in steadfast love and faithfulness.”27 These two terms express summarily the riches of the divine name. In all his works God displays not only his kindness, goodness, grace, and steadfast love, but also his trustworthiness, constancy, faithfulness, and truth. “I give thanks to your name for your steadfast love and your faithfulness.”28 He is the Truth, for “God is light and in him there is no darkness”; “God is love,” as the apostle John teaches.29 (1062)
+God is truth
+215 “The sum of your word is truth; and every one of your righteous ordinances endures forever.”30 “And now, O Lord God, you are God, and your words are true;”31 this is why God’s promises always come true.32 God is Truth itself, whose words cannot deceive. This is why one can abandon oneself in full trust to the truth and faithfulness of his word in all things. The beginning of sin and of man’s fall was due to a lie of the tempter who induced doubt of God’s word, kindness, and faithfulness. (2465; 1063, 156; 397)
+216 God’s truth is his wisdom, which commands the whole created order and governs the world.33 God, who alone made heaven and earth, can alone impart true knowledge of every created thing in relation to himself.34 (295; 32)
+217 God is also truthful when he reveals himself—the teaching that comes from God is “true instruction.”35 When he sends his Son into the world it will be “to bear witness to the truth”:36 “We know that the Son of God has come and has given us understanding, to know him who is true.”37 (851; 2466)
+God is love
+218 In the course of its history, Israel was able to discover that God had only one reason to reveal himself to them, a single motive for choosing them from among all peoples as his special possession: his sheer gratuitous love.38 And thanks to the prophets Israel understood that it was again out of love that God never stopped saving them and pardoning their unfaithfulness and sins.39 (295)
+219 God’s love for Israel is compared to a father’s love for his son. His love for his people is stronger than a mother’s for her children. God loves his people more than a bridegroom his beloved; his love will be victorious over even the worst infidelities and will extend to his most precious gift: “God so loved the world that he gave his only Son.”40 (239; 796, 458)
+220 God’s love is “everlasting”:41 “For the mountains may depart and the hills be removed, but my steadfast love shall not depart from you.”42 Through Jeremiah, God declares to his people, “I have loved you with an everlasting love; therefore I have continued my faithfulness to you.”43
+221 But St. John goes even further when he affirms that “God is love”:44 God’s very being is love. By sending his only Son and the Spirit of Love in the fullness of time, God has revealed his innermost secret:45 God himself is an eternal exchange of love, Father, Son, and Holy Spirit, and he has destined us to share in that exchange. (733; 851; 257)
+IV.	The Implications of Faith in One God
+222 Believing in God, the only One, and loving him with all our being has enormous consequences for our whole life.
+223 It means coming to know God’s greatness and majesty: “Behold, God is great, and we know him not.”46 Therefore, we must “serve God first.”47 (400)
+224 It means living in thanksgiving: if God is the only One, everything we are and have comes from him: “What have you that you did not receive?”48 “What shall I render to the Lord for all his bounty to me?”49 (2637)
+225 It means knowing the unity and true dignity of all men: Everyone is made in the image and likeness of God.50 (356, 360; 1700, 1934)
+226 It means making good use of created things: faith in God, the only One, leads us to use everything that is not God only insofar as it brings us closer to him, and to detach ourselves from it insofar as it turns us away from him: (339, 2402; 2415)
+My Lord and my God, take from me everything that distances me from you.
+My Lord and my God, give me everything that brings me closer to you.
+My Lord and my God, detach me from myself to give my all to you.51
+227 It means trusting God in every circumstance, even in adversity. A prayer of St. Teresa of Jesus wonderfully expresses this trust: (313, 2090; 2830; 1723)
+Let nothing trouble you / Let nothing frighten you
+Everything passes / God never changes
+Patience / Obtains all
+Whoever has God / Wants for nothing
+God alone is enough.52
+
+In Brief
+228	“Hear, O Israel, the Lord our God is one Lord …” (Deut 6:4; Mk 12:29). “The supreme being must be unique, without equal.… If God is not one, he is not God” (Tertullian, Adv. Marc., 1, 3, 5: PL 2, 274).
+229	Faith in God leads us to turn to him alone as our first origin and our ultimate goal, and neither to prefer anything to him nor to substitute anything for him.
+230	Even when he reveals himself, God remains a mystery beyond words: “If you understood him, it would not be God” (St. Augustine, Sermo 52, 6, 16: PL 38:360 and Sermo 117, 3, 5: PL 38, 663).
+231	The God of our faith has revealed himself as He who is; and he has made himself known as “abounding in steadfast love and faithfulness” (Ex 34:6). God’s very being is Truth and Love.
+
+Paragraph 2. The Father
+I.	“In the Name of the Father and of the Son and of the Holy Spirit”
+232 Christians are baptized “in the name of the Father and of the Son and of the Holy Spirit.”53 Before receiving the sacrament, they respond to a three-part question when asked to confess the Father, the Son, and the Spirit: “I do.” “The faith of all Christians rests on the Trinity.”54 (189, 1223)
+233 Christians are baptized in the name of the Father and of the Son and of the Holy Spirit: not in their names,55 for there is only one God, the almighty Father, his only Son, and the Holy Spirit: the Most Holy Trinity.
+234 The mystery of the Most Holy Trinity is the central mystery of Christian faith and life. It is the mystery of God in himself. It is therefore the source of all the other mysteries of faith, the light that enlightens them. It is the most fundamental and essential teaching in the “hierarchy of the truths of faith.”56 The whole history of salvation is identical with the history of the way and the means by which the one true God, Father, Son, and Holy Spirit, reveals himself to men “and reconciles and unites with himself those who turn away from sin.”57 (2157; 90; 1449)
+235 This paragraph expounds briefly (I) how the mystery of the Blessed Trinity was revealed, (II) how the Church has articulated the doctrine of the faith regarding this mystery, and (III) how, by the divine missions of the Son and the Holy Spirit, God the Father fulfills the “plan of his loving goodness” of creation, redemption, and sanctification.
+236 The Fathers of the Church distinguish between theology (theologia) and economy (oikonomia). “Theology” refers to the mystery of God’s inmost life within the Blessed Trinity and “economy” to all the works by which God reveals himself and communicates his life. Through the oikonomia the theologia is revealed to us; but conversely, the theologia illuminates the whole oikonomia. God’s works reveal who he is in himself; the mystery of his inmost being enlightens our understanding of all his works. So it is, analogously, among human persons. A person discloses himself in his actions, and the better we know a person, the better we understand his actions. (1066; 259)
+237 The Trinity is a mystery of faith in the strict sense, one of the “mysteries that are hidden in God, which can never be known unless they are revealed by God.”58 To be sure, God has left traces of his Trinitarian being in his work of creation and in his Revelation throughout the Old Testament. But his inmost Being as Holy Trinity is a mystery that is inaccessible to reason alone or even to Israel’s faith before the Incarnation of God’s Son and the sending of the Holy Spirit. (50)
+II.	The Revelation of God as Trinity
+The Father revealed by the Son
+238 Many religions invoke God as “Father.” The deity is often considered the “father of gods and of men.” In Israel, God is called “Father” inasmuch as he is Creator of the world.59 Even more, God is Father because of the covenant and the gift of the law to Israel, “his first-born son.”60 God is also called the Father of the king of Israel. Most especially he is “the Father of the poor,” of the orphaned and the widowed, who are under his loving protection.61 (2443)
+239 By calling God “Father,” the language of faith indicates two main things: that God is the first origin of everything and transcendent authority; and that he is at the same time goodness and loving care for all his children. God’s parental tenderness can also be expressed by the image of motherhood,62 which emphasizes God’s immanence, the intimacy between Creator and creature. The language of faith thus draws on the human experience of parents, who are in a way the first representatives of God for man. But this experience also tells us that human parents are fallible and can disfigure the face of fatherhood and motherhood. We ought therefore to recall that God transcends the human distinction between the sexes. He is neither man nor woman: he is God. He also transcends human fatherhood and motherhood, although he is their origin and standard:63 no one is father as God is Father. (370, 2779)
+240 Jesus revealed that God is Father in an unheard-of sense: he is Father not only in being Creator; he is eternally Father in relation to his only Son, who is eternally Son only in relation to his Father: “No one knows the Son except the Father, and no one knows the Father except the Son and any one to whom the Son chooses to reveal him.”64 (2780; 441–445)
+241 For this reason the apostles confess Jesus to be the Word: “In the beginning was the Word, and the Word was with God, and the Word was God”; as “the image of the invisible God”; as the “radiance of the glory of God and the very stamp of his nature.”65
+242 Following this apostolic tradition, the Church confessed at the first ecumenical council at Nicaea (325) that the Son is “consubstantial” with the Father, that is, one only God with him.66 The second ecumenical council, held at Constantinople in 381, kept this expression in its formulation of the Nicene Creed and confessed “the only-begotten Son of God, eternally begotten of the Father, light from light, true God from true God, begotten not made, consubstantial with the Father.”67 (465)
+The Father and the Son revealed by the Spirit
+243 Before his Passover, Jesus announced the sending of “another Paraclete” (Advocate), the Holy Spirit. At work since creation, having previously “spoken through the prophets,” the Spirit will now be with and in the disciples, to teach them and guide them “into all the truth.”68 The Holy Spirit is thus revealed as another divine person with Jesus and the Father. (683; 2780; 687)
+244 The eternal origin of the Holy Spirit is revealed in his mission in time. The Spirit is sent to the apostles and to the Church both by the Father in the name of the Son, and by the Son in person, once he had returned to the Father.69 The sending of the person of the Spirit after Jesus’ glorification70 reveals in its fullness the mystery of the Holy Trinity. (732)
+245 The apostolic faith concerning the Spirit was confessed by the second ecumenical council at Constantinople (381): “We believe in the Holy Spirit, the Lord and giver of life, who proceeds from the Father.”71 By this confession, the Church recognizes the Father as “the source and origin of the whole divinity.”72 But the eternal origin of the Spirit is not unconnected with the Son’s origin: “The Holy Spirit, the third person of the Trinity, is God, one and equal with the Father and the Son, of the same substance and also of the same nature.… Yet he is not called the Spirit of the Father alone, … but the Spirit of both the Father and the Son.”73 The Creed of the Church from the Council of Constantinople confesses: “With the Father and the Son, he is worshipped and glorified.”74 (152; 685)
+246 The Latin tradition of the Creed confesses that the Spirit “proceeds from the Father and the Son (filioque).” The Council of Florence in 1438 explains: “The Holy Spirit is eternally from Father and Son; He has his nature and subsistence at once (simul) from the Father and the Son. He proceeds eternally from both as from one principle and through one spiration.… And, since the Father has through generation given to the only-begotten Son everything that belongs to the Father, except being Father, the Son has also eternally from the Father, from whom he is eternally born, that the Holy Spirit proceeds from the Son.”75
+247 The affirmation of the filioque does not appear in the Creed confessed in 381 at Constantinople. But Pope St. Leo I, following an ancient Latin and Alexandrian tradition, had already confessed it dogmatically in 447,76 even before Rome, in 451 at the Council of Chalcedon, came to recognize and receive the Symbol of 381. The use of this formula in the Creed was gradually admitted into the Latin liturgy (between the eighth and eleventh centuries). The introduction of the filioque into the Niceno-Constantinopolitan Creed by the Latin liturgy constitutes moreover, even today, a point of disagreement with the Orthodox Churches.
+248 At the outset the Eastern tradition expresses the Father’s character as first origin of the Spirit. By confessing the Spirit as he “who proceeds from the Father,” it affirms that he comes from the Father through the Son.77 The Western tradition expresses first the consubstantial communion between Father and Son, by saying that the Spirit proceeds from the Father and the Son (filioque). It says this, “legitimately and with good reason,”78 for the eternal order of the divine persons in their consubstantial communion implies that the Father, as “the principle without principle,”79 is the first origin of the Spirit, but also that as Father of the only Son, he is, with the Son, the single principle from which the Holy Spirit proceeds.80 This legitimate complementarity, provided it does not become rigid, does not affect the identity of faith in the reality of the same mystery confessed.
+III.	The Holy Trinity in the Teaching of the Faith
+The formation of the Trinitarian dogma
+249 From the beginning, the revealed truth of the Holy Trinity has been at the very root of the Church’s living faith, principally by means of Baptism. It finds its expression in the rule of baptismal faith, formulated in the preaching, catechesis, and prayer of the Church. Such formulations are already found in the apostolic writings, such as this salutation taken up in the Eucharistic liturgy: “The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.”81 (683; 189)
+250 During the first centuries the Church sought to clarify its Trinitarian faith, both to deepen its own understanding of the faith and to defend it against the errors that were deforming it. This clarification was the work of the early councils, aided by the theological work of the Church Fathers and sustained by the Christian people’s sense of the faith. (94)
+251 In order to articulate the dogma of the Trinity, the Church had to develop its own terminology with the help of certain notions of philosophical origin: “substance,” “person” or “hypostasis,” “relation,” and so on. In doing this, she did not submit the faith to human wisdom, but gave a new and unprecedented meaning to these terms, which from then on would be used to signify an ineffable mystery, “infinitely beyond all that we can humanly understand.”82 (170)
+252 The Church uses (I) the term “substance” (rendered also at times by “essence” or “nature”) to designate the divine being in its unity, (II) the term “person” or “hypostasis” to designate the Father, Son, and Holy Spirit in the real distinction among them, and (III) the term “relation” to designate the fact that their distinction lies in the relationship of each to the others.
+The dogma of the Holy Trinity
+253 The Trinity is One. We do not confess three Gods, but one God in three persons, the “consubstantial Trinity.”83 The divine persons do not share the one divinity among themselves but each of them is God whole and entire: “The Father is that which the Son is, the Son that which the Father is, the Father and the Son that which the Holy Spirit is, i.e., by nature one God.”84 In the words of the Fourth Lateran Council (1215): “Each of the persons is that supreme reality, viz., the divine substance, essence or nature.”85 (2789; 590)
+254 The divine persons are really distinct from one another. “God is one but not solitary.”86 “Father,” “Son,” “Holy Spirit” are not simply names designating modalities of the divine being, for they are really distinct from one another: “He is not the Father who is the Son, nor is the Son he who is the Father, nor is the Holy Spirit he who is the Father or the Son.”87 They are distinct from one another in their relations of origin: “It is the Father who generates, the Son who is begotten, and the Holy Spirit who proceeds.”88 The divine Unity is Triune. (468, 689)
+255 The divine persons are relative to one another. Because it does not divide the divine unity, the real distinction of the persons from one another resides solely in the relationships which relate them to one another: “In the relational names of the persons the Father is related to the Son, the Son to the Father, and the Holy Spirit to both. While they are called three persons in view of their relations, we believe in one nature or substance.”89 Indeed “everything (in them) is one where there is no opposition of relationship.”90 “Because of that unity the Father is wholly in the Son and wholly in the Holy Spirit; the Son is wholly in the Father and wholly in the Holy Spirit; the Holy Spirit is wholly in the Father and wholly in the Son.”91 (240)
+256 St. Gregory of Nazianzus, also called “the Theologian,” entrusts this summary of Trinitarian faith to the catechumens of Constantinople: (236, 684; 84)
+Above all guard for me this great deposit of faith for which I live and fight, which I want to take with me as a companion, and which makes me bear all evils and despise all pleasures: I mean the profession of faith in the Father and the Son and the Holy Spirit. I entrust it to you today. By it I am soon going to plunge you into water and raise you up from it. I give it to you as the companion and patron of your whole life. I give you but one divinity and power, existing one in three, and containing the three in a distinct way. Divinity without disparity of substance or nature, without superior degree that raises up or inferior degree that casts down … the infinite co-naturality of three infinites. Each person considered in himself is entirely God … the three considered together.… I have not even begun to think of unity when the Trinity bathes me in its splendor. I have not even begun to think of the Trinity when unity grasps me.…92
+IV.	The Divine Works and the Trinitarian Missions
+257 “O blessed light, O Trinity and first Unity!”93 God is eternal blessedness, undying life, unfading light. God is love: Father, Son, and Holy Spirit. God freely wills to communicate the glory of his blessed life. Such is the “plan of his loving kindness,” conceived by the Father before the foundation of the world, in his beloved Son: “He destined us in love to be his sons” and “to be conformed to the image of his Son,” through “the spirit of sonship.”94 This plan is a “grace [which] was given to us in Christ Jesus before the ages began,” stemming immediately from Trinitarian love.95 It unfolds in the work of creation, the whole history of salvation after the fall, and the missions of the Son and the Spirit, which are continued in the mission of the Church.96 (221; 758; 292; 850)
+258 The whole divine economy is the common work of the three divine persons. For as the Trinity has only one and the same nature, so too does it have only one and the same operation: “The Father, the Son, and the Holy Spirit are not three principles of creation but one principle.”97 However each divine person performs the common work according to his unique personal property. Thus the Church confesses, following the New Testament, “one God and Father from whom all things are, and one Lord Jesus Christ, through whom all things are, and one Holy Spirit in whom all things are.”98 It is above all the divine missions of the Son’s Incarnation and the gift of the Holy Spirit that show forth the properties of the divine persons. (686)
+259 Being a work at once common and personal, the whole divine economy makes known both what is proper to the divine persons and their one divine nature. Hence the whole Christian life is a communion with each of the divine persons, without in any way separating them. Everyone who glorifies the Father does so through the Son in the Holy Spirit; everyone who follows Christ does so because the Father draws him and the Spirit moves him.99 (236)
+260 The ultimate end of the whole divine economy is the entry of God’s creatures into the perfect unity of the Blessed Trinity.100 But even now we are called to be a dwelling for the Most Holy Trinity: “If a man loves me,” says the Lord, “he will keep my word, and my Father will love him, and we will come to him, and make our home with him”:101 (1050, 1721; 1997)
+O my God, Trinity whom I adore, help me forget myself entirely so to establish myself in you, unmovable and peaceful as if my soul were already in eternity. May nothing be able to trouble my peace or make me leave you, O my unchanging God, but may each minute bring me more deeply into your mystery! Grant my soul peace. Make it your heaven, your beloved dwelling and the place of your rest. May I never abandon you there, but may I be there, whole and entire, completely vigilant in my faith, entirely adoring, and wholly given over to your creative action.102 (2565)
+
+In Brief
+261	The mystery of the Most Holy Trinity is the central mystery of the Christian faith and of Christian life. God alone can make it known to us by revealing himself as Father, Son, and Holy Spirit.
+262	The Incarnation of God’s Son reveals that God is the eternal Father and that the Son is consubstantial with the Father, which means that, in the Father and with the Father, the Son is one and the same God.
+263	The mission of the Holy Spirit, sent by the Father in the name of the Son (Jn 14:26) and by the Son “from the Father” (Jn 15:26), reveals that, with them, the Spirit is one and the same God. “With the Father and the Son he is worshipped and glorified” (Nicene Creed).
+264	“The Holy Spirit proceeds from the Father as the first principle and, by the eternal gift of this to the Son, from the communion of both the Father and the Son” (St. Augustine, De Trin. 15, 26, 47: PL 42:1095).
+265	By the grace of Baptism “in the name of the Father and of the Son and of the Holy Spirit,” we are called to share in the life of the Blessed Trinity, here on earth in the obscurity of faith, and after death in eternal light (Cf. Paul VI, CPG § 9).
+266	“Now this is the Catholic faith: We worship one God in the Trinity and the Trinity in unity, without either confusing the persons or dividing the substance; for the person of the Father is one, the Son’s is another, the Holy Spirit’s another; but the Godhead of the Father, Son, and Holy Spirit is one, their glory equal, their majesty coeternal” (Athanasian Creed; DS 75; ND 16).
+267	Inseparable in what they are, the divine persons are also inseparable in what they do. But within the single divine operation each shows forth what is proper to him in the Trinity, especially in the divine missions of the Son’s Incarnation and the gift of the Holy Spirit.
