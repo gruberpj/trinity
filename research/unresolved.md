@@ -113,3 +113,39 @@ Appended 2026-09-16 by `pipeline-researcher`. Each entry: what is missing / unce
 ## 17. ICEL permission note (SRC-025, SRC-026)
 - The heard Confessions quotations match the ICEL Liturgy of the Hours renderings ("O Beauty ever ancient, ever new…"; "you have made us for yourself…"). If printed as quotations, ICEL (©) permission applies; alternatively cite the public-domain Pusey translation. Owner: rights reviewer.
 
+---
+
+# C04 additions (Prompt G — chapter drafting, 2026-09-16)
+
+## C04-1. Benedict XVI homily audio gap — BLOCKER for that section only (00:10:04–00:10:35)
+- The speaker announces, "I recall Pope Benedict's inaugural homily when he was made Pope in 2005," and the audio then drops for a 31.4 s VAD gap (C04 review log §2.2, §5.1). Only the verified tail survives: "…of our friendship with him" (SRC-004, VERIFIED_EXACT — the tail of "to know Him and to speak to others of our friendship with Him").
+- **Chapter 4 handling (`chapters/drafts/04_relationship.md`):** the tail is rendered preceded by an ellipsis — `He said, "…of our friendship with him."` — and nothing else from the homily is quoted. Nothing was reconstructed or inferred; no other SRC-004 wording was placed in the chapter. The gap is recorded in the chapter provenance sidecar and in `chapters/outlines/parking_lot.md` C04 item 5.
+- **Human decision required:** a human listener recovers the missing 31.4 s from `audio_original/` (C04) before any fuller quotation of the homily. Owner: author / human listener. Until then the ellipsis rendering stands. (Also queued: chapter_briefs.md "Author decisions" item 4.)
+
+## C04-2. Mt 18:20 has no ledger row
+- Heard (00:07:36): "Where two or three are gathered in my name, there I am in the midst of them." Review log §3.6 records the RSV comparison ("For where two or three are gathered in my name, there am I in the midst of them") — minor spoken variant, quoted in ch. 4 as heard. Recommend adding an SRC row (RSV-family, VERIFIED_MINOR_VARIANT) rather than relying on the review log only. Owner: pipeline-researcher.
+
+## C04-3. Rom 12:2 C04 anchor
+- SRC-046 is anchored to E01 only; C04 00:07:09 hears the same verse ("this age" — RSV "this world"; see item F/§9). Add the C04 anchor to the row. Owner: pipeline-researcher.
+
+
+---
+
+# Stage 3 additions (Prompt G — epilogue draft, 2026-09-16)
+
+Appended by `pipeline-drafter` after drafting `chapters/drafts/epilogue_engineering_mystery.md`. No new blocking items beyond what Stage 2 already queued; these entries record how the draft carried the open items.
+
+## 18. SRC-024 carried with inline label (no change to Stage 2 item 1)
+- The epilogue renders the heard wording as "As Pope Benedict says, 'You are not made for comfort. You are made for greatness' [quotation wording unverified]." Item 1 above remains the single authoritative entry; the author must supply the source or the line is recast. No resolution attempted in the draft.
+
+## 19. Weber name reconstruction carried (extends Stage 2 item 7; review Q1)
+- Draft prints "Max Weber, a nineteenth-century German philosopher" (E01 00:31:57), reconstructed from ASR "what may be." HIGHEST-PRIORITY human listen (review §6 Q1) before the name is finalized; the speaker's inversion of "disenchantment of the world" (SRC-030) is noted in the provenance sidecar and is not presented as Weber's wording.
+
+## 20. Eclipse dating flag carried (review Q29)
+- Draft keeps the heard "the eclipse we had a year and a half ago." Recording is dated Sept 2026; the total solar eclipse was 8 Apr 2024 (≈2.4 years). Not silently corrected — author decides (fix to ~"two and a half years" or keep as heard).
+
+## 21. Register gate carried (briefs author-decision 7)
+- Draft retains the engineering-vocation register (physics/optimization/spiritual-life-hack) but repairs pure event deixis: "here at Franciscan"→"at Franciscan" (×4), "you guys"→"you" (×3), "So my talk today…"→"What follows is…", "You heard from Dr. Sanchez earlier—" dropped (Dr. Sanchez frame retained). Each repair is a disclosed bridge in the provenance sidecar. Author confirms the final register.
+
+## 22. Review-log human-listen queue referenced (E01 review §6 Q1–Q29)
+- The draft carries inline [possibly] flags for: "the regressing [possibly: the resting]" (Q22), "as everyone [possibly: at last]" (Q21), "near [possibly: mere] magic" (Q12), "an egon [possibly: icon]" (Q10), "to [possibly: of]" (Q6-flags list). Reconstructions adopted in prose but still pending human listen: "campus ministry" (Q2), "going to Mass" (Q6), "Karol Wojtyła" (Q8), "Offertory" (Q9), "Franciscan youth conference" (Q11), "saw you out" (Q13, kept as heard), "Not this summer…" (Q7).

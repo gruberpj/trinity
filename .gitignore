@@ -1,5 +1,5 @@
 audio_original/
-work/
+work/*
 archive/
 logs/
 *.m4a
@@ -7,3 +7,6 @@ logs/
 *.partial
 __pycache__/
 .DS_Store
+
+# review records ARE audit artifacts that must be versioned
+!work/review/
