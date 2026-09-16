@@ -82,6 +82,7 @@ Appended 2026-09-16 by `pipeline-researcher`. Each entry: what is missing / unce
 ## 10. "Bill Daniels" (SRC-034, C03 00:01:47)
 - **What's found:** No Catholic author named Bill/William Daniels could be identified anywhere fetchable. ASR probability 1.0/1.0 — the audio clearly says a name like it.
 - **Human decision required:** Re-listen to C03 00:01:47 and name the correct person. (Pipeline speculation for the human check ONLY — not a finding: the name may be garbled; do not assert any candidate without audio confirmation.) Owner: author/human listener.
+- **RESOLVED (owner, 2026-09-16):** Bill Daniels is a retreatant on the retreat, not a published author. Attribution removed from the chapter prose (provenance bridge B17; ledger SRC-034 reviewer: owner-note). Closed — no further action.
 
 ## 11. Giussani "Everything is positive" (SRC-036, C03 00:13:47)
 - **What's missing:** Exact sentence unverifiable (The Religious Sense, McGill-Queen's 1997, lending-restricted; all text-search routes blocked).

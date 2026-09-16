@@ -4,7 +4,7 @@
 
 | Aspect | State |
 |---|---|
-| Project | Audio-to-book pipeline for "The Mystery of the Trinity", Fr. Peter Gruber, C.O. |
+| Project | Audio-to-book pipeline for "The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O." by Fr. Peter Gruber, C.O. |
 | Repository | `github.com/gruberpj/trinity` (public), branch `main`, SSH remote |
 | Source audio | 7 M4A recordings (C01–C06 conferences, E01 engineering talk), originals read-only at project root, copies in `audio_original/` (untracked) |
 | Transcription | COMPLETE — all 7 recorded, validated (coverage ≥99.6%), run `20260916_fasterwhisper_largev3_nocond` |

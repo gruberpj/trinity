@@ -19,8 +19,8 @@ Chapter selection and order
     files without it are excluded with a warning.
 
 Manuscript structure (generated deterministically; no content invented)
-  * Title page ("The Mystery of the Trinity" by Fr. Peter Gruber, C.O.).
-  * "Note on the Text": HTML comment placeholder only, no generated content.
+  * Title page ("The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O." by Fr. Peter Gruber, C.O.).
+  * "Note on the Text": provisional note text (owner-confirmable) emitted verbatim.
   * Table of contents built from each chapter's first #/## heading.
   * The chapter files concatenated verbatim, in order.
   * "Notes and Sources" from research/source_ledger.csv rows whose
@@ -41,8 +41,13 @@ ORDER_FILE = os.path.join(CHAPTERS_DIR, "ORDER.txt")
 LEDGER = os.path.join(PROJECT, "research", "source_ledger.csv")
 OUT_PATH = os.path.join(PROJECT, "manuscript", "Mystery_of_the_Trinity.md")
 
-BOOK_TITLE = "The Mystery of the Trinity"
+BOOK_TITLE = "The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O."
 AUTHOR = "Fr. Peter Gruber, C.O."
+
+NOTE_ON_THE_TEXT = (
+    "This book was prepared from seven audio recordings of a retreat and a talk given by Fr. Peter Gruber, C.O., in 2025 and 2026. The text was produced by an auditable audio-to-book pipeline: each recording was machine-transcribed (faster-whisper, large-v3 model), reviewed against word-level confidence data, lightly corrected for grammar while preserving the author's spoken wording, and assembled into chapters, with a provenance record kept for every section of every chapter. Quotations were checked against published editions where possible; any wording or attribution that could not be verified is flagged in the project records and consolidated in the accompanying notes file. Scripture is cited as heard, with translation questions noted for the author. This is a working manuscript draft: final doctrinal review, quotation-permission review, and editorial approval remain with the author and his reviewers."
+    "\n\n*Provisional note — the author may confirm, correct, or replace it.*"
+)
 
 VERIFIED_STATUSES = {
     "VERIFIED_EXACT",
@@ -258,11 +263,7 @@ def assemble(chapters):
     out.append("")
     out.append("# Note on the Text")
     out.append("")
-    out.append("<!-- NOTE_ON_THE_TEXT_PLACEHOLDER")
-    out.append("     Intentionally blank: the note on the text must be written by")
-    out.append("     the author or editor from the review records (transcript")
-    out.append("     layering, review gates, editorial conventions, translation")
-    out.append("     choice). No content may be generated for this section. -->")
+    out.append(NOTE_ON_THE_TEXT)
     out.append("")
     out.append("---")
     out.append("")

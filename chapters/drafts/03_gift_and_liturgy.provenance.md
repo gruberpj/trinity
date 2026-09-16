@@ -14,7 +14,7 @@
 Section skeleton, following the C03 brief's mandated pattern (Psalm 42 thirst opening → gift/response claim → liturgy as response → baptismal feedback loop → return + invitation), over the talk map's ten segments:
 
 1. **Opening prayer — Psalm 42:1–7** (00:00:04–00:01:02) — the deer's thirst; recitation printed from the DOCX-handout wording recorded in SRC-014 (VERIFIED_MINOR_VARIANT).
-2. **The Trinity of love that overflows** (00:01:11–00:03:27) — creation as overflow of Trinitarian love; the "Bill Daniels"/Ratzinger attribution kept as heard with the speaker's own hedge; *exitus–reditus*.
+2. **The Trinity of love that overflows** (00:01:11–00:03:27) — creation as overflow of Trinitarian love; the "Bill Daniels"/Ratzinger attribution kept as heard with the speaker's own hedge (owner override 2026-09-16: attribution removed — B17); *exitus–reditus*.
 3. **Made to respond** (00:03:27–00:05:01) — relational creation, subsistent-relations gloss, liturgy defined broadly as "our response to God."
 4. **"Mine"** (00:05:39–00:06:46) — Eve's rupture and the long wait; Old Testament liturgies pointing forward; Immaculate Conception framing kept as heard (doctrinal flag).
 5. **Mary's yes** (00:06:46–00:07:37) — the fiat; "the Word became flesh"; the "passive tense" as heard (flag).
@@ -28,7 +28,7 @@ Section skeleton, following the C03 brief's mandated pattern (Psalm 42 thirst op
 13. **Give thanks** (00:22:56–00:23:32) — the single recommendation; "Saint Paul says, 'Give thanks.'"
 
 Planned handling of the hard gates (stated before drafting):
-- **Bill Daniels (SRC-034):** the heard sentence is kept with the speaker's own hedge ("according to Bill Daniels, I think"); no candidate name asserted; flagged in provenance and the review queue. Not silently resolved.
+- **Bill Daniels (SRC-034):** the heard sentence is kept with the speaker's own hedge ("according to Bill Daniels, I think"); no candidate name asserted; flagged in provenance and the review queue. Not silently resolved. **Owner override 2026-09-16:** Bill Daniels is a retreatant on the retreat, not a published author; the attribution was removed from the chapter prose (bridge B17).
 - **Giussani (SRC-036), Thérèse SRC-029 and SRC-028:** no quotation marks; SRC-028 keeps the heard-word flag `[possibly: love]`; all flagged.
 - **Fagerberg (SRC-022):** maxim quoted (wording verified verbatim in 2nd-ed. OCR); page unpinned; Kavanagh credit chain disclosed.
 - No timestamps in prose; no epigraph (not authorized by the brief); no Glory Be close in the chapter (flagged for author per global note, not silently deleted).
@@ -40,7 +40,7 @@ Planned handling of the hard gates (stated before drafting):
 Each section: clean-transcript anchors → ledger rows → rendering notes.
 
 1. **Opening prayer — Psalm 42:1–7** · anchors 00:00:04–00:01:02 · SRC-014 (VERIFIED_MINOR_VARIANT), SRC-019 (sign-of-cross frame not printed). Printed from the DOCX-handout wording recorded in the ledger row ("so longs my soul", "my Savior and my God", stop at v. 7). Variants vs RSV and vs heard audio: review Q1 ("to my soul" heard, p=0.952 — kept as handout wording, flag kept open); Q2/Q3 corrections already applied in clean. Sign-of-cross frames around the recitation omitted (book convention; disclosed bridge B2).
-2. **The Trinity of love that overflows** · 00:01:11–00:03:27 · SRC-034 (Bill Daniels — ATTRIBUTION_UNCONFIRMED), SRC-035 (Ratzinger wording — LOCATOR_MISSING). Heard wording kept with speaker's hedge ("according to Bill Daniels, I think"). P1 `[possibly: uncreated]` flag carried in prose. *exitus–reditus* = speaker's own terminology gloss (no ledger row); spelling asides and tail syntax repaired — B12; opening em-dash repair — B15.
+2. **The Trinity of love that overflows** · 00:01:11–00:03:27 · SRC-034 (Bill Daniels — ATTRIBUTION_UNCONFIRMED; owner note 2026-09-16 — attribution removed, B17), SRC-035 (Ratzinger wording — LOCATOR_MISSING). Attribution rendered "as one of the retreatants put it, and according to Joseph Ratzinger" per owner direction (B17). P1 `[possibly: uncreated]` flag carried in prose. *exitus–reditus* = speaker's own terminology gloss (no ledger row); spelling asides and tail syntax repaired — B12; opening em-dash repair — B15.
 3. **Made to respond** · 00:03:27–00:05:01 · no ledger rows (Gen 1:26–27 allusion, review §3.5; subsistent-relations terminology allusion, cf. CCC 252 — doctrinal-review territory, unresolved.md item 15 covers C02's parallel usage). P2 `[possibly: rules]` carried. U1 `[unclear 00:03:41]` word omitted (disclosed B9).
 4. **"Mine"** · 00:05:39–00:06:46 · no ledger rows. Eve/"Mine" kept verbatim (voice exemplar C03 00:05:39). Immaculate Conception framing kept as heard — **DOCTRINAL_REVIEW** (review §3 note; unresolved.md item 15).
 5. **Mary's yes** · 00:06:46–00:07:37 · SRC-057 (Gen 1:3/1:9 — PARAPHRASE_CONFIRMED; *Fiat lux* verified in Nova Vulgata), SRC-056 (Lk 1:38 — VERIFIED_MINOR_VARIANT; archaic variant kept as heard), SRC-050 (Jn 1:14 — VERIFIED_EXACT). "He used the passive tense" kept as heard — **grammar/doctrinal flag** (review Q9; unresolved.md item 15). P3 `[possibly: no one]` carried.
@@ -73,8 +73,9 @@ Each section: clean-transcript anchors → ledger rows → rendering notes.
 14. **B14** — Sentence relocation: "In engineering, a positive feedback loop is destructive. But the opposite is true in our relationship with God." sits inside the 00:19:42 block in the clean transcript (after the Tacoma Narrows sentence). Because that block's other sentences were parked (biology transition + Tacoma Narrows — see parking lot), the pivot was relocated to close the microphone-screech paragraph, where it now follows "That's a positive feedback loop. It's totally undesirable in so many different contexts." No wording changed beyond B8's rendering of P8.
 15. **B15** — Opening sentence repair, section "The Trinity of love that overflows": "Understanding God as mystery, and that he is one God, one divine nature, and three divine persons, and we see that everything that God does is mysterious." → "Understanding God as mystery — that he is one God, one divine nature, and three divine persons — we see that everything that God does is mysterious." (repeated "and" dropped; commas converted to em-dashes). Oral-syntax repair only.
 16. **B16** — Print punctuation convention (applies globally, no wording changed): spoken quotation marks normalized single → double (clean layer uses single quotes throughout); Latin terms set in italics (*exitus/reditus*, *Fiat lux*, *fiat voluntas tua*); the comma in "a communion of love, not some lonely figure…" converted to an em-dash for the parenthetical.
+17. **B17** — Owner-directed attribution smoothing (2026-09-16): "according to Bill Daniels, I think, and according to Joseph Ratzinger" → "as one of the retreatants put it, and according to Joseph Ratzinger" (owner instruction: Bill Daniels is a retreatant on the retreat, not a published author). Substance otherwise unchanged; the Ratzinger attribution and the P1 flag kept. Recorded in ledger SRC-034 (discrepancy + reviewer: owner-note) and unresolved.md item 10 (closed).
 
-Bridge count: **16** (B1–B16). All are connective/rendering only; none adds theology, examples, citations, or certainty.
+Bridge count: **17** (B1–B17). All are connective/rendering only; none adds theology, examples, citations, or certainty.
 
 ---
 
@@ -87,7 +88,7 @@ Bridge count: **16** (B1–B16). All are connective/rendering only; none adds th
 - **Lk 1:38 (SRC-056, VERIFIED_MINOR_VARIANT):** quoted as heard: "Let it be done to me according to thy word." (RSV: "let it be to me according to your word"). Archaic variant kept.
 - **Jn 1:14 (SRC-050, VERIFIED_EXACT):** "the Word became flesh and dwelt among us" — quoted.
 - **Newman (SRC-010, VERIFIED_EXACT):** source reads "an infinite abyss of existence"; the speaker's pluralized echo "We who are infinite abysses of existence" is kept as heard **without quotation marks** (echo, not quotation).
-- **Bill Daniels (SRC-034, ATTRIBUTION_UNCONFIRMED):** heard sentence kept with the speaker's own hedge — "according to Bill Daniels, I think, and according to Joseph Ratzinger" — with P1 `[possibly: uncreated]` carried. No candidate name asserted. Review queue item 1. The brief's hard gate ("draft only with the author's resolution") is honored by: no resolution attempted, attribution voiced as heard uncertainty, flagged for the author.
+- **Bill Daniels (SRC-034, ATTRIBUTION_UNCONFIRMED):** RESOLVED by the owner (2026-09-16): Bill Daniels is a retreatant on the retreat, not a published author. The prose attribution is smoothed to "as one of the retreatants put it, and according to Joseph Ratzinger" (bridge B17); P1 `[possibly: uncreated]` carried; the Ratzinger attribution kept. Owner's note recorded in the ledger (reviewer: owner-note) and unresolved.md item 10.
 - **Giussani (SRC-036, ATTRIBUTION_UNCONFIRMED):** no quotation marks; rendered as reported speech.
 - **Thérèse "Everything is grace" (SRC-029, VERIFIED_MINOR_VARIANT):** no quotation marks per the brief's hard gate (date discrepancy 5 vs 11 June 1897 open). Wording as heard (article dropped vs "Everything is a grace").
 - **Thérèse "poured out" (SRC-028, ATTRIBUTION_UNCONFIRMED):** rendered without quotation marks, heard-word flag carried: "prayer [possibly: love] is to be poured out into another." Review queue item 3.
@@ -103,13 +104,13 @@ Bridge count: **16** (B1–B16). All are connective/rendering only; none adds th
 ## Chapter reviewer checklist (handoff Appendix B) — results
 
 1. **Clear promise and progression, not a transcript summary** — PASS. Thirst (Ps 42) → gift/response claim → liturgy as response → baptismal feedback loop → return (deep calls to deep) + invitation (give thanks). Matches the brief's mandated pattern and the book's ch. 3 role ("respond").
-2. **Every substantive theological/factual claim traces to audio or verified source** — PASS with disclosed exceptions. All 13 sections carry transcript anchors; uncertain attributions (Bill Daniels, Giussani, Thérèse, Weber classification) are kept-as-heard and flagged, not presented as established fact.
+2. **Every substantive theological/factual claim traces to audio or verified source** — PASS with disclosed exceptions. All 13 sections carry transcript anchors; uncertain attributions (Giussani, Thérèse, Weber classification) are kept-as-heard and flagged, not presented as established fact; the Bill Daniels attribution was removed by owner direction (B17).
 3. **Direct quotations match the selected edition; paraphrases are not quoted** — PASS with open gates. Quoted items: SRC-014 (handout wording), SRC-022 (wording verbatim, page open), SRC-018 (variant disclosed), SRC-019, SRC-056, SRC-050, SRC-058. All paraphrases/unverified attributions rendered without quotation marks (SRC-028/029/034/036/037/038/030). Bible-edition choice (RSV/RSV-CE/RSV-2CE) remains open (unresolved.md F/§9) — affects Ps 42/Jn 15:5 final wording.
 4. **Author's vocabulary, examples, humility, pastoral cadence recognizable** — PASS (see voice delta below).
 5. **Generated bridges accurate, minimal, disclosed** — PASS. 16 bridges (B1–B16), all rendering/connective only; none adds theology or citations.
 6. **Repetition purposeful; no contradictions/terminology drift** — PASS. Feedback-loop full explanation kept in ch. 3 only (theme matrix §A); Tacoma Narrows parked (E01 also carries it); "the love that made the sun and the stars" kept as the book refrain; Newman echo kept without re-explaining (ch. 2 owns it). No cross-chapter contradictions introduced.
 7. **Opening and conclusion serve the book's arc; surplus parked** — PASS. Opens on the arc's "respond" beat; closes with the brief's own invitation ("to be thankful before God at all times, in all places… 'Give thanks.'"). Parked items listed below.
-8. **Voice and theological reviewers approve the hashed version** — BLOCKED BY DESIGN (human gate). This draft stops here pending: author (Bill Daniels, Thérèse SRC-028, Giussani, Weber descriptor, law-of-gift attribution, Bible edition, Glory Be convention), theological reviewer (Immaculate Conception framing, "passive tense", subsistent-relations gloss), citation reviewer (SRC-022 page/Kavanagh credit, SRC-029 date), and the human audio listener (review log §5 open questions Q1–Q33, esp. Q1, Q5, Q9, Q11, Q12).
+8. **Voice and theological reviewers approve the hashed version** — BLOCKED BY DESIGN (human gate). This draft stops here pending: author (Thérèse SRC-028, Giussani, Weber descriptor, law-of-gift attribution, Bible edition, Glory Be convention), theological reviewer (Immaculate Conception framing, "passive tense", subsistent-relations gloss), citation reviewer (SRC-022 page/Kavanagh credit, SRC-029 date), and the human audio listener (review log §5 open questions Q1–Q33, esp. Q1, Q5, Q9, Q11, Q12).
 
 ---
 
@@ -117,11 +118,11 @@ Bridge count: **16** (B1–B16). All are connective/rendering only; none adds th
 
 - **Vocabulary:** all distinctive phrases trace to C03 anchors — "implicated", "enveloped", "communion of love", "the love that made the sun and the stars", "teeming/brimming", "we are meant to", "the positive feedback loop of grace", "Why something rather than nothing? Liturgy.", "infinite abysses of existence" (echo), "other Christs", "the shape of the cross that is traced over us again and again". No vocabulary absent from the profile was introduced (no *perichoresis*, no *consubstantial*).
 - **Sentence rhythm:** long-run → short-landing preserved ("Everything is positive. Everything is good."; "Liturgy is this response."; "He made us personal."; "That's dangerous."; "But everything is gift."). Sentence-initial And/But/So kept. Em-dash asides and the word-search self-correction ("This is what — what's it called in a car") kept.
-- **Hedges kept:** "according to Bill Daniels, I think", "in one sense", "in a similar way but different", "maybe more broadly", "you think", "I might say", "I've come to think more and more". No invented certainty.
+- **Hedges kept:** "in one sense", "in a similar way but different", "maybe more broadly", "you think", "I might say", "I've come to think more and more". No invented certainty.
 - **Direct address:** rhetorical question + immediate answer ("why this chair? For sitting."); the single imperative landing "Give thanks."; the "we" that includes the audience throughout.
 - **Prayerful register:** opening prayer kept; mid-chapter eruption into prayer kept ("And we say, let this happen. Let deep call out unto deep. Let me make this prayer of hope."). Closing Glory Be not printed — flagged for author (global note; not silently deleted).
 - **Story/litany variants:** no story variants involved (moon story is C02/E01, not C03). Nothing merged.
-- **Attribution preservation:** the speaker's oral attribution forms kept ("as one author said, David Fagerberg — he said…"; "according to Bill Daniels, I think, and according to Joseph Ratzinger"; "St. Thérèse says…").
+- **Attribution preservation:** the speaker's oral attribution forms kept ("as one author said, David Fagerberg — he said…"; "as one of the retreatants put it, and according to Joseph Ratzinger"; "St. Thérèse says…").
 - **Flags preserved in quoted/heard material:** `[possibly: uncreated]`, `[possibly: rules]`, `[possibly: no one]`, `[possibly: love]` carried in prose (voice profile §9.13; handoff "no silent correction").
 - **Verdict:** voice-profile compliant; nothing found that would warrant the handoff's bracketed VERIFY marker — no vocabulary drift detected.
 
@@ -129,7 +130,7 @@ Bridge count: **16** (B1–B16). All are connective/rendering only; none adds th
 
 ## Review queue for human sign-off
 
-1. **"Bill Daniels"** (SRC-034, 00:01:47) — re-listen; name the correct person or drop the attribution (unresolved.md Stage 2 item 10; brief hard gate). **Owner: author/human listener.**
+1. **"Bill Daniels"** (SRC-034, 00:01:47) — RESOLVED by owner 2026-09-16: Bill Daniels is a retreatant on the retreat, not a published author; attribution removed from the chapter prose (bridge B17; ledger SRC-034 reviewer: owner-note; unresolved.md item 10 closed). No further human listen required for this item.
 2. **"uncreating [possibly: uncreated]"** (P1, 00:01:37) — human listen. **Owner: human listener.**
 3. **Thérèse "prayer [possibly: love] is to be poured out into another"** (SRC-028, 00:21:19) — supply source or recast as the speaker's own image; heard word itself uncertain. **Owner: author + theological reviewer** (unresolved.md Stage 2 item 6c).
 4. **Giussani "Everything is positive"** (SRC-036, 00:13:47) — author supplies source/page or the line stays a paraphrase. **Owner: author + citation reviewer** (item 11).

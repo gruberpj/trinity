@@ -1,4 +1,4 @@
-# The Mystery of the Trinity
+# The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O.
 
 by Fr. Peter Gruber, C.O.
 
@@ -268,7 +268,7 @@ Thirst opens this chapter, and thirst will carry it to its end: deep calling to 
 
 ## The Trinity of love that overflows
 
-Understanding God as mystery — that he is one God, one divine nature, and three divine persons — we see that everything that God does is mysterious. There is a way in which we are implicated in it. It is well beyond our ability to understand. It overwhelms us, and we are enveloped in it. We can think of creation itself as mysterious, approaching it as a mystery, for we ourselves are created. The uncreating [possibly: uncreated] love created love out of his creativity, according to Bill Daniels, I think, and according to Joseph Ratzinger. God's love spilled out. He was infinitely perfect within himself. There was no need, in one sense, to create. For God was love within three persons — a communion of love, not some lonely figure off in another world unto himself, but fully loving. God pouring himself out, Father to Son, Son to Father, that love being the Holy Spirit. This Trinity is a Trinity of love. And that love made the sun and the stars. And that love made us.
+Understanding God as mystery — that he is one God, one divine nature, and three divine persons — we see that everything that God does is mysterious. There is a way in which we are implicated in it. It is well beyond our ability to understand. It overwhelms us, and we are enveloped in it. We can think of creation itself as mysterious, approaching it as a mystery, for we ourselves are created. The uncreating [possibly: uncreated] love created love out of his creativity, as one of the retreatants put it, and according to Joseph Ratzinger. God's love spilled out. He was infinitely perfect within himself. There was no need, in one sense, to create. For God was love within three persons — a communion of love, not some lonely figure off in another world unto himself, but fully loving. God pouring himself out, Father to Son, Son to Father, that love being the Holy Spirit. This Trinity is a Trinity of love. And that love made the sun and the stars. And that love made us.
 
 Creation is a going forth of the love of God — a God making something that is not God, not so that we might be separated from God, but that we might return to him. In Latin, there's a phrase — two words: *exitus, reditus*. *Exitus* sounds like exit — for often that is how Latin works — and then *reditus*. There is a going out, an exiting, and a return. God creates that which is not God in order that everything he creates might return to him in the way that is fitting for that creation.
 
