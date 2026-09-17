@@ -33,19 +33,19 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 3. `when he was still just graduate student` → `just a graduate student` (00:00:29, 'a' added)
 4. `I was very much of the engineering worldview. of you. It was a safe way` → `worldview. It was a safe way` (00:02:22, fragment "of you" p=0.215/0.694 removed; see Q27)
 5. `for the most part it / It actually worked.` → `it actually worked.` (00:03:41, boundary dup "It")
-6. `the Fred Sisson Youth Conference` → `the Franciscan youth conference` (00:07:19, Fred p=0.280, Sisson p=0.440; internal consistency with 00:04:12 "Franciscan youth conference", Franciscan p=0.997)
+6. `the Fred Sisson Youth Conference` → `the Franciscan youth conference` (00:07:19, Fred p=0.280, Sisson p=0.440; internal consistency with 00:04:12 "Franciscan youth conference", Franciscan p=0.997) — **Q11 confirmed by owner listening 2026-09-16.**
 7. `read this, imaging classes,` → `read this in between classes,` (00:07:53, imaging p=0.498)
 8. `towards silence, the regressing,` → kept `the regressing` + `[possibly: the resting]` (00:08:17, regressing p=0.743; see flag #1)
 9. `I have an idea for you / you after / not this summer` → `You are to — not this summer` (00:09:26, "after" p=0.974; reconstruction "are to"; see Q7)
 10. `Come a Trinity Sunday` → `Come Trinity Sunday` (00:10:26, "a" p=0.387)
 11. `the same priest that that have influenced` → `the same priest who had influenced` (00:11:28, 2nd "that" p=0.473)
-12. `I work in chemistry` → kept `chemistry` + `[possibly: campus ministry]` (00:11:30, chemistry p=0.284; see flag #2)
+12. `I work in chemistry` → kept `chemistry` + `[possibly: campus ministry]` (00:11:30, chemistry p=0.284; see flag #2) — **flag #2 removed by owner resolution 2026-09-16 (listening): "campus ministry" confirmed.**
 13. `a son or daughter of God's Father` → `of God the Father` (00:12:16, God's p=0.857; grammar; see Q26)
 14. `an incentive not to virtue, virtue, but to a great fear` → dup `virtue,` deleted (00:06:24, 2nd p=0.279)
 15. `Not YouTube then. Then,` — 2nd "Then," p=0.148 but context-required; kept
 16. `how they looked up the stars` → `how they looked up at the stars` (00:17:33, 'at' added)
 17. `the engineering world of you,` → `the engineering worldview,` (00:18:05, "world of you" p=0.730/0.611/0.885 = split of "worldview"; internal consistency — phrase occurs 6× elsewhere at p≥0.9)
-18. `Carol Ortiz. one. Gabriel Marcel` → `Karol Wojtyła. Gabriel Marcel` (00:18:43, Ortiz p=0.449, "one." p=0.054 removed; context: 20th-c. personalism, "a different area of the world" = Poland vs France; see Q8)
+18. `Carol Ortiz. one. Gabriel Marcel` → `Karol Wojtyła. Gabriel Marcel` (00:18:43, Ortiz p=0.449, "one." p=0.054 removed; context: 20th-c. personalism, "a different area of the world" = Poland vs France; see Q8) — **Q8 confirmed by owner listening 2026-09-16.**
 19. `mystery novels, mystery novels are problems` — kept as emphatic repetition (both instances p=1.000)
 20. `any difference and the angle` → `any difference in the angle` (00:15:19, and p=0.893; grammar)
 21. `You'll see that's following both of you` → `that it's following both of you` (00:15:52, 'it' added)
@@ -60,7 +60,7 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 30. `not near magic` → kept `near` + `[possibly: mere]` (00:32:16, near p=0.854; see flag #4)
 31. `an egon yet to be transformed` → kept `egon` + `[possibly: icon]` (00:33:01, egon p=0.311; see flag #5)
 32. `respond him in redeeming us` → `respond to him in redeeming us` (00:34:23, him p=0.232; 'to' added)
-33. `in the offer to our enemy, give ourselves over` → `in the Offertory, we give ourselves over` (00:34:46, "enemy," p=0.172; reconstruction; see Q9)
+33. `in the offer to our enemy, give ourselves over` → `in the Offertory, we give ourselves over` (00:34:46, "enemy," p=0.172; reconstruction; see Q9) — **Q9 confirmed by owner listening 2026-09-16.**
 34. `to to stay out of constant speed` → `to stay at a constant speed` (00:35:16, dup "to" p=0.260; out-of → at-a grammar fix)
 35. `they do not not amid of excess` → `they do not admit of excess` (00:37:16, dup "not"; amid → admit)
 36. `too much courage is full heartedness` → `is foolhardiness` (00:37:20, "full heartedness" p=0.503/0.753 = split word; see Q14)
@@ -97,7 +97,7 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 | # | Timestamp | Raw ASR text | Action | Reason |
 |---|---|---|---|---|
 | 1 | 00:08:17 | "opening up towards silence, the regressing, and the embrace of Christ" | Kept "regressing", flagged `[possibly: the resting]` | "regressing" p=0.743 but contextually odd; candidates: "the resting" (parallel: silence, resting, embrace). Human listen required. |
-| 2 | 00:11:30 | "I work in chemistry to give back to the students at Pitt, CMU, and Chatham" | Kept "chemistry", flagged `[possibly: campus ministry]` | "chemistry" p=0.284 (<0.3, suspect). Opening sentence (00:00:12) says "we serve the campus ministry for the University of Pittsburgh, Carnegie Mellon, and Chatham Universities" — decisive internal context. Human listen required. |
+| 2 | 00:11:30 | "I work in chemistry to give back to the students at Pitt, CMU, and Chatham" | Kept "chemistry", flagged `[possibly: campus ministry]` | "chemistry" p=0.284 (<0.3, suspect). Opening sentence (00:00:12) says "we serve the campus ministry for the University of Pittsburgh, Carnegie Mellon, and Chatham Universities" — decisive internal context. Human listen required. **RESOLVED by owner listening 2026-09-16: "campus ministry" confirmed; flag removed from the clean transcript.** |
 | 3 | 00:29:21 | "But as everyone, he looked into his heart" | Kept "as everyone", flagged `[possibly: at last]` | "as everyone," p=0.744 but ungrammatical; "at last" fits the contrast (looked outside → at last looked within). Human listen required. |
 | 4 | 00:32:16 | "When we live in this way as Christians, not near magic, but the love of God..." | Kept "near", flagged `[possibly: mere]` | "near" p=0.854; "mere magic" parallels the talk's repeated "mere matter"/"mere bread and wine". Human listen required. |
 | 5 | 00:33:01 | "It is an egon yet to be transformed" | Kept "egon", flagged `[possibly: icon]` | "egon" p=0.311 (<0.3). Candidates: "icon" (creation as icon to be transformed — echoes C01's iconography and the following recapitulation theme) or "eon". Human listen required. |
@@ -159,16 +159,16 @@ Note: "Ratzinger", "Rublev", "St. Patrick", "Elizabeth of the Trinity", "Code of
 ## 6. Open questions for the human listener
 
 1. **00:31:57** — "what Max Weber, a 19th-century German philosopher, called": confirm the name. ASR: "what may be" (what p=0.994, may p=0.719, be p=1.000). Grammar demands a name; "enchanted world" = Weber's disenchantment thesis. **Highest-priority listen.**
-2. **00:11:30** — "I work in chemistry [possibly: campus ministry]": confirm. chemistry p=0.284; opening sentence says "we serve the campus ministry."
+2. **00:11:30** — "I work in chemistry [possibly: campus ministry]": confirm. chemistry p=0.284; opening sentence says "we serve the campus ministry." **RESOLVED (owner 2026-09-16, listening): "campus ministry" confirmed; `[possibly: campus ministry]` flag removed from the clean layer.**
 3. **00:28:51-00:28:59** — "Intimacy. In. Interior. Comparative. Superlative: intimus.": confirm the spoken sequence. ASR: "Intimacy. Intimos. In. In. Comparative. Superlative. of intimus." (2nd "In." p=0.005 → rendered "Interior.").
 4. **00:28:44** — "Okay, so I'm going to — I've said anything, so I'm sorry.": confirm wording ("I've said enough"? "I'm going to say something"?).
 5. **00:29:26-00:29:35** — Augustine quotation: confirm exact words spoken. Rendered against Confessions X.27/I.1 ("Late have I loved you, Beauty ever ancient, ever new — late have I loved you!"); confirm whether speaker said "O Beauty", and "for yourself" vs heard "yourselves" (p=0.993).
 6. **00:10:01** — "I've been doing Mass every day": confirm "doing" (p=0.889) vs "going to".
 7. **00:09:26** — "You are to — not this summer, but the summer after": confirm. ASR: "you after" (after p=0.974).
-8. **00:18:43** — "Karol Wojtyła": confirm name. ASR: "Carol Ortiz" (Ortiz p=0.449) + trailing "one." (p=0.054).
-9. **00:34:46** — "in the Offertory, we give ourselves over to him in Holy Communion": confirm. ASR: "in the offer to our enemy," (enemy, p=0.172).
+8. **00:18:43** — "Karol Wojtyła": confirm name. ASR: "Carol Ortiz" (Ortiz p=0.449) + trailing "one." (p=0.054). **RESOLVED (owner 2026-09-16, listening): "Karol Wojtyła" confirmed as printed.**
+9. **00:34:46** — "in the Offertory, we give ourselves over to him in Holy Communion": confirm. ASR: "in the offer to our enemy," (enemy, p=0.172). **RESOLVED (owner 2026-09-16, listening): "Offertory" confirmed; prose already reads "in the Offertory, we give ourselves over…" in all layers.**
 10. **00:33:01** — "an egon [possibly: icon] yet to be transformed": confirm the word (icon? eon? egon p=0.311).
-11. **00:07:19** — "Franciscan youth conference": confirm (ASR "Fred Sisson", Fred p=0.280).
+11. **00:07:19** — "Franciscan youth conference": confirm (ASR "Fred Sisson", Fred p=0.280). **RESOLVED (owner 2026-09-16, listening): "Franciscan youth conference" confirmed as printed; no text change.**
 12. **00:32:16** — "not near [possibly: mere] magic": confirm word.
 13. **00:05:28** — "They saw you out and said": confirm "saw you out" (saw p=0.989) vs "sought you out".
 14. **00:37:20** — "too much courage is foolhardiness — in the midst of excess": confirm the trailing phrase; ASR "full heartedness in the midst of excess" is a split-word mis-hearing of "foolhardiness" but the tail clause is uncertain.
@@ -197,3 +197,14 @@ Note: "Ratzinger", "Rublev", "St. Patrick", "Elizabeth of the Trinity", "Code of
 - No quotation in the clean layer was forced to match a source except the Augustine line (§1/25), which follows the established C01 practice of correcting against source wording where the ASR is clearly garbled; it remains open (Q5) and the ledger entry is a Prompt E task.
 - Status of this file: **pending human transcript sign-off** (handoff G2). Inventory row updated with transcript_path/reviewer/reviewed_at only; status remains INVENTORIED until a named human reviews.
 - Placement evidence for the owner's prologue/epilogue decision is in §5; final disposition (handoff Appendix C) is an ownership decision, not made here.
+
+## 8. Owner resolutions 2026-09-16 (listening)
+
+Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q2 (00:11:30) — "campus ministry" confirmed.** The `[possibly: campus ministry]` flag is removed from the clean transcript ("I work in campus ministry to give back to the students at Pitt, CMU, and Chatham."). The chapter layers already print "campus ministry".
+2. **Q8 (00:18:43) — "Karol Wojtyła" confirmed.** Already printed without a flag in all layers; no `[possibly]` flag existed on it. Confirmation recorded.
+3. **Q9 (00:34:46) — "Offertory" confirmed.** The prose already reads "in the Offertory, we give ourselves over…" in all layers; no change needed. Confirmation recorded.
+4. **Q11 (00:07:19) — "Franciscan youth conference" confirmed as printed.** No text change; confirmation recorded.
+
+**Not in this batch:** Q6 (00:10:01, "doing Mass" vs "going to Mass") remains open.

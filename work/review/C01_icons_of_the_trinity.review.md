@@ -62,7 +62,7 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 | 2 | 00:17:21 | "beginning prayer and ending prayer, bulk ending it with the sign of the cross" | Kept "bulk", flagged `[possibly: both]` | "bulk" p=0.899 but semantically incoherent; likely "both" (both beginning and ending with the sign of the cross). Human listen required. |
 | 3 | 00:18:31 | "Every word matters. even the and of thus." | Kept "thus", flagged `[possibly: these]`; rendered as "even the 'and' of thus [possibly: these]" | "thus" p=0.888 but "the 'and' of thus" is meaningless; context ("every word matters", the words just quoted) suggests "of these [words]". Human listen required. |
 | 4 | 00:19:13 | "that saint teres talks about when she says what is prayer but a simple glance directed towards heaven" | Rendered "St. Teresa", flagged `[possibly: Thérèse]` | "teres" p=0.64; ambiguous between Teresa (of Avila) and Thérèse (of Lisieux). The "simple glance directed towards heaven" is classically St. Thérèse of Lisieux's (Story of a Soul, ch. XI: "a simple look turned toward heaven"). Attribution must be confirmed by the author. |
-| 5 | 00:20:41 | "This scent of the Holy Spirit is now with us." | Kept "scent", flagged `[possibly: descent]` | "scent" p=0.355 and contextually wrong; candidates: "descent" (parallels "the descent of Christ" at 00:19:54), "sending" (parallels "has been sent among us" at 00:20:37), or "same". Human listen required. |
+| 5 | 00:20:41 | "This scent of the Holy Spirit is now with us." | Kept "scent", flagged `[possibly: descent]` | "scent" p=0.355 and contextually wrong; candidates: "descent" (parallels "the descent of Christ" at 00:19:54), "sending" (parallels "has been sent among us" at 00:20:37), or "same". Human listen required. **RESOLVED by owner listening 2026-09-16: the word is "descent"; flag removed from the clean transcript and chapter layers.** |
 | 6 | 00:23:47 | "he said, it is good. We looked upon us created in his image and likeness" | Kept "We", flagged `[possibly: He]` | "We" p=0.77 but "We looked upon us" is ungrammatical; the subject is God (parallel with "when God looked… he said" and "He looked at us and said"). Almost certainly "He". Human listen required. |
 
 ## 3. Quotations and citations detected
@@ -107,7 +107,7 @@ Note: "Ratzinger", "Newman", "Elizabeth of the Trinity", CCC, and canon-law cita
 9. **00:18:31** — "even the 'and' of thus [possibly: these]": confirm the phrase.
 10. **00:19:13** — St. Teresa vs St. Thérèse of Lisieux: confirm whom the speaker named; the "simple glance" quote is Thérèse's.
 11. **00:20:39** — "Pour it out for the forgiveness of sins.": confirm "Pour it out" vs "Poured out" (Pour p=0.938).
-12. **00:20:41** — "This scent [possibly: descent] of the Holy Spirit is now with us.": confirm the word (scent p=0.355). Candidates: descent / sending / same.
+12. **00:20:41** — "This scent [possibly: descent] of the Holy Spirit is now with us.": confirm the word (scent p=0.355). Candidates: descent / sending / same. **RESOLVED (owner 2026-09-16, listening): "descent" confirmed; flag removed in clean + drafts/reviewed.**
 13. **00:22:33** — "those nails that went through our Lord's hands, for them, for our salvation": confirm "for them" ("them" p=0.997) — possibly "for men" or "for us".
 14. **00:23:10** — "We are made in his image and likeness": first word "We" p=0.039 (very low); context confirms, but listen.
 15. **00:23:39** — "We are inscribed in our very natures" (repeats 00:23:10): confirm intentional emphatic repetition vs ASR echo.
@@ -121,3 +121,9 @@ Note: "Ratzinger", "Newman", "Elizabeth of the Trinity", CCC, and canon-law cita
 - No invented theology, transitions, or citations; every edit above traces to a listed item.
 - All six [possibly] flags carry the raw word plus a bracketed guess; nothing substituted silently.
 - Status of this file: **pending human transcript sign-off** (handoff G2). Inventory row updated with transcript_path/reviewer/reviewed_at only; status remains INVENTORIED until a named human reviews.
+
+## Owner resolutions 2026-09-16 (listening)
+
+Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q12 (00:20:41) — "scent [possibly: descent]" → "descent" (owner-confirmed).** The word is "descent". The `[possibly: descent]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (flags table) and §5 Q12.

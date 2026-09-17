@@ -116,7 +116,7 @@ And then our hand goes down, passing over our heart, and that downward motion, w
 
 ## The Spirit's Crossing — and the Amen
 
-And then we go to "and of the Holy Spirit," going from left to right. In the Western tradition, it's left to right. In the Coptic tradition, it's left to right. In the Eastern tradition, it's right to left. And there are reasons why it's done differently. But the emphasis there is this Holy Spirit that is now among us. This is the Holy Spirit that has been sent among us. Pour it out for the forgiveness of sins. This scent [possibly: descent] of the Holy Spirit is now with us. We are living in the age of the Holy Spirit among us, and we cross over, going from shoulder to shoulder — we cross over our heart.
+And then we go to "and of the Holy Spirit," going from left to right. In the Western tradition, it's left to right. In the Coptic tradition, it's left to right. In the Eastern tradition, it's right to left. And there are reasons why it's done differently. But the emphasis there is this Holy Spirit that is now among us. This is the Holy Spirit that has been sent among us. Pour it out for the forgiveness of sins. This descent of the Holy Spirit is now with us. We are living in the age of the Holy Spirit among us, and we cross over, going from shoulder to shoulder — we cross over our heart.
 
 The last word of the sign of the cross is no less important. Amen. We think of "amen," we're like, "What does amen mean?" "Oh, it means I believe. It means I'm committing to this." And it does mean that. When we say "Amen," we are saying, "I am staking my life on this. It will not be moved. This is my stability. I am grounded in this truth. You will not move me. No storms can disturb me, because I am putting — this is my stability, my surety. You cannot take this from me."
 
@@ -175,7 +175,7 @@ When we say that, we don't mean, oh, a problem to be solved, that we can't know 
 
 If you were to go outside on a sunny day and try to look at the sun — are you able to see the sun? In one sense, yes, because it's so much light. But in another sense, no. You can't really see the sun. You can't make out its circular form in the sky. You can't see its outline. All you see is blinding light.
 
-So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in halogy [possibly: analogy], because the sun is that by which we see everything else.
+So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in analogy, because the sun is that by which we see everything else.
 
 A mystery is likewise. As Jacques Maritain said — he was a philosopher, a Thomist philosopher in the 20th century — mysteries are "pregnant with intelligibility." They are so full of things we can know. It's too much. We are a finite intellect in the midst of something infinite. It's overwhelming.
 
@@ -268,7 +268,7 @@ Thirst opens this chapter, and thirst will carry it to its end: deep calling to 
 
 ## The Trinity of love that overflows
 
-Understanding God as mystery — that he is one God, one divine nature, and three divine persons — we see that everything that God does is mysterious. There is a way in which we are implicated in it. It is well beyond our ability to understand. It overwhelms us, and we are enveloped in it. We can think of creation itself as mysterious, approaching it as a mystery, for we ourselves are created. The uncreating [possibly: uncreated] love created love out of his creativity, as one of the retreatants put it, and according to Joseph Ratzinger. God's love spilled out. He was infinitely perfect within himself. There was no need, in one sense, to create. For God was love within three persons — a communion of love, not some lonely figure off in another world unto himself, but fully loving. God pouring himself out, Father to Son, Son to Father, that love being the Holy Spirit. This Trinity is a Trinity of love. And that love made the sun and the stars. And that love made us.
+Understanding God as mystery — that he is one God, one divine nature, and three divine persons — we see that everything that God does is mysterious. There is a way in which we are implicated in it. It is well beyond our ability to understand. It overwhelms us, and we are enveloped in it. We can think of creation itself as mysterious, approaching it as a mystery, for we ourselves are created. The uncreated love created love out of his creativity, as one of the retreatants put it, and according to Joseph Ratzinger. God's love spilled out. He was infinitely perfect within himself. There was no need, in one sense, to create. For God was love within three persons — a communion of love, not some lonely figure off in another world unto himself, but fully loving. God pouring himself out, Father to Son, Son to Father, that love being the Holy Spirit. This Trinity is a Trinity of love. And that love made the sun and the stars. And that love made us.
 
 Creation is a going forth of the love of God — a God making something that is not God, not so that we might be separated from God, but that we might return to him. In Latin, there's a phrase — two words: *exitus, reditus*. *Exitus* sounds like exit — for often that is how Latin works — and then *reditus*. There is a going out, an exiting, and a return. God creates that which is not God in order that everything he creates might return to him in the way that is fitting for that creation.
 
@@ -490,7 +490,7 @@ And this is the attitude all of us should have in Advent, of course, but in all 
 
 But to maybe alter the analogy a little bit: if you're waiting for a friend, and perhaps you do get distracted, or perhaps you need to attend to some errand, or maybe because you're preparing for his coming, you go out and you go to Giant Eagle to pick up some groceries or things there that are needed for his visit. But when you come back to your house, you are horrified. There is your friend's car parked in your driveway. You go to the front door. You go in, and you see your friend already sitting on your couch.
 
-What would you say to such a friend? "How the heck did you get in? You are no longer my friend. You violated my privacy. You were gone [possibly: home] when I wasn't. You came when I was gone. That is not okay. Hey, you should wait in your car until I should have gotten back."
+What would you say to such a friend? "How the heck did you get in? You are no longer my friend. You violated my privacy. You came when I was gone. That is not okay. Hey, you should wait in your car until I should have gotten back."
 
 Or a true friend. If we've been waiting for him — we would say to him, "Welcome. I'm glad you made yourself at home."
 

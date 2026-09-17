@@ -9,6 +9,10 @@
 - **Status:** DRAFTED — pending human voice review and theological review (handoff G4); human transcript sign-off also pending (G2)
 - **Revision 2 (2026-09-16):** G4 QA fixes — H2: Ratzinger passage de-quoted (LOCATOR_MISSING → reported speech; draft now matches sidecar); M2: SRC-004 status corrected to VERIFIED_MINOR_VARIANT with "Each one of us"/"Each of us" discrepancy disclosed; M6: complete edit ledger added below (walk vs clean transcript); several micro-edits reverted to heard wording.
 
+## Owner resolutions 2026-09-16 (listening)
+
+1. **"You were gone [possibly: home] when I wasn't." excised (00:16:30) — author-directed excision.** Owner listening: omit the entire sentence; no replacement. Deleted identically from the chapter drafts/reviewed copies and the clean transcript layer. The `[possibly: home]` flag is thereby removed (moot). Splice: none — the surrounding sentences stand: "You violated my privacy. You came when I was gone. That is not okay." Supersedes the §4 flags line; review-log Q13 resolved (annotated there). Q14 (00:16:33) remains open for human listen.
+
 ---
 
 ## Plan (section skeleton) — fixed BEFORE drafting
@@ -57,7 +61,7 @@ Pattern per brief: indwelling claim → intimacy etymology → witnesses (August
 - **Origin:** 00:14:25–00:15:46 (Newman) + 00:15:46–00:17:00 (Giant Eagle scene).
 - **Sources:** SRC-043 (Newman, "Watching," PPS IV.22 — PARAPHRASE_CONFIRMED, PUBLIC_DOMAIN; speaker retells, does not quote; C05 anchor to be added to the ledger). Mt 28:20 "with us always, even at the close of the age" — allusion within SRC-019's verified range (RSV "to the close of the age"). Mt 18:20 "two or three gathered" — allusion, no ledger row, unquoted. "Giant Eagle" kept (voice profile §4).
 - **Bridges:** none.
-- **Flags:** `[possibly: home]` bracket preserved per voice profile §9.13 (review §2 item 1, 00:16:30 — human listen). Q14 00:16:33 wording confirmation pending.
+- **Flags:** `[possibly: home]` bracket was preserved per voice profile §9.13 (review §2 item 1, 00:16:30) — **superseded by Owner resolution 2026-09-16 (listening): the whole sentence was excised by author direction** (see "Owner resolutions" section). Q14 00:16:33 wording confirmation pending.
 
 ### §5 Christ resting in the storm (00:17:00–00:19:33)
 - **Origin:** 00:17:00–00:17:41 (searching in created things; Augustine Ascension) + 00:17:41–00:19:33 (the boat; Benedict; Emmanuel).
@@ -144,4 +148,4 @@ Grammar-only fixes and rendering changes (full ledger; G4 QA M6 walk vs clean tr
 7. **Protestant-conception framing** — kept as heard; softening is the author's call (brief).
 8. **ICEL permission** for the Confessions X.27 wording (unresolved.md item 17) and **RSV edition choice** (unresolved.md F) apply to this chapter.
 9. **Glory Be consolidation** decision (global notes).
-10. **Open review-log questions for human audio listening:** Q1 (plunge/plunged), Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q12, Q13, Q14, Q18 (review §5).
+10. **Open review-log questions for human audio listening:** Q1 (plunge/plunged), Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q12, Q14, Q18 (review §5); Q13 resolved by Owner resolution 2026-09-16 (sentence excised).

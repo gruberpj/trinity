@@ -34,7 +34,7 @@ When we say that, we don't mean, oh, a problem to be solved, that we can't know 
 
 If you were to go outside on a sunny day and try to look at the sun — are you able to see the sun? In one sense, yes, because it's so much light. But in another sense, no. You can't really see the sun. You can't make out its circular form in the sky. You can't see its outline. All you see is blinding light.
 
-So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in halogy [possibly: analogy], because the sun is that by which we see everything else.
+So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in analogy, because the sun is that by which we see everything else.
 
 A mystery is likewise. As Jacques Maritain said — he was a philosopher, a Thomist philosopher in the 20th century — mysteries are "pregnant with intelligibility." They are so full of things we can know. It's too much. We are a finite intellect in the midst of something infinite. It's overwhelming.
 

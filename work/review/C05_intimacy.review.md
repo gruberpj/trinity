@@ -58,7 +58,7 @@ Deletion/edit detail (raw → clean), timestamps are audio times:
 
 | # | Timestamp | Raw ASR text | Action | Reason |
 |---|---|---|---|---|
-| 1 | 00:16:30 | "You were gone when I wasn't." | Kept "gone", flagged `[possibly: home]` | "gone" p=0.999 but "were" p=0.404; context (friend entered the house while the host was away; next sentence "You came when I was gone") suggests "You were home when I wasn't". Human listen required. |
+| 1 | 00:16:30 | "You were gone when I wasn't." | Kept "gone", flagged `[possibly: home]` | "gone" p=0.999 but "were" p=0.404; context (friend entered the house while the host was away; next sentence "You came when I was gone") suggests "You were home when I wasn't". Human listen required. **Superseded by owner resolution 2026-09-16: the sentence was excised entirely by author direction (see §5 Q13); flag moot.** |
 
 No [unclear] flags: every low-probability region (42 words < 0.5, all inspected) resolved to a defensible reading via source text or context; borderline items are logged in §5.
 
@@ -110,7 +110,7 @@ Note: St. Elizabeth of the Trinity, Thérèse, "O my God, Trinity whom I adore",
 10. **00:12:44–00:13:35** — folk-etymology term normalized to "into-me-see" at all four occurrences (raw: "into me seeing" p=0.553; "intumesi" ×2; "Intimacy" p=0.999); confirm pronunciation each time.
 11. **00:14:02** — "the superlative, intimus — intimus — which means 'most in'": reconstructed from "intimos int I am us" (all low p); confirm the repeated word.
 12. **00:15:04** — "you go to Giant Eagle": confirm proper noun (p=0.970/1.000).
-13. **00:16:30** — "You were gone [possibly: home] when I wasn't": confirm the word (see §2 flag).
+13. **00:16:30** — "You were gone [possibly: home] when I wasn't": confirm the word (see §2 flag). **RESOLVED (owner 2026-09-16, listening): author-directed excision — the entire sentence "You were gone when I wasn't." is omitted; no replacement wording. Removed from the clean transcript and chapter layers.**
 14. **00:16:33** — "Hey, you should wait in your car until I should have gotten back": confirm wording; possibly "you should've waited in your car until I got back".
 15. **00:18:04** — "for our benefit — the one time that the apostles…": confirm the deleted "it." (p=0.285) was a false start.
 16. **00:18:58** — "If God, each one of us is the result…": confirm the "If God," false start (deleted).
@@ -126,3 +126,9 @@ Note: St. Elizabeth of the Trinity, Thérèse, "O my God, Trinity whom I adore",
 - The single [possibly] flag carries the raw word plus a bracketed guess; nothing substituted silently.
 - Quotation marks used only where the speaker is reciting (Confessions, liturgical texts) or dramatizing (Martha/Mary, the friend); paraphrase statuses recorded in §3.
 - Status of this file: **pending human transcript sign-off** (handoff G2). Inventory row updated with transcript_path/reviewer/reviewed_at only; status remains INVENTORIED until a named human reviews.
+
+## Owner resolutions 2026-09-16 (listening)
+
+Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q13 (00:16:30) — "You were gone [possibly: home] when I wasn't." excised (author-directed).** Owner instruction: omit the sentence entirely. Deleted from the clean transcript and from both chapter copies; no replacement words invented. The friend's complaint now reads: "You violated my privacy. You came when I was gone. That is not okay." Q14 (00:16:33) remains open.

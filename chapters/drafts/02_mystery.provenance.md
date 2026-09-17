@@ -20,6 +20,8 @@
 
 Attribution line "*— Prayer of St. Elizabeth of the Trinity*" kept. Supersedes §1's "printed exactly as heard" statement; the unresolved.md C gate (translation identity) is resolved by this owner decision (recorded here only — research files are handled by a later sync agent).
 
+**"halogy [possibly: analogy]" → "analogy" (00:03:51) — Owner resolution 2026-09-16 (listening).** Owner listening confirms the word is "analogy". The `[possibly: analogy]` flag is removed in the chapter (drafts and reviewed copies) and in the clean transcript layer. Supersedes the "Flags kept inline" line and resolves review-log Q1 (annotated there).
+
 ## Drafting plan (stated before prose)
 
 Section skeleton, in the talk's own order (brief's "Emotional/spiritual movement" is the canonical sequence; the brief's opening image is the sun, with the opening prayer before it):
@@ -78,7 +80,7 @@ Pattern check (handoff §7 recommended chapter pattern + task template): opening
 - **Sources:** SRC-020 (Maritain, *A Preface to Metaphysics* — VERIFIED_MINOR_VARIANT; speaker's compression "mysteries are" + verified phrase "pregnant with intelligibility" quoted; verified source sentence reads "being is a mystery, either because it is too pregnant with intelligibility…").
 - **Bridges:** B3 (quotation marks around verified phrase).
 - **Gates:** SRC-020 page ≈172 is a scan-index reading — print check before publishing a locator (unresolved.md Stage 2 item 3); PERMISSION_REVIEW if quoted at length.
-- **Flags kept inline:** "halogy [possibly: analogy]" (review Q1 — human listen).
+- **Flags kept inline:** "halogy [possibly: analogy]" (review Q1 — human listen). **Superseded by Owner resolution 2026-09-16 (listening): "analogy" confirmed; flag removed.**
 
 ### 6. Mysteries Implicate the Self
 - **Timestamps:** 00:04:33–00:05:40.
@@ -180,7 +182,7 @@ Bridge count: **6** (B1–B6). No invented theology, examples, arguments, transi
 2. SRC-002 Ratzinger page verification (unresolved.md A) + PERMISSION_REVIEW.
 3. SRC-020 Maritain page/lecture print check (unresolved.md Stage 2 item 3) + PERMISSION_REVIEW.
 4. SRC-032 "maps of meaning" — allusion or coincidence (author decision 8 bundle).
-5. Human-listen questions: "halogy [possibly: analogy]" (00:03:51); "Jake [possibly: 'kay]" (00:10:44); "one in three" (00:13:34); "Cosmos" echo (00:17:23); double "Uncle PJ" (00:08:55); closing sign of the cross (00:18:46).
+5. Human-listen questions: "halogy [possibly: analogy]" (00:03:51) — RESOLVED (owner listening 2026-09-16: "analogy"); "Jake [possibly: 'kay]" (00:10:44); "one in three" (00:13:34); "Cosmos" echo (00:17:23); double "Uncle PJ" (00:08:55); closing sign of the cross (00:18:46).
 6. DOCTRINAL_REVIEW: subsistent relations / missions passage (§12; unresolved.md item 15).
 7. Register decisions: "on this retreat" retention; Glory Be per-chapter policy; bike-gloss compression option.
 8. Deictic fix "yesterday" removed (B2) — author confirmation.

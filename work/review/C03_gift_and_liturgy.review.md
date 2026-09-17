@@ -54,7 +54,7 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 | # | Timestamp | Raw ASR text | Action | Reason |
 |---|---|---|---|---|
 | U1 | 00:03:41 | "He threw across the sky distant galaxies and stars and nebula, long, and he created one planet" | Dropped "long," as `[unclear 00:03:41]` | "long," p=0.953 but no grammatical reading ("along"? tail of "nebulae"?). Human listen required. |
-| P1 | 00:01:37 | "The uncreating love created love out of his creativity" | Kept "uncreating", flagged `[possibly: uncreated]` | "uncreating" p=0.996, "created" p=0.660; "the uncreated love created love" is the more natural reading. Human listen required. |
+| P1 | 00:01:37 | "The uncreating love created love out of his creativity" | Kept "uncreating", flagged `[possibly: uncreated]` | "uncreating" p=0.996, "created" p=0.660; "the uncreated love created love" is the more natural reading. Human listen required. **RESOLVED by owner listening 2026-09-16: the word is "uncreated"; flag removed from the clean transcript and chapter layers.** |
 | P2 | 00:05:29 | "the rubrics, the roles about how we are to celebrate Mass" | Kept "roles", flagged `[possibly: rules]` | "roles" p=0.646; "rules" fits "rubrics" better. Human listen required. |
 | P3 | 00:07:07 | "And God creates one in creation to give some kind of echo of response" | Kept "one", flagged `[possibly: no one]` | "one" p=0.693; the argument (nothing in creation could respond until Mary) suggests "no one"/"none". Human listen required. |
 | P4 | 00:09:20 | "his bride at the church" | Kept "at", flagged `[possibly: the]` | "at" p=0.857; "his bride, the Church" is the standard phrase. Candidates: "the"/"and". Human listen required. |
@@ -107,7 +107,7 @@ Note: "Ratzinger", "Elizabeth of the Trinity", and "Thérèse" appear in C03 aud
 1. **00:00:04** — "As a deer longs for flowing streams, to my soul for you, O God": source reads "so longs my soul for you, O God"; "to" p=0.952, "for" p=0.214. Confirm the actual recitation.
 2. **00:00:48** — "therefore I remember you from the land": "For" p=0.690 corrected to "from" against SRC-014. Confirm.
 3. **00:00:54** — "are deep calls to deep" → clean "Deep calls to deep" ("are" p=0.461). Confirm the "are" is not real.
-4. **00:01:37** — "The uncreating [possibly: uncreated] love created love out of his creativity": confirm "uncreating" vs "uncreated" (0.996/0.660).
+4. **00:01:37** — "The uncreating [possibly: uncreated] love created love out of his creativity": confirm "uncreating" vs "uncreated" (0.996/0.660). **RESOLVED (owner 2026-09-16, listening): "uncreated" confirmed; flag removed in clean + drafts/reviewed.**
 5. **00:01:47** — "according to Bill Daniels, I think": both words p=1.0 — the audio clearly says a name like this, but the pipeline cannot verify who. Confirm the name and the attribution split between "Bill Daniels" and Ratzinger for the "uncreated love / God's love spilled out" material.
 6. **00:03:41** — "galaxies and stars and nebula, long": word sounds like "long" (p=0.953) but is uninterpretable; dropped as [unclear]. Confirm the word.
 7. **00:05:29** — "the rubrics, the roles [possibly: rules]": confirm "roles" vs "rules" (p=0.646); confirm the added "of" after "think perhaps".
@@ -145,3 +145,9 @@ Note: "Ratzinger", "Elizabeth of the Trinity", and "Thérèse" appear in C03 aud
 - All 9 [possibly] flags and the single [unclear] flag carry the raw word plus a bracketed guess; nothing substituted silently.
 - Quotation wording verified against the ledger is confined to the opening Psalm (SRC-014), the liturgical formula (SRC-019), John 15:5 (SRC-018), and the Newman echo (SRC-010); all other attributed quotations (Bill Daniels/Ratzinger, Fagerberg, Giussani, Thérèse "Everything is grace", Thérèse "poured out", Marcel, St. Paul fragment) are flagged for source-ledger verification (Prompt E), none were completed here.
 - Status of this file: **pending human transcript sign-off** (handoff G2). Inventory row updated with transcript_path/reviewer/reviewed_at only; status remains INVENTORIED until a named human reviews.
+
+## Owner resolutions 2026-09-16 (listening)
+
+Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q4 (00:01:37) — "uncreating [possibly: uncreated]" → "uncreated" (owner-confirmed).** The word is "uncreated". The `[possibly: uncreated]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (P1 flags row) and §5 Q4.

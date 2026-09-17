@@ -53,7 +53,7 @@ Also noted (kept verbatim as meaningful repetition): `we don't mean, oh, a probl
 
 | # | Timestamp | Raw ASR text | Action | Reason |
 |---|---|---|---|---|
-| 1 | 00:03:51 | "the sun is useful in halogy" | Kept "halogy", flagged `[possibly: analogy]` | "halogy" (p=0.787) is not a word; context ("the sun is that by which we see everything else") fits the classical sun-analogy; alternate candidate "theology" (traditional sun symbol of God). Human listen required. |
+| 1 | 00:03:51 | "the sun is useful in halogy" | Kept "halogy", flagged `[possibly: analogy]` | "halogy" (p=0.787) is not a word; context ("the sun is that by which we see everything else") fits the classical sun-analogy; alternate candidate "theology" (traditional sun symbol of God). Human listen required. **RESOLVED by owner listening 2026-09-16: the word is "analogy"; flag removed from the clean transcript and chapter layers.** |
 | 2 | 00:10:44 | "No, Uncle PJ. Jake, it really follows me." | Kept "Jake", flagged `[possibly: 'kay]` | "Jake" p=0.132; no Jake appears anywhere in the talk. Candidates: "'kay" (phonetically closest, /keɪ/), "yeah" (stubborn-child register), or a repeated "Uncle PJ". Human listen required. |
 | 3 | 00:15:13 | "instead of zeros and ones, you have a, which are called bits" | Kept "a,", flagged `[possibly: qubit]` | "a," p=0.098; quantum-computer context requires the quantum unit (qubit) before the clause about bits. Conservative reconstruction; grammar garbled in ASR. Human listen required (§5 Q10). |
 
@@ -85,7 +85,7 @@ Note: "mysterium", CCC, canon-law citations, and Ratzinger pp. 162/175 quotation
 
 ## 5. Open questions for the human listener
 
-1. **00:03:51** — "the sun is useful in halogy [possibly: analogy]": confirm the word. Candidates: analogy / theology.
+1. **00:03:51** — "the sun is useful in halogy [possibly: analogy]": confirm the word. Candidates: analogy / theology. **RESOLVED (owner 2026-09-16, listening): "analogy" confirmed; flag removed in clean + drafts/reviewed.**
 2. **00:04:11** — "mysteries are pregnant with intelligibility": confirm the first word (p=0.005); also confirm the Maritain attribution and locate the source for the ledger.
 3. **00:04:42** — "Karol Wojtyła": confirm the name ("Carol" p=0.302).
 4. **00:08:33** — "Several years ago": confirm "several" (p=0.012); alternatives: "a few", "some".
@@ -110,3 +110,9 @@ Note: "mysterium", CCC, canon-law citations, and Ratzinger pp. 162/175 quotation
 - All three [possibly] flags carry the raw word plus a bracketed guess; nothing substituted silently.
 - The opening prayer wording was confirmed against the DOCX standalone version and SRC-011 (ATTRIBUTION_UNCONFIRMED translation) — no word changes were needed.
 - Status of this file: **pending human transcript sign-off** (handoff G2). Inventory row updated with transcript_path/reviewer/reviewed_at only; status remains INVENTORIED until a named human reviews.
+
+## Owner resolutions 2026-09-16 (listening)
+
+Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q1 (00:03:51) — "halogy [possibly: analogy]" → "analogy" (owner-confirmed).** The word is "analogy". The `[possibly: analogy]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (flags table) and §5 Q1.
