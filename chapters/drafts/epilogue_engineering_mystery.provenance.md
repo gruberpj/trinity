@@ -277,3 +277,11 @@ Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `ch
 
 ## RSV-2CE confirmation (2026-09-17)
 Owner confirmed all six confirm-list readings stay aligned to RSV-2CE, Owner later refined: the epilogue's INDIRECT Rom 12:2 allusion keeps 'this age' (fits the section's other 'this age' idioms); only direct quotations are aligned to RSV-2CE.
+
+---
+
+## Owner batch-4 resolutions 2026-09-17
+
+Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **Augustine wound quotation — owner approved hedge + endnote.** §"Intimacy — The Most In" — the `[quotation wording unverified]` flag is removed from the "I looked into my deepest wound, and there I saw your glory, and it dazzled me" quotation; the "apparently said" hedge and the quotation stay as heard (queue E.1). Ledger row **SRC-045** updated: `verification_status` → `PARAPHRASE_CONFIRMED` (chapter_id E01 unchanged) and the discrepancy field now records "Owner 2026-09-17: keep hedge + endnote citing Confessions X.41.66." — the Notes section will carry the row.

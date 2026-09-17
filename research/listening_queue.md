@@ -6,6 +6,8 @@
 **Method:** flags extracted by direct grep of the current drafts; timestamps matched against clean transcripts and review-log flag tables (best effort); open Q-items cross-checked against current draft prose.
 **CAUTION:** the chapter drafts were being edited while this queue was collected (three flags present at first scan were resolved in-draft by final capture: C01 Gen 1:26 wording, C01 Luke 2:49 wording, C04 "ninth/third heaven"). Re-verify before use.
 
+**Batch-4 (2026-09-17):** items 1.2, 3.1–3.4, 5.1–5.3, 6.1–6.4, and E.1 are RESOLVED by the owner (see per-item RESOLVED notes) and applied to the chapters (drafts + reviewed, byte-identical); disclosed in the chapter provenance sidecars under "Owner batch-4 resolutions 2026-09-17".
+
 **Legend — categories:**
 - **LISTEN** — owner plays the audio at the timestamp and supplies the word/phrase.
 - **SOURCE** — quotation wording or source/attribution decision for the owner.
@@ -24,6 +26,8 @@ John 12:24. Audio per clean transcript: "Unless a seed fall to the ground and di
 
 **1.2** — section **"The Motions: Father and Son"** — category **SOURCE** — timestamp ≈ **00:18:46** (review log §2 row 4 → 00:19:13; §3 row 12 → 00:19:20)
 > This is that simple glance directed towards heaven that St. Thérèse talks about when she says, "What is prayer but a simple glance directed towards heaven?" [quotation wording unverified]
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner — go with the catechism. The line now prints the CCC quotation with attribution: "…when, in the words the Catechism quotes from her, "prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy."" Flag removed. Note: the quote is **CCC ¶2558** (vatican.va `__P8Z.HTM`, fetched 2026-09-17), not ¶2658.
 
 Printed wording matches **no** verified published edition (neither CCC ¶2558 nor the Clarke/Taylor translations) — see ledger SRC-027. Decision: print CCC ¶2558 official English ("For me, prayer is a surge of the heart; it is a simple look turned toward heaven…") or keep audio wording with attribution.
 
@@ -44,14 +48,22 @@ Genesis 1:31 (RSV-2CE: "it was very good"). Confirm wording against audio and de
 **3.1** — section **"The Trinity of love that overflows"** — category **LISTEN** — timestamp: **no timestamp in repo** (passage is first-retreat supplement T4-8; plain-text ASR in `research/first_retreat_mine_talks34.md` lines 200–204; owner plays first-retreat Talk 4 audio)
 > That is not a great analogy, but I like it — how the Holy Spirit comes between [unclear] and the Father.
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "the Son". Prose now reads "…how the Holy Spirit comes between the Son and the Father."; flag removed.
+
 **3.2** — section **"Mary's yes"** — category **LISTEN** — timestamp: **no timestamp in repo** (first-retreat supplement T5-S5; `research/first_retreat_mine_talks56.md` lines 42–43; owner plays first-retreat Talk 5 audio)
 > The Church says, no, you have to use these words. You have options, but you can [possibly: only] use these words.
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "only". Prose now reads "…you can only use these words."; flag removed.
 
 **3.3** — section **"The enchanted world and the law of the gift"** — category **LISTEN** — timestamp: **no timestamp in repo** (first-retreat supplement T3-14; `research/first_retreat_mine_talks34.md` lines 104–108; surrounding C03 clean-transcript paragraph anchored at 00:15:21; owner plays first-retreat Talk 3 audio)
 > It is too much to go into [unclear], but it is already including us.
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "now". Prose now reads "It is too much to go into now, but it is already including us."; flag removed.
+
 **3.4** — section **"Deep calls to deep"** — category **LISTEN** — timestamp: **no timestamp in repo** (first-retreat supplement T4-13; `research/first_retreat_mine_talks34.md` lines 230–234; owner plays first-retreat Talk 4 audio)
 > …to die, to enter into hell [unclear], to rise from the dead, and to say, "I will arise and go to my father."
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner's wording — "to descend into hell". Prose now reads "…to die, to descend into hell, to rise from the dead…"; flag removed.
 
 The [unclear] sits in a creedal echo ("he descended into hell") — confirm whether a word is missing (e.g., "descended") or the audio is simply terse.
 
@@ -63,13 +75,19 @@ The [unclear] sits in a creedal echo ("he descended into hell") — confirm whet
 **5.1** — section **"Being itself"** — category **LISTEN** (+ WRITE option: owner may prefer to drop the brand name) — timestamp: **not in Rednal C05 audio** — sentence is from first-retreat Talk 5 Q&A (mine file T5-S8, `first_retreat_talk5.txt`); Rednal participation-paragraph vicinity ≈ 00:05:39
 > So that a Liquid Death can [possibly: brand name — verify audio] — it exists, right? Everything participates in God.
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner — OMIT the whole Liquid Death reference. The sentence is removed; the dangling "By being a can, it does." is spliced to "By merely existing, it does." (the immediately following resumptive "Everything participates in God." dropped to avoid a verbatim duplicate).
+
 **5.2** — section **"Intimus: the most in"** — category **SOURCE** — timestamp: **not in Rednal audio** — first-retreat Talk 5 (mine file T5-S11, `first_retreat_talk5.txt`)
 > Contemplate him in the holy Eucharist, and we become like him — for we shall see him as he really is, for we will be like him [quotation wording unverified] — as it says in one of the Eucharistic prayers of the Mass.
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner — unattributed paraphrase. The clause "— as it says in one of the Eucharistic prayers of the Mass." is removed and the flag dropped; the paraphrase "…for we shall see him as he really is, for we will be like him." is kept (echoes 1 John 3:2).
 
 The source is 1 John 3:2 (RSV-2CE: "we shall see him as he is") — **not** a Eucharistic Prayer (mine-file annotation). Decision: correct the source attribution and adopt an edition's wording.
 
 **5.3** — section **"Christ resting in the storm"** — category **SOURCE** — timestamp ≈ **00:17:23** (C05 review log §3 row 11; clean ¶ between 00:17:00–00:17:41)
 > St. Augustine said that when Christ ascended into heaven, he ascended from the apostles' eyes so they might turn towards their hearts and find him there, because within us, God rests. [quotation wording unverified]
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner — paraphrase, no quotation marks. The "St. Augustine said…" reported speech is kept; the flag is removed. Unlocated traditional attribution, owner-approved as paraphrase.
 
 Attribution and wording unlocated (C05 review log Q20). Decision: locate a real source, keep the attribution with a hedge, or drop the attribution. No ledger row.
 
@@ -78,21 +96,31 @@ Attribution and wording unlocated (C05 review log Q20). Decision: locate a real 
 **6.1** — section **"Nothing more beautiful"** — category **SOURCE** — timestamp ≈ **00:07:11** (C06 review log §3 row 11: 00:07:11–00:07:28)
 > …we remember how St. Ignatius of Loyola would say to his missionaries, the Jesuits of the 16th century…: "Go, set the world on fire." [quotation wording unverified]
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner — keep. The `[quotation wording unverified]` flag is removed; the attribution stays as heard.
+
 Attribution to St. Ignatius needs a source; wording needs verification. Decision: confirm the attributed source or soften the attribution.
 
 **6.2** — section **"Living it, not just teaching it"** — category **LISTEN** (+ WRITE: if a real named person, owner decides whether the name is printed) — timestamp: **not in Rednal C06 audio** — first-retreat Talk 6 (mine file T6-S17, `first_retreat_talk6.txt`; ASR there reads "Michaelo")
 > As Father [possibly: Michael] often says, it is the peace that comes from the unity of everyone minus one.
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "Michael". Prose now reads "As Father Michael often says…"; flag removed.
+
 **6.3** — section **"Floodgates"** — category **LISTEN** — timestamp: **not in Rednal audio** — first-retreat Talk 6 (mine file T6-S19; ASR cuts off at "confession"); Rednal paragraph vicinity ≈ 00:14:23
 > …our mortal sins through the sacrament of [possibly: confession].
 
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "confession". Prose now reads "…through the sacrament of confession."; flag removed.
+
 **6.4** — section **"Floodgates"** — category **LISTEN** — timestamp: **not in Rednal audio** — first-retreat Talk 6 (mine file T6-S20); Rednal "floodgates" paragraph vicinity ≈ 00:14:44
 > We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome —
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner's word — "mercy". Prose now reads "We are now to spread mercy to everyone else as well…"; flag removed.
 
 ### Epilogue — Engineering Mystery (1 flag)
 
 **E.1** — section **"Intimacy — The Most In"** — category **SOURCE** — timestamp ≈ **00:30:15** (E01 review log §3 row 17: 00:30:15–00:30:21; clean ¶ [00:29:21])
 > …you will find that some Catholic person likes to quote this one thing that St. Augustine apparently said: "I looked into my deepest wound, and there I saw your glory, and it dazzled me" [quotation wording unverified].
+
+**RESOLVED (owner batch-4, 2026-09-17):** owner — hedge + endnote approved. The flag is removed; the "apparently said" hedge and the quotation stay as heard. SRC-045 → PARAPHRASE_CONFIRMED (discrepancy records "Owner 2026-09-17: keep hedge + endnote citing Confessions X.41.66.") so the Notes section will carry it.
 
 No source located; likely a modern misattribution (ledger SRC-045). Decision: keep with the "apparently said" hedge, or drop the quotation.
 

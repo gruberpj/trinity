@@ -221,3 +221,15 @@ No chapter changes this pass. Sources: biblia.com rsv2ce preview pages (fetched 
 3. **Row 35 — Mt 5:11 (// Lk 6:22).** RSV-2CE wording for BOTH verses verified. Printed "hated and persecuted for my name" matches neither verse exactly (closer to Lk 6:22) — alignment blocked until the owner confirms the intended verse. No edit.
 
 2CE wording recorded in the worksheet (rows now VERIFIED).
+
+---
+
+## Owner batch-4 resolutions 2026-09-17
+
+Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **Ignatius "Go, set the world on fire." — owner: keep.** §"Nothing more beautiful" — the `[quotation wording unverified]` flag is removed; the attribution stays as heard (queue 6.1).
+2. **"Father [possibly: Michael]" → "Father Michael"** (§"Living it, not just teaching it"; queue 6.2 / supplement T6-S17). Flag removed.
+3. **Mt 5:11 aligned to RSV-2CE (owner: match Mt).** §"Living it, not just teaching it" — `"Blessed are you when you are hated and persecuted for my name."` → `"Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account."` (Mt 5:11 RSV-2CE, per `research/RSV-2CE_verification_worksheet.md` row 35; biblia.com rsv2ce, verified 2026-09-17). Resolves the row-35 "alignment blocked" note (owner confirmed the verse: Mt 5:11, not Lk 6:22).
+4. **"the sacrament of [possibly: confession]" → "the sacrament of confession"** (§"Floodgates"; queue 6.3 / supplement T6-S19). Flag removed.
+5. **"spread [possibly: mercy]" → "spread mercy"** (§"Floodgates"; queue 6.4 / supplement T6-S20). Flag removed.

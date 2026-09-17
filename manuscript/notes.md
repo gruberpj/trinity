@@ -66,6 +66,26 @@ The eight unclear-antecedent / garbled-passage items collected during the 2026-0
 42. **Ch. 3 Old Testament liturgies passage** — dictation resolves the collected unclear antecedent ("when that would be satisfied" → "when humanity could make that full response"); "a way to respond" → "a response"; no following Mary-content duplicates existed, none removed.
 43. **Pusey "hast made" preference** — the Epilogue I.1 quotation now reads "Thou hast made us for Thyself, and our heart is restless, until it repose in Thee." per the owner's preference; note that this deviates slightly from the Gutenberg Pusey text ("Thou madest us") — recorded in the epilogue provenance sidecar.
 
+### Resolved (owner batch-4, 2026-09-17)
+
+The listening-queue items and source decisions are RESOLVED by the owner (batch 4), applied to `chapters/drafts/` and `chapters/reviewed/` (byte-identical) and disclosed in each chapter's provenance sidecar under "Owner batch-4 resolutions 2026-09-17":
+
+44. **Ch. 3 listening** — "between the Son and the Father" (flag removed).
+45. **Ch. 3 listening** — "you can only use these words".
+46. **Ch. 3 listening** — "go into now".
+47. **Ch. 3 listening** — "to descend into hell" (owner's wording).
+48. **Ch. 5 Liquid Death reference omitted** (owner: OMIT) — the sentence is removed; the dangling "By being a can, it does." is spliced to "By merely existing, it does." (the immediately following resumptive "Everything participates in God." dropped to avoid a verbatim duplicate — identical wording).
+49. **Ch. 6 listening** — "As Father Michael often says".
+50. **Ch. 6 listening** — "the sacrament of confession".
+51. **Ch. 6 listening** — "spread mercy".
+52. **Ch. 1 Thérèse** — CCC ¶2558 wording printed with attribution: "…in the words the Catechism quotes from her, "prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy."" (flag removed). Note: the owner's instruction referenced ¶2658; the "surge of the heart" quote is CCC ¶2558 on vatican.va (¶2658 is the Cure of Ars passage) — recorded in the ch1 sidecar.
+53. **Ch. 5 1 Jn 3:2** — "— as it says in one of the Eucharistic prayers of the Mass." removed; the line is now an unattributed paraphrase ("…for we shall see him as he really is, for we will be like him."), which echoes 1 John 3:2.
+54. **Ch. 5 Augustine Ascension** — owner-approved paraphrase: "St. Augustine said…" reported speech kept, no quotation marks; flag removed (unlocated traditional attribution).
+55. **Ch. 6 Ignatius "Go, set the world on fire."** — owner: keep the attribution as heard; flag removed.
+56. **Epilogue Augustine wound quotation** — owner approved the "apparently said" hedge + endnote citing Confessions X.41.66; flag removed; SRC-045 → PARAPHRASE_CONFIRMED (the Notes section will carry it).
+57. **Ch. 6 Acts 9:4–5 (Saul)** — kept as the heard paraphrase (no quotation alignment); owner confirmed the paraphrase stands (no chapter change in this batch).
+58. **Ch. 6 Mt 5:11** — aligned to RSV-2CE: "Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account." (worksheet row 35 resolved).
+
 ### Remaining
 
 **Deferred owner questions:**
@@ -80,7 +100,7 @@ The eight unclear-antecedent / garbled-passage items collected during the 2026-0
 
 **Pipeline items:**
 
-8. **Augustine X.41.66 endnote recommendation (SRC-045)** — verification round 2: closest genuine source = Confessions X.41.66; keep the speaker's "apparently said" hedge + endnote X.41.66 (see SRC-045-verify.md).
+8. **Augustine X.41.66 endnote (SRC-045)** — RESOLVED (owner batch-4, 2026-09-17): keep the speaker's "apparently said" hedge + endnote citing Confessions X.41.66; SRC-045 now PARAPHRASE_CONFIRMED, so the Notes section will carry it (see SRC-045-verify.md).
 9. **Citation-reviewer items** — Fagerberg page (SRC-022, credit now Kavanagh), Maritain page (SRC-020), John of the Cross saying number (SRC-040).
 10. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); Rublev image rights (SRC-013); long-quote permissions. (ICEL SRC-025/026 closed via the Pusey decision — item 2 above.)
 11. **Named reviewers** — transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
@@ -91,6 +111,6 @@ The eight unclear-antecedent / garbled-passage items collected during the 2026-0
 - 2026-09-17: inside title simplified to "The Mystery of the Trinity" (subtitle dropped; `scripts/10_assemble_manuscript.py`) — the assembled manuscript sha256 changes at the next assembly run.
 - Assembled manuscript sha256: `e68152bd286723215f321b2d72fb39f10d8f605beb8f00784434950ad2f5619e` (2026-09-16 owner updates: official title page and provisional Note on the Text now emitted by `scripts/10_assemble_manuscript.py`).
 - Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (52 rows).
-- Marker scan at assembly: 0 blocking markers; 20 intended `[possibly:…]` flags remain in prose.
+- Marker scan at assembly: 0 blocking markers; chapter prose is flag-free after owner batch-4 (2026-09-17) — 0 inline `[possibly:…]`, `[unclear]`, or `[quotation wording unverified]` flags remain in prose.
 
 - RSV-2CE confirm list (6 readings): RESOLVED — owner chose to keep all aligned to RSV-2CE, indirect epilogue allusion keeps 'this age' per owner (section consistency, 2026-09-17).

@@ -58,7 +58,7 @@ Who, having a light, puts it under a basket? No, you put it on a lampstand to sh
 
 Christ came that we might have life and have it abundantly. He came to set the world on fire, and how he wished it were already ablaze!
 
-The mission of evangelization — we remember how St. Ignatius of Loyola would say to his missionaries, the Jesuits of the 16th century, as they were being sent out into the four corners of the world to spread the gospel to people who have never heard it before: "Go, set the world on fire." [quotation wording unverified] We burn with that love, that catching force of the sympathetic influence, that others might see Christ in us and be influenced by it.
+The mission of evangelization — we remember how St. Ignatius of Loyola would say to his missionaries, the Jesuits of the 16th century, as they were being sent out into the four corners of the world to spread the gospel to people who have never heard it before: "Go, set the world on fire." We burn with that love, that catching force of the sympathetic influence, that others might see Christ in us and be influenced by it.
 
 ## The Easter flame
 
@@ -88,9 +88,9 @@ For God's unselfish love, his agape — that has been poured out, and from it, i
 
 In fact, not just how we teach, but how we live, needs to be relational. We think of it mostly in terms of teaching, and we think there is right teaching and there is wrong teaching. And those who espouse right teaching — we are in that group. We are in that same tribe. That is where we are comfortable. That is where we are supported. They will say things that we will most likely agree with, and therefore we will be around those people. And those people who say false teachings, we will reject. We will separate them. They do not matter. They are problems to be solved, or problems to be ignored more often. And in this way of only focusing on teaching, we end up falling into that way of rejecting others and rejecting that mystery — not allowing that story that they have, of brokenness and error, to be completed by Christ with the mercy of God.
 
-Do not just teach the Trinity. To live the Trinity means to love them as persons. We are tempted to have that dividing line — there is us and them. But there is no peace in thinking this way. This is the peace the world gives. As Father [possibly: Michael] often says, it is the peace that comes from the unity of everyone minus one. It is how we can scapegoat. But that is not how we are to live.
+Do not just teach the Trinity. To live the Trinity means to love them as persons. We are tempted to have that dividing line — there is us and them. But there is no peace in thinking this way. This is the peace the world gives. As Father Michael often says, it is the peace that comes from the unity of everyone minus one. It is how we can scapegoat. But that is not how we are to live.
 
-The mystery of the Trinity does embrace all. All things make sense by it. All persons are meant to be included in it — if not just by nature, but by grace as well. So to live from the love of the Trinity means to love all those — even those that hate us — as our Lord says, "Blessed are you when you are hated and persecuted for my name." We can share that blessedness if we make sure to give of ourselves and be truly vulnerable.
+The mystery of the Trinity does embrace all. All things make sense by it. All persons are meant to be included in it — if not just by nature, but by grace as well. So to live from the love of the Trinity means to love all those — even those that hate us — as our Lord says, "Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account." We can share that blessedness if we make sure to give of ourselves and be truly vulnerable.
 
 ## Tell everyone
 
@@ -106,10 +106,10 @@ We are not meant to remain empty abysses. We are meant to be filled with the fir
 
 ## Floodgates
 
-And in every single person we can see the mystery of Christ and his redemption, his yearning for us. Some of us are waiting to be activated. Some of us are dead in our sins, waiting for Christ to rise again and go to the Father. Christ has come to us in our brokenness and has forgiven us our sins — our venial sins even in the holy Eucharist, and our mortal sins through the sacrament of [possibly: confession]. All of us, though, are meant to share in that divine life.
+And in every single person we can see the mystery of Christ and his redemption, his yearning for us. Some of us are waiting to be activated. Some of us are dead in our sins, waiting for Christ to rise again and go to the Father. Christ has come to us in our brokenness and has forgiven us our sins — our venial sins even in the holy Eucharist, and our mortal sins through the sacrament of confession. All of us, though, are meant to share in that divine life.
 
 Let us not hold that back. Let us open the floodgates of God's mercy and love into this fallen world. Let him love us. Let the waves and the billows, the torrents, all wash over us. In the chaos of this life, let us find Christ within, already resting in our souls, and be impelled by him, especially in his gift of the Holy Eucharist, to go forth.
 
-We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
+We are now to spread mercy to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
 
 Let Christ love us. Let him love others through us. And may we all be caught up in that love that made the sun and the stars, and be joined with Christ and the Father and the Holy Spirit in the heavenly liturgy to come.

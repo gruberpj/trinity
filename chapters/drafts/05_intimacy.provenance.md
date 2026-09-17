@@ -285,3 +285,13 @@ Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/0
 2. **Rows 25, 26, 28 — verified, NO edits.** Row 25 (Acts 17:28): printed span "We live and move and have our being" matches the 2CE clause exactly ("In him" is a verse-internal lead-in outside the printed span). Row 26 (1 Jn 3:2): printed rendering is reordered/adapted and printed WITHOUT quotation marks (attributed to a Eucharistic Prayer) — not a direct quotation, so no edit per rule; tag retained. Row 28 (Lk 10:41–42): dramatic paraphrase kept as heard — spoken text deviates substantially (Martha's invented complaint corresponds to v40, not 41–42); alignment would insert unspoken words / delete spoken dialogue — NOT applied (replace-only rule). Owner may decide.
 
 2CE wording recorded in the worksheet (rows now VERIFIED).
+
+---
+
+## Owner batch-4 resolutions 2026-09-17
+
+Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **Liquid Death reference omitted (owner: OMIT).** §"Being itself" — the sentence "So that a Liquid Death can [possibly: brand name — verify audio] — it exists, right?" is removed entirely (queue 5.1). The now-dangling dependent sentence "By being a can, it does." is spliced to "By merely existing, it does." (minimal splice; no invented content). The resumptive "Everything participates in God." that immediately followed the removed sentence is also dropped to avoid a verbatim duplicate (identical wording — no content lost). The paragraph now reads: "…no, we all participate in God. Everything participates in God. You might think objects do not. Yes, they do. By merely existing, it does. But you participate not just by existing…"
+2. **1 Jn 3:2 line — unattributed paraphrase (owner).** §"Intimus: the most in" — the clause "— as it says in one of the Eucharistic prayers of the Mass." is removed and the `[quotation wording unverified]` flag dropped; the paraphrase is kept unattributed: "…and we become like him — for we shall see him as he really is, for we will be like him." (Owner chose the unattributed paraphrase; it echoes 1 John 3:2.) Supersedes queue 5.2 and the T5-S11 attribution-flag note.
+3. **Augustine Ascension — owner-approved paraphrase.** §"Christ resting in the storm" — the `[quotation wording unverified]` flag is removed; the passage stays as reported speech ("St. Augustine said that when Christ ascended into heaven…") with no quotation marks. Unlocated traditional attribution, owner-approved as paraphrase. Supersedes queue 5.3 and the C05 Q20 (ii) attribution item.

@@ -32,7 +32,7 @@ You might ask, what does it mean that we are created out of nothing — ex nihil
 
 And it is somewhat misleading, then, to say God is creating out of nothing. He is creating out of the abundance of love in the Blessed Trinity. Is creation out of nothing? No — there was nothing, and then there was something. But that comes from God. It is almost like God is saying, "I'm going to take nothing and add something to it." And from the outside it looks that way, but it is more from God. He wanted to create us. So he did.
 
-But then, it is not like pantheism, right — no, we all participate in God. Everything participates in God. So that a Liquid Death can [possibly: brand name — verify audio] — it exists, right? Everything participates in God. You might think objects do not. Yes, they do. By being a can, it does. But you participate not just by existing, but also by your free choice to cooperate and to respond to God — and that is a participation a little bit higher.
+But then, it is not like pantheism, right — no, we all participate in God. Everything participates in God. You might think objects do not. Yes, they do. By merely existing, it does. But you participate not just by existing, but also by your free choice to cooperate and to respond to God — and that is a participation a little bit higher.
 
 So if you sin, you are existing less? Yes, that is fine. You could say that. And do not exist less. Do not sin. You are existing poorly.
 
@@ -72,7 +72,7 @@ Do you know what the word *intimacy* means and where it comes from? There is a p
 
 God is intimate with us. He is the most in. He is closer to us than we are to ourselves.
 
-Contemplate him in the holy Eucharist, and we become like him — for we shall see him as he really is, for we will be like him [quotation wording unverified] — as it says in one of the Eucharistic prayers of the Mass. We become like God, and our knowledge of God is not merely from study — sometimes aided by our study — but it becomes the likeness of God on our souls. We who live godly lives know God from the inside — not from the outside in, but from the inside out.
+Contemplate him in the holy Eucharist, and we become like him — for we shall see him as he really is, for we will be like him. We become like God, and our knowledge of God is not merely from study — sometimes aided by our study — but it becomes the likeness of God on our souls. We who live godly lives know God from the inside — not from the outside in, but from the inside out.
 
 And the saints who have been purified through their long periods of suffering — God will sometimes grant to them particular blessings of knowing him in ways that cannot be communicated. *Fire Within* is a great book by Thomas Dubay, discussing the advancement in the spiritual life from a beginner — where a lot of us are — to ultimately being united with God. In that state of being united with God, there is a likeness in our soul. It can maybe be somewhat communicated poetically. John of the Cross, who lived much of his life in the stage of unitive wholeness with God, would communicate to us through poems. The poetic imagination works in this sort of wholeness — not grasping after the small details, deciphered and put together, but the whole of the thing. Mystical knowledge works in this way, and our knowledge of God will work in this way as well, even if we are merely in the beginner stage.
 
@@ -98,7 +98,7 @@ In the incarnation and our configuration to Christ, we have an entrance into the
 
 We look for him in created things. We try to find God and beauty that is derivative, that shares in God's beauty, yes, but is not beauty, capital B, itself. Meanwhile, he was within us, always closer to us than we are to ourselves.
 
-St. Augustine said that when Christ ascended into heaven, he ascended from the apostles' eyes so they might turn towards their hearts and find him there, because within us, God rests. [quotation wording unverified]
+St. Augustine said that when Christ ascended into heaven, he ascended from the apostles' eyes so they might turn towards their hearts and find him there, because within us, God rests.
 
 We might think it is very hard for God to rest in my soul, because it seems my experience has told me otherwise. In my soul, there is little rest. There is constant anxiety. There is constant fear, maybe even anger. There is shame, there is guilt. How could God be there already?
 

@@ -332,3 +332,11 @@ Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapter
 
 ## Verification resolutions (2026-09-17)
 Three [quotation wording unverified] flags removed after verification against RSV (biblegateway.com, accessed 2026-09-17): John 12:24 ("Unless a grain of wheat falls into the earth and dies…") matches RSV exactly; Genesis 1 refrain "It was good" and Genesis 1:31 "It was very good" match the RSV text (the speaker's framing "he said" vs the text's "God saw" is retained as heard).
+
+---
+
+## Owner batch-4 resolutions 2026-09-17
+
+Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **Thérèse quotation → CCC wording (owner: go with the catechism).** §"The Motions: Father and Son" — the heard line `"What is prayer but a simple glance directed towards heaven?"` and its `[quotation wording unverified]` flag are replaced by the Catechism's quotation of St. Thérèse with attribution: "This is that simple glance directed towards heaven that St. Thérèse talks about when, in the words the Catechism quotes from her, "prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy."" **Wording fetched from vatican.va 2026-09-17** (`https://www.vatican.va/archive/ENG0015/__P8Z.HTM`). **Note:** the quote is **CCC ¶2558** (under "WHAT IS PRAYER?"; footnote 1: "St. Therese of Lisieux, Manuscrits autobiographiques, C 25r.") — the owner's instruction referenced "¶2658", which on vatican.va is the Cure of Ars passage (`__P9D.HTM`); the "surge of the heart" wording is ¶2558. Flag removed. Supersedes listening-queue item 1.2 and the §10 SRC-027 "simple glance" caveat (the printed line now follows the CCC, not the audio).

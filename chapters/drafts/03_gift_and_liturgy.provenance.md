@@ -319,3 +319,14 @@ No chapter changes this pass. Sources: biblia.com rsv2ce preview pages (fetched 
 2. **Row 20 — 1 Thess 5:18.** Printed two-word fragment `"Give thanks."` matches the 2CE verse's "give thanks" (verse-internal lowercase; the book's capital kept per quote-start casing). Truncated span does not contradict. No edit.
 
 2CE wording recorded in the worksheet (rows now VERIFIED).
+
+---
+
+## Owner batch-4 resolutions 2026-09-17
+
+Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`). No git commit. Four listening flags resolved by the owner's word; flags removed.
+
+1. **"between [unclear] and the Father" → "between the Son and the Father"** (§"The Trinity of love that overflows"; queue 3.1 / supplement T4-8). Flag removed.
+2. **"you can [possibly: only] use these words" → "you can only use these words"** (§"Mary's yes"; queue 3.2 / supplement T5-S5). Flag removed.
+3. **"It is too much to go into [unclear], but it is already including us." → "It is too much to go into now, but it is already including us."** (§"The enchanted world and the law of the gift"; queue 3.3 / supplement T3-14). Flag removed.
+4. **"to die, to enter into hell [unclear], to rise from the dead" → "to die, to descend into hell, to rise from the dead"** (§"Deep calls to deep"; queue 3.4 / supplement T4-13; owner's wording). Flag removed.
