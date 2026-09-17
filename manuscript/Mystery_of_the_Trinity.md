@@ -292,7 +292,7 @@ Creation is the gift of God. It is a going out. And then all creation responds t
 
 ## "Mine"
 
-He wanted Adam and Eve to respond, for they were made capable of responding, in God's image and likeness. Adam and Eve turned in on themselves. They grasped after what was going to be given to them as a gift in due time. They made it their possession. Eve reached out, grasped that fruit. She said, "*Mine*." When she said "Mine," she cut herself off from communion with God and with Adam. And Adam shared in that fall. Thus cut off, humanity waited to be united. All the liturgies of the Old Testament, all the rituals and sacrifices, all the prayers and the psalms, everything pointed to a time when that would be satisfied, when we could make that full response. And it was not until grace entered into creation again, preveniently, in the soul of the Blessed Virgin Mary at the moment of her conception, that God could find within humanity a way to respond.
+He wanted Adam and Eve to respond, for they were made capable of responding, in God's image and likeness. Adam and Eve turned in on themselves. They grasped after what was going to be given to them as a gift in due time. They made it their possession. Eve reached out, grasped that fruit. She said, "*Mine*." When she said "Mine," she cut herself off from communion with God and with Adam. And Adam shared in that fall. Thus cut off, humanity waited to be united. All the liturgies of the Old Testament — all the rituals and sacrifices, all the prayers and the psalms — everything pointed to a time when humanity could make that full response. And it was not until grace entered into creation again, preveniently, in the soul of the Blessed Virgin Mary at the moment of her conception, that God could find within humanity a response.
 
 ## Mary's yes
 
@@ -435,7 +435,7 @@ We are meant to approach, then, the Trinity under and through these relationship
 
 In this way, we do not merely understand the Trinity. We do not just reduce it to a notion. We do not just divide it up. We do divide it up — under the aspect of theology. We do have notions of the Trinity. We understand it. We can talk about the theological underpinnings of it, and you can read the Catechism, which actually does a great job of giving an overview of a very dense topic. We are not meant to merely understand the Trinity.
 
-Instead, we are to encounter from the depths of our being an infinite abyss of our existence.
+Instead, we are to encounter, from the depths of our being, an infinite abyss of existence in another person.
 
 There is a great quote from my uncle Mark's gospel reflection on Trinity Sunday: Marriage enshrines the Trinity. Motherhood expresses it. Fatherhood mirrors it. Friendship touches it. And loneliness, when it does not despair, adores it.
 
@@ -500,7 +500,7 @@ And there is a going out with the knowledge. Then there is a fittingness with ho
 
 This is the most simple explanation of God. We look for how we are made in the image and likeness of God, because we are relational, because we are able to know and to love — not know merely in a divisive way, through sciences and different ologies, but we are able to know each other.
 
-So that means all reality, then, has a share not only in truth and goodness — and not maybe beauty, also — but also relationality. And that makes sense, because we can only speak of a water bottle in relation to my ability to drink, my ability to have that, and I get to consume it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God — yes.
+So that means all reality, then, has a share not only in truth, goodness, and beauty, but also relationality. And that makes sense, because we can only speak of a water bottle in relation to my ability to drink, my ability to have that, and I get to consume it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God — yes.
 
 God is in us. In him we move. "We live and move and have our being," St. Paul says. This means, because of the analogy of being, that we cannot escape God. There is no hiding from God. For Adam and Eve, there was no hiding in the Garden of Eden. For us, there is no hiding. We cannot go anywhere to escape him. But also, why would we want to?
 
@@ -560,7 +560,7 @@ We want to be like Martha. "Lord, I'm anxious and troubled by many things. I'm t
 
 Mary, the sister of Martha, has been resting with me. She has been listening to me in the chaos of this home. She is giving me the greatest hospitality, like Abraham and Sarah, but even more so. Yes, I care for you, and I want you to have the same thing. I want you to have the better part, the one thing. And I want to tell you something about who I am. For God the Son reveals himself, and he speaks of the Father only, for he only has the Father to speak of, because everything he has comes from the Father. He is the Father's, and the Father is his. And then from their love comes the Holy Spirit. Martha, I want you to also know about who I am: that the one thing that is necessary — that one thing is three — three persons and one God.
 
-And this God who created in six days and rested on the seventh, this God, this very God — God, I desire to rest in you — and your hearts and your souls. Never mind the chaos. Never mind the storms. I am with you.
+And this God — who created in six days and rested on the seventh — desires to rest in you, in your hearts and your souls. Never mind the chaos. Never mind the storms. I am with you.
 
 ## The cross: the Trinity's embrace
 
@@ -627,7 +627,7 @@ We serve Christ. And as Christ, everyone we serve encounters the gospel. They en
 
 And there goes this chain reaction into the four corners of the world, this totality of our witness, of our own martyrdom, of giving ourselves so fully over to Christ. This is a gift never meant to be extinguished within us.
 
-Who, having a light, puts it under a basket? No, you put it on a lampstand to shine out. "You are the light of the world," Christ says. He also says, "I am the light of the world." Both of these are true, for we are the light of the world because we are other Christ. We shine out with the same light so others might only see him. And from that, the light is spread.
+Who, having a light, puts it under a basket? No, you put it on a lampstand to shine out. "You are the light of the world," Christ says. He also says, "I am the light of the world." Both of these are true, for we are the light of the world because we are other Christs. We shine out with the same light so others might only see him. And from that, the light is spread.
 
 Christ came that we might have life and have it abundantly. He came to set the world on fire, and how he wished it were already ablaze!
 
@@ -683,7 +683,7 @@ And in every single person we can see the mystery of Christ and his redemption, 
 
 Let us not hold that back. Let us open the floodgates of God's mercy and love into this fallen world. Let him love us. Let the waves and the billows, the torrents, all wash over us. In the chaos of this life, let us find Christ within, already resting in our souls, and be impelled by him, especially in his gift of the Holy Eucharist, to go forth.
 
-We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — welcome those that we do not want to have any part in us [unclear], those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
+We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
 
 Let Christ love us. Let him love others through us. And may we all be caught up in that love that made the sun and the stars, and be joined with Christ and the Father and the Holy Spirit in the heavenly liturgy to come.
 
@@ -772,7 +772,7 @@ God is a mystery. That is not because we cannot understand God. There is so much
 
 Not only is God a mystery — the Trinity is a mystery. There is so much to understand about the Trinity. It overwhelms our ability to think. We cannot possibly grasp it. You try to stare into the Trinity, and it is like staring into the sun. We can separate it into its parts, but we are always going to be overwhelmed by it. We cannot study it — theology does study it, and theology has its uses. What is the proper response to the Trinity? Worship.
 
-Seeing that we are included in this mystery — that it was like a solar flare out of the love of God, Father, Son, and Holy Spirit — and that even all things were created. The excess, the abundance of God's love spilled out, strewn across the sky — the stars, the distant galaxies, all the details of the earth. And out of this, God looked for someone who would share in his image and likeness, who could respond — who we are as human beings — who could participate in God. We could reflect him. We could give of ourselves. We could receive others. There would be persons who were embodied. So we are included in the mystery of creation. We can study creation from a distance, but we are studying ourselves in the process.
+We are included in this mystery — this mystery that is like a solar flare out of the love of God, Father, Son, and Holy Spirit. Out of all things that were created — the excess, the abundance of God's love spilled out and strewn across the sky — God looked for someone who would share in his image and likeness, who could respond, who could reflect him, who could make a total give of themselves, who could receive others. We are thus included in the mystery of creation, implicated in its mystery. When we study creation, we are studying ourselves in the process. And we are examining the echo of the Trinity.
 
 And this Holy Trinity is not something that is merely studied. Rather, marriage enshrines it. Motherhood embraces it. Fatherhood mirrors it. Friendship touches it. Loneliness, when it does not despair, adores it.
 
@@ -798,7 +798,7 @@ Do you know the etymology of the word intimacy? Who has ever heard that "intimac
 
 It is a Latin word — *intimus*. This is grammar, so this is hard for engineers to understand. Engineers are notoriously bad writers. It is a superlative: *in*, *interior*, *intimus* — the most in. Intimacy means that when we have intimacy with God, he is most interior to ourselves — the truth we met earlier in the chapter on intimacy.
 
-St. Augustine said he looked for God outside of himself, looking to fill himself up with the things of this world. But at last, he looked into his heart, and he found God there. "Too late loved I Thee, O Thou Beauty of ancient days, yet ever new! too late I loved Thee! … Thou madest us for Thyself, and our heart is restless, until it repose in Thee." God envelops us with the mystery of his love. His Trinitarian love spills out to us. We are included in that love. He is more intimate. He is closer to me than I am to myself.
+St. Augustine said he looked for God outside of himself, looking to fill himself up with the things of this world. But at last, he looked into his heart, and he found God there. "Too late loved I Thee, O Thou Beauty of ancient days, yet ever new! too late I loved Thee! … Thou hast made us for Thyself, and our heart is restless, until it repose in Thee." God envelops us with the mystery of his love. His Trinitarian love spills out to us. We are included in that love. He is more intimate. He is closer to me than I am to myself.
 
 Every year on the feast day of St. Augustine, if you go on Instagram — which I do not ever recommend — you will find that some Catholic person likes to quote this one thing that St. Augustine apparently said: "I looked into my deepest wound, and there I saw your glory, and it dazzled me" [quotation wording unverified]. God rests in those deepest, darkest places in our hearts — those places we want to forget about, places where I have been hurt, where I have not received love. God is already there. As much as we invite him in, as much as we try to make him show up, he is already loving us.
 
@@ -846,7 +846,7 @@ It is safe, however. It has its own sort of negative feedback, because I can do 
 
 You are not called to that mediocrity. You are not called to be comfortable. As Pope Benedict has said, you are not made for comfort — you are made for greatness. This challenges us as engineering students. This challenges us as any kind of student, or any kind of person living in this age.
 
-Dissipation is the enemy of recollection. Dissipation prevents us from experiencing reality as mystery. It gives us a false, counterfeit sense of control. And yet it controls us. We are enslaved. We are reduced. We have screens. Screens block out the mystery. The abstract veils — they clothe mystery; they accentuate the details of it; they show what is behind the veil. We do not look at the veils. We are stuck looking at screens. We are blocked. This is a great enemy of the interior life.
+Dissipation is the enemy of recollection. Dissipation prevents us from experiencing reality as mystery. It gives us a false, counterfeit sense of control. And yet it controls us. We are enslaved. We are reduced. We have screens. Screens block out the mystery. Unlike screens, veils clothe mystery, they accentuate it; they show what is behind the veil. We do not look at the veils, we look beyond them. Yet so often, we are stuck looking at screens. We are blocked. This dissipation is a great enemy of the interior life.
 
 ## Watching for the Christ Already Within
 

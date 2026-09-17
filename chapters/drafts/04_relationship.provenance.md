@@ -228,3 +228,9 @@ Applied identically to `chapters/drafts/04_relationship.md` and `chapters/review
 2. **Uncle intro — owner revealed the name.** "There is a great quote — I think I'll just end with this. There are so many things that could be said about this, but it's from my uncle, who wrote a gospel reflection on Trinity Sunday." → "There is a great quote from my uncle Mark's gospel reflection on Trinity Sunday:" — the fivefold litany after the colon is unchanged, verbatim.
 3. **Closing invitation.** "…your motherhood, your fatherhood, a friendship, or a loneliness." → "…your motherhood, your fatherhood, a friendship, or even your loneliness." (owner wording). The chapter's final sentence is thereby modified from the earlier "verbatim" note in owner edit 3 above.
 4. **Language policy (whole chapter).** Contractions expanded in author prose (verified quotations and the quoted litany untouched); fillers removed ("I think", "you know", "sort of"); "those that" → "those who" (grammar-class fix); repeated "pieces, pieces of a puzzle" → "pieces of a puzzle"; em-dash asides retained (all genuine). No `[possibly]`/`[unclear]`/`[quotation wording unverified]` markers altered — the `[possibly: third]` flag (2 Cor 12) is untouched.
+
+## Owner dictations 2026-09-17
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **Newman abyss echo completed per the owner's dictation.** §"Encounter, Not Merely Understanding" — the sentence "Instead, we are to encounter from the depths of our being an infinite abyss of our existence." is replaced with the owner's completed wording: "Instead, we are to encounter, from the depths of our being, an infinite abyss of existence in another person." The passage remains an unquoted paraphrase (no quotation marks added — the audio names no source; SRC-010 status unchanged). Supersedes the §3 §8-row rendering of the abyss echo.

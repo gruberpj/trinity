@@ -56,7 +56,7 @@ We are meant to approach, then, the Trinity under and through these relationship
 
 In this way, we do not merely understand the Trinity. We do not just reduce it to a notion. We do not just divide it up. We do divide it up — under the aspect of theology. We do have notions of the Trinity. We understand it. We can talk about the theological underpinnings of it, and you can read the Catechism, which actually does a great job of giving an overview of a very dense topic. We are not meant to merely understand the Trinity.
 
-Instead, we are to encounter from the depths of our being an infinite abyss of our existence.
+Instead, we are to encounter, from the depths of our being, an infinite abyss of existence in another person.
 
 There is a great quote from my uncle Mark's gospel reflection on Trinity Sunday: Marriage enshrines the Trinity. Motherhood expresses it. Fatherhood mirrors it. Friendship touches it. And loneliness, when it does not despair, adores it.
 

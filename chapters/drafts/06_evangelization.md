@@ -54,7 +54,7 @@ We serve Christ. And as Christ, everyone we serve encounters the gospel. They en
 
 And there goes this chain reaction into the four corners of the world, this totality of our witness, of our own martyrdom, of giving ourselves so fully over to Christ. This is a gift never meant to be extinguished within us.
 
-Who, having a light, puts it under a basket? No, you put it on a lampstand to shine out. "You are the light of the world," Christ says. He also says, "I am the light of the world." Both of these are true, for we are the light of the world because we are other Christ. We shine out with the same light so others might only see him. And from that, the light is spread.
+Who, having a light, puts it under a basket? No, you put it on a lampstand to shine out. "You are the light of the world," Christ says. He also says, "I am the light of the world." Both of these are true, for we are the light of the world because we are other Christs. We shine out with the same light so others might only see him. And from that, the light is spread.
 
 Christ came that we might have life and have it abundantly. He came to set the world on fire, and how he wished it were already ablaze!
 
@@ -110,6 +110,6 @@ And in every single person we can see the mystery of Christ and his redemption, 
 
 Let us not hold that back. Let us open the floodgates of God's mercy and love into this fallen world. Let him love us. Let the waves and the billows, the torrents, all wash over us. In the chaos of this life, let us find Christ within, already resting in our souls, and be impelled by him, especially in his gift of the Holy Eucharist, to go forth.
 
-We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — welcome those that we do not want to have any part in us [unclear], those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
+We are now to spread [possibly: mercy] to everyone else as well, and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from. Welcome, then, with forgiveness; welcome them with compassion, to share in their own sufferings, and then to help draw them. We might be the means by which others encounter the same Trinitarian love. And our baptisms are not meant to terminate within us. They are meant to impel us forward as well, to make disciples of all nations, so that others might be baptized in the name of the Father and of the Son and of the Holy Spirit.
 
 Let Christ love us. Let him love others through us. And may we all be caught up in that love that made the sun and the stars, and be joined with Christ and the Father and the Holy Spirit in the heavenly liturgy to come.

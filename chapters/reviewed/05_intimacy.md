@@ -56,7 +56,7 @@ And there is a going out with the knowledge. Then there is a fittingness with ho
 
 This is the most simple explanation of God. We look for how we are made in the image and likeness of God, because we are relational, because we are able to know and to love — not know merely in a divisive way, through sciences and different ologies, but we are able to know each other.
 
-So that means all reality, then, has a share not only in truth and goodness — and not maybe beauty, also — but also relationality. And that makes sense, because we can only speak of a water bottle in relation to my ability to drink, my ability to have that, and I get to consume it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God — yes.
+So that means all reality, then, has a share not only in truth, goodness, and beauty, but also relationality. And that makes sense, because we can only speak of a water bottle in relation to my ability to drink, my ability to have that, and I get to consume it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God — yes.
 
 God is in us. In him we move. "We live and move and have our being," St. Paul says. This means, because of the analogy of being, that we cannot escape God. There is no hiding from God. For Adam and Eve, there was no hiding in the Garden of Eden. For us, there is no hiding. We cannot go anywhere to escape him. But also, why would we want to?
 
@@ -116,7 +116,7 @@ We want to be like Martha. "Lord, I'm anxious and troubled by many things. I'm t
 
 Mary, the sister of Martha, has been resting with me. She has been listening to me in the chaos of this home. She is giving me the greatest hospitality, like Abraham and Sarah, but even more so. Yes, I care for you, and I want you to have the same thing. I want you to have the better part, the one thing. And I want to tell you something about who I am. For God the Son reveals himself, and he speaks of the Father only, for he only has the Father to speak of, because everything he has comes from the Father. He is the Father's, and the Father is his. And then from their love comes the Holy Spirit. Martha, I want you to also know about who I am: that the one thing that is necessary — that one thing is three — three persons and one God.
 
-And this God who created in six days and rested on the seventh, this God, this very God — God, I desire to rest in you — and your hearts and your souls. Never mind the chaos. Never mind the storms. I am with you.
+And this God — who created in six days and rested on the seventh — desires to rest in you, in your hearts and your souls. Never mind the chaos. Never mind the storms. I am with you.
 
 ## The cross: the Trinity's embrace
 

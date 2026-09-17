@@ -52,6 +52,20 @@
 33. **Flowing-page layout** — chapters flow continuously in the PDF (the title page and Table of Contents keep their own pages); no forced odd-page chapter starts or blank pages (`manuscript/build_pdf.py`).
 34. **Word document deliverable** — `scripts/11_make_docx.py` generates `manuscript/Mystery_of_the_Trinity.docx` (Garamond 12 pt body, heading hierarchy, italic indented prayers) for the owner to edit in Word.
 
+### Resolved (owner dictations, 2026-09-17)
+
+The eight unclear-antecedent / garbled-passage items collected during the 2026-09-16 editorial rounds are RESOLVED by the owner's dictations, applied to `chapters/drafts/` and `chapters/reviewed/` (byte-identical) and disclosed in each chapter's provenance sidecar under "Owner dictations 2026-09-17":
+
+35. **Ch. 4 abyss sentence** — completed per dictation: "Instead, we are to encounter, from the depths of our being, an infinite abyss of existence in another person."
+36. **Ch. 5 transcendentals list** — "…a share not only in truth, goodness, and beauty, but also relationality."
+37. **Ch. 5 God-rests-in-you sentence** — "And this God — who created in six days and rested on the seventh — desires to rest in you, in your hearts and your souls."
+38. **Ch. 6 "other Christ" → "other Christs"** (the "light of the world" sentence).
+39. **Ch. 6 welcome passage** — dictation merged: "…just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from."; the instructed `[unclear]` marker removed.
+40. **Epilogue solar-flare passage** — replaced with the owner's dictation verbatim; **flagged for the owner: "make a total give of themselves" printed as dictated — possible typo for "gift".**
+41. **Epilogue veils/screens passage** — replaced with the owner's dictation; four adjacent sentences that literally repeated it were removed (listed in the epilogue sidecar).
+42. **Ch. 3 Old Testament liturgies passage** — dictation resolves the collected unclear antecedent ("when that would be satisfied" → "when humanity could make that full response"); "a way to respond" → "a response"; no following Mary-content duplicates existed, none removed.
+43. **Pusey "hast made" preference** — the Epilogue I.1 quotation now reads "Thou hast made us for Thyself, and our heart is restless, until it repose in Thee." per the owner's preference; note that this deviates slightly from the Gutenberg Pusey text ("Thou madest us") — recorded in the epilogue provenance sidecar.
+
 ### Remaining
 
 **Deferred owner questions:**
