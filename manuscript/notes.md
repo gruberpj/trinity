@@ -8,7 +8,7 @@
 - Raw ASR JSON + raw transcripts are immutable evidence (`work/asr/`, `transcripts/raw/`).
 - Clean transcripts (grammar-fixed, wording preserved, flags at topic boundaries) in `transcripts/clean/`; oral-to-written editorial layer in `transcripts/editorial/`; per-recording review logs in `work/review/`.
 - Chapter drafts in `chapters/drafts/` each carry a `.provenance.md` sidecar mapping every section to transcript timestamps, verified sources, and disclosed editorial bridges. QA report: `work/review/G4_chapter_QA.md` (traceability sample 108/108 = 100%).
-- Source ledger: `research/source_ledger.csv` (63 rows SRC-001…SRC-063) + verified excerpts in `research/verified_excerpts/`.
+- Source ledger: `research/source_ledger.csv` (71 rows SRC-001…SRC-071) + verified excerpts in `research/verified_excerpts/`.
 
 ## Open items — resolved vs remaining (synced 2026-09-16 with the owner's answers)
 
@@ -31,16 +31,31 @@
 15. **C03 closing Glory Be** — unparked; appended as the chapter's "## Closing Prayer".
 16. **C01 amen/tent-peg etymology** — excised per owner (Hebrew "tent peg" = *yated*); the intimus note remains valid.
 17. **Ratzinger pages (SRC-001/002/003)** — the owner has the physical 2004 Ignatius copy; page confirmation to follow.
+18. **Kavanagh credit (SRC-022)** — the book credits Aidan Kavanagh (*On Liturgical Theology* 1984, pp. 117–18), the phrase's originator, as quoted by Fagerberg; Ch. 3 prose names Kavanagh.
+19. **St. John of the Cross "one Word in silence" (SRC-040)** — PARAPHRASE_CONFIRMED: paraphrased quote from memory; not printed as a verbatim quotation.
+20. **Listening batches 1–2** — Q2/Q8/Q9/Q11 (batch 1) and Q22 "the resting" / Q10 "icon" (batch 2) resolved by owner listening; Q13 "saw you out" resolved by replacement. C01 "We [possibly: He] looked upon us" resolved ("He"); C02 "Jake" omitted per owner.
+21. **Sign-of-the-cross / Glory Be policy applied** — all ritual sign-of-the-cross recitations and Glory Be prayers omitted from the book (Mt 28:19 Scripture quotations and prose about the sign of the cross retained); omissions recorded in `chapters/outlines/parking_lot.md` ("Owner omissions 2026-09-16").
+22. **Integration complete** — Ch. 1–6 + Epilogue smoothing applied; QA: PASS_WITH_FINDINGS ×5 (ch1–6), PASS (epilogue); traceability 100%.
+23. **First-retreat verification batch** — SRC-064…SRC-071 (8 rows) added to the ledger: O'Connor "Dogma is the guardian of mystery" (1959 letter — ch2 integration pending), Marshall-not-Chesterton brothel line (C03, attributed correctly), Newman Simon of Cyrene (C04), West "into me see" (C05, hedge form), Arinze anecdote (unverified — omitted from print), Dubay *Fire Within* (C05, bibliographic), Dante Paradiso XXXIII.145 (C05), Athanasius De Incarnatione 54.3 via CCC ¶460 (C06).
 
 ### Remaining
 
-1. **Human listening sign-off (handoff gate G2)** — ~100 flagged spots, incl. the register forms and the E01 review Q1–Q29 queue (listening batches).
-2. **RSV-2CE verification workflow** — queued per `research/verified_excerpts/RSV-2CE-plan.md`.
-3. **Ratzinger page confirmation** — from the owner's physical 2004 copy (SRC-001/002/003); epigraph use of the p. 162 / p. 175 passages undecided.
-4. **LeFrance book/page pin** (SRC-028).
-5. **Citation-reviewer items** — Fagerberg page (SRC-022), Maritain page (SRC-020), John of the Cross saying number (SRC-040), Augustine "deepest wound" hedge (SRC-045).
-6. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); ICEL (SRC-025/026); Rublev image rights (SRC-013); long-quote permissions.
-7. **Named reviewers** — transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
+**Deferred owner questions:**
+
+1. **Listening batches (handoff gate G2)** — remaining: E01 Q6 ("going to Mass"), Q7 ("Not this summer…"), Q12 ("mere"), Q21 ("at last"), plus the register forms and the other ~100 flagged spots.
+2. **Pusey decision (SRC-025/026)** — Augustine prayers: keep the current modern rendering (ICEL permission) vs switch to the public-domain Pusey translation. Owner decision pending.
+3. **Ch. 2 "as one in three" vs "three in one"** — context requested from the owner; pending.
+4. **Ch. 3 "biology [possibly: physiology]"** — context requested from the owner; pending.
+5. **RSV-2CE verification workflow** — queued per `research/verified_excerpts/RSV-2CE-plan.md`.
+6. **Ratzinger page confirmation** — from the owner's physical 2004 copy (SRC-001/002/003); epigraph use of the p. 162 / p. 175 passages undecided.
+7. **LeFrance book/page pin** (SRC-028).
+
+**Pipeline items:**
+
+8. **Augustine X.41.66 endnote recommendation (SRC-045)** — verification round 2: closest genuine source = Confessions X.41.66; keep the speaker's "apparently said" hedge + endnote X.41.66 (see SRC-045-verify.md).
+9. **Citation-reviewer items** — Fagerberg page (SRC-022, credit now Kavanagh), Maritain page (SRC-020), John of the Cross saying number (SRC-040).
+10. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); ICEL (SRC-025/026 — tied to item 2 above); Rublev image rights (SRC-013); long-quote permissions.
+11. **Named reviewers** — transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
 
 ## Assembly details
 

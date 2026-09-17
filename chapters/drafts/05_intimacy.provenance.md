@@ -8,10 +8,53 @@
 - **Drafted:** 2026-09-16, Prompt G (chapter drafting)
 - **Status:** DRAFTED — pending human voice review and theological review (handoff G4); human transcript sign-off also pending (G2)
 - **Revision 2 (2026-09-16):** G4 QA fixes — H2: Ratzinger passage de-quoted (LOCATOR_MISSING → reported speech; draft now matches sidecar); M2: SRC-004 status corrected to VERIFIED_MINOR_VARIANT with "Each one of us"/"Each of us" discrepancy disclosed; M6: complete edit ledger added below (walk vs clean transcript); several micro-edits reverted to heard wording.
+- **Revision 3 (2026-09-16):** first-retreat supplements integrated per mine `work/review/first_retreat_mine_talks56.md` (T5-S8, T5-S11, T5-S12, T5-S13, T5-S14; T6-S1, T6-S2, T6-S3, T6-S4, T6-S5, T6-S6, T6-S7, T6-S8, T6-S10, T6-S11, T6-S12) + owner smoothing standard applied (4 sentence repairs on pre-existing text). 1 Jn 3:2 checked against RSVCE (biblegateway.com, 2026-09-16) — no match; heard wording kept with flag. Full ledger below in the "Revision 3" section. Drafts/reviewed copies byte-identical (SHA-256 `ffb7626747bbf5531de4bda56f5e44e4408b4f38586306bb7566b083f318af55`).
 
 ## Owner resolutions 2026-09-16 (listening)
 
 1. **"You were gone [possibly: home] when I wasn't." excised (00:16:30) — author-directed excision.** Owner listening: omit the entire sentence; no replacement. Deleted identically from the chapter drafts/reviewed copies and the clean transcript layer. The `[possibly: home]` flag is thereby removed (moot). Splice: none — the surrounding sentences stand: "You violated my privacy. You came when I was gone. That is not okay." Supersedes the §4 flags line; review-log Q13 resolved (annotated there). Q14 (00:16:33) remains open for human listen.
+
+---
+
+## Revision 3 (2026-09-16) — First-retreat supplements + owner smoothing standard
+
+**Inputs:** mine `work/review/first_retreat_mine_talks56.md`; verified excerpts SRC-067 (Christopher West — PARAPHRASE_CONFIRMED, coinage caveat), SRC-069 (Thomas Dubay, *Fire Within* — VERIFIED_EXACT, bibliographic only), SRC-070 (Dante/Longfellow — VERIFIED_EXACT, public domain). 1 Jn 3:2 checked against RSVCE at biblegateway.com (2026-09-16): "Beloved, we are God's children now; it does not yet appear what we shall be, but we know that when he appears we shall be like him, for we shall see him as he is." — the heard wording does NOT match; kept as heard with flag (T5-S11 below).
+
+### Supplements integrated (ID + location)
+
+| ID | Location | What it adds | Flags / disclosures |
+|---|---|---|---|
+| First-retreat supplement T5-S8 | §1 "Being itself" — three paragraphs after the Satan passage | Creation ex nihilo; God necessary; essence = existence; participation, not pantheism; Liquid Death can; "existing poorly" | **[doctrinal-flag] "existing less / existing poorly" is loose metaphysical language (sin as privation — Augustinian); theological reviewer before printing. Carried, NOT resolved.** Q&A converted to running prose with the questioner's part as rhetorical question (disclosed bridge; no content invented). "We'll get into this later" dropped (first-retreat locator, meaningless in book context). "Liquid Death" inferred by the mine — inline `[possibly: brand name — verify audio]`. |
+| First-retreat supplement T5-S11 | §3 "Intimus: the most in" — after "closer to us than we are to ourselves" | Eucharistic contemplation; becoming like God; knowing from the inside out | **[attribution-flag] heard line attributed to "one of the Eucharistic prayers of the Mass" — the actual source is 1 Jn 3:2, and the RSVCE wording does not match the heard wording; kept as heard with in-prose marker `[quotation wording unverified]`. Carried, NOT resolved — reviewer to resolve before printing.** |
+| First-retreat supplement T5-S12 | §3 — after T5-S11 | *Fire Within* (Dubay); John of the Cross deciphering his poems for the sisters; poetic wholeness vs grasping details | SRC-069 VERIFIED_EXACT (bibliographic only — nothing quoted; Ignatius Press, 1989). "One person here mentioned" kept (retreat register retained per §1 flag precedent). |
+| First-retreat supplement T5-S13 | §2 "The fifth transcendental" — after the human-relationality paragraph | TOB: receiving in wholeness; gifts without strings; totally/freely/fruitfully; marriage/parent-child/friendship capture the Trinity | Dropped: "Even Brother Curtis [name — verify audio]…" (name unverified — not printed); the I-and-thou portion (mine notes it duplicates C04 §"I and Thou" — duplicate skipped). |
+| First-retreat supplement T5-S14 | §2 — after T5-S13 | "rational, worded animals" (*zōon logon echon* play); capacity for love/self-gift | "Worded animals" coinage flagged for the etymological reviewer (carried, not resolved). |
+| First-retreat supplement T6-S1 | §1 — burning-bush paragraph | Jethro detail ("tending the flock of his father-in-law, Jethro"; "away from Egypt… not even practicing anything of his Israelite religion"); "This is Exodus 3:14"; epistemic hedge ("not necessarily what is being communicated to Moses — but it fits, because he does not have, he is") | **"Mount Sinai" stays (Owner edit 2026-09-16 item 4); the first-retreat "Horeb" is NOT printed** — no variant merge (voice profile §9.6); only non-conflicting details integrated. |
+| First-retreat supplement T6-S2 | §1 — end of the "God does not have" paragraph | "There's no potential in God. There's no having something and not having it. Whatever he has, he is." (*actus purus* in plain speech) | None. |
+| First-retreat supplement T6-S3 | §2 — after the "cannot escape God" paragraph | Hairs on your head (Mt 10:30 allusion — no ledger row); brain signals; souls in hell still participate | Dropped: the repeated "'In him we live and move and have our being,' St. Paul says" (verbatim duplicate of the §2 paragraph immediately above — duplicate-skip rule). |
+| First-retreat supplement T6-S4 | §2 — transcendentals paragraph | Unity/oneness the original transcendental; "God is one… oneness is in a communion of three persons"; beauty the problematic transcendental | Skipped: the "third, fourth, or fifth thing" hedge (variant — the chapter commits to "fifth transcendental"); "God is true — the way, the truth, and the life" (Jn 14:6 duplicate of §1). Ratzinger LOCATOR_MISSING caution unchanged, not resolved. |
+| First-retreat supplement T6-S5 | §2 — after "able to know each other" | Relationality of everything: water bottle; tree in the forest; angels; "no escaping God — yes" (self-affirming "yes" kept) | None. |
+| First-retreat supplement T6-S6 | §3 — "into me seeing" sentence | Christopher West attribution | SRC-067: printed as reported speech with West's own hedge — "Christopher West says he once heard it said." West's verified sentence ("I once heard it said that intimacy means 'into-me-see.'") NOT quoted (© permission required); coinage NOT asserted. Mine's "verify audio before printing the name" still applies. |
+| First-retreat supplement T6-S7 | §3 — after the Augustine/mysteries paragraph | Hidden parts of ourselves; memories not accessed; index finger / pinky toe; "closer to me than I am even to myself" | None. |
+| First-retreat supplement T6-S8 | §4 "The friend already home" — after "how God comes to us in intimacy" | All three dwelling within: temple of the Holy Spirit (1 Cor 6:19 allusion — no ledger row); inner room (Mt 6:6 allusion — no ledger row); Sacred Heart beats with our hearts | **Carried flag: [doctrinal-flag] veil/Heart synthesis (mine T5-S2). T5-S2 itself is NOT integrated here — assigned to C03 §"Mary's yes"; the mine's alternate C05 placement ("The cross: the Trinity's embrace") was NOT taken, to avoid cross-chapter duplication. Flag carried unresolved for the reviewer wherever it lands.** |
+| First-retreat supplement T6-S10 | §4 — after T6-S8 | "the love that moves the sun and the stars and the moon"; "He has made a home within us" (Jn 14:23 echo, cf. SRC-018 range) | Dante echo — printed WITHOUT quotation marks as the speaker's own formula-variant (adds "and the moon"; matches no Dante line). SRC-070 VERIFIED_EXACT: Longfellow 1867 (public domain), actual line "The Love which moves the sun and the other stars," *Paradiso* XXXIII.145 — provided for the citation reviewer. Do not merge with C06's "that love that made the sun and the stars." Placement is task-directed C05-side (mine offered C06 §"Floodgates"/C03 — not taken). |
+| First-retreat supplement T6-S11 | §5 "Christ resting in the storm" — closing | Every wound — all three resting within; silent adoration; "love you from the inside out" | Mine's recovered reading "to let us know that we are known" (ASR "to love us") — verify audio. Divine pronouns lowercase-normalized to chapter style ("for we are His" → "for we are his"; "He is drawing us to Himself" → "he is drawing us to himself") — disclosed. Fragment "Like Christ on the boat…" attached to the preceding sentence (fragment → complete sentence, smoothing standard). |
+| First-retreat supplement T6-S12 | §7 "The cross: the Trinity's embrace" — final paragraph (closing) | "Whether we like it or not — I suggest that we like it." | Dropped: garbled vocative (ASR "Alicia") — unrecoverable name; verify audio. The two setup lines ("God rests in us. He is intimate with us.") bookend the chapter's §3 formulas. |
+
+**Not integrated (skip list):** T5-S2 (C03 veil/Heart — see flag above), T5-S9 (C04/front matter — author decision per mine), T5-S10 carpet (C04 — other worker), T5-S15 uncle (C04 — other worker), T5-S1/S3/S4/S5/S6/S7 (C03), T6-S9 (not in the task's C05-side list), T6-S13–T6-S20 (C06), the Giant Eagle variant (variant rule), prayer bookends, and the mine §2 duplicates.
+
+### Owner smoothing standard (whole chapter)
+
+Four sentence repairs on pre-existing text. Words/images/rhetoric untouched ("into-me-see", "How the heck did you get in?", the waiting-friend scene, "Mount Sinai", and every revision-2 restored-as-heard item left exactly as heard):
+
+1. §1 — "And that is actually — there have been Protestant theologians…" → "And, actually, there have been Protestant theologians…" (false start removed).
+2. §2 — "you can see why the Rublev's icon — the heads bow towards the Father, because…" → "you can see why in the Rublev's icon the heads bow towards the Father, because…" (fragment repaired; "the Rublev's icon" wording untouched).
+3. §4 — "Or a true friend. If we've been waiting for him — we would say…" → "Or a true friend — if we've been waiting for him — we would say…" (fragment → complete sentence).
+4. §5 — "How is it when the boat is being rocked about…" → "How is it that when the boat is being rocked about…" (missing "that" repaired).
+
+**No `[INCOHERENT — author review]` markers were needed** — no passage is incoherent beyond repair. Awkward-but-heard lines with open human-listen questions (Q14 00:16:33 "until I should have gotten back"; Q18 00:21:04 "God, I desire to rest in you — and your hearts and your souls") were left as heard, not silently repaired.
+
+**Flags preserved:** no pre-existing `[possibly: …]` flags remained in the chapter (the `[possibly: home]` flag was removed by Owner resolution 2026-09-16 — moot); the pre-existing `[quotation wording unverified]` marker (§5, Augustine Ascension) is untouched. Revision 3 adds one new `[possibly: brand name — verify audio]` (T5-S8) and one new `[quotation wording unverified]` (T5-S11) — both disclosed above.
 
 ---
 
@@ -114,6 +157,15 @@ Grammar-only fixes and rendering changes (full ledger; G4 QA M6 walk vs clean tr
 15. Quotation marks ADDED around `Each one of us is the result of a thought of God` (verified quotation; heard variant disclosed — M2; §5)
 16. `three three persons` → `three persons` (emphatic spoken repetition; §6)
 
+**Revision 3 additions (2026-09-16; supplements + smoothing — full disclosure in the "Revision 3" section above):**
+
+17. `And that is actually — there have been` → `And, actually, there have been` (false start removed; smoothing 1; §1)
+18. `you can see why the Rublev's icon — the heads bow` → `you can see why in the Rublev's icon the heads bow` (fragment repaired; smoothing 2; §2)
+19. `Or a true friend. If we've been waiting for him — we would say` → `Or a true friend — if we've been waiting for him — we would say` (fragment → complete sentence; smoothing 3; §4)
+20. `How is it when the boat is being rocked about` → `How is it that when the boat is being rocked about` (missing "that" repaired; smoothing 4; §5)
+
+All other differences between the revision-2 chapter and the revision-3 chapter are the 16 first-retreat supplements (T5-S8/11/12/13/14, T6-S1/2/3/4/5/6/7/8/10/11/12) and their disclosed micro-edits — nothing else was changed.
+
 **Reverted to heard wording in revision 2 (no longer edits):** `Next week you'll hear it as your first reading at Mass, where` (restored clause — author flag added in §1); `I mentioned before that` (restored); `Maybe implies` (restored as heard, Q5); `We, as creatures of God, we participate` (restored); `and that he always will be` (restored); `there's a central` / `It's called` (contractions restored); `Transcendentals are something` (restored); `the Rublev's icon` (restored); `because the analogy of being` (restored); `brought forth the son` / `like, well —` (restored; also listed at item 8).
 
 ---
@@ -128,6 +180,8 @@ Grammar-only fixes and rendering changes (full ledger; G4 QA M6 walk vs clean tr
 6. **Repetition purposeful; no contradictions or terminology drift** — PASS with notes: *intimus* duplicates E01 00:28:15 (author decision #7 — ch. 5 carries the full treatment, epilogue re-cites); "everything is gift, everything is positive" formula consistent with C03/C04 usage; Mt 28:20 allusion consistent with SRC-019; no cross-chapter contradiction found.
 7. **Opening and conclusion serve the book's arc; surplus parked** — PASS. Opens with the talk's own prayer; closes with the audience-gifted embrace and the Glory Be (retreat character). No surplus forced; parking-lot entry appended (`chapters/outlines/parking_lot.md` §C05).
 8. **Voice and theological reviewers approve the hashed version** — PENDING (human gate; cannot be performed by the drafting agent). Queued: voice review, theological review (incl. DOCTRINAL_REVIEW item §6), citation/rights review (ICEL, RSV edition).
+
+*(Revision 3: checklist verdicts unchanged. Supplement provenance, carried flags, and smoothing disclosures are in the "Revision 3" section; the two new doctrinal-flag items — "existing less/poorly" (T5-S8) and the 1 Jn 3:2 attribution (T5-S11), plus the carried veil/Heart synthesis flag (T5-S2) — are added to the theological-review queue.)*
 
 ## Voice-profile compliance (§10 voice-delta check)
 
@@ -149,3 +203,25 @@ Grammar-only fixes and rendering changes (full ledger; G4 QA M6 walk vs clean tr
 8. **ICEL permission** for the Confessions X.27 wording (unresolved.md item 17) and **RSV edition choice** (unresolved.md F) apply to this chapter.
 9. **Glory Be consolidation** decision (global notes).
 10. **Open review-log questions for human audio listening:** Q1 (plunge/plunged), Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q12, Q14, Q18 (review §5); Q13 resolved by Owner resolution 2026-09-16 (sentence excised).
+
+## Owner-directed edits (2026-09-16) — ritual removals + Pusey comparison
+
+All entries below were directed by the author (owner); each edit is labeled "Owner edit 2026-09-16". Identical changes were applied to both `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical). The clean transcript and shared files (research/, unresolved.md, parking_lot.md) were not touched for these edits; omissions are recorded here only. This section supersedes conflicting entries in the §0 and §8 provenance blocks and author-input item 9 (Glory Be consolidation — moot for this chapter).
+
+1. **Owner edit 2026-09-16 — ritual sign-of-the-cross recitation removed (opening).** The standalone line "In the name of the Father, and of the Son, and of the Holy Spirit. Amen." preceding the opening Confessions X.27 prayer is removed (global policy 1). The prayer blockquote and its caption ("— St. Augustine, *Confessions*, X.27") STAY.
+2. **Owner edit 2026-09-16 — closing "## Closing prayer" section removed in full.** The closing section (header + sign of the cross, Glory Be blockquote, sign of the cross; previously §8, 00:22:53–00:23:09) is removed (global policies 1 and 2). The header became empty and was removed with the section. The chapter now ends with the final paragraph of §7, verbatim: "One of you, after my first talk, discussing the sign of the cross, said, 'The sign of the cross is a hug from the Holy Trinity.' In this way, God, Father, Son, and Holy Spirit, is closer to us than we are to ourselves. Let him love you. Let him embrace you. Let him hug you. And respond by welcoming him in your hearts and letting that love spread to others." No replacement sentences were invented.
+3. **Owner edit 2026-09-16 — retained under policy exceptions (disclosed).** The audience-attributed line in §7 ("The sign of the cross is a hug from the Holy Trinity") is a quoted retreatant comment *about* the sign of the cross as a symbol, not a ritual recitation (policy 1, exception b) — retained.
+4. **Owner edit 2026-09-16 — "Mount Sinai" stays as-is.** Owner (listening): "Sinai is fine." No change; the review-log Q3/Horeb note for this chapter is superseded.
+5. **Owner edit 2026-09-16 — Pusey comparison for the opening prayer (Confessions X.27): KEEP current text; no switch.** Owner rule: switch to the public-domain translation only if the difference is minor (punctuation/capitalization only). Comparison against the public-domain translation at newadvent.org/fathers/110110.htm (Book X, ch. 27; the New Advent text is the NPNF First Series Vol. 1 translation by J.G. Pilkington, a revision of Pusey, ed. Philip Schaff, 1887):
+
+| Element | Current chapter text (as heard; ICEL LOTH-based) | Public-domain text (newadvent X.27) |
+|---|---|---|
+| Opening | "Late have I loved you, O Beauty ever ancient, ever new. Late have I loved you." | "Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You!" |
+| Indwelling | "You were within me, but I was outside, and it was there that I searched for you." | "For behold, You were within, and I without, and there did I seek You;" |
+| Plunge | "In my unloveliness I plunge into the lovely things which you created." | "I, unlovely, rushed heedlessly among the things of beauty You made." |
+| Deafness | "You called, you shouted, and you broke through my deafness." | "You called, and cried aloud, and forced open my deafness." |
+| Blindness | "You flashed, you shone, and you dispelled my blindness." | "You gleamed and shine, and chase away my blindness." |
+| Fragrance | "You breathed your fragrance on me. I drew in breath, and now I pant for you." | "You exhaled odours, and I drew in my breath and do pant after You." |
+| Taste/touch | "I have tasted you. Now I hunger and thirst for more. You touched me, and I burn for your peace." | "I tasted, and do hunger and thirst. You touched me, and I burned for Your peace." |
+
+**Verdict: SUBSTANTIAL difference** — diction, word order, and tense differ throughout ("Too late did I love You" vs "Late have I loved you"; "O Fairness" vs "O Beauty ever ancient, ever new"; "do pant"/"do hunger"; "I burned" past tense). Not a punctuation/capitalization-only difference. Per the owner rule, the current text is KEPT; the public-domain text was not silently modernized or substituted. **Needs owner decision:** if the owner prefers public-domain wording, the Pusey/Pilkington text would replace the current ICEL Liturgy-of-the-Hours-based rendering (which carries the ICEL © permission note, unresolved.md item 17). The SRC-025 gate remains open only for that decision.

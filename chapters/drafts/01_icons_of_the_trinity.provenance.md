@@ -2,7 +2,7 @@
 
 - **Draft file:** `chapters/drafts/01_icons_of_the_trinity.md`
 - **Source talk:** C01_icons_of_the_trinity (24:49) · clean transcript `transcripts/clean/C01_icons_of_the_trinity.clean.md` (SHA-256 `7d1716be0645fd0176ce17117db837f3e60fd94e78975d3fb3dd35d538e7dfb2`)
-- **Authority files:** handoff.txt (§5, §7, Appendix B), `chapters/outlines/chapter_briefs.md` (C01 brief + global notes + author decisions), `chapters/outlines/talk_map.md` (C01 map), `work/review/C01_icons_of_the_trinity.review.md`, `research/voice_profile.md`, `research/source_ledger.csv`, `research/unresolved.md`, `research/verified_excerpts/`
+- **Authority files:** handoff.txt (§5, §7, Appendix B), `chapters/outlines/chapter_briefs.md` (C01 brief + global notes + author decisions), `chapters/outlines/talk_map.md` (C01 map), `work/review/C01_icons_of_the_trinity.review.md`, `work/review/first_retreat_mine_talks12.md` ("## Talk 1" section only — supplements T1-A…T1-L, added 2026-09-16, see §8), `research/voice_profile.md`, `research/source_ledger.csv`, `research/unresolved.md`, `research/verified_excerpts/`
 - **Drafted:** 2026-09-16 by pipeline drafting agent (Prompt G)
 - **Status:** draft — pending human sign-offs (voice reviewer, theological reviewer; handoff G4)
 
@@ -19,6 +19,11 @@
    - Kept (the surrounding amen/faith argument): "What does amen mean? … It means I believe. It means I'm committing to this. And it does mean that," the commitment meditation ("I am staking my life on this. It will not be moved. This is my stability. I am grounded in this truth. You will not move me…"), and the closing emphasis ("This 'amen' is no less important than the other words we pray…"). Splice: deletions only. Q13 ("for them," 00:22:33) and the SRC-060 Jael reference fall inside the excised span and are thereby moot. Supersedes §2.11 flags line, §3.7, and the §7 queued etymological-reviewer item (resolved by excision). Resolution recorded here only — `research/unresolved.md` item 14 is left for the sync agent.
 3. **Breastplate asterisk — Owner edit 2026-09-16 (confirmation).** No asterisk appears anywhere in this chapter, and the "day of doom" stanza is not printed (the DOCX asterisk artifact "His coming at the day of doom;*" sits on a stanza not heard in the talk, per §2.1). Nothing to remove; nothing changed.
 4. **"scent [possibly: descent]" → "descent" (00:20:41) — Owner resolution 2026-09-16 (listening).** Owner listening confirms the word is "descent". The `[possibly: descent]` flag is removed in the chapter (drafts and reviewed copies) and in the clean transcript layer. Supersedes the §2.11 flags line and resolves review-log Q12 (annotated there).
+5. **Framing sentence removed (opening prayer) — Owner edit 2026-09-16.** "We'll begin with the prayer, the last part of the prayer of St. Patrick's Breastplate." removed per owner instruction. The "## Opening Prayer" heading and the Breastplate blockquote retained. Deletion only.
+6. **Sign-of-the-cross ritual recitations removed (global policy) — Owner edit 2026-09-16.** Standalone ritual recitations of "In the name of the Father, and of the Son, and of the Holy Spirit. Amen." removed: the two opening frames around the Breastplate (00:00:01 / 00:00:33) and the two frames in the "## Closing Prayer" section (00:24:27 / 00:24:43). **Retained (policy exceptions):** the Mt 28:19 quotation in "The Third Icon: The Sign of the Cross" (00:18:16) and all prose *about* the sign of the cross as an icon/symbol in that section and in "The Motions: Father and Son" / "The Spirit's Crossing — and the Amen" (00:17:04–00:22:52) — those lines quote and discuss the words of the sign as an image; they are not recited ritual.
+7. **Glory Be removed — Owner edit 2026-09-16.** The closing Glory Be recitation (00:24:33) removed; the owner now wants all Glory Be prayers out. The "## Closing Prayer" heading removed — its only content was the two frames and the Glory Be. The chapter now ends with the author's own bridge sentence, "What that means, how that is lived out, how this changes not just how we approach our faith but everything in our life, we will discuss in the future conferences." No sentence invented. Supersedes §2.13 and the §7 "Glory Be keep-vs-consolidate" item (resolved: no Glory Be kept in this chapter).
+8. **Monotheistic-religion passage excised — Owner edit 2026-09-16.** Exact removed block (as quoted by the owner; in the chapter it spanned the paragraph break — the lead question closed the shamrock paragraph): "How could God be three persons and one God? It's maybe more understandable to think of a pure monotheistic religion — which we do have, a pure monotheistic religion. We really do. But to say there's one God, one person, one God — and if you were Jewish [possibly: pagan] and you believed in many gods, that would be hard enough to accept. But to say you believe in one God who is three persons — that is a very difficult thing." Deletions only; no splice sentence added (the shamrock paragraph now ends "…be distinct at the same time." and is followed directly by "St. Patrick led with this…"). The `[possibly: pagan]` flag (00:02:46) and review-log Q3 fall inside the excised span and are thereby moot in this chapter (the clean transcript keeps them).
+9. **"We [possibly: He] looked upon us" → "He looked upon us" (00:23:47) — Owner resolution 2026-09-16 (listening).** Owner listening confirms the word is "He". The `[possibly: He]` flag is removed in the chapter (drafts and reviewed copies) and in the clean transcript layer. Supersedes the §2.12 flags line and resolves review-log Q16.
 
 ---
 
@@ -58,7 +63,7 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 - **Timestamp span:** 00:00:33–00:03:46
 - **Sources used:** SRC-007 (CCC ¶234 echo — "central mystery of our faith," PARAPHRASE_CONFIRMED, not quoted); SRC-019 (Mt 28:18 — kept **as heard**: "All power in heaven and on earth has been given to me"; RSV reads "All authority…" — see special notes §3.2)
 - **Editorial bridges:** none.
-- **Flags carried:** review-log open questions Q2 (Druidism clause reconstruction, 00:01:21) and Q3 ("one God, one person, one God" possible ASR echo, 00:02:43); `[possibly: pagan]` flag at 00:02:46 retained as in the clean layer.
+- **Flags carried:** review-log open questions Q2 (Druidism clause reconstruction, 00:01:21) and Q3 ("one God, one person, one God" possible ASR echo, 00:02:43); `[possibly: pagan]` flag at 00:02:46 retained as in the clean layer. **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): the monotheistic-religion passage was excised by owner direction; the `[possibly: pagan]` flag and Q3 fall inside the excised span (Q2 remains open).
 
 ### 2.3 Another Icon of the Trinity
 - **Timestamp span:** 00:03:46–00:05:03
@@ -120,7 +125,7 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 - **Timestamp span:** 00:24:27–00:24:46
 - **Sources used:** SRC-019 (formula); Glory Be — standard liturgical text, no ledger row; kept as heard (review log §3.15: matches the common English rendering)
 - **Editorial bridges:** none.
-- **Flags carried:** per global notes ("Glory Be repeats"), the per-chapter Glory Be is kept for retreat character and flagged for the author (keep one per chapter vs consolidate); not silently deleted. Q17 (closing sign of the cross completeness).
+- **Flags carried:** per global notes ("Glory Be repeats"), the per-chapter Glory Be is kept for retreat character and flagged for the author (keep one per chapter vs consolidate); not silently deleted. Q17 (closing sign of the cross completeness). **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): the entire "## Closing Prayer" section (both frames + Glory Be) is removed; Q17 is moot in this chapter.
 
 ---
 
@@ -145,7 +150,7 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 3. Two excisions per the brief's excluded material (§2.6 mountain typology, §2.11 groan aside). Exact removed spans (verified by word-for-word reconciliation): (a) "Mount Moriah is where Isaac was sacrificed — or going to be sacrificed. … Mount Carmel, also with Elijah. "; (b) "when Jesus went at night to go up and pray: … pray to his Father in secret. Likewise, we might think of "; (c) "you guys are not audibly groaning. We're at 21 minutes and I'm sorry. But you're permitted to groan. That " — dropping "That" removes a word left dangling by the excision (basic grammar fix).
 4. Jn 14:2 — verified RSV wording substituted for the heard variant (§3.3).
 5. `[quotation wording unverified]` markers (6) — mandated by the drafting rules.
-6. No punctuation, spelling, or wording changes beyond those in the reviewed clean layer (review log §1 documents its own 4 grammar fixes and ASR corrections, which the draft inherits). **Fidelity proof:** after applying the exact spans in items 3–5 above to the clean transcript, the chapter body is an exact word-for-word match (3,786 words) with zero remaining differences.
+6. No punctuation, spelling, or wording changes beyond those in the reviewed clean layer (review log §1 documents its own 4 grammar fixes and ASR corrections, which the draft inherits). **Fidelity proof:** after applying the exact spans in items 3–5 above to the clean transcript, the chapter body is an exact word-for-word match (3,786 words) with zero remaining differences. *(Proof reflects the draft at creation; the later "Owner edits 2026-09-16" deltas are documented in that section.)*
 
 ---
 
@@ -192,5 +197,82 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 
 - Human audio listen: review-log Q1, Q2, Q3, Q5, Q6, Q8, Q9, Q10 (Thérèse/Teresa — attribution resolved by Owner edit 2026-09-16; only the quotation wording stays open), Q11, Q13 (moot — excised with the etymology, Owner edit 2026-09-16), Q14, Q15, Q16, Q17.
 - Theological/etymological reviewer: *aman* = "tent peg" (unresolved.md item 14) — **resolved by Owner edit 2026-09-16** (excision).
-- Author: Breastplate stanza selection; per-chapter Glory Be keep-vs-consolidate; Mt 28:18 "power" footnote wording; Thérèse attribution — **resolved by Owner edit 2026-09-16**; Rublev dating/location for any future caption; epigraph policy (n/a for ch. 1).
+- Author: Breastplate stanza selection; per-chapter Glory Be keep-vs-consolidate — **resolved by Owner edit 2026-09-16** (all Glory Be prayers removed); Mt 28:18 "power" footnote wording; Thérèse attribution — **resolved by Owner edit 2026-09-16**; Rublev dating/location for any future caption; epigraph policy (n/a for ch. 1).
 - Rights reviewer: SRC-013 artwork reproduction (if the icon image is printed); RSV NCC attribution for short excerpts.
+
+---
+
+## 8. Supplement integration & smoothing pass — 2026-09-16 (first-retreat mine, Talk 1)
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/`. Inputs: `work/review/first_retreat_mine_talks12.md` ("## Talk 1", items T1-A…T1-L), `research/voice_profile.md`, `research/verified_excerpts/SRC-064.md / SRC-066.md / SRC-070.md / SRC-071.md`.
+
+### 8.1 Duty 1 — First-retreat supplements integrated
+
+Selection rule applied: only items that genuinely add material not already in the chapter; rendered in the author's voice (mine's corrected wording, smoothed per §8.2); duplicates and unusable chunks skipped. No new quotation/attribution introduced — none of T1-A…T1-L cites O'Connor/Newman/Dante/Athanasius (those belong to the talks 3/6 mines), so SRC-064/066/070/071 were consulted and no quotation from them was added (see §8.4).
+
+| First-retreat supplement | Location in ch. 1 | What was integrated | Skipped (reason) |
+|---|---|---|---|
+| T1-A | §"St. Patrick and the Shamrock" ¶1 — after "…many miracles attested to the power of God with him." | Paschal-fire miracle; the sword-bearer whose arm froze until he repented and confessed faith in God. | — |
+| T1-B | §"St. Patrick and the Shamrock" — new paragraph at section end (after "…at which St. Patrick was incredibly successful.") | Six-year slavery ("he had been enslaved there for six years before he escaped"); "what exact plant it was does not matter"; "fraught with potential heresy"; "The analogy limps."; the anti-partialism guard ("It's not saying that God the Father is a part of God…"); "enter into the language of those people"; children learning three-in-one; "theology starts to do the work, notionally, of completing what's going on within this mystery." | Opening question paragraph ("It made sense to have multiple deities… you seem to have it both ways") — duplicate of the monotheistic-religion passage excised by Owner edit 2026-09-16; not re-introduced. |
+| T1-C | §"The Holy Spirit and the Mountain" ¶1 — stave sentence and end of paragraph | "keeping their right hands free for the decisions, the edicts, going forth from the power of their right hand"; circle = eternity ("a circle represents eternity; the circle represents, for them, this loop"). | The `[unclear: "gone" — possibly "one"]` sentence ("All three are gone/one; all three are divine") — one unrecoverable word, and the claim duplicates the chapter's "They all share the same divinity." |
+| T1-D | — | **Not integrated.** | Whole item duplicates material parked by the drafting brief (parking_lot.md: Moriah/Carmel-with-Elijah and "when Jesus went at night to go up and pray…"). No supplement added. |
+| T1-E | §"The Son in the Middle, the Father on the Left" — brown-robe sentence (¶1) and tree paragraph (¶3) | "he who walked here for thirty-three years"; "And Christ is the new Adam, and he was the one to ascend a tree, to become the fruit of the tree of life — of the cross." | Intervening two-fingers passage (duplicate of the hypostatic-union paragraph). |
+| T1-F | §"The Postures, the Chalice, and the Empty Place" ¶1 — after "And that is symbolized in that." | Application only: "And they both go back to the Father and reference the Father — and that is the symbolism of all of us, for we are all tending to the Father in our own journeys of faith." | The filioque-style clause ("the Holy Spirit coming forth from the Father through the Son") — near-duplicate of the retained "proceed from the Father" and doctrinally sensitive; NOT integrated. Flag carried in §8.3 anyway. |
+| T1-G | §"The Postures…" ¶3 — after "…which we partake in the New Testament." | Sinai bread ("the bread that Moses and Aaron ate and drank when they went up onto Mount Sinai"); "the bread of the Father, that the Holy Spirit and the Son share in"; "we participate in mystically through the Holy Eucharist." | — |
+| T1-H | §"The Postures…" ¶3 — after the T1-G sentences | Old-Testament sacrificial bowls; the bow/bowl apology ("I pronounce 'bow' and 'bowl' very similarly, so I apologize."); the purposeful asymmetry; "the sacrifices of the Old Testament give way to the bread of the new covenant of the Eucharist." | The `[unclear: "the nose"]` comparison fragment (unrecoverable). |
+| T1-I | §"The Third Icon: The Sign of the Cross" ¶2 — opening and after the baptism-words passage | The "toggle prayer on and off… That's not true!" self-correction; the night-prayer detail; "the words that made us new creations"; "entrance into the love of Father, Son, and Holy Spirit." | The live-room time meta ("One thing I want to add as we conclude this first conference — I'm going to keep these conferences relatively short; already seventeen minutes, sorry") — spoken-room artifact, unusable in print. |
+| T1-J | §"The Motions: Father and Son" ¶2 — after "…so that all human suffering is taken on him." | "And through his passion and death, he goes down into the depths of all human misery — he goes down into the depths of hell for us, that complete descent." | The trailing "And of the Son," we say — duplicate of the chapter's "And of the Son — crossing over our hearts in the process." |
+| T1-K | §"The Spirit's Crossing — and the Amen" ¶1 — after the direction sentences; end of ¶1 | Good-thief rationale for the Eastern direction; "we cross our lungs, for the Holy Spirit is our breath"; the four moments of the pouring forth (crucifixion, Resurrection, upper room, Pentecost); "We live and move and have our being with, through, and in the Holy Spirit"; the moral application. | — |
+| T1-L | §"The Spirit's Crossing — and the Amen" ¶2 — after the staking meditation | "Your Amen is a whole gift of yourself, leaving nothing behind."; "we live our whole lives enclosed within this mystery of the Holy Trinity." | The "doesn't mean I believe… well, it kind of means that" prelude (duplicate of the chapter's amen paragraph) and "that Amen means: this is the most central mystery of your life" (duplicate of the section's closing sentence). |
+
+Disclosures (each integrated item is labeled in the provenance as follows): **First-retreat supplement T1-A**, **First-retreat supplement T1-B**, **First-retreat supplement T1-C**, **First-retreat supplement T1-E**, **First-retreat supplement T1-F**, **First-retreat supplement T1-G**, **First-retreat supplement T1-H**, **First-retreat supplement T1-I**, **First-retreat supplement T1-J**, **First-retreat supplement T1-K**, **First-retreat supplement T1-L**. Skipped in full: T1-D (see §8.1).
+
+Per the mine's usage rule (voice profile §9.6), the integrated material is the first-retreat variant, chosen per chapter and disclosed here; no recorded-C01 wording was replaced by it.
+
+### 8.2 Duty 2 — Smoothing (whole chapter)
+
+Owner standard applied: correct awkward phrasing; convert sentence fragments into complete sentences where the meaning is intact (join with punctuation/conjunctions; keep his words, images, rhetorical moves, prayerful register); mark sections too incoherent.
+
+**`[INCOHERENT — author review]` markers: NONE.** No section was incoherent beyond repair; every garbled span was repairable with minimal punctuation/connective edits or was left untouched as a retained speech signature ("we have the red of — it's kind of in between"; "Now, the house of Abraham and Sarah, sure. Sure, but also…"; the Q6-flagged "It's original"; the Q11-flagged "Pour it out for the forgiveness of sins.").
+
+Smoothing edits applied (all minimal — his words kept; punctuation/connectives only; no content deleted, no theology invented):
+
+1. "Andrei Rublev, when he wrote this icon — for icons are not painted…" (dangling subject) → "Andrei Rublev wrote this icon — for icons are not painted…" (deleted "when he").
+2. "And so we might say the first chapter of Genesis, when God says, …" (no object) → "And so we might say the same of the first chapter of Genesis, when God says, …".
+3. "They wear green, because the new life that comes from the Holy Spirit." (fragment) → "They wear green, because of the new life that comes from the Holy Spirit."
+4. "The other three fingers representing the Trinity…" (fragment) → "The other three fingers represent the Trinity…".
+5. "Looking at his right hand, his fingers are extended…" (dangling modifier) → "Looking at his right hand: his fingers are extended…".
+6. "…this scepter, this stave — in their, I believe that's the word, stave? We'll go with that — and their left hands." (garbled) → "…this scepter, this stave — I believe that's the word, stave? We'll go with that — in their left hands…".
+7. "you see sort of a kind of an hourglass, the top of an hourglass" → "you see sort of the top of an hourglass".
+8. "It's noted also that not only the heads of the Son and the Holy Spirit pointed towards the Father…" → "…not only are the heads of the Son and the Holy Spirit pointed towards the Father…".
+9. "Those words are first uttered over us — water poured three times over our heads — when we are baptized." → "…— with water poured three times over our heads —…".
+10. "and that downward motion, we say, "and of the Son."" → "and with that downward motion, we say, "and of the Son."".
+11. "because I am putting — this is my stability, my surety." → "because I am putting this — this is my stability, my surety.".
+12. "when God looked in creation all the other days" → "when God looked upon creation all the other days".
+13. "of which we began this conference" → "with which we began this conference".
+14. "The central figure in this icon in the middle, … he's wearing" → "The central figure in this icon, in the middle, … is wearing".
+15. "We who now know of God as one and three, we think…" → "We who now know of God as one and three think…".
+16. "And the biggest problem is they didn't believe…" → "And the biggest problem was that they didn't believe…".
+17. "Mountains symbolize the Holy Spirit, prophecy." → "Mountains symbolize the Holy Spirit and prophecy.".
+18. "…in the center on the table, and symbolizing the food of heaven…" → "…in the center on the table, symbolizing the food of heaven…".
+19. "one, though — even though he's not of the same status as Saint Joseph — gets maybe more celebration" → "one who, though he's not of the same status as Saint Joseph, gets maybe more celebration".
+20. "a people that may be caught up with botanical language" → "a people who may be caught up in botanical language".
+
+**Untouched by policy:** all 8 existing flags — `[possibly: both]`, `[possibly: these]`, and the six `[quotation wording unverified]` markers (Gen 1:26, Lk 2:49, Jn 12:24, Thérèse, "It is good", "You are very good") — the Mt 28:19 quotation, and all prose about the sign of the cross (owner policy).
+
+### 8.3 Doctrinal flags carried from the mine (for the theological reviewer — NOT resolved here)
+
+| Flag | Mine item | Status in ch. 1 |
+|---|---|---|
+| Partialism vs modalism | T1-B (partialism) vs T2-B (modalism) | T1-B integrated names the shamrock's risk as partialism ("It's not saying that God the Father is a part of God…"). Align the heresy label with ch. 2 before printing either. |
+| Filioque | T1-F | Clause NOT integrated (duplicate of the retained "proceed from the Father" + East/West sensitivity). Reviewer should know the first-retreat variant exists; no action needed for this chapter unless the author wants the fuller procession statement. |
+| Sinai meal | T1-G | Integrated "the bread that Moses and Aaron ate and drank when they went up onto Mount Sinai." Ex 24:9–11 includes Nadab, Abihu, and the seventy elders — the speaker compresses to "Moses and Aaron"; confirm if printed. |
+| Eucharistic participation | T1-G | "we participate in mystically through the Holy Eucharist" integrated — standard, but confirm phrasing. |
+| Descensus | T1-J | "he goes down into the depths of hell for us" integrated — creedal ("he descended into hell") but vivid; check phrasing. |
+| Good-thief rationale | T1-K | Integrated — traditional explanation for the Eastern direction, not historically documented; label as such if printed. |
+| Amen etymology | T1-L | Moot — the tent-peg etymology was excised by Owner edit 2026-09-16, and T1-L's integrated text contains no etymology. Noted for completeness. |
+| Hagiographic material | T1-A | Paschal fire and frozen arm are hagiographic — label as legend if printed (cf. SRC-033 practice; talk_map C06 flags the Slane fire as hagiographic). |
+
+### 8.4 Verified-excerpt files consulted
+
+SRC-064 (O'Connor), SRC-066 (Newman), SRC-070 (Dante), SRC-071 (Athanasius) were read as directed. No T1-A…T1-L supplement cites any of these four authors (those references belong to the talks 3/6 mines), so no quotation from these files was added to Chapter 1 and no new citation appears.

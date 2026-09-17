@@ -111,3 +111,17 @@ Parked during drafting of `chapters/drafts/06_evangelization.md`:
 3. **Atomic-bomb comparison** (00:05:28) — kept in the chapter with the speaker's hedging tone; the brief permits softening per the author (flag; not a silent edit).
 4. **Glory Be consolidation** (book-level, global note) — keep one Glory Be per chapter close vs consolidate at a single book-level close; author decision, not resolved here.
 5. **Dropped material (disclosed bridge B4):** the uncertain sentence "And then others received also into that gift of the Trinity" (Q8) — dropped; its meaning is carried by the following "This is a gift never meant to be extinguished within us." Minor fragments also dropped as disclosed: the misplaced "even" (Q7), the ASR-echo doubled phrase "the same way we evangelize —" (Q10), the "on any" fragment (Q12), and the isolated "own." (Q17). Originals preserved in the clean transcript; human listens pending.
+
+---
+
+## Owner omissions 2026-09-16
+
+Recorded 2026-09-16 after the owner's large edit round. Each entry: the omitted/replaced passage and its source location.
+
+1. **Ch. 1 framing sentence** — "We'll begin with the prayer, the last part of the prayer of St. Patrick's Breastplate." Omitted (C01 opening prayer frame; the "## Opening Prayer" heading and the Breastplate blockquote are retained).
+2. **Ch. 1 monotheistic-religion passage** — from "How could God be three persons and one God?" to "...that is a very difficult thing." Omitted (C01 "One God and Three Persons" section; the shamrock paragraph now runs directly into "St. Patrick led with this…").
+3. **Ch. 2 "Jake [possibly: 'kay]" phrase** — omitted per owner; spliced in prose with an em-dash: "No, Uncle PJ — it really follows me." (C02 "Elizabeth and the Moon" section, 00:10:32 block.)
+4. **Ch. 6 bracketed chapter note on the Radiating Christ prayer** — the bracketed chapter note is omitted; the prayer itself is retained. (C06 "The Fragrance Prayer and Mother Teresa" section.)
+5. **Epilogue opening block** — "My name is Father Peter Gruber..." through "...Be transformed by the renewal of your mind." Omitted; the epilogue now opens on the "## The Engineering Worldview" heading.
+6. **Epilogue Franciscan admissions passage** — replaced by "I remember Franciscan University reached out to me and invited me to apply, and" (spliced onto the existing following sentence).
+7. **Global: all ritual sign-of-the-cross recitations + all Glory Be prayers** — omitted from the book per the 2026-09-16 policy (Scripture quotations of Mt 28:19 and prose about the sign of the cross are retained). Chapters affected: Ch. 1 (opening frames around the Breastplate; closing frames + Glory Be), Ch. 2 (frames around the opening St. Elizabeth prayer; closing frames + Glory Be), Ch. 3 (closing block appended then removed again: frames + Glory Be), Ch. 4 (opening frames around the Elizabeth-of-the-Trinity prayer; closing block), Ch. 5 (opening recitation; closing section in full), Ch. 6 (opening recitation before and after the Radiating Christ prayer; closing block), Epilogue (sign-of-cross frame inside the omitted opening block; closing sign of the cross + Glory Be).

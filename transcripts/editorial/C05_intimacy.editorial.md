@@ -91,7 +91,7 @@ And this is the attitude all of us should have in Advent, of course, but in all 
 
 But to maybe alter the analogy a little bit: if you're waiting for a friend, and perhaps you do get distracted, or perhaps you need to attend to some errand, or maybe because you're preparing for his coming, you go out and you go to Giant Eagle to pick up some groceries or things there that are needed for his visit. But when you come back to your house, you are horrified. There is your friend's car parked in your driveway. You go to the front door. You go in, and you see your friend already sitting on your couch.
 
-What would you say to such a friend? "How the heck did you get in? You are no longer my friend. You violated my privacy. You were gone [possibly: home] when I wasn't. You came when I was gone. That is not okay. Hey, you should wait in your car until I should have gotten back."
+What would you say to such a friend? "How the heck did you get in? You are no longer my friend. You violated my privacy. You came when I was gone. That is not okay. Hey, you should wait in your car until I should have gotten back."
 
 Or a true friend. If we've been waiting for — we would say to him, "Welcome. I'm glad you made yourself at home."
 

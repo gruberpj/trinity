@@ -79,6 +79,7 @@ Appended 2026-09-16 by `pipeline-researcher`. Each entry: what is missing / unce
 - **(c) C03 00:21:19** — "prayer [possibly: love] is to be poured out into another" cannot be matched to any Thérèse source (SRC-028); the heard word itself is uncertain (ASR p=0.249). Author must supply the source or recast the line as the speaker's own image (kenosis context). Owner: author + theological reviewer.
 - **RESOLVED (owner, 2026-09-16):** (a) the saint is Thérèse; (b) the attribution reads "her Last Conversations".
 - **NEW OWNER FLAG (owner, 2026-09-16):** (c) owner found the line in a Jean LeFrance book (note: the usual published spelling may be "Jean Lafrance"); pin exact book/page later.
+- **Sync note (2026-09-16):** item 6c (LeFrance) — unchanged, no action.
 
 ## 7. Weber "19th-century German philosopher" (SRC-030, E01 00:31:57; C03 00:14:51)
 - **What's found:** The speaker inverts Weber's "disenchantment of the world" (Entzauberung der Welt — verified, *Wissenschaft als Beruf* 1919, Gerth & Mills 1946 p. 155). Weber (1864–1920) is usually classed early-20th-century sociologist; audio says "19th-century German philosopher."
@@ -175,3 +176,39 @@ Appended by `pipeline-drafter` after drafting `chapters/drafts/epilogue_engineer
 ## 22. Review-log human-listen queue referenced (E01 review §6 Q1–Q29)
 - The draft carries inline [possibly] flags for: "the regressing [possibly: the resting]" (Q22), "as everyone [possibly: at last]" (Q21), "near [possibly: mere] magic" (Q12), "an egon [possibly: icon]" (Q10), "to [possibly: of]" (Q6-flags list). Reconstructions adopted in prose but still pending human listen: "going to Mass" (Q6), "saw you out" (Q13, kept as heard), "Not this summer…" (Q7).
 - **Partially resolved (owner, 2026-09-16, listening):** "campus ministry" (Q2), "Karol Wojtyła" (Q8), "Offertory" (Q9), and "Franciscan youth conference" (Q11) confirmed by the owner's audio listening. "going to Mass" (Q6) is not part of this batch and remains open. All other Qs and the inline [possibly] flags remain as listed above.
+- **Resolved (owner, 2026-09-16, listening — batch 2):** Q22 ("the resting") and Q10 ("icon") confirmed by the owner's audio listening. Q13 ("saw you out") resolved by replacement — the sentence was replaced per owner. Q6 ("going to Mass"), Q7 ("Not this summer…"), Q12 ("mere"), and Q21 ("at last") remain open, with their inline [possibly] flags in place.
+
+---
+
+# Stage 4 additions (owner sync, 2026-09-16)
+
+Appended 2026-09-16 after the owner's large edit round.
+
+## 23. POLICY — ritual sign-of-the-cross recitations and Glory Be prayers omitted (owner, 2026-09-16)
+- Owner 2026-09-16: all ritual sign-of-the-cross recitations and Glory Be prayers are omitted from the book (Scripture quotations of Mt 28:19 and prose about the sign of the cross are retained). Omitted material recorded in `chapters/outlines/parking_lot.md`.
+
+## 24. OWNER-DECISION entries pending (2026-09-16)
+- **(a) Augustine prayers — Pusey vs current modern rendering (SRC-025, SRC-026).** Pusey comparison done: substantial archaic-pronoun differences; the current modern rendering is kept for now. Owner decision pending: keep with ICEL permission vs switch to Pusey.
+- **(b) Ch. 2 "as one in three" vs "three in one".** Context requested from the owner; pending.
+- **(c) Ch. 3 "biology [possibly: physiology]".** Context requested; pending.
+
+## 25. Review-log flag resolutions from this sync
+- C01 "We [possibly: He] looked upon us" — RESOLVED: "He" (owner listening).
+- C02 "Jake [possibly: 'kay]" — omitted per owner (prose spliced with an em-dash).
+
+---
+
+# First-retreat integration (2026-09-16)
+
+## H-1 closed
+- **H-1 CLOSED:** SRC-064…SRC-071 (8 rows) added to `research/source_ledger.csv` (ledger now 71 rows) with excerpts in `research/verified_excerpts/`.
+- **O'Connor (SRC-064):** correct attribution is the letter to Cecil Dawkins, 23 December 1959, in *The Habit of Being* — not the 1957 essay "The Church and the Fiction Writer". Decision whether Ch. 2 prints it is pending ch2 integration.
+- **Arinze anecdote (SRC-068):** unverifiable — omitted from print. If the owner wants it, it must be an unattributed story (third-hand chain; no verifiable footprint).
+- **Marshall-not-Chesterton (SRC-065):** the book prints Marshall's line, attributed correctly (ch3) — flag for the rights reviewer (copyright 1945 work; Marshall d. 1987).
+- **West "into me see" (SRC-067):** hedge form used ("I once heard it said…"); the book must not assert West coined the phrase.
+
+## QA verdicts (chapter smoothing, 2026-09-16)
+- PASS_WITH_FINDINGS ×5 (chapters 1–6), PASS (epilogue); traceability 100%.
+- **LOW items left for cleanup:**
+  - Ch. 1 smoothing-log non-exhaustive — accepted.
+  - Ch. 6 stale flag pointer `[attribution questioned; see chapter note]` — the chapter note was owner-deleted; pending fix.

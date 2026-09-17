@@ -43,7 +43,7 @@ When we say that, we don't mean, oh, a problem to be solved, that we can't know 
 
 If you were to go outside on a sunny day and try to look at the sun — are you able to see the sun? In one sense, yes, because it's so much light. But in another sense, no. You can't really see the sun. You can't make out its circular form in the sky. You can't see its outline. All you see is blinding light.
 
-So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in halogy [possibly: analogy], because the sun is that by which we see everything else.
+So you would not say the sun is invisible. You'd say the sun is so visible that it overwhelms your ability to see. Your retina cannot handle that sun. But at the same time, the sun is useful in analogy, because the sun is that by which we see everything else.
 
 ## Maritain: Pregnant with Intelligibility
 
@@ -83,7 +83,7 @@ And my heart sunk. I felt bad for her. And in my mind, I'm thinking, this is lik
 
 And I'm thinking, okay, how can I prove this to her? And this is happening in a very short period of time, because I'm thinking, okay, I need to prove to her this is not true. And maybe I could apply the principle of non-contradiction, or some variant of it. Why don't we take you, Elizabeth, in one car at night, and your sister, Mary Margaret, and put her in another car? Okay? And why don't you drive separate directions, and both of you observe the moon. It can't both be following — it can't be following both of you. So therefore, that can't be true. You must look for another explanation.
 
-So quickly, I said to Elizabeth, "Elizabeth, that's not true. The moon doesn't follow you. It's so far away. It looks like it's following you." And she interrupted me. "No, Uncle PJ. Jake [possibly: 'kay], it really follows me."
+So quickly, I said to Elizabeth, "Elizabeth, that's not true. The moon doesn't follow you. It's so far away. It looks like it's following you." And she interrupted me. "No, Uncle PJ — it really follows me."
 
 ## The Moon as Mystery
 

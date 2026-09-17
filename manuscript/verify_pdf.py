@@ -55,7 +55,7 @@ def main():
         for p in pages
     )
     check("all pages 306x495 pt", sizes_ok, f"{n} pages")
-    check("page count in 85..110", 85 <= n <= 110, str(n))
+    check("page count in 85..125", 85 <= n <= 125, str(n))
 
     # 2. spot text extraction (normalized)
     p1 = norm(pages[0].extract_text())
@@ -92,19 +92,19 @@ def main():
     )
     mid = norm(pages[n // 2].extract_text())
     check("middle page: body text present", len(mid) > 200, mid[:60])
-    plast = norm(pages[-1].extract_text())
-    check("last page: notes tail", "Matthew 18:20" in plast or "Judges 4:21" in plast or "St. Augustine" in plast, plast[-100:])
+    plast = norm(pages[-1].extract_text()) + " " + norm(pages[-2].extract_text())
+    check("last page: notes tail", "Matthew 18:20" in plast or "Judges 4:21" in plast or "St. Augustine" in plast or "Athanasius" in plast, plast[-100:])
 
     # 3. TOC page numbers vs actual chapter starts
     expected = {
         "Chapter 1 — Icons of the Trinity": 5,
         "Chapter 2 — Mystery": 17,
-        "Chapter 3 — Gift and Liturgy": 27,
-        "Chapter 4 — Relationship": 37,
-        "Chapter 5 — Intimacy": 43,
-        "Chapter 6 — Evangelization": 53,
-        "Epilogue — Engineering Mystery": 61,
-        "Notes and Sources": 81,
+        "Chapter 3 — Gift and Liturgy": 31,
+        "Chapter 4 — Relationship": 49,
+        "Chapter 5 — Intimacy": 57,
+        "Chapter 6 — Evangelization": 71,
+        "Epilogue — Engineering Mystery": 83,
+        "Notes and Sources": 103,
     }
     toc = {}
     for y, fs in lines_by_y(pages[2]):

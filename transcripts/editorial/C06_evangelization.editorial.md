@@ -61,7 +61,7 @@ The mission of evangelization — we remember how St. Ignatius of Loyola would s
 
 The way we evangelize the love of the Trinity is the same way we evangelize — the same way the light is spread at the Easter Vigil, the mother of all liturgies: the priest blessing the fire, the sacred fire. That same fire that St. Patrick had blessed in the 400s that could not be extinguished by any attempts of the Druid pagans. That fire kept burning and burned brightly as a witness against the pagans, but more importantly, a witness of God's love. And that fire was meant to go forth and to spread.
 
-At every Easter Vigil, the priest blesses the fire and lights the Paschal candle from that fire, lifting it up and saying, "Lumen Christi" — the light of Christ. And from that one flame, there goes forth all the different tapers, all the little candles around the church. That church that was in darkness is now filled with the light. Each of us burying [possibly: carrying] in ourselves the flame of Christ in our hearts, and symbolized it by the candle that we carry. Now it is kept blazing and is meant to not be confined into that church, but to go out from there.
+At every Easter Vigil, the priest blesses the fire and lights the Paschal candle from that fire, lifting it up and saying, "Lumen Christi" — the light of Christ. And from that one flame, there goes forth all the different tapers, all the little candles around the church. That church that was in darkness is now filled with the light. Each of us carrying in ourselves the flame of Christ in our hearts, and symbolized it by the candle that we carry. Now it is kept blazing and is meant to not be confined into that church, but to go out from there.
 
 ## Go Forth: The Dismissal
 

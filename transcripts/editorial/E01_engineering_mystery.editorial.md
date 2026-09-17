@@ -75,7 +75,7 @@ When I came to the Franciscan youth conference during high school, I got a scapu
 
 But I thought, college, I can start these habits. I had a little pocket version of the Imitation of Christ, and I snuck off to the library to read this in between classes, back before I actually had any kind of work. I started going to Mass once a week, in addition to Sunday Mass — I always went to Sunday Mass — and I stayed after and got dinner with my brother. We had deep conversations.
 
-I started to do Eucharistic Adoration. First, I was filling up the time with some book that told me what to pray, and to get me through that hour, and more and more opening up towards silence, the regressing [possibly: the resting], and the embrace of Christ. As this went on, I found a desire in me.
+I started to do Eucharistic Adoration. First, I was filling up the time with some book that told me what to pray, and to get me through that hour, and more and more opening up towards silence, the resting, and the embrace of Christ. As this went on, I found a desire in me.
 
 ## The Priests of the Oratory
 
@@ -97,7 +97,7 @@ And so that summer, I dropped out of all my engineering classes, took philosophy
 
 ## The Engineering Worldview Is Not Transformation
 
-And now, as a priest, I work in chemistry [possibly: campus ministry] to give back to the students at Pitt, CMU, and Chatham. So it's a great blessing to be here.
+And now, as a priest, I work in campus ministry to give back to the students at Pitt, CMU, and Chatham. So it's a great blessing to be here.
 
 That engineering worldview was very important to me as a high schooler and as a college student. But that is not what it means to be transformed in Christ. This is how the world looks at things. This is how this age looks at things. We reduce ourselves to calculators, to robots, so easily replaced by artificial intelligence. We forget what it means to be human. We forget what it means to be a son or daughter of God the Father.
 
@@ -231,7 +231,7 @@ When we live in this way as Christians — not near [possibly: mere] magic, but 
 
 So now when we look up at the night sky, we don't just see stars that get studied under the science of astronomy. Now we can see God's love for us and the generosity of his creation. And it's not wrong to think that the stars care about us in some way. It's not wrong to think that the moon actually follows us, because it does.
 
-And a grander way of going about it, God's creation is for us. It is his gift to us. It is an egon [possibly: icon] yet to be transformed. For Christ came to draw all things to himself, to recapitulate all things in Christ, and to offer himself to God the Father.
+And a grander way of going about it, God's creation is for us. It is his gift to us. It is an icon yet to be transformed. For Christ came to draw all things to himself, to recapitulate all things in Christ, and to offer himself to God the Father.
 
 ## Liturgy: Doing the World as It Was Meant to Be Done
 
