@@ -345,3 +345,6 @@ The chapter was brought in line with the owner's manual edits in `manuscript/Mys
 - §The Graveyard of Heresies: "And I am sure that many of you have heard homilies…" → "I am sure that many of you…"; the clause "— and I actually recommend you read the full passages about the Trinity from the Catechism" removed.
 - §A Way of Approaching All Reality: "I guess this lamp is a mystery" → "This lamp here even is a mystery"; "I replaced the light bulb in it myself during COVID — that was a hard time" → "…during a hard time".
 - Stars paragraph: "And that inspired people, and there were secular movements to have Earth Day as a result. Whatever good came out of that, I do not know, but it was at least a movement towards a wonder." → "It was a movement towards a wonder."
+
+## Rednal audio corrections (2026-09-17)
+The Rednal first-retreat recordings (F01/F02) were transcribed and compared against the prior DOCX-based mine: no substantial new material, but two wording corrections confirmed against the clean audio (F02 14:47 and the Trinity-credit passage): 'to be at home in' → 'to be a home of'; 'Father of mercy' → 'Father of mercies'. Full comparison: work/review/rednal_mine_report.md.

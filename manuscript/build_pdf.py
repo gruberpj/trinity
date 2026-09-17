@@ -13,7 +13,7 @@ everything else (Note on the Text, chapters, epilogue, Notes and Sources)
 flows continuously, one after another, with no forced page breaks.
 Headings keep-with-next so a heading is never left alone at a page bottom.
 
-Fonts: Baskerville.ttc (macOS Supplemental), Georgia.ttf fallback.
+Fonts: EB Garamond (bundled in manuscript/fonts/, SIL OFL 1.1), Georgia.ttf fallback.
 """
 
 import contextlib
@@ -50,17 +50,15 @@ LEADING = 10.0
 BODY_BOTTOM_BASELINE = BODY_TOP_BASELINE - (BODY_LINES - 1) * LEADING  # 40.58
 PAGE_NUM_BASELINE = 18.0
 
-BODY_FONT = "Baskerville"
-BOLD_FONT = "Baskerville-Bold"
-ITAL_FONT = "Baskerville-Italic"
-SEMI_FONT = "Baskerville-SemiBold"
-BOLD_ITAL_FONT = "Baskerville-BoldItalic"
-SEMI_ITAL_FONT = "Baskerville-SemiBoldItalic"
+BODY_FONT = "EBGaramond-Regular"
+BOLD_FONT = "EBGaramond-Bold"
+ITAL_FONT = "EBGaramond-Italic"
+BOLD_ITAL_FONT = "EBGaramond-BoldItalic"
 
-# Baskerville hhea ascent = 1839/2048 em -> reportlab ascent/1000 = 897.95
-# Empirically, reportlab 5.0.1 places the first paragraph baseline at
-# frame_top - fontSize (it falls back to fontSize for the line ascent), so
-# frame tops are set to (desired baseline + fontSize).
+# EB Garamond hhea ascent = 1007/1000 em; reportlab 5.0.1 empirically places
+# the first paragraph baseline at frame_top - fontSize (it falls back to
+# fontSize for the line ascent), so frame tops are set to
+# (desired baseline + fontSize) — geometry unchanged from the Baskerville build.
 BODY_FRAME_TOP = BODY_TOP_BASELINE + 10.0            # 440.58
 BODY_FRAME_BOTTOM = 34.0
 BODY_FRAME_HEIGHT = BODY_FRAME_TOP - BODY_FRAME_BOTTOM    # 406.58 (>= 40 lines + one 9pt gap)
@@ -85,21 +83,20 @@ SHEAR = math.tan(math.radians(9.0))  # synthetic oblique for the title page
 SC_SCALE = 0.72                       # small-caps scale for synthesized small caps
 
 # --------------------------------------------------------------------------
-# Fonts (Baskerville TTC primary; Georgia fallback)
+# Fonts (EB Garamond bundled in manuscript/fonts/; Georgia fallback)
 # --------------------------------------------------------------------------
-BASK_TTC = "/System/Library/Fonts/Supplemental/Baskerville.ttc"
+FONT_DIR = Path(__file__).resolve().parent / "fonts"
 GEO_DIR = "/System/Library/Fonts/Supplemental/"
 
 
 def register_fonts():
-    """Register Baskerville (TTC subfaces) or fall back to Georgia. Returns the family used."""
+    """Register EB Garamond from manuscript/fonts/ or fall back to Georgia.
+    Returns the family used."""
     try:
-        pdfmetrics.registerFont(TTFont(BODY_FONT, BASK_TTC, subfontIndex=0))
-        pdfmetrics.registerFont(TTFont(BOLD_FONT, BASK_TTC, subfontIndex=1))
-        pdfmetrics.registerFont(TTFont(ITAL_FONT, BASK_TTC, subfontIndex=2))
-        pdfmetrics.registerFont(TTFont(BOLD_ITAL_FONT, BASK_TTC, subfontIndex=3))
-        pdfmetrics.registerFont(TTFont(SEMI_FONT, BASK_TTC, subfontIndex=4))
-        pdfmetrics.registerFont(TTFont(SEMI_ITAL_FONT, BASK_TTC, subfontIndex=5))
+        pdfmetrics.registerFont(TTFont(BODY_FONT, str(FONT_DIR / "EBGaramond-Regular.ttf")))
+        pdfmetrics.registerFont(TTFont(BOLD_FONT, str(FONT_DIR / "EBGaramond-Bold.ttf")))
+        pdfmetrics.registerFont(TTFont(ITAL_FONT, str(FONT_DIR / "EBGaramond-Italic.ttf")))
+        pdfmetrics.registerFont(TTFont(BOLD_ITAL_FONT, str(FONT_DIR / "EBGaramond-BoldItalic.ttf")))
         pdfmetrics.registerFontFamily(
             BODY_FONT,
             normal=BODY_FONT,
@@ -107,14 +104,12 @@ def register_fonts():
             italic=ITAL_FONT,
             boldItalic=BOLD_ITAL_FONT,
         )
-        return "Baskerville.ttc (subfaces 0,1,2,3,4,5)"
+        return "EB Garamond (manuscript/fonts/)"
     except Exception:
         pdfmetrics.registerFont(TTFont(BODY_FONT, GEO_DIR + "Georgia.ttf"))
         pdfmetrics.registerFont(TTFont(BOLD_FONT, GEO_DIR + "Georgia Bold.ttf"))
         pdfmetrics.registerFont(TTFont(ITAL_FONT, GEO_DIR + "Georgia Italic.ttf"))
         pdfmetrics.registerFont(TTFont(BOLD_ITAL_FONT, GEO_DIR + "Georgia Bold Italic.ttf"))
-        pdfmetrics.registerFont(TTFont(SEMI_FONT, GEO_DIR + "Georgia Bold.ttf"))
-        pdfmetrics.registerFont(TTFont(SEMI_ITAL_FONT, GEO_DIR + "Georgia Bold Italic.ttf"))
         pdfmetrics.registerFontFamily(
             BODY_FONT,
             normal=BODY_FONT,
@@ -167,7 +162,7 @@ QUOTE_ATTRIB = ParagraphStyle(
 )
 H2_STYLE = ParagraphStyle(
     "h2",
-    fontName=SEMI_FONT,
+    fontName=BOLD_FONT,
     fontSize=10,
     leading=LEADING,
     alignment=TA_LEFT,
@@ -186,7 +181,7 @@ H1_STYLE = ParagraphStyle(
 )
 TOC_HEAD_STYLE = ParagraphStyle(
     "toc-head",
-    fontName=SEMI_FONT,
+    fontName=BOLD_FONT,
     fontSize=18,
     leading=18,
     alignment=TA_LEFT,
@@ -232,8 +227,8 @@ def inline_to_xml(text: str) -> str:
 
 def small_caps(text: str, size: float, font: str, scale: float = SC_SCALE) -> str:
     """Synthesize small caps: uppercase everything; letters that were lowercase
-    in the source are set at scale*size via <font size> markup (Baskerville has
-    no real small-caps face)."""
+    in the source are set at scale*size via <font size> markup (reportlab cannot
+    use EB Garamond's real smcp feature, so caps stay synthesized)."""
     esc = xml_escape(text)
     out = []
     for ch in esc:
@@ -376,9 +371,9 @@ def draw_title_page(canv, doc):
     # height y right by SHEAR*y, so each line is pre-shifted left by SHEAR*y:
     # the baseline lands at x=MARGIN while ascenders lean right (italic look).
     canv.transform(1, 0, SHEAR, 1, 0, 0)
-    canv.setFont(SEMI_FONT, 18)
+    canv.setFont(BOLD_FONT, 18)
     canv.drawString(MARGIN - SHEAR * 297, 297, TITLE_MAIN)
-    canv.setFont(SEMI_FONT, 14)
+    canv.setFont(BOLD_FONT, 14)
     y = 275
     for line in TITLE_SUB_LINES:
         canv.drawString(MARGIN - SHEAR * y, y, line)
@@ -432,7 +427,7 @@ def assemble_story(blocks, page_numbers):
                 # Note on the Text, chapters, Epilogue, Notes and Sources
                 story.append(ChapterTitle(text, aname=text))
         elif kind == "h2":
-            story.append(Paragraph(small_caps(payload, 10, SEMI_FONT), H2_STYLE))
+            story.append(Paragraph(small_caps(payload, 10, BOLD_FONT), H2_STYLE))
         elif kind == "para":
             cls, inner, ital = classify_para(payload)
             if cls == "body":
@@ -498,7 +493,7 @@ def main():
     # at 14 pt
     if not TITLE_SUB:
         TITLE_SUB_LINES = []
-    elif pdfmetrics.stringWidth(TITLE_SUB, SEMI_FONT, 14) <= TEXT_W:
+    elif pdfmetrics.stringWidth(TITLE_SUB, BOLD_FONT, 14) <= TEXT_W:
         TITLE_SUB_LINES = [TITLE_SUB]
     else:
         # split so the author's name stays intact on the second line

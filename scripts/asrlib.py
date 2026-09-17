@@ -41,6 +41,8 @@ ID_MAP = {
     "E01_engineering_mystery": (
         "Engineering Mystery - Retreat Talk for Engineering Students.m4a"
     ),
+    "F01_icons": "Rednal Retreat House 3.m4a",
+    "F02_mystery": "Rednal Retreat House 4.m4a",
 }
 
 # Approved benchmark values that must never drift. load_asr_config() refuses to

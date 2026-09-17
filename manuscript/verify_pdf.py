@@ -204,7 +204,7 @@ def main():
         for v in res.get("/Font", {}).values():
             font_names.add(str(v.get_object().get("/BaseFont")))
     print("  embedded fonts:", sorted(font_names))
-    check("Baskerville subsets embedded", any("Baskerville" in f for f in font_names))
+    check("EB Garamond subsets embedded", any("EBGaramond" in f for f in font_names))
 
     # 8. verbatim probes (whitespace-normalized full text)
     all_text = norm(" ".join(norm(p.extract_text()) for p in pages))
