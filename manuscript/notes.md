@@ -93,4 +93,4 @@ The eight unclear-antecedent / garbled-passage items collected during the 2026-0
 - Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (52 rows).
 - Marker scan at assembly: 0 blocking markers; 20 intended `[possibly:…]` flags remain in prose.
 
-- RSV-2CE confirm list (6 readings): RESOLVED — owner chose to keep all aligned to RSV-2CE, including the epilogue's indirect Rom 12:2 allusion (2026-09-17).
+- RSV-2CE confirm list (6 readings): RESOLVED — owner chose to keep all aligned to RSV-2CE, indirect epilogue allusion keeps 'this age' per owner (section consistency, 2026-09-17).

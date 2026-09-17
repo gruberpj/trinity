@@ -231,4 +231,4 @@ Appended 2026-09-16 after the owner's batch-3 resolution round.
 - Epilogue (E01): "at last" (Q21); "not mere magic" (Q12); "of what you're meant to be" (flags row 6).
 - Augustine quotations (SRC-025/SRC-026): Pusey public-domain translation adopted (decision A; item 17/24(a)).
 
-- **RSV-2CE confirm list — RESOLVED (owner, 2026-09-17):** all six readings stay aligned to RSV-2CE (Rom 12:2 'this world' incl. epilogue allusion; Ps 42:3 period; Ps 42:5 lowercase 'savior'; Mt 28:18-20 collapsed form; Mt 11:28 'heavy laden'; John 14:16/31 no chapter text).
+- **RSV-2CE confirm list — RESOLVED (owner, 2026-09-17):** all six DIRECT quotations stay aligned to RSV-2CE (Rom 12:2 'this world'; epilogue's indirect allusion keeps 'this age' per owner for section consistency; Ps 42:3 period; Ps 42:5 lowercase 'savior'; Mt 28:18-20 collapsed form; Mt 11:28 'heavy laden'; John 14:16/31 no chapter text).

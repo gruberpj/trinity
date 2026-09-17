@@ -276,4 +276,4 @@ Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `ch
 3. **Pusey tweak (owner preference).** "Thou madest us for Thyself, and our heart is restless, until it repose in Thee." → "Thou hast made us for Thyself, and our heart is restless, until it repose in Thee." (owner preference). **Note: this deviates slightly from the Gutenberg Pusey text** (Project Gutenberg ebook #3296 reads "Thou madest us"), superseding the 2026-09-16 Pusey-correction note's "madest" rendering for this one word only; the rest of the quotation is unchanged.
 
 ## RSV-2CE confirmation (2026-09-17)
-Owner confirmed all six confirm-list readings stay aligned to RSV-2CE, including the indirect Rom 12:2 allusion ('to not be conformed to this world…'). Pure-prose 'this age' idioms elsewhere are the author's own phrasing, not quotations — left as-is.
+Owner confirmed all six confirm-list readings stay aligned to RSV-2CE, Owner later refined: the epilogue's INDIRECT Rom 12:2 allusion keeps 'this age' (fits the section's other 'this age' idioms); only direct quotations are aligned to RSV-2CE.
