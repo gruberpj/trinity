@@ -8,6 +8,18 @@
 - **Authorities used:** `chapters/outlines/chapter_briefs.md` (C02 brief + global notes), `chapters/outlines/talk_map.md` (C02 segment map), `work/review/C02_mystery.review.md`, `research/source_ledger.csv` (SRC-002, SRC-007, SRC-010, SRC-011, SRC-020, SRC-021, SRC-031, SRC-032, SRC-033), `research/unresolved.md`, `research/voice_profile.md`, handoff §5/§7/Appendix B.
 - **Status:** draft — pending voice review and theological review (handoff G4 human gates).
 
+## Owner edits 2026-09-16 (applied identically to `chapters/drafts/` and `chapters/reviewed/`)
+
+**Opening prayer — translation adapted (00:00:01–00:00:38) — Owner edit 2026-09-16.** The heard (unidentified) rendering has been replaced by the closest published translation: the **CCC ¶260 official English** (vatican.va; SRC-011 "Authoritative excerpt", verified; identical to the DOCX ¶¶199–267 block). Choice rationale: of the published renderings recorded in SRC-011, CCC ¶260 is closest to what was heard — "help me forget myself entirely" (heard: "help me to forget myself entirely"), "establish … in you" (heard: "established in you"; the Dijon Carmel/O.Carm rendering has "that I may abide in you"; Stanbrook 1914 has "as changeless and as calm … O my immutable Lord"), "peaceful" (heard: "as still and as peaceful"), "as if my soul were already in eternity" (identical to heard), "May nothing … trouble my peace or make me leave you, O my unchanging …" (heard: "May nothing trouble my peace or make me leave you, O my unchanging one"), "each minute … your mystery" (heard: "each minute carry me further into the depths of your mystery"). The printed text is the CCC ¶260 text verbatim, including its closing sentences.
+
+**Heard-vs-printed differences (all disclosed):**
+- heard "help me **to** forget myself entirely, **that I may be established in you as still and as peaceful**," → printed "help me forget myself entirely **so to establish myself in you, unmovable and peaceful**"
+- heard "May nothing trouble my peace or make me leave you, O my **unchanging one**, but may each minute **carry me further into the depths of** your mystery." → printed "May nothing **be able to** trouble my peace or make me leave you, O my **unchanging God**, but may each minute **bring me more deeply into** your mystery!"
+- heard recitation closed with "**Amen.**" → CCC ¶260 carries no Amen; **not printed** (sign-of-cross frames around the prayer retained).
+- printed text includes the CCC ¶260 closing sentences "Grant my soul peace. … wholly given over to your creative action." — **not heard** in the talk; printed because the owner directed printing the published translation (the author's DOCX carries the full prayer in both its standalone and CCC forms).
+
+Attribution line "*— Prayer of St. Elizabeth of the Trinity*" kept. Supersedes §1's "printed exactly as heard" statement; the unresolved.md C gate (translation identity) is resolved by this owner decision (recorded here only — research files are handled by a later sync agent).
+
 ## Drafting plan (stated before prose)
 
 Section skeleton, in the talk's own order (brief's "Emotional/spiritual movement" is the canonical sequence; the brief's opening image is the sun, with the opening prayer before it):
@@ -42,7 +54,7 @@ Pattern check (handoff §7 recommended chapter pattern + task template): opening
 - **Timestamps:** 00:00:01–00:00:38.
 - **Sources:** SRC-011 (prayer, recited without spoken attribution; authorship certain; translation of this rendering unidentified — ATTRIBUTION_UNCONFIRMED); sign-of-the-cross bookends (standard liturgical formula; matches C01 review practice). CCC ¶260 official rendering differs from what was heard.
 - **Bridges:** B1 (attribution line "*— Prayer of St. Elizabeth of the Trinity*" — saint unnamed in audio; authorship certain per SRC-011).
-- **Gates:** unresolved.md C — translation identity must be resolved before publication (author decision 6 in chapter_briefs.md). Prayer wording printed exactly as heard (matches the DOCX standalone version verbatim per C02 review §3.1).
+- **Gates:** unresolved.md C — translation identity must be resolved before publication (author decision 6 in chapter_briefs.md). Prayer wording printed exactly as heard (matches the DOCX standalone version verbatim per C02 review §3.1). **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): CCC ¶260 official English printed; gate C resolved by owner decision.
 
 ### 2. The Graveyard of Heresies
 - **Timestamps:** 00:00:38–00:01:32.
@@ -164,7 +176,7 @@ Bridge count: **6** (B1–B6). No invented theology, examples, arguments, transi
 
 ## Open flags carried into review (author-input items)
 
-1. SRC-011 translation identity of the opening prayer (unresolved.md C; author decision 6).
+1. SRC-011 translation identity of the opening prayer (unresolved.md C; author decision 6) — **resolved by Owner edit 2026-09-16**: CCC ¶260 official English printed (see "Owner edits" section).
 2. SRC-002 Ratzinger page verification (unresolved.md A) + PERMISSION_REVIEW.
 3. SRC-020 Maritain page/lecture print check (unresolved.md Stage 2 item 3) + PERMISSION_REVIEW.
 4. SRC-032 "maps of meaning" — allusion or coincidence (author decision 8 bundle).

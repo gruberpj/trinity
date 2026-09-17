@@ -44,7 +44,7 @@ We are washed clean, original sin being wiped away. We are restored, and we are 
 
 The sacramental life is how we live as Catholics. But we also have this idea of maybe more broadly sacramentality: not just the seven sacraments, but recognizing that all visible things point to the invisible, all material creation comes with the immaterial — it's a package of something beyond us. There's a mystery to behold — and every leaf that falls from a tree, every blade of grass, every hair on our heads — there is mystery, and there is gift.
 
-Luigi Giussani, one of the great religious thinkers and reformers of the 20th century, said that everything is positive. Everything is positive. Everything is good. And if it does not exist, it is not good. Sin is nothingness. Christ said, "Without me you can do nothing." And when we sin, we do nothing. But everything — everything that shares in God — shares in his goodness. There's nothing that is purely evil. Not even Satan himself is pure evil, for even by his existence, he shares something in God. And everything of our own lives, everything we encounter, is teeming with that life, is teeming with that mystery, is teeming with that gift underneath it.
+Luigi Giussani, one of the great religious thinkers and reformers of the 20th century — everything is positive, to use Giussani's phrase. Everything is positive. Everything is good. And if it does not exist, it is not good. Sin is nothingness. Christ said, "Without me you can do nothing." And when we sin, we do nothing. But everything — everything that shares in God — shares in his goodness. There's nothing that is purely evil. Not even Satan himself is pure evil, for even by his existence, he shares something in God. And everything of our own lives, everything we encounter, is teeming with that life, is teeming with that mystery, is teeming with that gift underneath it.
 
 St. Thérèse said at the end of her life, before she was about to expire from tuberculosis — a very painful, terrible disease — that everything is grace. God's life is in everything. It is brimming with mystery. For this reason, St. Augustine could see the Trinity in everything, or St. Elizabeth of the Trinity could not help but talk about Trinity in everything she would see — for the relations between objects and persons, between person and person, everything communicated something of the Trinity. In the next talk, we will talk about how relationships image the Trinity. But everything is gift.
 
@@ -52,7 +52,7 @@ This is a fundamentally different way to view all reality. This is a fundamental
 
 ## The enchanted world and the law of the gift
 
-Max Weber, a German philosopher of the 19th century, spoke of the disenchantment of the world. But it is an enchanted world. Not that it's magic in the sense of the occult, but it is magical and enchanted, because the material world is brimming with the invisible. We need to recover this. We need to have the sacramental vision by which we see all things. And when we do that, we will want to respond.
+We are living in an enchanted world. Not that it's magic in the sense of the occult, but it is magical and enchanted, because the material world is brimming with the invisible. We need to recover this. We need to have the sacramental vision by which we see all things. And when we do that, we will want to respond.
 
 Recall John Paul II's Theology of the Body. He speaks often of the law of the gift, as it is commonly called. In this world, when we give something away, a material thing, I no longer have this. I give this folder over. It's no longer mine. I give it to this person here. But in the world of grace, when I give, I do not lose. In fact, I gain. Giving over something, we gain. Our response to all of God's creation, all of God's gifts, every one of God's blessings, is that of thanksgiving and praise.
 
@@ -81,3 +81,11 @@ To hope is to affirm being, says Gabriel Marcel. To despair is to negate being, 
 ## Give thanks
 
 This is how we live the Trinitarian life in all aspects — not segmenting it out in some part that we call our faith life. We live our life — our life is inherently Trinitarian, and our life is Trinitarian through the shape of the cross that is traced over us again and again. Living this mystery means living utterly differently, and it needs to be expressed. And what I recommend to do — this is to live this life of thanksgiving, to be thankful before God at all times, in all places. Saint Paul says, "Give thanks."
+
+## Closing Prayer
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.

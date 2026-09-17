@@ -8,25 +8,43 @@
 - Raw ASR JSON + raw transcripts are immutable evidence (`work/asr/`, `transcripts/raw/`).
 - Clean transcripts (grammar-fixed, wording preserved, flags at topic boundaries) in `transcripts/clean/`; oral-to-written editorial layer in `transcripts/editorial/`; per-recording review logs in `work/review/`.
 - Chapter drafts in `chapters/drafts/` each carry a `.provenance.md` sidecar mapping every section to transcript timestamps, verified sources, and disclosed editorial bridges. QA report: `work/review/G4_chapter_QA.md` (traceability sample 108/108 = 100%).
-- Source ledger: `research/source_ledger.csv` (62 rows SRC-001…SRC-062) + verified excerpts in `research/verified_excerpts/`.
+- Source ledger: `research/source_ledger.csv` (63 rows SRC-001…SRC-063) + verified excerpts in `research/verified_excerpts/`.
 
-## Open items requiring the author (summary — full queue in `research/unresolved.md`)
+## Open items — resolved vs remaining (synced 2026-09-16 with the owner's answers)
 
-1. **Human listening sign-off (handoff gate G2)** for all seven clean transcripts. Machine review used word-probability evidence; a human ear is required for ~100 flagged spots ([possibly:…], [unclear …]).
-2. **SRC-024 — Benedict XVI "you are not made for comfort… made for greatness"** (Epilogue): not found in the official texts of the 20/21 Aug 2005 WYD homilies. Currently carried with `[quotation wording unverified]`; source must be located or the line recast.
-3. **SRC-034 — "Bill Daniels" attribution** (Ch. 3, ~00:01:47): RESOLVED by owner 2026-09-16 — Bill Daniels is a retreatant on the retreat, not a published author; attribution removed from the chapter prose (bridge B17).
-4. **C04 Benedict homily gap** (00:10:04–00:10:35, 31.4 s of audio lost to VAD): the chapter prints only the verified tail ("…of our friendship with him"); the human listener must recover the missing passage before fuller quotation.
-5. **Scripture translation policy**: passages track the RSV family; several modernized/variant readings were kept as heard (Mt 28:18 "All power" vs RSV "authority"; Rom 12:2 "this age" vs "this world"). Author must choose the printed edition and normalize or footnote variants.
-6. **Ratzinger page numbers** (SRC-001/002/003): wording verified against the 2004 edition, but pages 162/172/175 need physical-copy confirmation. The p.162 "mysterium" and p.175 observer passages appear in no talk — decide epigraph use or omit.
-7. **St. Elizabeth of the Trinity prayer** (SRC-011): the standalone version heard matches no located published translation; the CCC ¶260 version is verified. Choose a printed text.
-8. **DOCTRINAL_REVIEW items**: "one thing is three" (Ch. 5), subsistent relations/missions gloss (Ch. 2), Immaculate Conception framing and "passive tense" (Ch. 3), among others — need a qualified theological reviewer.
-9. **Permissions**: CCC ¶¶199–267 long excerpt (SRC-009), ICEL Liturgy of the Hours antiphon (SRC-025), Rublev icon reproduction rights (SRC-013), and long quotations generally.
-10. **Structural confirmations**: E01 as epilogue (evidence-based recommendation, owner has approved direction), chapter titles, closing Glory Be consolidation policy (Ch. 3 has none), Chesterton "poorly" vs "badly" (kept as heard, paraphrase), Weber reconstruction (00:31:57, human-listen first), eclipse "a year and a half ago" factual flag (Epilogue).
-11. **Named reviewers**: transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
+### Resolved (owner, 2026-09-16)
+
+1. **C04 Benedict homily** — full quote restored in Ch. 4 from the DOCX (matches vatican.va verbatim); the 31.4 s audio gap is noted but no longer limits the quotation.
+2. **Scripture translation policy** — POLICY RECORDED: target RSV-2CE unless substantial deviation; see `research/verified_excerpts/RSV-2CE-plan.md`; verification workflow queued. Mt 18:20 row added (SRC-063); SRC-046 C04 anchor added.
+3. **SRC-024 (Benedict "made for greatness")** — rendered as paraphrase, no quotation marks; endnote handled later (`SRC-024-origin.md` pending).
+4. **SRC-034 ("Bill Daniels")** — a retreatant on the retreat; attribution removed from the prose (bridge B17).
+5. **St. Elizabeth of the Trinity prayer (SRC-011)** — CCC ¶260 official text now prints in Ch. 2 and Ch. 4.
+6. **St. Patrick's Breastplate (SRC-012)** — asterisk dropped.
+7. **CCC ¶¶199–267 (SRC-009)** — the excerpt will NOT be printed; permissions handled later.
+8. **Chesterton (SRC-023)** — exact wording printed, followed by the author's correction: "I would correct Chesterton here. Anything worth doing is worth doing poorly."
+9. **Weber (SRC-030)** — removed from Ch. 3 and the Epilogue; recast as "living in an enchanted world."
+10. **"Law of the gift" (SRC-038)** — "as it is commonly called" hedge + George Weigel endnote confirmed.
+11. **Giussani (SRC-036)** — commonly cited aphorism; rendered with attribution, no quotation marks.
+12. **Thérèse (SRC-027/028/029/041)** — "Everything is grace" dated 5 June 1897; C01 attribution → Thérèse; E01 → "her Last Conversations"; the SRC-028 line was found by the owner in a Jean LeFrance book (usual published spelling: "Jean Lafrance") — book/page pin pending.
+13. **Rublev dating (SRC-013)** — "most accurate": c. 1411 or 1425–1427; ROC custody (`SRC-013-dating.md` pending).
+14. **Eclipse flag** — "the eclipse of April 2024."
+15. **C03 closing Glory Be** — unparked; appended as the chapter's "## Closing Prayer".
+16. **C01 amen/tent-peg etymology** — excised per owner (Hebrew "tent peg" = *yated*); the intimus note remains valid.
+17. **Ratzinger pages (SRC-001/002/003)** — the owner has the physical 2004 Ignatius copy; page confirmation to follow.
+
+### Remaining
+
+1. **Human listening sign-off (handoff gate G2)** — ~100 flagged spots, incl. the register forms and the E01 review Q1–Q29 queue (listening batches).
+2. **RSV-2CE verification workflow** — queued per `research/verified_excerpts/RSV-2CE-plan.md`.
+3. **Ratzinger page confirmation** — from the owner's physical 2004 copy (SRC-001/002/003); epigraph use of the p. 162 / p. 175 passages undecided.
+4. **LeFrance book/page pin** (SRC-028).
+5. **Citation-reviewer items** — Fagerberg page (SRC-022), Maritain page (SRC-020), John of the Cross saying number (SRC-040), Augustine "deepest wound" hedge (SRC-045).
+6. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); ICEL (SRC-025/026); Rublev image rights (SRC-013); long-quote permissions.
+7. **Named reviewers** — transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
 
 ## Assembly details
 
 - Order: `chapters/reviewed/ORDER.txt` (Ch. 1–6 + Epilogue).
 - Assembled manuscript sha256: `e68152bd286723215f321b2d72fb39f10d8f605beb8f00784434950ad2f5619e` (2026-09-16 owner updates: official title page and provisional Note on the Text now emitted by `scripts/10_assemble_manuscript.py`).
-- Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (49 rows).
+- Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (52 rows).
 - Marker scan at assembly: 0 blocking markers; 20 intended `[possibly:…]` flags remain in prose.

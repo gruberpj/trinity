@@ -2,7 +2,7 @@
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 
-*O my God, Trinity, whom I adore, help me to forget myself entirely, that I may be established in you as still and as peaceful, as if my soul were already in eternity. May nothing trouble my peace or make me leave you, O my unchanging one, but may each minute carry me further into the depths of your mystery. Amen.*
+*O my God, Trinity whom I adore, help me forget myself entirely so to establish myself in you, unmovable and peaceful as if my soul were already in eternity. May nothing be able to trouble my peace or make me leave you, O my unchanging God, but may each minute bring me more deeply into your mystery! Grant my soul peace. Make it your heaven, your beloved dwelling and the place of your rest. May I never abandon you there, but may I be there, whole and entire, completely vigilant in my faith, entirely adoring, and wholly given over to your creative action.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
 

@@ -93,7 +93,7 @@ def main():
     mid = norm(pages[n // 2].extract_text())
     check("middle page: body text present", len(mid) > 200, mid[:60])
     plast = norm(pages[-1].extract_text())
-    check("last page: notes tail", "Judges 4:21" in plast or "St. Augustine" in plast, plast[-100:])
+    check("last page: notes tail", "Matthew 18:20" in plast or "Judges 4:21" in plast or "St. Augustine" in plast, plast[-100:])
 
     # 3. TOC page numbers vs actual chapter starts
     expected = {
@@ -101,10 +101,10 @@ def main():
         "Chapter 2 — Mystery": 17,
         "Chapter 3 — Gift and Liturgy": 27,
         "Chapter 4 — Relationship": 37,
-        "Chapter 5 — Intimacy": 45,
-        "Chapter 6 — Evangelization": 55,
-        "Epilogue — Engineering Mystery": 63,
-        "Notes and Sources": 83,
+        "Chapter 5 — Intimacy": 43,
+        "Chapter 6 — Evangelization": 53,
+        "Epilogue — Engineering Mystery": 61,
+        "Notes and Sources": 81,
     }
     toc = {}
     for y, fs in lines_by_y(pages[2]):

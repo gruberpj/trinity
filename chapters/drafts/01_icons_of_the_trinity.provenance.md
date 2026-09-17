@@ -8,6 +8,19 @@
 
 ---
 
+## Owner edits 2026-09-16 (applied identically to `chapters/drafts/` and `chapters/reviewed/`)
+
+1. **St. Teresa → St. Thérèse (00:19:13) — Owner edit 2026-09-16.** "St. Teresa `[possibly: Thérèse]`" changed to "St. Thérèse"; the `[possibly]` flag removed. Owner confirmed the saint is Thérèse of Lisieux. The `[quotation wording unverified]` marker on the quoted line ("What is prayer but a simple glance directed towards heaven?") is **retained** — the owner did not settle the quotation wording. Supersedes §2.10 flags line, §3.1, and the §7 queued item "Thérèse attribution" (resolved).
+2. **Amen/aman "tent peg" etymology excised (00:20:55–00:22:18) — Owner edit 2026-09-16 (author-directed excision).** Owner: later research shows the etymology does not line up with the Hebrew (Hebrew "tent peg" = *yated*). Exact removed spans (deletions only; no new sentences invented):
+   - " Amen is a Hebrew word. It is actually derived from another Hebrew word, aman. Aman means tent peg."
+   - " But it's derived from this Hebrew word for tent peg. And you think about, especially, the sojourners — the Israelites in the deserts, in the wilderness, traveling with Moses, they'd set up their tents again and again, as they would have to move on occasion. They would stake their tents so that they would not blow away. It would keep them safe. It would be tied down; you would need to have a peg that would go into the ground. And that tent peg, aman, became associated now with our prayer."
+   - " I'm driving this into the ground."
+   - " And we think of, maybe even, Jael killing Sisera in the tent, using a tent peg to conquer one's enemies. We might think in the New Testament of those sharp tent pegs, those nails that went through our Lord's hands, for them, for our salvation."
+   - Kept (the surrounding amen/faith argument): "What does amen mean? … It means I believe. It means I'm committing to this. And it does mean that," the commitment meditation ("I am staking my life on this. It will not be moved. This is my stability. I am grounded in this truth. You will not move me…"), and the closing emphasis ("This 'amen' is no less important than the other words we pray…"). Splice: deletions only. Q13 ("for them," 00:22:33) and the SRC-060 Jael reference fall inside the excised span and are thereby moot. Supersedes §2.11 flags line, §3.7, and the §7 queued etymological-reviewer item (resolved by excision). Resolution recorded here only — `research/unresolved.md` item 14 is left for the sync agent.
+3. **Breastplate asterisk — Owner edit 2026-09-16 (confirmation).** No asterisk appears anywhere in this chapter, and the "day of doom" stanza is not printed (the DOCX asterisk artifact "His coming at the day of doom;*" sits on a stanza not heard in the talk, per §2.1). Nothing to remove; nothing changed.
+
+---
+
 ## 1. Drafting plan (stated before drafting)
 
 Chapter skeleton — follows the recommended pattern (brief + handoff §7): opening image (Breastplate prayer → shamrock) → claim with humility before mystery → scriptural/Church witness (Rublev icon read through Gen 18) → pastoral application (the sign of the cross) → return to opening + invitation (pray with the image; the daily sign; cliffhanger to future conferences).
@@ -88,13 +101,13 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 - **Timestamp span:** 00:18:46–00:20:16
 - **Sources used:** SRC-027 (Thérèse "simple glance" — heard wording kept with marker `[quotation wording unverified]`; verified comparison texts: CCC ¶2558 "a simple look turned toward heaven," Taylor 1912 "a glance towards heaven"; the heard rendering matches no edition verbatim)
 - **Editorial bridges:** none.
-- **Flags carried:** the attribution is kept **as heard** — "St. Teresa `[possibly: Thérèse]`" — with the review-log caveat (see special notes §3.1). Q11 ("Pour it out" vs "Poured out," 00:20:39) falls just after this span; retained as heard.
+- **Flags carried:** the attribution is kept **as heard** — "St. Teresa `[possibly: Thérèse]`" — with the review-log caveat (see special notes §3.1). **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): the saint is Thérèse; the flag is removed. Q11 ("Pour it out" vs "Poured out," 00:20:39) falls just after this span; retained as heard.
 
 ### 2.11 The Spirit's Crossing — and the Amen
 - **Timestamp span:** 00:20:16–00:22:52
 - **Sources used:** SRC-060 (Judg 4:21 Jael allusion, PARAPHRASE_CONFIRMED — kept as allusion, not quoted); SRC-007 (CCC ¶234 echo "most central mystery of our faith," not quoted); no ledger row for the *aman* etymology
 - **Editorial bridges:** none. **Excision per brief:** the room aside "you guys are not audibly groaning. We're at 21 minutes and I'm sorry. But you're permitted to groan." (00:20:55) is parked (brief: "keep only if voice review approves" — not yet approved). Removing it leaves a dangling "That" before "the Israelites…"; dropping that one word is a basic grammar fix and is logged here.
-- **Flags carried:** `[possibly: descent]` (00:20:41); Q13 ("for them," 00:22:33). The *aman* = tent-peck claim is kept as the author's homiletic image and flagged for the etymological reviewer (unresolved.md Stage 2 item 14; Hebrew "tent peg" = *yated*).
+- **Flags carried:** `[possibly: descent]` (00:20:41); Q13 ("for them," 00:22:33). The *aman* = tent-peck claim is kept as the author's homiletic image and flagged for the etymological reviewer (unresolved.md Stage 2 item 14; Hebrew "tent peg" = *yated*). **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): the etymology was excised by author direction; Q13 and the SRC-060 reference fell inside the excised span.
 
 ### 2.12 Who Are We Crossing? Ourselves
 - **Timestamp span:** 00:22:52–00:24:27
@@ -112,13 +125,13 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 
 ## 3. Special handling notes (talk-specific flags from the drafting brief)
 
-1. **Thérèse attribution (00:19:13):** kept as heard — "St. Teresa `[possibly: Thérèse]`" — with the review-log caveat carried into provenance. The quoted line is Thérèse of Lisieux's (CCC ¶2558 / Story of a Soul Ms C 25r, SRC-027), not Teresa of Avila's; the heard wording matches no edition verbatim, hence `[quotation wording unverified]`. **Human listen required** (review log Q10 / unresolved.md Stage 2 item 6a) before the attribution and wording can be settled.
+1. **Thérèse attribution (00:19:13):** kept as heard — "St. Teresa `[possibly: Thérèse]`" — with the review-log caveat carried into provenance. The quoted line is Thérèse of Lisieux's (CCC ¶2558 / Story of a Soul Ms C 25r, SRC-027), not Teresa of Avila's; the heard wording matches no edition verbatim, hence `[quotation wording unverified]`. **Human listen required** (review log Q10 / unresolved.md Stage 2 item 6a) before the attribution and wording can be settled. **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): the saint is confirmed as Thérèse; the quotation-wording marker remains open.
 2. **Matthew 28:18 "All power" (00:03:04):** kept **as heard** — "All power in heaven and on earth has been given to me." Not forced to RSV "All authority." The discrepancy is disclosed here (and in the review log §3.3, ledger SRC-019) as the footnote material the brief assigns it.
 3. **John 14:2 (00:13:17):** the spoken insertion "there" is dropped in favor of the ledger's verified RSV wording, "In my Father's house are many rooms" (SRC-018 VERIFIED_MINOR_VARIANT). This is the one place the draft corrects heard wording to a verified edition.
 4. **Quotation-marker policy applied — 6 markers:** Gen 1:26 wording (§2.4), Lk 2:49 wording (§2.7), Jn 12:24 wording (§2.8), Thérèse wording (§2.10), and both Gen 1:31 adaptations — "It is good" and "You are very good" (§2.12). Verified quotations printed without markers: Breastplate final stanza (SRC-012), Mt 28:19 formula (SRC-019), Jn 14:2 (SRC-018), Glory Be (standard text).
 5. **Rublev caption facts:** no dating or location statements are printed in the chapter (unresolved.md E: dating disputed; 2023 custody transfer). Artwork reproduction rights remain RIGHTS_REVIEW (SRC-013).
 6. **Epigraph:** omitted. The global notes do not authorize epigraphs (epigraph use is an open author decision, per the ch. 2 brief); chapter front matter is the title only.
-7. **"Amen/aman" etymology:** retained verbatim as the author's image; flagged for the theological/etymological reviewer (unresolved.md item 14) — no correction made in the draft.
+7. **"Amen/aman" etymology:** retained verbatim as the author's image; flagged for the theological/etymological reviewer (unresolved.md item 14) — no correction made in the draft. **Superseded by Owner edit 2026-09-16** (see "Owner edits" section): excised by author direction; the amen/faith argument kept.
 
 ---
 
@@ -176,7 +189,7 @@ Chapter skeleton — follows the recommended pattern (brief + handoff §7): open
 
 ## 7. Items needing author/human input (queued)
 
-- Human audio listen: review-log Q1, Q2, Q3, Q5, Q6, Q8, Q9, Q10 (Thérèse/Teresa), Q11, Q13, Q14, Q15, Q16, Q17.
-- Theological/etymological reviewer: *aman* = "tent peg" (unresolved.md item 14).
-- Author: Breastplate stanza selection; per-chapter Glory Be keep-vs-consolidate; Mt 28:18 "power" footnote wording; Thérèse attribution; Rublev dating/location for any future caption; epigraph policy (n/a for ch. 1).
+- Human audio listen: review-log Q1, Q2, Q3, Q5, Q6, Q8, Q9, Q10 (Thérèse/Teresa — attribution resolved by Owner edit 2026-09-16; only the quotation wording stays open), Q11, Q13 (moot — excised with the etymology, Owner edit 2026-09-16), Q14, Q15, Q16, Q17.
+- Theological/etymological reviewer: *aman* = "tent peg" (unresolved.md item 14) — **resolved by Owner edit 2026-09-16** (excision).
+- Author: Breastplate stanza selection; per-chapter Glory Be keep-vs-consolidate; Mt 28:18 "power" footnote wording; Thérèse attribution — **resolved by Owner edit 2026-09-16**; Rublev dating/location for any future caption; epigraph policy (n/a for ch. 1).
 - Rights reviewer: SRC-013 artwork reproduction (if the icon image is printed); RSV NCC attribution for short excerpts.

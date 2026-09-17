@@ -18,7 +18,7 @@ Parked during drafting of `chapters/drafts/epilogue_engineering_mystery.md`:
 8. **False start** (E01 00:13:39) — "If you tried to —" abandoned clause removed (clean-layer false-start rule).
 9. **"Not physically on the altar" clarification** (E01 00:09:06) — currently *retained* in the draft ("not physically on the altar, but the expression means in the sanctuary"); if the author wants the section tighter, this aside is the first cut.
 
-Not parked (author decisions, tracked in `research/unresolved.md` instead): the "here at Franciscan"/"you guys" register forms; SRC-024 "made for greatness"; the Weber reconstruction; the eclipse date flag; Thérèse "letters" correction; Chesterton "poorly"/"badly"; "law of the gift" attribution strategy.
+Not parked (author decisions, tracked in `research/unresolved.md` instead): the "here at Franciscan"/"you guys" register forms (open); SRC-024 "made for greatness" — RESOLVED 2026-09-16: paraphrase rendering, no quotation marks, endnote later; the Weber reconstruction — RESOLVED 2026-09-16: Weber removed, recast as "living in an enchanted world"; the eclipse date flag — RESOLVED 2026-09-16: "the eclipse of April 2024"; Thérèse "letters" correction — RESOLVED 2026-09-16: "in her Last Conversations"; Chesterton "poorly"/"badly" — RESOLVED 2026-09-16: exact Chesterton wording + the author's correction sentence; "law of the gift" attribution strategy — RESOLVED 2026-09-16: "as it is commonly called" + Weigel endnote.
 
 ---
 
@@ -37,6 +37,7 @@ Parked during drafting of `chapters/drafts/01_icons_of_the_trinity.md`:
    - Reinstatement: voice reviewer approval; if restored, re-insert before "the Israelites in the deserts…" in the Amen section and restore the connecting "That."
 
 3. *(No other C01 material parked. The Mt 28:18 "power/authority" variant is kept in the chapter as heard, with the discrepancy disclosed in the provenance sidecar — not parked.)*
+4. **Sync note — Amen/aman "tent peg" etymology + Jael allusion (00:20:55–00:22:18) — RESOLVED 2026-09-16: excised by owner direction.** The etymology ("aman means tent peg") and the Jael/Sisera allusion (SRC-060) were removed from the chapter per owner — the etymology does not line up with the Hebrew ("tent peg" = *yated*). The surrounding amen/faith argument is kept (C01 provenance "Owner edits" §2). Recorded here for the log only; material excised, not parked (no re-adoption path).
 
 ---
 
@@ -48,10 +49,10 @@ Parked during drafting of `chapters/drafts/04_relationship.md`:
 2. **CCC ¶2845 / St. Cyprian — "The communion of the Holy Trinity is the source and criterion of truth in every relationship"** (SRC-008) — DOCX-only material, heard in no talk. Author decides whether to add to ch. 4 as a sourced supplement (chapter_briefs.md Global notes; SRC-008 VERIFIED_MINOR_VARIANT). Not drafted into ch. 4 prose.
 3. **Fivefold litany source** (00:12:39) — "Marriage enshrines the Trinity… loneliness, when it does not despair, adores it." Source unidentified; kept unquoted in ch. 4. Author decides whether it is his own formulation or a quotation (chapter_briefs.md author decisions item 8). Quotation marks must not be added until resolved.
 4. **Buber "I and Thou" explanation** (00:08:30–00:09:08) — kept in full for now (short talk; no length pressure). The editor may trim the grammatical gloss if global length requires.
-5. **Benedict XVI homily excerpt beyond the verified tail** — the 31.4 s audio gap (00:10:04–00:10:35) content is unrecovered. Nothing is parked as text; recovery is a human-listener task (unresolved.md C04-1). No reconstruction attempted anywhere.
+5. **Benedict XVI homily excerpt beyond the verified tail** — the 31.4 s audio gap (00:10:04–00:10:35) content is unrecovered. Nothing is parked as text; recovery is a human-listener task (unresolved.md C04-1). No reconstruction attempted anywhere. **RESOLVED 2026-09-16:** the full quotation was restored in Ch. 4 from the DOCX per owner direction (matches vatican.va verbatim); the audio gap is noted in the provenance but nothing remains parked here. Item closed.
 
 **C04 cross-chapter notes (not parked, tracked for assembly):**
-- **Rom 12:2** is heard in both C04 (00:07:09) and E01 (SRC-046, row anchored E01). Same heard wording "this age" in both; C04 anchor to be added to the ledger row (unresolved.md C04-3).
+- **Rom 12:2** is heard in both C04 (00:07:09) and E01 (SRC-046, row anchored E01). Same heard wording "this age" in both; C04 anchor to be added to the ledger row (unresolved.md C04-3). **RESOLVED 2026-09-16:** C04 00:07:09 anchor added to SRC-046.
 - **"Infinite abyss of existence"** (Newman echo, SRC-010) also appears in C02/C03/C06. Kept here as the speaker's unquoted paraphrase, matching C04 audio.
 - **Fivefold litany variant:** C04 "Motherhood expresses it… loneliness, when it does not despair, adores it" vs E01 "Motherhood embraces it… does not give in to despair — adores it." Ch. 4 keeps the C04 form; the epilogue keeps the E01 form (voice profile §9.6 — do not merge).
 
@@ -76,8 +77,9 @@ Parked during drafting of `chapters/drafts/03_gift_and_liturgy.md`:
 1. **Tacoma Narrows Bridge detail + "Biology [possibly: physiology]…" transition** (00:19:42–00:20:07) — brief-authorized trim; E01 also carries the analogy.
 2. **Confession quasi-materia aside** (00:12:00) — DOCTRINAL_REVIEW (parked until the theological reviewer rules).
 3. **St. Joseph adoption clause** (00:10:18) — brief-authorized trim (review Q14).
-4. **Closing Glory Be + sign-of-cross frame** (00:23:32–00:23:56) — held out of the chapter; author decision (global note).
+4. **Closing Glory Be + sign-of-cross frame** (00:23:32–00:23:56) — held out of the chapter; author decision (global note). **RESOLVED 2026-09-16:** owner unparked it; the heard closing is now appended to the chapter as the "## Closing Prayer" block (C03 provenance "Owner edits" §1).
 5. **One uninterpretable word at 00:03:41** after "nebula" (U1) — omitted (bridge B9; sentence otherwise intact); human listen required; candidate restoration possible after review.
+6. **Sync note — Weber attribution (00:14:51) — RESOLVED 2026-09-16: excised by owner direction.** "Max Weber, a German philosopher of the 19th century…" removed from the chapter; the passage is recast as the author's own idea — "We are living in an enchanted world." (C03 provenance "Owner edits" §3.) Recorded here for the log only; material excised, not parked.
 
 ---
 
