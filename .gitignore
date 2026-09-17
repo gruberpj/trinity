@@ -8,5 +8,9 @@ logs/
 __pycache__/
 .DS_Store
 
+# large reference PDFs (not to be tracked)
+/cover Apr 2026 MGS booklet.pdf
+/MGS Booklet Jun 2025 interior.pdf
+
 # review records ARE audit artifacts that must be versioned
 !work/review/

@@ -5,7 +5,7 @@
 - **Authorities:** chapter_briefs.md (C06 brief + Global notes), talk_map.md (C06 segment map), `work/review/C06_evangelization.review.md`, `research/voice_profile.md`, `research/source_ledger.csv` (SRC-004/005/006/010/014/019), `research/unresolved.md`; **added 2026-09-16 (owner duties 1–2):** `work/review/first_retreat_mine_talks56.md` (Talk 6 supplements), `research/verified_excerpts/SRC-071.md` (Athanasius/CCC ¶460), `research/verified_excerpts/SRC-070.md` (Dante — consulted, not used).
 - **Drafted:** 2026-09-16 by `pipeline-drafter`. **Status:** draft for voice/theological/citation review (handoff G4). Not approved.
 - **Updated:** 2026-09-16 — first-retreat supplement integration (owner duty 1, §10) + whole-chapter smoothing pass (owner duty 2, §11). `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` are byte-identical (sha256 `8439e8ed8918c11b26b1f2ad8fb2f8a5fcbb5de6151b0b90b00035e63b070ed6`).
-- **Flags in prose:** `[quotation wording unverified]` (Ignatius dictum), `[attribution questioned]` (Newman prayer), `[possibly: ...]` (three new first-retreat heard-word uncertainties — T6-S17 "Father [possibly: Michael]", T6-S19 "[possibly: confession]", T6-S20 "[possibly: mercy]"), `[unclear]` (one, T6-S20).
+- **Flags in prose:** `[quotation wording unverified]` (Ignatius dictum), `[possibly: ...]` (three new first-retreat heard-word uncertainties — T6-S17 "Father [possibly: Michael]", T6-S19 "[possibly: confession]", T6-S20 "[possibly: mercy]"), `[unclear]` (one, T6-S20). The former `[attribution questioned]` (Newman prayer) flag was removed by the Owner editorial round 2026-09-16 (attribution sentence added after the opening prayer; see that section below).
 
 ---
 
@@ -194,3 +194,13 @@ Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identic
 - **Skipped (per plan):** none.
 - **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
 - **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).
+
+---
+
+## Owner editorial round 2026-09-16
+
+Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; verified with `cmp`).
+
+1. **Prayer styling + Newman attribution (owner instruction).** The "Radiating Christ" opening prayer is now an italic blockquote; after the prayer an attribution sentence is added: "This prayer is traditionally attributed to St. John Henry Newman." (per the removed chapter caution note's content). The `[attribution questioned]` flag in §"Christ in the poor" is removed per owner instruction (the speaker's spoken attribution there is kept, now un-flagged). Supersedes the B5 caution-note item and the §5 row-1 note above (attribution no longer flagged in prose; the historical §5 record is retained). No `## Opening Prayer` / `## Closing Prayer` heading existed in this chapter.
+2. **Owner's "What Christ did on the cross — [unclear] —" item.** That sentence is located in **Chapter 3** (the "prayer of the liturgy" paragraph), not in this chapter; the owner's comma replacement was applied there (see 03 sidecar, "Owner editorial round 2026-09-16").
+3. **Language policy (whole chapter).** Contractions expanded outside quotations (Mt 28, Mt 25, Acts 9, and quoted imagined speech left as heard); fillers removed ("well", "I think" ×2, "Like, yes", "kind of"); "we've got" → "we have got"; "Let's open" → "Let us open". The `[possibly: Michael]`, `[possibly: confession]`, `[possibly: mercy]`, `[unclear]` (T6-S20), and `[quotation wording unverified]` (Ignatius) markers are untouched.

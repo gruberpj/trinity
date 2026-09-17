@@ -310,3 +310,14 @@ Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identic
 - **Skipped (per plan):** 1.24.
 - **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
 - **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).
+
+---
+
+## Owner editorial round 2026-09-16
+
+Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`). No git commit.
+
+- **Prayer styling (global policy):** the `## Opening Prayer` heading was removed; the Breastplate prayer is now rendered as a single italic blockquote (`> *…*`), one block, no subheading. Prayer wording unchanged.
+- **Language policy (global, ch1–3):** contractions expanded (he is not / they did not / it is / that is / you do not / I do not / let us / it is not…), except inside verified quotations and Scripture (none altered) and where a direct quote would stiffen. Filler "well," removed (narrator use, §Another Icon). Em dashes reduced to commas/periods/joins where disjointed (e.g., "the mountain — or really rather the hill" → "the mountain, or rather the hill"; "It is Christ's words himself, baptizing them — he says," → "…baptizing them:"); genuine parenthetical asides kept. Repeated words removed (doubled "sure. Sure,"; doubled "sort of" ×2 in the chalice paragraph; "they all" duplicated in "These three angels, they all are dressed"). Emphasis italics added sparingly ("*Every* word matters"). Vague antecedents replaced where confident (e.g., "they have one name, it emphasizes" → "to say they have one name emphasizes"; "where all three persons of the Trinity are not occupying" → "that all three persons…"; "the car reverses it" in ch3 is a ch3 item). Grammar/comprehensibility fixes kept minimal (e.g., "whose feast is during the month of March"; "having learned the language and escaped").
+- **Unclear antecedents collected for owner (not guessed):** none in this chapter.
+- **Markers:** all `[quotation wording unverified]` markers untouched.

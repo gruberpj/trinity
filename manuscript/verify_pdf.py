@@ -1,5 +1,22 @@
 #!/usr/bin/env python3
-"""Self-check for Mystery_of_the_Trinity.pdf against the reference spec."""
+"""Self-check for Mystery_of_the_Trinity.pdf against the flowing-layout spec.
+
+Layout under test (manuscript/build_pdf.py):
+  - title page and Table of Contents keep their own pages (1 and 3);
+    everything else — Note on the Text, chapters, epilogue, Notes and
+    Sources — flows continuously, no forced odd-page starts, no blanks.
+  - chapter/epilogue/notes headings render as one-line small caps
+    (extraction yields inter-letter spacing, so heading matching strips
+    all whitespace).
+  - prayers are italic, indented blockquotes with no "Opening Prayer" /
+    "Closing Prayer" subheadings.
+
+Expected failures against the current STALE PDF (old fixed-page layout,
+"OPENING PRAYER" subheading, pre-Pusey Augustine wording): the prayer-
+heading absence check and the Augustine verbatim probe. Everything else
+(page size, dynamic TOC-vs-actual page numbers, dot leaders, baselines,
+fonts) is layout-independent and should pass on both.
+"""
 
 import re
 import sys
@@ -8,6 +25,12 @@ from pathlib import Path
 from pypdf import PdfReader
 
 PDF = Path(__file__).resolve().parent / "Mystery_of_the_Trinity.pdf"
+
+TOC_PAGE_INDEX = 2  # title = page 1, Note on the Text = page 2, TOC = page 3
+
+# Heading lines with all whitespace removed (small caps + inter-letter gaps).
+HEAD_RE = re.compile(r"^(CHAPTER\d+—.+|EPILOGUE—.+|NOTESANDSOURCES)$")
+PRAYER_HEAD_RE = re.compile(r"^(OPENINGPRAYER|CLOSINGPRAYER)$")
 
 failures = []
 checks = []
@@ -44,6 +67,12 @@ def norm(text):
     return re.sub(r"\s+", " ", text or "")
 
 
+def strip_ws(text):
+    """Uppercase with all whitespace removed — robust against the inter-letter
+    spacing that small-caps extraction introduces."""
+    return re.sub(r"\s+", "", text or "").upper()
+
+
 def main():
     r = PdfReader(str(PDF))
     pages = r.pages
@@ -65,7 +94,6 @@ def main():
             s in p1
             for s in (
                 "The Mystery of the Trinity",
-                "A Retreat with Fr. Peter Gruber, C.O.",
                 "by Fr. Peter Gruber, C.O.",
                 "Working manuscript draft",
             )
@@ -78,64 +106,87 @@ def main():
         "NOTE ON THE TEXT" in p2 and "MACHINE-TRANSCRIBED" in p2,
         p2[:100],
     )
-    p3 = norm(pages[2].extract_text())
+    p3 = norm(pages[TOC_PAGE_INDEX].extract_text())
     check(
         "page 3: TOC heading + entries",
         "Table of Contents" in p3 and "Chapter 1" in p3 and "Notes and Sources" in p3,
         p3[:100],
-    )
-    p5 = norm(pages[4].extract_text()).upper()
-    check(
-        "page 5: chapter 1 opener (small caps)",
-        "CHAPTER 1" in p5 and "ICONS OF THE TRINITY" in p5 and "OPENING PRAYER" in p5,
-        p5[:100],
     )
     mid = norm(pages[n // 2].extract_text())
     check("middle page: body text present", len(mid) > 200, mid[:60])
     plast = norm(pages[-1].extract_text()) + " " + norm(pages[-2].extract_text())
     check("last page: notes tail", "Matthew 18:20" in plast or "Judges 4:21" in plast or "St. Augustine" in plast or "Athanasius" in plast, plast[-100:])
 
-    # 3. TOC page numbers vs actual chapter starts
-    expected = {
-        "Chapter 1 — Icons of the Trinity": 5,
-        "Chapter 2 — Mystery": 17,
-        "Chapter 3 — Gift and Liturgy": 31,
-        "Chapter 4 — Relationship": 47,
-        "Chapter 5 — Intimacy": 55,
-        "Chapter 6 — Evangelization": 67,
-        "Epilogue — Engineering Mystery": 77,
-        "Notes and Sources": 95,
-    }
+    # 3. dynamic heading extraction: first body page of every chapter,
+    #    epilogue, and Notes and Sources (TOC page excluded). Also flags any
+    #    leftover "Opening Prayer" / "Closing Prayer" heading line.
+    heading_pages = {}  # stripped-upper heading text -> 1-based page
+    prayer_pages = set()
+    for i, page in enumerate(pages):
+        if i == TOC_PAGE_INDEX:
+            continue
+        for y, fs in lines_by_y(page):
+            line = " ".join(t for x, t in fs)
+            key = strip_ws(line)
+            if HEAD_RE.match(key) and key not in heading_pages:
+                heading_pages[key] = i + 1
+            if PRAYER_HEAD_RE.match(key):
+                prayer_pages.add(i + 1)
+    print("  heading pages:", heading_pages)
+
+    ch1_key = strip_ws("Chapter 1 — Icons of the Trinity")
+    if ch1_key in heading_pages:
+        ch1_text = strip_ws(pages[heading_pages[ch1_key] - 1].extract_text())
+        check(
+            "chapter 1 opener (small caps) on its page",
+            "CHAPTER1" in ch1_text and "ICONSOFTHETRINITY" in ch1_text,
+            f"page {heading_pages[ch1_key]}",
+        )
+    else:
+        check("chapter 1 heading found in body", False, "not found")
+
+    # 4. TOC entries vs actual heading pages
     toc = {}
-    for y, fs in lines_by_y(pages[2]):
+    dot_leaders_ok = True
+    for y, fs in lines_by_y(pages[TOC_PAGE_INDEX]):
         left = " ".join(t for x, t in fs if x < 100).strip()
         right = "".join(t for x, t in fs if x >= 100)
+        if not left:
+            continue
         m = re.search(r"(\d+)\s*$", right)
-        if m and left:
+        if m:
             toc[left] = int(m.group(1))
-    matched = sum(1 for k, want in expected.items() if toc.get(k) == want)
-    for k, want in expected.items():
-        if toc.get(k) != want:
-            check(f"TOC entry {k!r} -> {toc.get(k)} (want {want})", False)
-    check("TOC page numbers match chapter starts (>=3)", matched >= 3, f"{matched}/{len(expected)}")
+            if "." not in right:
+                dot_leaders_ok = False
     print("  TOC parsed:", toc)
+    check("TOC entries have dot leaders", dot_leaders_ok)
 
-    # 4. baselines
-    l5 = lines_by_y(pages[4])
-    ys5 = [y for y, _ in l5]
+    matched = 0
+    for label, printed in toc.items():
+        actual = heading_pages.get(strip_ws(label))
+        if actual is None:
+            check(f"TOC entry {label!r}: no heading found in body", False)
+        elif actual != printed:
+            check(f"TOC entry {label!r}: printed {printed}, actual {actual}", False)
+        else:
+            matched += 1
+    for key, page_no in heading_pages.items():
+        if not any(strip_ws(label) == key for label in toc):
+            check(f"heading {key!r} (page {page_no}) missing from TOC", False)
     check(
-        "page 5: chapter title baseline ~449.58",
-        any(abs(y - 449.58) < 0.5 for y in ys5),
-        str(ys5[:3]),
+        "TOC page numbers match actual heading pages",
+        bool(toc) and matched == len(toc),
+        f"{matched}/{len(toc)}",
     )
+
+    # 5. prayers carry no subheadings
     check(
-        "page 5: first body baseline ~430.58",
-        any(abs(y - 430.58) < 0.5 for y in ys5),
-        str(ys5[:3]),
+        "no Opening/Closing Prayer headings",
+        not prayer_pages,
+        f"pages {sorted(prayer_pages)}" if prayer_pages else "none",
     )
-    l6 = lines_by_y(pages[5])
-    body6 = [y for y, _ in l6 if y > 40]
-    check("page 6: first body baseline ~430.58", abs(body6[0] - 430.58) < 0.5, str(body6[0]))
+
+    # 6. baselines: page numbers only (body top varies in flowing layout)
     pn_ok = True
     for idx in (1, 2, 4, n // 2, n - 1):
         ys = [y for y, _ in lines_by_y(pages[idx]) if y < 25]
@@ -146,7 +197,7 @@ def main():
     t1 = [y for y, _ in lines_by_y(pages[0]) if y < 25]
     check("page 1: no page number", not t1, str(t1))
 
-    # 5. fonts embedded
+    # 7. fonts embedded
     font_names = set()
     for idx in (0, 2, 4, n // 2, n - 1):
         res = pages[idx].get("/Resources", {})
@@ -155,13 +206,13 @@ def main():
     print("  embedded fonts:", sorted(font_names))
     check("Baskerville subsets embedded", any("Baskerville" in f for f in font_names))
 
-    # 6. verbatim probes (whitespace-normalized full text)
+    # 8. verbatim probes (whitespace-normalized full text)
     all_text = norm(" ".join(norm(p.extract_text()) for p in pages))
     for probe in (
         "I bind unto myself the name, the strong name of the Trinity",
         "pregnant with intelligibility",
         "Go, set the world on fire",
-        "Too late did I love You, O Fairness, so ancient, and yet so new",
+        "Too late loved I Thee, O Thou Beauty of ancient days",
     ):
         check(f"verbatim probe {probe[:34]!r}...", probe in all_text)
 

@@ -1,4 +1,4 @@
-# Manuscript Notes — The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O.
+# Manuscript Notes — The Mystery of the Trinity
 
 *Pipeline draft assembled 2026-09-16. These notes accompany `Mystery_of_the_Trinity.md`.*
 
@@ -10,7 +10,7 @@
 - Chapter drafts in `chapters/drafts/` each carry a `.provenance.md` sidecar mapping every section to transcript timestamps, verified sources, and disclosed editorial bridges. QA report: `work/review/G4_chapter_QA.md` (traceability sample 108/108 = 100%).
 - Source ledger: `research/source_ledger.csv` (71 rows SRC-001…SRC-071) + verified excerpts in `research/verified_excerpts/`.
 
-## Open items — resolved vs remaining (synced 2026-09-16 with the owner's answers)
+## Open items — resolved vs remaining (synced 2026-09-17 with the owner's answers)
 
 ### Resolved (owner, 2026-09-16)
 
@@ -38,12 +38,26 @@
 22. **Integration complete** — Ch. 1–6 + Epilogue smoothing applied; QA: PASS_WITH_FINDINGS ×5 (ch1–6), PASS (epilogue); traceability 100%.
 23. **First-retreat verification batch** — SRC-064…SRC-071 (8 rows) added to the ledger: O'Connor "Dogma is the guardian of mystery" (1959 letter — ch2 integration pending), Marshall-not-Chesterton brothel line (C03, attributed correctly), Newman Simon of Cyrene (C04), West "into me see" (C05, hedge form), Arinze anecdote (unverified — omitted from print), Dubay *Fire Within* (C05, bibliographic), Dante Paradiso XXXIII.145 (C05), Athanasius De Incarnatione 54.3 via CCC ¶460 (C06).
 
+### Resolved (owner, 2026-09-17)
+
+24. **Tolle Lege paper unpublished (rights OK)** — the 2013 "Marcel and Maritain on Mystery" submission was never published in Tolle Lege, so the author's own text is free to reuse and the earlier "confirm publication status" gate is closed. (The paper's internal quotations of the Marcel/Maritain translations remain flagged for permission review only if ever reprinted — see SRC-072/SRC-073.)
+25. **Three intellectual thirsts skipped** — the paper's Maritain "three intellectual thirsts" material (*A Preface to Metaphysics*, First Lecture; SRC-073) is not integrated into the book.
+26. **Inside title simplified** — the book title is "The Mystery of the Trinity" (subtitle dropped); the author line stays "by Fr. Peter Gruber, C.O." (`scripts/10_assemble_manuscript.py`).
+27. **Prayer style** — prayers print as italic, indented set-off text with no subheading (the "## Opening Prayer" / "## Closing Prayer" headings are removed from the chapters); Ch. 3's second opening prayer ("Come, Holy Spirit") is removed.
+28. **Contraction policy** — the speaker's contractions are kept as heard in print (restored where an earlier pass had expanded them).
+29. **Uncle named Mark** — the uncle in the Trinity-Sunday-deadline story is named Mark ("Uncle Mark", Epilogue).
+30. **Niece spelling Elisabeth** — the niece in the moon story (Ch. 2 and Epilogue) is spelled "Elisabeth".
+31. **Radiating Christ prayer attribution** — the prayer prints attributed to St. John Henry Newman (the traditional attribution), per the owner.
+32. **Genuine-Pusey correction** — the printed *Confessions* translation (X.27 opening prayer and the I.1 "restless hearts" passage) is confirmed to be E. B. Pusey's own; earlier notes describing the newadvent.org text as "J.G. Pilkington, a revision of Pusey" are corrected. The attribution line "trans. E. B. Pusey" stands.
+33. **Flowing-page layout** — chapters flow continuously in the PDF (the title page and Table of Contents keep their own pages); no forced odd-page chapter starts or blank pages (`manuscript/build_pdf.py`).
+34. **Word document deliverable** — `scripts/11_make_docx.py` generates `manuscript/Mystery_of_the_Trinity.docx` (Garamond 12 pt body, heading hierarchy, italic indented prayers) for the owner to edit in Word.
+
 ### Remaining
 
 **Deferred owner questions:**
 
 1. **Listening batches (handoff gate G2)** — remaining: E01 Q6 ("going to Mass"), Q7 ("Not this summer…"), Q12 ("mere"), Q21 ("at last"), plus the register forms and the other ~100 flagged spots.
-2. **Pusey decision (SRC-025/026)** — Augustine prayers: keep the current modern rendering (ICEL permission) vs switch to the public-domain Pusey translation. Owner decision pending.
+2. **Pusey decision (SRC-025/026)** — RESOLVED (owner, 2026-09-17): the public-domain Pusey translation is adopted for the Augustine prayers, and the owner confirms the printed translation is genuinely Pusey's (see Resolved items 27/32 above). ICEL permission no longer applies to these quotations.
 3. **Ch. 2 "as one in three" vs "three in one"** — context requested from the owner; pending.
 4. **Ch. 3 "biology [possibly: physiology]"** — context requested from the owner; pending.
 5. **RSV-2CE verification workflow** — queued per `research/verified_excerpts/RSV-2CE-plan.md`.
@@ -54,12 +68,13 @@
 
 8. **Augustine X.41.66 endnote recommendation (SRC-045)** — verification round 2: closest genuine source = Confessions X.41.66; keep the speaker's "apparently said" hedge + endnote X.41.66 (see SRC-045-verify.md).
 9. **Citation-reviewer items** — Fagerberg page (SRC-022, credit now Kavanagh), Maritain page (SRC-020), John of the Cross saying number (SRC-040).
-10. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); ICEL (SRC-025/026 — tied to item 2 above); Rublev image rights (SRC-013); long-quote permissions.
+10. **Theological/rights reviewers** — DOCTRINAL_REVIEW items ("one thing is three" Ch. 5; subsistent relations/missions Ch. 2; Immaculate Conception framing + "passive tense" Ch. 3; confession quasi-materia Ch. 3); Rublev image rights (SRC-013); long-quote permissions. (ICEL SRC-025/026 closed via the Pusey decision — item 2 above.)
 11. **Named reviewers** — transcript reviewer, voice reviewer, theological reviewer, citation/rights reviewer, final editor — per handoff Appendix B.
 
 ## Assembly details
 
 - Order: `chapters/reviewed/ORDER.txt` (Ch. 1–6 + Epilogue).
+- 2026-09-17: inside title simplified to "The Mystery of the Trinity" (subtitle dropped; `scripts/10_assemble_manuscript.py`) — the assembled manuscript sha256 changes at the next assembly run.
 - Assembled manuscript sha256: `e68152bd286723215f321b2d72fb39f10d8f605beb8f00784434950ad2f5619e` (2026-09-16 owner updates: official title page and provisional Note on the Text now emitted by `scripts/10_assemble_manuscript.py`).
 - Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (52 rows).
 - Marker scan at assembly: 0 blocking markers; 20 intended `[possibly:…]` flags remain in prose.

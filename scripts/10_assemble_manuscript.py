@@ -19,7 +19,7 @@ Chapter selection and order
     files without it are excluded with a warning.
 
 Manuscript structure (generated deterministically; no content invented)
-  * Title page ("The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O." by Fr. Peter Gruber, C.O.).
+  * Title page ("The Mystery of the Trinity" by Fr. Peter Gruber, C.O.).
   * "Note on the Text": provisional note text (owner-confirmable) emitted verbatim.
   * Table of contents built from each chapter's first #/## heading.
   * The chapter files concatenated verbatim, in order.
@@ -41,7 +41,7 @@ ORDER_FILE = os.path.join(CHAPTERS_DIR, "ORDER.txt")
 LEDGER = os.path.join(PROJECT, "research", "source_ledger.csv")
 OUT_PATH = os.path.join(PROJECT, "manuscript", "Mystery_of_the_Trinity.md")
 
-BOOK_TITLE = "The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O."
+BOOK_TITLE = "The Mystery of the Trinity"
 AUTHOR = "Fr. Peter Gruber, C.O."
 
 NOTE_ON_THE_TEXT = (
@@ -362,6 +362,8 @@ def main():
     total_words = sum(word_counts.values())
 
     print("Manuscript plan (%s)" % ("dry run" if args.dry_run else "assemble"))
+    print("  title: %s" % BOOK_TITLE)
+    print("  byline: by %s" % AUTHOR)
     print("  output: %s" % os.path.relpath(OUT_PATH, PROJECT))
     print("  chapter source: chapters/reviewed/ — %s" % order_source)
     print(

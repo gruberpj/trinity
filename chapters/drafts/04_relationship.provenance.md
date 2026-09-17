@@ -217,3 +217,14 @@ Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identic
 - **Skipped (per plan):** 4.2, 4.3, 4.4, 4.5, 4.6.
 - **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
 - **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).
+
+---
+
+## Owner editorial round 2026-09-16
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`).
+
+1. **Prayer styling (uniform across the book).** No `## Opening Prayer` / `## Closing Prayer` heading existed in this chapter at this round (the closing ritual block was removed by an earlier owner edit; no opening-prayer heading had been printed). The opening prayer blockquote is now italic (`> *…*`).
+2. **Uncle intro — owner revealed the name.** "There is a great quote — I think I'll just end with this. There are so many things that could be said about this, but it's from my uncle, who wrote a gospel reflection on Trinity Sunday." → "There is a great quote from my uncle Mark's gospel reflection on Trinity Sunday:" — the fivefold litany after the colon is unchanged, verbatim.
+3. **Closing invitation.** "…your motherhood, your fatherhood, a friendship, or a loneliness." → "…your motherhood, your fatherhood, a friendship, or even your loneliness." (owner wording). The chapter's final sentence is thereby modified from the earlier "verbatim" note in owner edit 3 above.
+4. **Language policy (whole chapter).** Contractions expanded in author prose (verified quotations and the quoted litany untouched); fillers removed ("I think", "you know", "sort of"); "those that" → "those who" (grammar-class fix); repeated "pieces, pieces of a puzzle" → "pieces of a puzzle"; em-dash asides retained (all genuine). No `[possibly]`/`[unclear]`/`[quotation wording unverified]` markers altered — the `[possibly: third]` flag (2 Cor 12) is untouched.

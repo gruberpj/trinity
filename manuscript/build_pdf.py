@@ -6,8 +6,12 @@ measured layout of 'MGS Booklet Jun 2025 interior.pdf' (306.0 x 495.0 pt).
 Two-pass build:
   Pass A: build with dummy TOC page numbers; record the start page of every
           chapter (and Notes and Sources) via an afterFlowable hook.
-  Pass B: compute final page numbers (chapters must start on odd pages,
-          inserting blank pages where needed), rebuild with the real TOC.
+  Pass B: rebuild with the real TOC.
+
+Layout: the title page and the Table of Contents keep their own pages;
+everything else (Note on the Text, chapters, epilogue, Notes and Sources)
+flows continuously, one after another, with no forced page breaks.
+Headings keep-with-next so a heading is never left alone at a page bottom.
 
 Fonts: Baskerville.ttc (macOS Supplemental), Georgia.ttf fallback.
 """
@@ -40,11 +44,10 @@ from reportlab.platypus.tableofcontents import TableOfContents
 PAGE_W, PAGE_H = 306.0, 495.0
 MARGIN = 36.0
 TEXT_W = PAGE_W - 2 * MARGIN  # 234
-BODY_TOP_BASELINE = 430.58     # first body-line baseline (chapter pages: 19pt below title)
+BODY_TOP_BASELINE = 430.58     # first body-line baseline
 BODY_LINES = 40
 LEADING = 10.0
 BODY_BOTTOM_BASELINE = BODY_TOP_BASELINE - (BODY_LINES - 1) * LEADING  # 40.58
-TITLE_BASELINE = 449.58        # chapter title / running head baseline
 PAGE_NUM_BASELINE = 18.0
 
 BODY_FONT = "Baskerville"
@@ -61,21 +64,7 @@ SEMI_ITAL_FONT = "Baskerville-SemiBoldItalic"
 BODY_FRAME_TOP = BODY_TOP_BASELINE + 10.0            # 440.58
 BODY_FRAME_BOTTOM = 34.0
 BODY_FRAME_HEIGHT = BODY_FRAME_TOP - BODY_FRAME_BOTTOM    # 406.58 (>= 40 lines + one 9pt gap)
-TITLE_FRAME_TOP = TITLE_BASELINE + 13.0              # 462.58
-TITLE_FRAME_BOTTOM = TITLE_FRAME_TOP - 20.0
-TITLE_FRAME_HEIGHT = TITLE_FRAME_TOP - TITLE_FRAME_BOTTOM
 
-FRAME_TITLE = Frame(
-    MARGIN,
-    TITLE_FRAME_BOTTOM,
-    TEXT_W,
-    TITLE_FRAME_HEIGHT,
-    id="title-frame",
-    leftPadding=0,
-    rightPadding=0,
-    topPadding=0,
-    bottomPadding=0,
-)
 FRAME_BODY = Frame(
     MARGIN,
     BODY_FRAME_BOTTOM,
@@ -148,6 +137,8 @@ BODY = ParagraphStyle(
     leading=LEADING,
     alignment=TA_JUSTIFY,
     spaceAfter=9,  # measured reference gap of 19pt between paragraph baselines (10 + 9)
+    allowWidows=0,  # widow/orphan protection: no single lines at page top/bottom
+    allowOrphans=0,
 )
 BODY_ITALIC = ParagraphStyle(
     "body-italic",
@@ -158,7 +149,8 @@ BODY_ITALIC = ParagraphStyle(
 BODY_QUOTE = ParagraphStyle(
     "body-quote",
     parent=BODY,
-    leftIndent=18,  # quoted prayers in the body
+    fontName=ITAL_FONT,  # prayers print as italic, indented blockquotes
+    leftIndent=18,
 )
 ATTRIB = ParagraphStyle(
     "attrib",
@@ -190,6 +182,7 @@ H1_STYLE = ParagraphStyle(
     leading=13,
     alignment=TA_LEFT,
     spaceAfter=0,
+    keepWithNext=1,  # a chapter title never sits alone at a page bottom
 )
 TOC_HEAD_STYLE = ParagraphStyle(
     "toc-head",
@@ -417,29 +410,27 @@ def make_toc(page_numbers):
 # --------------------------------------------------------------------------
 # Story assembly
 # --------------------------------------------------------------------------
-def assemble_story(blocks, page_numbers, blanks_before):
+def assemble_story(blocks, page_numbers):
     story = []
+    # Page 1 is the title page; body content starts on page 2. From here on,
+    # everything flows continuously — no forced page breaks between chapters.
+    story.append(NextPageTemplate("body"))
+    story.append(PageBreak())
     i = 2  # skip blocks[0] (book title) and blocks[1] (byline) -> title page
     while i < len(blocks):
         kind, payload = blocks[i]
         if kind == "h1":
             text = payload
             if text == "Table of Contents":
+                # the TOC keeps its own page
                 story.append(NextPageTemplate("body"))
                 story.append(PageBreak())
                 story.append(Paragraph("Table of Contents", TOC_HEAD_STYLE))
                 story.append(make_toc(page_numbers))
+                story.append(PageBreak())
             else:
                 # Note on the Text, chapters, Epilogue, Notes and Sources
-                for _ in range(blanks_before.get(text, 0)):
-                    story.append(NextPageTemplate("body"))
-                    story.append(PageBreak())
-                story.append(NextPageTemplate("chapter"))
-                story.append(PageBreak())
                 story.append(ChapterTitle(text, aname=text))
-                # interior pages of the chapter use the plain body template
-                # (no title frame) so paragraphs can never land in the head slot
-                story.append(NextPageTemplate("body"))
         elif kind == "h2":
             story.append(Paragraph(small_caps(payload, 10, SEMI_FONT), H2_STYLE))
         elif kind == "para":
@@ -476,16 +467,15 @@ def assemble_story(blocks, page_numbers, blanks_before):
     return story
 
 
-def build_pass(blocks, page_numbers, blanks_before, outfile):
+def build_pass(blocks, page_numbers, outfile):
     doc = BookDoc(outfile)
     doc.addPageTemplates(
         [
             PageTemplate(id="title", frames=[Frame(0, 0, 1, 1, id="title-none")], onPage=draw_title_page),
             PageTemplate(id="body", frames=[FRAME_BODY], onPage=draw_page_number),
-            PageTemplate(id="chapter", frames=[FRAME_TITLE, FRAME_BODY], onPage=draw_page_number),
         ]
     )
-    doc.build(assemble_story(blocks, page_numbers, blanks_before))
+    doc.build(assemble_story(blocks, page_numbers))
     return doc.anchors
 
 
@@ -499,13 +489,16 @@ def main():
     # Title-page material (verbatim from the manuscript)
     global TITLE_MAIN, TITLE_SUB_LINES, BYLINE, EDITION_LINE, TOC_ORDER
     assert blocks[0][0] == "h1", "manuscript must start with the book title"
-    title_full = blocks[0][1]  # "The Mystery of the Trinity: A Retreat with Fr. Peter Gruber, C.O."
+    title_full = blocks[0][1]  # e.g. "The Mystery of the Trinity"
     TITLE_MAIN, _, TITLE_SUB = title_full.partition(": ")
     BYLINE = blocks[1][1]  # "by Fr. Peter Gruber, C.O."
     EDITION_LINE = "Working manuscript draft \u00b7 2026"
 
-    # Split the subtitle across lines if it exceeds the text measure at 14 pt
-    if pdfmetrics.stringWidth(TITLE_SUB, SEMI_FONT, 14) <= TEXT_W:
+    # Split the subtitle (if any) across lines if it exceeds the text measure
+    # at 14 pt
+    if not TITLE_SUB:
+        TITLE_SUB_LINES = []
+    elif pdfmetrics.stringWidth(TITLE_SUB, SEMI_FONT, 14) <= TEXT_W:
         TITLE_SUB_LINES = [TITLE_SUB]
     else:
         # split so the author's name stays intact on the second line
@@ -521,28 +514,20 @@ def main():
     toclinks = [p for k, p in blocks if k == "toclink"]
     TOC_ORDER = toclinks + ["Notes and Sources"]
 
-    # Pass A: dummy page numbers, no blank pages -> record start pages
+    # Pass A: dummy page numbers -> record start pages
     tmp_pdf = str(Path(OUT_PDF).with_suffix(".passA.pdf"))
     log = io.StringIO()
     with contextlib.redirect_stdout(log), contextlib.redirect_stderr(log):
-        anchors_a = build_pass(blocks, {t: 0 for t in TOC_ORDER}, {}, tmp_pdf)
+        anchors_a = build_pass(blocks, {t: 0 for t in TOC_ORDER}, tmp_pdf)
 
-    # Compute final page numbers; chapters must start on odd pages.
-    blanks_before = {}
-    final_pages = {}
-    offset = 0
-    for name in TOC_ORDER:
-        start = anchors_a[name] + offset
-        if start % 2 == 0:
-            offset += 1
-            blanks_before[name] = 1
-        final_pages[name] = anchors_a[name] + offset
+    # Chapters flow continuously: TOC page numbers are the observed starts.
+    final_pages = {name: anchors_a[name] for name in TOC_ORDER}
 
-    # Pass B: real TOC page numbers + blank pages for odd starts
+    # Pass B: real TOC page numbers
     with contextlib.redirect_stdout(log), contextlib.redirect_stderr(log):
-        anchors_b = build_pass(blocks, final_pages, blanks_before, str(OUT_PDF))
+        anchors_b = build_pass(blocks, final_pages, str(OUT_PDF))
 
-    # Verify determinism of the offset math
+    # Verify determinism of the two passes
     for name in TOC_ORDER:
         assert anchors_b[name] == final_pages[name], (name, anchors_b[name], final_pages[name])
 
@@ -556,7 +541,6 @@ def main():
     print("fonts:", FONT_SUMMARY)
     print("page count:", total_pages)
     print("chapter starts:", {k: v for k, v in anchors_b.items()})
-    print("blanks inserted before:", blanks_before)
     print("log:", LOG_FILE)
 
     # quick self-check of build log for warnings
