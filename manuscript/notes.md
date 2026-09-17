@@ -92,3 +92,5 @@ The eight unclear-antecedent / garbled-passage items collected during the 2026-0
 - Assembled manuscript sha256: `e68152bd286723215f321b2d72fb39f10d8f605beb8f00784434950ad2f5619e` (2026-09-16 owner updates: official title page and provisional Note on the Text now emitted by `scripts/10_assemble_manuscript.py`).
 - Notes and Sources section: generated from ledger rows with status VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / PARAPHRASE_CONFIRMED (52 rows).
 - Marker scan at assembly: 0 blocking markers; 20 intended `[possibly:…]` flags remain in prose.
+
+- RSV-2CE confirm list (6 readings): RESOLVED — owner chose to keep all aligned to RSV-2CE, including the epilogue's indirect Rom 12:2 allusion (2026-09-17).
