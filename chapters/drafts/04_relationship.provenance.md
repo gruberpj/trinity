@@ -234,3 +234,9 @@ Applied identically to `chapters/drafts/04_relationship.md` and `chapters/review
 Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit.
 
 1. **Newman abyss echo completed per the owner's dictation.** §"Encounter, Not Merely Understanding" — the sentence "Instead, we are to encounter from the depths of our being an infinite abyss of our existence." is replaced with the owner's completed wording: "Instead, we are to encounter, from the depths of our being, an infinite abyss of existence in another person." The passage remains an unquoted paraphrase (no quotation marks added — the audio names no source; SRC-010 status unchanged). Supersedes the §3 §8-row rendering of the abyss echo.
+
+## Verification retry 2026-09-17 — Owner Task 2 (2 Cor 12:2)
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit.
+
+1. **2 Cor 12:2 (line ~19).** `he knew a man who was lifted up into the ninth [possibly: third] heaven` → `he knew a man who was caught up to the third heaven`. Verified against RSV-2CE (biblia.com/bible/rsv2ce/2-corinthians/12/2: "I know a man in Christ who fourteen years ago was caught up to the third heaven—whether in the body or out of the body I do not know, God knows.") and against biblegateway RSV + RSVCE (both read "caught up to the third heaven"). The `[possibly: third]` flag is removed; the verb is aligned ("lifted up" → "caught up") and the preposition ("into" → "to") per the edition. Note: the verse's "whether in the body or out of the body I do not know" corresponds to the chapter's following "And he said, I do not know which — I do not know." (prose, unchanged).

@@ -276,3 +276,12 @@ Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/0
 
 1. **Transcendentals list repaired per the owner's dictation.** §"The fifth transcendental" — "So that means all reality, then, has a share not only in truth and goodness — and not maybe beauty, also — but also relationality." → "So that means all reality, then, has a share not only in truth, goodness, and beauty, but also relationality." (owner wording).
 2. **Rest-of-God passage completed per the owner's dictation.** §"Martha, Mary, and the one thing" — "And this God who created in six days and rested on the seventh, this God, this very God — God, I desire to rest in you — and your hearts and your souls." → "And this God — who created in six days and rested on the seventh — desires to rest in you, in your hearts and your souls." (owner wording). The Gen 2:2 allusion (no ledger row, §3 note) is unchanged.
+
+## Verification retry 2026-09-17 — 12-row retry (rows 24, 25, 26, 28)
+
+Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; verified with `cmp`). No git commit. Sources: biblia.com rsv2ce preview pages (fetched 2026-09-17), `research/RSV-2CE_verification_worksheet.md`.
+
+1. **Row 24 — Jn 10:9; 15:5; 14:6 (line 23).** `"I am the gate. I am the vine. I am the way, the truth, and the life."` → `"I am the door. I am the vine. I am the way, and the truth, and the life."` RSV-2CE verified: biblia.com rsv2ce/john/10/9 ("I am the door; if any one enters by me…"), /john/15/5 ("I am the vine, you are the branches.…"), /john/14/6 ("I am the way, and the truth, and the life; no one comes to the Father, but by me."). The book's terminal periods kept per the structure rule.
+2. **Rows 25, 26, 28 — verified, NO edits.** Row 25 (Acts 17:28): printed span "We live and move and have our being" matches the 2CE clause exactly ("In him" is a verse-internal lead-in outside the printed span). Row 26 (1 Jn 3:2): printed rendering is reordered/adapted and printed WITHOUT quotation marks (attributed to a Eucharistic Prayer) — not a direct quotation, so no edit per rule; tag retained. Row 28 (Lk 10:41–42): dramatic paraphrase kept as heard — spoken text deviates substantially (Martha's invented complaint corresponds to v40, not 41–42); alignment would insert unspoken words / delete spoken dialogue — NOT applied (replace-only rule). Owner may decide.
+
+2CE wording recorded in the worksheet (rows now VERIFIED).

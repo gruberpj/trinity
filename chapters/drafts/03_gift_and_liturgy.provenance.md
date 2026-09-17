@@ -310,3 +310,12 @@ Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/re
 Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`). No git commit.
 
 1. **Old-Testament-liturgies passage replaced with the owner's dictation (verbatim).** The paragraph in §"Mine" now reads, per the owner's exact words: "Thus cut off, humanity waited to be united. All the liturgies of the Old Testament — all the rituals and sacrifices, all the prayers and the psalms — everything pointed to a time when humanity could make that full response. And it was not until grace entered into creation again, preveniently, in the soul of the Blessed Virgin Mary at the moment of her conception, that God could find within humanity a response." Changes from the prior text: "when that would be satisfied, when we could make that full response" → "when humanity could make that full response" (resolves the unclear antecedent collected for the owner in the 2026-09-16 editorial round — the "that would be satisfied" item is thereby RESOLVED); "that God could find within humanity a way to respond" → "that God could find within humanity a response". The following §"Mary's yes" Annunciation paragraph does not duplicate the dictation's Mary content (it recounts the Annunciation fiat, a different event from the conception), so no sentences there were removed; it is untouched.
+
+## Verification retry 2026-09-17 — 12-row retry (rows 14, 20: verified, NO edits)
+
+No chapter changes this pass. Sources: biblia.com rsv2ce preview pages (fetched 2026-09-17), `research/RSV-2CE_verification_worksheet.md`.
+
+1. **Row 14 — Gen 1:3.** Printed `"Let there be light."` matches RSV-2CE (biblia.com/bible/rsv2ce/genesis/1/3: "And God said, 'Let there be light'; and there was light."). No edit.
+2. **Row 20 — 1 Thess 5:18.** Printed two-word fragment `"Give thanks."` matches the 2CE verse's "give thanks" (verse-internal lowercase; the book's capital kept per quote-start casing). Truncated span does not contradict. No edit.
+
+2CE wording recorded in the worksheet (rows now VERIFIED).

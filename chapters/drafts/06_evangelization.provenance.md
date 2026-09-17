@@ -211,3 +211,13 @@ Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/revi
 
 1. **"other Christ" → "other Christs".** §"Nothing more beautiful" — "Both of these are true, for we are the light of the world because we are other Christ." → "…because we are other Christs." (owner wording; the chapter's other "other Christs" occurrences were already plural).
 2. **Welcome passage merged with the owner's dictation.** §"Floodgates" — the garbled clause in "…and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — welcome those that we do not want to have any part in us [unclear], those we would rather protect ourselves from." is replaced by the owner's dictation, merged into the sentence structure: "…and to go forth and to welcome — just in the same way as we welcome Christ in our own hearts — we welcome those who most reject us, those we would rather protect ourselves from." The instructed `[unclear]` marker is thereby removed; the `[possibly: mercy]` flag in the same sentence is untouched.
+
+## Verification retry 2026-09-17 — 12-row retry (rows 31, 32, 35: verified, NO edits)
+
+No chapter changes this pass. Sources: biblia.com rsv2ce preview pages (fetched 2026-09-17), `research/RSV-2CE_verification_worksheet.md`.
+
+1. **Row 31 — Mt 25:37–40.** RSV-2CE wording verified (biblia.com rsv2ce/matthew/25/37-40). Printed text is a modernized paraphrase kept as heard (omits "a stranger…", "sick or"; "Amen" for "Truly, I say to you") — alignment would insert unspoken verse words, NOT applied (replace-only rule). Owner may decide.
+2. **Row 32 — Acts 9:4–5.** RSV-2CE verified (biblia.com rsv2ce/acts/9/4-5). The middle clause "that I may know who I'm persecuting" is not in the verse — aligning would delete spoken words, not replace — NOT applied. Owner may decide.
+3. **Row 35 — Mt 5:11 (// Lk 6:22).** RSV-2CE wording for BOTH verses verified. Printed "hated and persecuted for my name" matches neither verse exactly (closer to Lk 6:22) — alignment blocked until the owner confirms the intended verse. No edit.
+
+2CE wording recorded in the worksheet (rows now VERIFIED).

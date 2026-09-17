@@ -26,7 +26,7 @@ It recounts the story from Genesis 18. In Genesis 18, there are three visitors s
 
 And the scene of these three angels, in retrospect, we would look back and say they are a sort of representation of the Trinity. This is a very normal thing for us to do, having been given the revelation that God is both one and three, through Christ, the incarnate Word, and the sending forth of the Holy Spirit. We now know that God has a triune nature. And we can look back in the Old Testament, where this mystery was still hidden, and see resonances of God's Trinitarian nature.
 
-And so we might say the same of the first chapter of Genesis, when God says, "Let us make man in our image, after our likeness" [quotation wording unverified]. We who now know of God as one and three think that the "us," the plural, refers to the Trinity. And we are not wrong. Originally, it referred to the angels, the choirs of angels — "Let us make," God would speak to them. But for us, we can retroactively understand that in its fullest sense, God creates from the Trinity.
+And so we might say the same of the first chapter of Genesis, when God says, "Let us make man in our image, after our likeness". We who now know of God as one and three think that the "us," the plural, refers to the Trinity. And we are not wrong. Originally, it referred to the angels, the choirs of angels — "Let us make," God would speak to them. But for us, we can retroactively understand that in its fullest sense, God creates from the Trinity.
 
 ## Reading the Icon: One Divinity
 
@@ -50,7 +50,7 @@ And then behind him, there is the tree, which makes sense in the context of the 
 
 On the left, obviously, would have to be the Father. Now, his outer garment, it is hard to identify. In this picture, it looks pinkish, purplish, with some blue hints to it. It is original — when it was originally written, the colors were meant to be hard to identify, sort of ephemeral and beyond our ability to really name. And this represents the Father.
 
-And behind him is a house. Now, the house of Abraham and Sarah, sure. But also we recall our Lord's words in John 14, "In my Father's house are many rooms." Or we can go back to Luke 2, "Did you not know that I must be in my Father's house" [quotation wording unverified], that is, the temple. The temple in Jerusalem being the house of the Father, especially for Christ, the second person of the Holy Trinity incarnate. So there is the Father's house there, symbolized by the house of Abraham and Sarah.
+And behind him is a house. Now, the house of Abraham and Sarah, sure. But also we recall our Lord's words in John 14, "In my Father's house are many rooms." Or we can go back to Luke 2, "Did you not know that I must be in my Father's house", that is, the temple. The temple in Jerusalem being the house of the Father, especially for Christ, the second person of the Holy Trinity incarnate. So there is the Father's house there, symbolized by the house of Abraham and Sarah.
 
 ## The Postures, the Chalice, and the Empty Place
 
@@ -90,6 +90,6 @@ The last word of the sign of the cross is no less important. Amen. We think of "
 
 And let us not forget the central image, the central icon of the sign of the cross. Who are we crossing? Ourselves. We are images of God, Father, Son, and Holy Spirit. We are made in his image and likeness. We have the Trinity in us, inscribed in our very natures, and we have the Trinity in us through baptism. We are temples of the Holy Spirit, intimacy with Christ, the inner room from which we pray to the Father in secret.
 
-And the relationality within the Trinity, the love of Father, Son, and Holy Spirit: we are made for relationship. We are made to pour ourselves out and to receive, to give and to receive, to reciprocate. We are inscribed in our very natures, so that when God looked upon creation all the other days, he said, "It is good" [quotation wording unverified]. He looked upon us created in his image and likeness, male and female, meant to enshrine that image of the Holy Trinity in their very bodies. He looked at us and said, "It was very good" [quotation wording unverified], for we are images of God's triune love.
+And the relationality within the Trinity, the love of Father, Son, and Holy Spirit: we are made for relationship. We are made to pour ourselves out and to receive, to give and to receive, to reciprocate. We are inscribed in our very natures, so that when God looked upon creation all the other days, he said, "It was good" [quotation wording unverified]. He looked upon us created in his image and likeness, male and female, meant to enshrine that image of the Holy Trinity in their very bodies. He looked at us and said, "It was very good" [quotation wording unverified], for we are images of God's triune love.
 
 What that means, how that is lived out, how this changes not just how we approach our faith but everything in our life, we will discuss in the future conferences.
