@@ -100,11 +100,11 @@ def main():
         "Chapter 1 — Icons of the Trinity": 5,
         "Chapter 2 — Mystery": 17,
         "Chapter 3 — Gift and Liturgy": 31,
-        "Chapter 4 — Relationship": 49,
-        "Chapter 5 — Intimacy": 57,
-        "Chapter 6 — Evangelization": 71,
-        "Epilogue — Engineering Mystery": 83,
-        "Notes and Sources": 103,
+        "Chapter 4 — Relationship": 47,
+        "Chapter 5 — Intimacy": 55,
+        "Chapter 6 — Evangelization": 67,
+        "Epilogue — Engineering Mystery": 77,
+        "Notes and Sources": 95,
     }
     toc = {}
     for y, fs in lines_by_y(pages[2]):
@@ -161,7 +161,7 @@ def main():
         "I bind unto myself the name, the strong name of the Trinity",
         "pregnant with intelligibility",
         "Go, set the world on fire",
-        "Late have I loved you, O Beauty ever ancient, ever new",
+        "Too late did I love You, O Fairness, so ancient, and yet so new",
     ):
         check(f"verbatim probe {probe[:34]!r}...", probe in all_text)
 

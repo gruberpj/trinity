@@ -55,14 +55,14 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 |---|---|---|---|---|
 | U1 | 00:03:41 | "He threw across the sky distant galaxies and stars and nebula, long, and he created one planet" | Dropped "long," as `[unclear 00:03:41]` | "long," p=0.953 but no grammatical reading ("along"? tail of "nebulae"?). Human listen required. |
 | P1 | 00:01:37 | "The uncreating love created love out of his creativity" | Kept "uncreating", flagged `[possibly: uncreated]` | "uncreating" p=0.996, "created" p=0.660; "the uncreated love created love" is the more natural reading. Human listen required. **RESOLVED by owner listening 2026-09-16: the word is "uncreated"; flag removed from the clean transcript and chapter layers.** |
-| P2 | 00:05:29 | "the rubrics, the roles about how we are to celebrate Mass" | Kept "roles", flagged `[possibly: rules]` | "roles" p=0.646; "rules" fits "rubrics" better. Human listen required. |
-| P3 | 00:07:07 | "And God creates one in creation to give some kind of echo of response" | Kept "one", flagged `[possibly: no one]` | "one" p=0.693; the argument (nothing in creation could respond until Mary) suggests "no one"/"none". Human listen required. |
+| P2 | 00:05:29 | "the rubrics, the roles about how we are to celebrate Mass" | Kept "roles", flagged `[possibly: rules]` | "roles" p=0.646; "rules" fits "rubrics" better. Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "rules" — "the rubrics, the rules". Flag removed from the clean transcript and both chapter copies.** |
+| P3 | 00:07:07 | "And God creates one in creation to give some kind of echo of response" | Kept "one", flagged `[possibly: no one]` | "one" p=0.693; the argument (nothing in creation could respond until Mary) suggests "no one"/"none". Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "one" — "God creates one in creation". Flag removed from the clean transcript and both chapter copies.** |
 | P4 | 00:09:20 | "his bride at the church" | Kept "at", flagged `[possibly: the]` | "at" p=0.857; "his bride, the Church" is the standard phrase. Candidates: "the"/"and". Human listen required. |
 | P5 | 00:09:36 | "for we are at the church, collectively and individually" | Kept "at", flagged `[possibly: as]` | "at" p=0.162; "for we are as the Church" fits the following "we are a spouse to Christ". Candidates: "as"/"the". Human listen required. |
 | P6 | 00:14:57 | "This is an enchanted world." | Kept "This", flagged `[possibly: It]` | "This" p=0.325 (segment start). Human listen required. |
-| P7 | 00:19:42 | "biology relies on positive feedback loops" | Kept "biology", flagged `[possibly: physiology]` | "biology" p=0.084 (very low). "Physiology" fits the classic positive-feedback examples. Human listen required. |
+| P7 | 00:19:42 | "biology relies on positive feedback loops" | Kept "biology", flagged `[possibly: physiology]` | "biology" p=0.084 (very low). "Physiology" fits the classic positive-feedback examples. Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "Biology" — flag removed. The passage is parked (not in the chapter); the clean transcript now reads "Biology relies on positive feedback loops."** |
 | P8 | 00:20:07 | "That's exceeding all of its tolerances and engineering a positive feedback loop is destructive." | Kept "And", flagged `[possibly: In]` | "and" p=0.173; "In engineering, a positive feedback loop is destructive" is the likely sense. Human listen required. |
-| P9 | 00:21:19 | "St. Therese says, prayer is to be poured out into another." | Kept "prayer", flagged `[possibly: love]` | "prayer" p=0.249; attribution and wording both unverified (see §3 #20). Human listen required. |
+| P9 | 00:21:19 | "St. Therese says, prayer is to be poured out into another." | Kept "prayer", flagged `[possibly: love]` | "prayer" p=0.249; attribution and wording both unverified (see §3 #20). Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "love" — "love is to be poured out into another". Flag removed from the clean transcript and both chapter copies. Owner's source: Jean Lafrance, *My Vocation is Love*; exact wording still to be verified against the book — the unresolved.md item remains open for the page pin.** |
 
 ## 3. Quotations and citations detected
 
@@ -110,10 +110,10 @@ Note: "Ratzinger", "Elizabeth of the Trinity", and "Thérèse" appear in C03 aud
 4. **00:01:37** — "The uncreating [possibly: uncreated] love created love out of his creativity": confirm "uncreating" vs "uncreated" (0.996/0.660). **RESOLVED (owner 2026-09-16, listening): "uncreated" confirmed; flag removed in clean + drafts/reviewed.**
 5. **00:01:47** — "according to Bill Daniels, I think": both words p=1.0 — the audio clearly says a name like this, but the pipeline cannot verify who. Confirm the name and the attribution split between "Bill Daniels" and Ratzinger for the "uncreated love / God's love spilled out" material.
 6. **00:03:41** — "galaxies and stars and nebula, long": word sounds like "long" (p=0.953) but is uninterpretable; dropped as [unclear]. Confirm the word.
-7. **00:05:29** — "the rubrics, the roles [possibly: rules]": confirm "roles" vs "rules" (p=0.646); confirm the added "of" after "think perhaps".
+7. **00:05:29** — "the rubrics, the roles [possibly: rules]": confirm "roles" vs "rules" (p=0.646); confirm the added "of" after "think perhaps". **RESOLVED (owner, batch 3, 2026-09-16): "rules" — flag removed in clean + drafts/reviewed.**
 8. **00:05:52** — "made capable of that, in God's image": "and" p=0.581 rendered "in". Confirm.
 9. **00:06:47** — "He used the passive tense": words high-prob (0.999/1.0), but "Let us create" is plural, not passive ("fiat" is). Confirm what the speaker said; flag for theological reviewer.
-10. **00:07:07** — "God creates one [possibly: no one] in creation to give some kind of echo of response": confirm "one" vs "no one"/"none" (one p=0.693).
+10. **00:07:07** — "God creates one [possibly: no one] in creation to give some kind of echo of response": confirm "one" vs "no one"/"none" (one p=0.693). **RESOLVED (owner, batch 3, 2026-09-16): "one" — flag removed in clean + drafts/reviewed.**
 11. **00:09:20** — "his bride, at [possibly: the] Church": "at" p=0.857. Confirm ("the"/"and"/"at").
 12. **00:09:29–09:36** — garbled: "we ourselves are our holes" rendered "we ourselves are wholes" (our p=0.054, holes p=0.689); "for we are at [possibly: as] the Church" ("at" p=0.162). Confirm the whole passage against audio.
 13. **00:09:43** — "this prayer to God our Father": "father" p=0.372. Confirm.
@@ -124,14 +124,14 @@ Note: "Ratzinger", "Elizabeth of the Trinity", and "Thérèse" appear in C03 aud
 18. **00:14:57** — "This [possibly: It] is an enchanted world": "This" p=0.325. Confirm.
 19. **00:16:53** — "something that John of the Cross certainly understood": "something" p=0.255 (likely echo of the previous clause). Confirm.
 20. **00:17:28** — "This is what a speed — what's it called in a car…": kept word-search as heard ("speed," p=0.958). Confirm.
-21. **00:19:42** — "biology [possibly: physiology] relies on positive feedback loops": "biology" p=0.084. Confirm the word.
+21. **00:19:42** — "biology [possibly: physiology] relies on positive feedback loops": "biology" p=0.084. Confirm the word. **RESOLVED (owner, batch 3, 2026-09-16): "Biology" — flag removed in the clean transcript (passage parked; not in the chapter).**
 22. **00:19:47** — "This is part of our — it's part of how we live": false start kept with dash. Confirm.
 23. **00:20:07** — "And [possibly: In] engineering, a positive feedback loop is destructive": "and" p=0.173. Confirm.
 24. **00:20:40** — "and his mysteries, the mysteries of the rosary": second "the" p=0.257. Confirm.
 25. **00:20:48–49** — "and we gain, and we gain": both high-prob (0.999); kept as emphatic repetition. Confirm it is not an echo.
 26. **00:21:01** — "living within the Trinity": "Trinity" p=0.393 (context strongly supports). Confirm.
 27. **00:21:06** — "we are made, and we cry out": "and" p=0.953; possibly "we are made for this". Confirm.
-28. **00:21:19** — "St. Thérèse says, prayer [possibly: love] is to be poured out into another": "prayer" p=0.249; attribution and wording unverified. Confirm word and whether the attribution is correct (coordinate with C01 flag #4, Teresa vs Thérèse).
+28. **00:21:19** — "St. Thérèse says, prayer [possibly: love] is to be poured out into another": "prayer" p=0.249; attribution and wording unverified. Confirm word and whether the attribution is correct (coordinate with C01 flag #4, Teresa vs Thérèse). **RESOLVED (owner, batch 3, 2026-09-16): "love" — flag removed in clean + drafts/reviewed. Owner's source: Jean Lafrance, *My Vocation is Love*; exact wording still to be pinned (unresolved.md item remains open).**
 29. **00:21:36** — "all your torrents and all your waves washed over me": "all" p=0.311; kept as speaker's paraphrase of Ps 42:7. Confirm.
 30. **00:22:26–22:33** — ~5-second silence between "But to hope in God," and "This is what we're being called into": confirm nothing was said in the gap (VAD may have dropped audio); rendered with em-dash.
 31. **00:23:19** — "what I recommend to do — this is to live this life of thanksgiving": kept as heard. Confirm.
@@ -151,3 +151,12 @@ Note: "Ratzinger", "Elizabeth of the Trinity", and "Thérèse" appear in C03 aud
 Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
 
 1. **Q4 (00:01:37) — "uncreating [possibly: uncreated]" → "uncreated" (owner-confirmed).** The word is "uncreated". The `[possibly: uncreated]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (P1 flags row) and §5 Q4.
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q7 (00:05:29) — "roles [possibly: rules]" → "rules".** "the rubrics, the rules, about how we are to celebrate Mass" — flag removed from the clean transcript and both chapter copies. Annotated inline at §2 (P2) and §5 Q7.
+2. **Q10 (00:07:07) — "creates one [possibly: no one]" → "one".** "And God creates one in creation to give some kind of echo of response." — flag removed from the clean transcript and both chapter copies. Annotated inline at §2 (P3) and §5 Q10.
+3. **Q21 (00:19:42) — "biology [possibly: physiology]" → "Biology".** Flag removed; the clean transcript reads "Biology relies on positive feedback loops." The passage is parked (not in the chapter). Annotated inline at §2 (P7) and §5 Q21.
+4. **Q28 (00:21:19) — "prayer [possibly: love]" → "love".** "St. Thérèse says, love is to be poured out into another." — flag removed from the clean transcript and both chapter copies. Owner's source: Jean Lafrance, *My Vocation is Love*; the exact wording is still to be verified against the book — the unresolved.md item (page pin) remains open. Annotated inline at §2 (P9) and §5 Q28.

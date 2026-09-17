@@ -276,3 +276,37 @@ Smoothing edits applied (all minimal — his words kept; punctuation/connectives
 ### 8.4 Verified-excerpt files consulted
 
 SRC-064 (O'Connor), SRC-066 (Newman), SRC-070 (Dante), SRC-071 (Athanasius) were read as directed. No T1-A…T1-L supplement cites any of these four authors (those references belong to the talks 3/6 mines), so no quotation from these files was added to Chapter 1 and no new citation appears.
+
+---
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical); the flag resolutions were also applied to `transcripts/clean/C01_icons_of_the_trinity.clean.md`.
+
+1. **Sign-of-cross sentence — owner's dictation (00:17:21) — Owner edit 2026-09-16 (batch 3).** "Catholics, we are very used to beginning prayer and ending prayer, bulk `[possibly: both]` ending it with the sign of the cross." is replaced by the owner's dictated sentence: "As Catholics, we are very used to beginning and ending prayer with the sign of the cross." The `[possibly: both]` flag is removed in the chapter copies and the clean transcript. Supersedes §2.9's flags line; resolves review-log Q7.
+2. **"the 'and' of thus `[possibly: these]`" — owner's phrase (00:18:31) — Owner edit 2026-09-16 (batch 3).** Rendered with the owner's phrase, keeping his tone: "Every word matters — even the 'and of the's." The `[possibly: these]` flag is removed in the chapter copies and the clean transcript. Supersedes §2.9's flags line; resolves review-log Q9.
+
+## RSV-2CE alignment 2026-09-16
+
+Direct edits (2CE digitally confirmed; wording differs → aligned):
+
+1. **E01 — Mt 28:18.** `"All power in heaven and on earth has been given to me."` → `"All authority in heaven and on earth has been given to me."` (one-word variant "power" → "authority").
+2. **E02 — Gen 1:26.** `when God says, "Let us create man in our own image and likeness"` → `when God says, "Let us make man in our image, after our likeness"` (`[quotation wording unverified]` tag retained).
+3. **E03 — Gen 1:26 fragment (same paragraph).** `the choirs of angels — "Let us create," God would speak to them.` → `the choirs of angels — "Let us make," God would speak to them.` (keeps the fragment consistent with E02).
+4. **E04 — Lk 2:49.** `"Do you not know I must be about my Father's business and my Father's house"` → `"Did you not know that I must be in my Father's house"` (tag retained; owner may add 2CE's terminal "?" inside the closing quote).
+5. **E05 — Jn 12:24.** `"Unless a seed fall to the ground and dies, it remains but a seed. But if it dies, it produces much fruit"` → `"Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit"` (tag retained; 2CE's opening "Truly, truly, I say to you," is outside the printed span — owner may prepend).
+6. **E06 — Gen 1:31.** `He looked at us and said, "You are very good"` → `He looked at us and said, "It was very good"` (tag retained; capital "It" keeps the book's quote-start casing).
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identical). Source: `research/RSV-2CE_alignment_edits.md` (2CE digitally confirmed via biblia.com previews, 2026-09-17; policy: printed Scripture matches RSV-2CE where digitally confirmed; speaker prose, attributions, quotation marks, and surrounding punctuation structure unchanged; `[quotation wording unverified]` tags retained). The confirm-with-owner readings and the unverified (leave-as-printed) rows live in `research/RSV-2CE_alignment_edits.md`.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`).
+- **Result:** 31 spans cut; 426 words removed net (4,450 → 4,024, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** 1.24.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

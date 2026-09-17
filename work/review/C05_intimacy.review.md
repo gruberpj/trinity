@@ -132,3 +132,9 @@ Note: St. Elizabeth of the Trinity, Thérèse, "O my God, Trinity whom I adore",
 Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
 
 1. **Q13 (00:16:30) — "You were gone [possibly: home] when I wasn't." excised (author-directed).** Owner instruction: omit the sentence entirely. Deleted from the clean transcript and from both chapter copies; no replacement words invented. The friend's complaint now reads: "You violated my privacy. You came when I was gone. That is not okay." Q14 (00:16:33) remains open.
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Print-layer only; the clean transcript keeps the heard wording.
+
+1. **Opening prayer — Pusey translation adopted (owner decision A).** The chapter's opening prayer (St. Augustine, *Confessions* X.27) is reprinted in E. B. Pusey's public-domain translation, verbatim from newadvent.org (fathers/110110.htm): "Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You! For behold, You were within, and I without, and there did I seek You; I, unlovely, rushed heedlessly among the things of beauty You made. You were with me, but I was not with You. Those things kept me far from You, which, unless they were in You, were not. You called, and cried aloud, and forced open my deafness. You gleamed and shine, and chase away my blindness. You exhaled odours, and I drew in my breath and do pant after You. I tasted, and do hunger and thirst. You touched me, and I burned for Your peace." The attribution line now reads "— St. Augustine, *Confessions*, X.27 (trans. E. B. Pusey)". The heard modern rendering (ICEL-family) is superseded in the chapter copies only; the clean transcript keeps the recitation as heard. Ledger rows SRC-025/SRC-026 and unresolved.md item 17 updated (RESOLVED — public domain).

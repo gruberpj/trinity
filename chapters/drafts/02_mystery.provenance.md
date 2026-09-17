@@ -289,3 +289,24 @@ Owner's standard: "correct awkward phrasing, smooth out sentence structure (less
 | SB9 | §The Sun ¶4 | "We can try" supplied before the three-options list | Completes the fragment (T2-G) |
 
 No invented theology, examples, or transitions beyond these and the smoothing connectives listed above.
+
+---
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied identically to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02_mystery.md` (byte-identical). The clean transcript keeps the heard wording.
+
+1. **"as one in three" → "as one and three" (00:13:34) — Owner resolution 2026-09-16 (batch 3).** The Augustine legend sentence now reads "…when you try to understand God as one and three." (owner's wording). Supersedes the earlier "Owner edits" retention note above; review-log Q7 resolved (annotated there).
+2. **T2-B shamrock joke — "modalism" → "partialism" — Owner decision F (2026-09-16, batch 3).** "Wow, that's modalism, Patrick." → "Wow, that's partialism, Patrick." — owner: partialism is the accurate label. The separate heresy-list mention ("that's Sabellianism, that's modalism, that's pseudo-Pelagianism") is a different, accurate reference and is left untouched. The doctrinal-flag partialism/modalist label clash (T2-B vs T1-B) is RESOLVED by this owner choice; unresolved.md updated accordingly.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02_mystery.md` (byte-identical; verified with `cmp`).
+- **Result:** 20 spans cut; 457 words removed net (5,067 → 4,610, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** 2.12.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

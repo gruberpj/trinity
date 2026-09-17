@@ -218,3 +218,38 @@ Owner-directed smoothing pass ("correct awkward phrasing, smooth out sentence st
 | S39 | Watching for the Christ Already Within | "But I would say that it made a deeper sense." → "But I would say that it made deeper sense." |
 
 **Incoherence review:** each section was checked against the owner standard; no passage was incoherent beyond repair, so no `[INCOHERENT — author review]` markers were added and no content was deleted. Self-correction moves and as-heard constructions that remain deliberately unsmoothed (voice-profile §9.1, §9.2): "We can't study it — theology does study it…" (§A Solar Flare), "Typically, mystery novels — mystery novels are problems." (§The Viewer), "Engineering worldview: not good." / "Don't ask me how I know." (§What Mystery Is Not), "Why something rather than nothing? Liturgy." (§The Enchanted World), "And I would join the Oratory of the same priest who had influenced me during my undergrad." (§An Optimized Vocation — ambiguous singular/plural as heard; flagged for author awareness, not marked incoherent).
+
+---
+
+## 13. Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical); the flag resolutions were also applied to `transcripts/clean/E01_engineering_mystery.clean.md`.
+
+1. **"as everyone `[possibly: at last]`" → "at last" (F6, 00:29:21).** "But at last, he looked into his heart, and he found God there." — flag removed in the chapter copies and the clean transcript. Resolves review-log Q21.
+2. **"not near `[possibly: mere]` magic" → "not mere magic" (F8, 00:32:16).** Flag removed in the chapter copies and the clean transcript. Resolves review-log Q12.
+3. **"to `[possibly: of]` what you're meant to be" → "of what you're meant to be" (F12, 00:39:37).** "…won't deprive you of what you're meant to have, of what you're meant to be." — flag removed in the chapter copies and the clean transcript.
+4. **Augustine quotation — Pusey public-domain translation adopted (owner decision A).** Supersedes §11 item 5 (Pusey comparison — KEEP) above. The Confessions quotation in §"Intimacy — The Most In" is now reprinted in E. B. Pusey's public-domain translation, verbatim from newadvent.org (fathers/110110.htm and 110101.htm): "Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You! You have made us for Yourself, and our hearts are restless until they rest in You." The clean transcript keeps the heard wording. Ledger rows SRC-025/SRC-026 updated (discrepancy += owner decision A; permission_status → PUBLIC_DOMAIN); unresolved.md item 17 and the Pusey decision item RESOLVED.
+
+## RSV-2CE alignment 2026-09-16
+
+Direct edit (2CE digitally confirmed):
+
+1. **E18 — 1 Jn 4:10.** `"And this is love: not that we have loved God, but that he has loved us and sent his Son as expiation for our sins."` → `"In this is love, not that we loved God but that he loved us and sent his Son to be the expiation for our sins."` (multiple word-level fixes; heavier rewrite per policy).
+
+Suspect alignment edit (2CE confirmed; contradicts the heard audio — **CONFIRM WITH OWNER**):
+
+2. **S08 — Mt 11:28.** `"Come to me, all you who labor and are heavily burdened, and I will give you rest."` → `"Come to me, all who labor and are heavy laden, and I will give you rest."` ("heavy laden" NOT "heavily burdened").
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identical). Source: `research/RSV-2CE_alignment_edits.md` (2CE digitally confirmed via biblia.com previews, 2026-09-17; policy: printed Scripture matches RSV-2CE where digitally confirmed; speaker prose, attributions, quotation marks, and surrounding punctuation structure unchanged; `[quotation wording unverified]` tags retained). The confirm-with-owner readings and the unverified (leave-as-printed) rows live in `research/RSV-2CE_alignment_edits.md`.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; verified with `cmp`).
+- **Result:** 42 spans cut; 653 words removed net (6,730 → 6,077, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** E.7, E.37, E.44.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

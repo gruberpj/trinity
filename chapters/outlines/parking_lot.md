@@ -125,3 +125,419 @@ Recorded 2026-09-16 after the owner's large edit round. Each entry: the omitted/
 5. **Epilogue opening block** — "My name is Father Peter Gruber..." through "...Be transformed by the renewal of your mind." Omitted; the epilogue now opens on the "## The Engineering Worldview" heading.
 6. **Epilogue Franciscan admissions passage** — replaced by "I remember Franciscan University reached out to me and invited me to apply, and" (spliced onto the existing following sentence).
 7. **Global: all ritual sign-of-the-cross recitations + all Glory Be prayers** — omitted from the book per the 2026-09-16 policy (Scripture quotations of Mt 28:19 and prose about the sign of the cross are retained). Chapters affected: Ch. 1 (opening frames around the Breastplate; closing frames + Glory Be), Ch. 2 (frames around the opening St. Elizabeth prayer; closing frames + Glory Be), Ch. 3 (closing block appended then removed again: frames + Glory Be), Ch. 4 (opening frames around the Elizabeth-of-the-Trinity prayer; closing block), Ch. 5 (opening recitation; closing section in full), Ch. 6 (opening recitation before and after the Radiating Christ prayer; closing block), Epilogue (sign-of-cross frame inside the omitted opening block; closing sign of the cross + Glory Be).
+
+---
+
+## Reduction 2026-09-16
+
+Executed per `work/review/reduction_plan.md` (RECOMMENDED set — target ≈3,452 words; global 10% cut). Each removed span below is verbatim from the pre-reduction drafts; entries carry the plan's span reference and reason code. Net reduction: **3,449 words** (33,817 → 30,368, `wc -w`).
+
+### Chapter 1 — Icons of the Trinity (31 cuts · 426 words net)
+
+1. **1.1 (REDUN, 16 wds):**
+   > St. Patrick ached to be able to help convert this land, and he came in, and
+2. **1.2 (DUP, 18 wds):**
+   > having the miracle of the Paschal fire that could not be extinguished, and then other miracles as well
+3. **1.3 (REDUN, 18 wds):**
+   > It was so crucial for evangelization for the people of Ireland, at which St. Patrick was incredibly successful.
+4. **1.4 (REDUN, 24 wds):**
+   > for he had been enslaved there for six years before he escaped, and he understood the way they thought and the way they worshipped
+5. **1.5 (REDUN, 17 wds):**
+   > It's not saying that — but you can see how it could be twisted in that way.
+6. **1.6 (REDUN, 23 wds):**
+   > An icon, in particular — when we talk about icons, we think of the icons of the Eastern Catholic and the Eastern Orthodox.
+7. **1.7 (REDUN, 8 wds):**
+   > And that's where eventually Isaac would be born.
+8. **1.8 (REDUN, 14 wds):**
+   > The mystery of the Trinity does confound us, and there are reasons for that.
+9. **1.9 (ASIDE, 8 wds):**
+   > if everyone can take a look at it
+10. **1.10 (ASIDE, 15 wds):**
+   > In this time of spring, there will soon be green everywhere to replace the brown.
+11. **1.11 (REDUN, 10 wds):**
+   > We recall how many good things happen on a mountain.
+12. **1.12 (REDUN, 5 wds):**
+   > That symbolizes his kingly power.
+13. **1.13 (REDUN, 4 wds):**
+   > two fingers extended out
+14. **1.14 (REDUN, 6 wds):**
+   > And that is symbolized in that.
+15. **1.15 (ASIDE, 10 wds):**
+   > I pronounce "bow" and "bowl" very similarly, so I apologize.
+16. **1.16 (ASIDE, 16 wds):**
+   > either with me during the times of conferences or afterwards, when we are able to talk.
+17. **1.17 (DUP, 16 wds):**
+   > Our baptism is that insertion into the Trinity where we share in the life of God.
+18. **1.18 (REDUN, 30 wds):**
+   > And through his passion and death, he goes down into the depths of all human misery — he goes down into the depths of hell for us, that complete descent.
+19. **1.19 (REDUN, 8 wds):**
+   > In the Eastern tradition, it's right to left.
+20. **1.20 (REDUN, 20 wds):**
+   > What does amen mean?" "Oh, it means I believe. It means I'm committing to this." And it does mean that.
+21. **1.21 (REDUN, 15 wds):**
+   > It will not be moved. This is my stability. I am grounded in this truth.
+22. **1.22 (REDUN, 35 wds):**
+   > This "amen" is no less important than the other words we pray, because this is the most central mystery of our faith, especially when we pray "Amen" in regards to the sign of the cross.
+23. **1.23 (REDUN, 6 wds):**
+   > We are all of these things.
+- **1.24 — SKIPPED:** plan Risky cuts §5 — skip unless owner approves (voice-profile direct-address exemplar).
+24. **1.25 (ASIDE, 7 wds):**
+   > which we will talk about more later
+25. **1.26 (REDUN, 9 wds):**
+   > so that all human suffering is taken on him
+26. **1.27 (REDUN, 11 wds):**
+   > And there you have a Trinitarian exposition in the New Testament.
+27. **1.28 (REDUN, 22 wds):**
+   > Likewise, when three angels show up to Abraham and Sarah, we can say this is an Old Testament representation of the Trinity.
+28. **1.29 (REDUN, 6 wds):**
+   > That's, for some, a helpful analogy.
+29. **1.30 (REDUN, 11 wds):**
+   > because of the new life that comes from the Holy Spirit
+30. **1.31 (REDUN, 9 wds):**
+   > it is also a sort of a bowl shape
+31. **1.32 (REDUN, 4 wds):**
+   > We all are ascending.
+
+### Chapter 2 — Mystery (20 cuts · 457 words net)
+
+1. **2.1 (REDUN, 44 wds):**
+   > It's a doxology, a praise to the glory of God and of the three persons, and it expresses how God is mediated through, with, and in Christ, in the unity of the Holy Spirit, and how all things are directed to God the Father.
+2. **2.2 (ASIDE, 20 wds):**
+   > I know Brother Kurt likes the Sherlock Holmes — the Jeremy Brett versions, especially, which you can find on YouTube.
+3. **2.3 (REDUN, 14 wds):**
+   > And there is a sense in which, when we know ourselves, we know God.
+4. **2.4 (REDUN, 20 wds):**
+   > I'm involved in it. I'm not separate from it. I can't be detached from it as a mere external observer.
+5. **2.5 (REDUN, 14 wds):**
+   > You cannot encompass the mystery of God. You cannot grasp it into your hand.
+6. **2.6 (ASIDE, 12 wds):**
+   > The same thing is true of the tables in front of you.
+7. **2.7 (TANGENT, 58 wds):**
+   > Now, is it helpful to do that? Not always. If I need you to fix it — because it broke, the electrical thing, and I needed to rewire it or something — yeah, sure, I could fix it. It's not too good to be rewiring a lamp and being like, "Wow, I'm just caught up in the mystery…
+8. **2.8 (REDUN, 34 wds):**
+   > I can do the measurements. I can weigh it on a scale. I can look at the materials used to make its legs and the contraption used to extend it when it is opened.
+9. **2.9 (DUP, 60 wds):**
+   > There is some woman I have never met in France, and she is a mystery. But for me, my mother is a mystery — I was enclosed within her. I was given life through her. I was nourished by her. There's a connection there that involves me more so than some other random person that I have not yet met.
+10. **2.10 (TANGENT, 37 wds):**
+   > Orion's belt is always the one that sticks out to me, and I remember that, and I have associations with Orion's belt, because that's the very recognizable one. You can see it mostly even in the city.
+11. **2.11 (TANGENT, 20 wds):**
+   > when you're looking at these images from the James Webb telescope, and you're like, "This is amazing. This is incredible.
+- **2.12 — SKIPPED:** plan Risky cuts §2 — kept out of the recommended set.
+12. **2.13 (DUP, 15 wds):**
+   > — the creator of everything, the love that made the sun and the stars —
+13. **2.14 (REDUN, 29 wds):**
+   > I actually don't study theology. The idea of even reading a few pages from the Catechism is actually overwhelming to me. Therefore I'm not going to mess with it.
+14. **2.15 (REDUN, 6 wds):**
+   > Maybe there are some extra courses.
+15. **2.16 (REDUN, 7 wds):**
+   > — you read one of those books
+16. **2.17 (REDUN, 16 wds):**
+   > This is the central mystery of our faith. This is what matters more than everything else.
+17. **2.18 (REDUN, 10 wds):**
+   > You can't make out its circular form in the sky.
+18. **2.19 (REDUN, 8 wds):**
+   > Everything can be solved by analysis, by measurement.
+19. **2.20 (REDUN, 20 wds):**
+   > Oh, there are so many things you could talk about with the moon that are interesting in their own way.
+20. **2.21 (REDUN, 12 wds):**
+   > As much as you might try, it will not go into that.
+
+### Chapter 3 — Gift and Liturgy (45 cuts · 881 words net)
+
+1. **3.1 (REDUN, 17 wds):**
+   > It is well beyond our ability to understand. It overwhelms us, and we are enveloped in it.
+2. **3.2 (DUP, 9 wds):**
+   > And that love made the sun and the stars.
+3. **3.3 (TANGENT, 17 wds):**
+   > There's a simpler version of this, but I like this one because it was three of them.
+4. **3.4 (REDUN, 12 wds):**
+   > It's challenging, and it pulls the viewer in in a weird way.
+5. **3.5 (REDUN, 16 wds):**
+   > No pumps are used in this kind of waterfall. You cannot make this waterfall without pumps.
+6. **3.6 (REDUN, 18 wds):**
+   > , which would be pouring out into the other bucket, which is pouring out into the other bucket
+7. **3.7 (REDUN, 9 wds):**
+   > So I was like, I'll try to capture that.
+8. **3.8 (ASIDE, 17 wds):**
+   > Now, does this image — does the Trinity do this well? I would probably do it differently.
+9. **3.9 (REDUN, 8 wds):**
+   > This is a broad, expansive concept of liturgy.
+10. **3.10 (REDUN, 7 wds):**
+   > He was looking for humanity to respond.
+11. **3.11 (REDUN, 14 wds):**
+   > So it's received, and in that sense we are obedient there, in that reception.
+12. **3.12 (TANGENT, 228 wds):**
+   > Why is it necessary for a priest to pray the Hours, but not always to celebrate Holy Mass? The Hours are required — and that's part of the reason — it's the Church's discipline. The Church requires every priest to pray the Liturgy of the Hours every day. I don't know why. I just know that's the practice right now. Priests are encouraged to say Mass every day, very much so, but they're not violating a promise they made at their ordination when they don't. Also, a fun fact is that you make these promises when you're a deacon — and when you're a deacon, you can't make Mass happen, and it's really hard to get to Mass every day. And so in the past, it wouldn't have been the case that priests would say Mass every day, but it's become more common in the past five hundred years. I could just say one Mass once a week and still be good. I just wouldn't do that. That'd be weird. The practice of concelebration is more recent — for us in the West, only as recent as the past sixty years. So if I go to the old form, the traditional Latin Mass — if it's a solemn high Mass, there'd be a deacon or subdeacon, but I wouldn't be concelebrating. Only the main celebrant is doing that.
+13. **3.13 (REDUN, 18 wds):**
+   > So don't worry if you're not able to remain mentally focused the whole time. That's not the idea.
+14. **3.14 (REDUN, 8 wds):**
+   > because the point of Mass is to respond
+15. **3.15 (TANGENT, 26 wds):**
+   > There's a liturgy for Benediction, for example. That's a liturgical act that has roles that we follow and prayers that we pray, although there's some flexibility.
+16. **3.16 (REDUN, 18 wds):**
+   > Secondarily, it is educational for us. We hear what's going on in Scripture, but it's primarily a prayer.
+17. **3.17 (REDUN, 24 wds):**
+   > And that is an extension of that liturgy, though in itself it's not a distinct liturgical act, just having private prayer with our Lord.
+18. **3.18 (DUP, 23 wds):**
+   > There's nothing that is purely evil. Not even Satan himself is pure evil, for even by his existence, he shares something in God.
+19. **3.19 (ASIDE, 13 wds):**
+   > In the next talk, we will talk about how relationships image the Trinity.
+20. **3.20 (TANGENT, 27 wds):**
+   > Is a book a mystery? Take the *Introduction to Christianity* by Joseph Ratzinger. It's overwhelming you. You don't know it yet. Is the number two a mystery?
+21. **3.21 (TANGENT, 24 wds):**
+   > They are different colors. Some are orange, some are like bluish. Some are debatably some shade of color that only some can figure out.
+22. **3.22 (REDUN, 11 wds):**
+   > The invisible comes through the visible, the immaterial through the material.
+23. **3.23 (DUP, 19 wds):**
+   > It's not just a way we delude ourselves as Christians, but everything truly is gift, everything truly is positive.
+24. **3.24 (REDUN, 12 wds):**
+   > Everything that is, is good, and therefore God is present in everything.
+25. **3.25a (REDUN, 17 wds):**
+   > When we give everything to Jesus through Mary, we don't lose anything of ourselves, but we gain.
+26. **3.25b (REDUN, 11 wds):**
+   > When we give so fully of ourselves, we gain of ourselves.
+27. **3.26 (REDUN, 16 wds):**
+   > Negative feedback loops are quite good for establishing this at a certain level, and it's safe.
+28. **3.27 (REDUN, 11 wds):**
+   > even the praying of a rosary or stations of the cross.
+29. **3.28 (REDUN, 41 wds):**
+   > And we receive from this very Mass — every time we go, we can receive Jesus in the Holy Eucharist. And this is the source and the summit: everything of our lives goes towards that Eucharist, and everything flows from it.
+30. **3.29 (REDUN, 7 wds):**
+   > especially in torrential waterfalls. We would drown.
+31. **3.30 (ASIDE, 13 wds):**
+   > You can see Galilee — there were storms that would come in unexpectedly.
+32. **3.31 (ASIDE, 12 wds):**
+   > and why you can't possibly exhaust it in one 18-minute retreat talk.
+33. **3.32 (DUP, 11 wds):**
+   > We are not robots. We are not competitors with artificial intelligence.
+34. **3.33 (REDUN, 15 wds):**
+   > We think of it as — the whole Mass — the Mass is a prayer.
+35. **3.34 (REDUN, 11 wds):**
+   > There is a communication, there is a communion between the two.
+36. **3.35 (REDUN, 5 wds):**
+   > This is what we receive.
+37. **3.36 (REDUN, 6 wds):**
+   > But even there, there is goodness.
+38. **3.37 (REDUN, 7 wds):**
+   > This is a fundamental Christian imaginative vision.
+39. **3.38 (REDUN, 6 wds):**
+   > Private prayer is distinct from that.
+40. **3.39 (REDUN, 10 wds):**
+   > Not just read devotionally — Scripture is best proclaimed liturgically.
+41. **3.40 (REDUN, 9 wds):**
+   > We're joining in it — an eternal gift back.
+42. **3.41 (ASIDE, 15 wds):**
+   > You'd be surprised about what occurs in my mind while I'm praying the Eucharistic Prayer.
+43. **3.42 (TANGENT, 36 wds):**
+   > The fisherman's occupation was a rare occupation among the Jews, because the water was a dangerous place to be: you could easily capsize, and a storm could catch you off guard. It was harder to survive.
+44. **3.43 (REDUN, 23 wds):**
+   > Even when we're not going to be able to get ourselves around it fully — we're not meant to get ourselves around it.
+45. **3.44 (REDUN, 5 wds):**
+   > We need to recover this.
+
+### Chapter 4 — Relationship (1 cuts · 207 words net)
+
+1. **4.1 (DUP, 207 wds):**
+   > Are we then cut off entirely, irreparably? When we are about to surrender our weakness to God, I'm like, "Lord, I messed this up. Can you do something about it?" And then I let it go. And then, if you reflect on that particular thing that you did — which you are foolish and shameful about — and then maybe a couple of years later, you look back and you're like, "Oh, wow — the Lord took care of that relationship, or the Lord took care of that situation." I didn't need to say that the world has ended just with that. God's mercy transforms. And even in that moment, you can see God loving us — that he's not far from us, even when we want to be far from him. Sin might be that attempt: "I'm going to take matters into my own hands and do the thing that I know I ought not to do." But even there, we are caught up in the mystery of God's mercy. It still requires us to choose to receive that mercy, but we go back and we can revise — we can see that God's goodness is there. His fidelity is unchanging, even though ours is not.
+- **4.2 — SKIPPED:** OPT — not in recommended set.
+- **4.3 — SKIPPED:** OPT — not in recommended set.
+- **4.4 — SKIPPED:** OPT — not in recommended set.
+- **4.5 — SKIPPED:** OPT — not in recommended set.
+- **4.6 — SKIPPED:** OPT — not in recommended set.
+
+### Chapter 5 — Intimacy (27 cuts · 482 words net)
+
+1. **5.1 (REDUN, 14 wds):**
+   > We can add all the characteristics to this great, really, really, really great being.
+2. **5.2 (REDUN, 13 wds):**
+   > There's no potential in God. There's no having something and not having it.
+3. **5.3 (REDUN, 18 wds):**
+   > All things share in his existence, because all things have existence, and their existence participates in God's existence.
+4. **5.4 (REDUN, 11 wds):**
+   > He exists, and he doesn't have being — he is being.
+5. **5.5 (REDUN, 42 wds):**
+   > You have inanimate objects, rocks, and then you've got trees and other kinds of plants, and then animals — and higher kinds of animals — and then human beings. And then above human beings, you put angels, of course, and then God.
+6. **5.6 (DUP, 35 wds):**
+   > And this way, you can see why in the Rublev's icon the heads bow towards the Father, because both the Son and the Holy Spirit come from the Father. And this happens in all eternity.
+7. **5.7 (REDUN, 8 wds):**
+   > There is a viewer and a person viewing.
+8. **5.8 (TANGENT, 30 wds):**
+   > between the angels themselves, who are also persons, capable of gifts of themselves, although not through material means such as bodies like us, but through their essence and their intellect.
+9. **5.9 (REDUN, 14 wds):**
+   > Every thought in our minds, every concept rolling around in our intellects, God knows.
+10. **5.10 (REDUN, 55 wds):**
+   > And even souls that reject God — that go to the depths of hell, that have rejected him so much — they've not rejected him to the point of losing their existence. They still exist, and because they exist, they participate in God. Even we, when we sin, we still exist and participate in God.
+11. **5.11 (REDUN, 17 wds):**
+   > There are memories we do not access. There are parts of our lives that we simply forget.
+12. **5.12 (ASIDE, 9 wds):**
+   > One person here mentioned that they're reading *Fire Within*.
+13. **5.13 (REDUN, 19 wds):**
+   > and he would decipher those and lay out their meaning for the different sisters that asked him for explanations.
+14. **5.14 (DUP, 13 wds):**
+   > — the love that moves the sun and the stars and the moon
+15. **5.15 (REDUN, 10 wds):**
+   > We look for him in the things of the world.
+16. **5.16 (REDUN, 12 wds):**
+   > God is always thinking of us. He's always sustaining us in being.
+17. **5.17 (REDUN, 5 wds):**
+   > She is showing true hospitality.
+18. **5.18 (REDUN, 8 wds):**
+   > We participate in him, and he is being.
+19. **5.19 (TANGENT, 28 wds):**
+   > Beauty gets confused, because — what is that? Is that part of goodness? Is that part of truth? Is that the appeal, the emotional appeal, of these things?
+20. **5.20 (REDUN, 13 wds):**
+   > We are relational. We share in this relationality that God has within himself.
+21. **5.21 (REDUN, 16 wds):**
+   > He is more interior to me than I am to myself. And there's a relationality there.
+22. **5.22 (REDUN, 14 wds):**
+   > So Moses asks the burning bush — God himself — what is his name.
+23. **5.23 (REDUN, 16 wds):**
+   > It has existence. It participates in God. It is good, because it participates in God's goodness.
+24. **5.24 (REDUN, 10 wds):**
+   > It has a relationality to it — a minimal relationality.
+25. **5.25 (DUP, 30 wds):**
+   > especially, we see this in marriage. We see this even in the relationship of mother or father to child, even a friendship. All these things capture something of the Trinity.
+26. **5.26 (REDUN, 15 wds):**
+   > and even experiences of God because of that likeness, that cannot be communicated with others.
+27. **5.27 (REDUN, 4 wds):**
+   > We would be gone.
+- **5.28 — SKIPPED:** OPT — not in recommended set.
+
+### Chapter 6 — Evangelization (23 cuts · 343 words net)
+
+1. **6.1 (REDUN, 39 wds):**
+   > that he shares with them their sufferings, though they know it not — that he is closer to them than they are to themselves, that they are meant to be included in the love of his Sacred Heart, and
+2. **6.2 (REDUN, 30 wds):**
+   > We run into big problems, because we're trying to spread the faith, but when we try to spread the faith, we hit this problem of the Trinity pretty early on.
+3. **6.3 (REDUN, 13 wds):**
+   > God is not just so far from us; he is close to us.
+4. **6.4 (REDUN, 15 wds):**
+   > I think it's something we can take ownership of as we go out and evangelize.
+5. **6.5 (REDUN, 7 wds):**
+   > We are to shine with his light.
+6. **6.6 (REDUN, 11 wds):**
+   > We belong to him, yes. Yes, but we are also him.
+7. **6.7 (REDUN, 15 wds):**
+   > For who cannot experience the love of God through us, and be transformed by it?
+8. **6.8 (REDUN, 7 wds):**
+   > And they are built up and transformed.
+9. **6.9 (DUP, 34 wds):**
+   > There's nothing more beautiful, Pope Benedict says, than for us to know Christ, for us to know that we are loved by him, and for us to tell others of our friendship with him.
+10. **6.10 (REDUN, 17 wds):**
+   > At every Easter Vigil, the priest blesses the fire and lights the Paschal candle from that fire,
+11. **6.11 (DUP, 20 wds):**
+   > This is a liturgy that is meant to go out, to envelop all of creation, and it happens through us.
+12. **6.12 (REDUN, 15 wds):**
+   > The "go" means go, and "be sent" — that's the going out, that's the "go."
+13. **6.13 (REDUN, 4 wds):**
+   > The Mass is completed.
+14. **6.14 (REDUN, 4 wds):**
+   > We are other Christ.
+15. **6.15 (REDUN, 21 wds):**
+   > We can victimize, set them aside, not worry about them, and have our own little group that we feel comfortable with.
+16. **6.16 (REDUN, 14 wds):**
+   > And every single one of us, we are all mysteries of the Holy Trinity.
+17. **6.17 (REDUN, 7 wds):**
+   > He is with us in our sufferings.
+18. **6.18 (REDUN, 12 wds):**
+   > that we become him, and we become his extension into this world
+19. **6.19 (REDUN, 9 wds):**
+   > They might be set afire with that same love.
+20. **6.20 (REDUN, 11 wds):**
+   > We're meant to go out, to evangelize, to spread the gospel.
+21. **6.21 (REDUN, 7 wds):**
+   > This is the spreading of the love.
+22. **6.22 (REDUN, 13 wds):**
+   > Our Lord gives us this missionary imperative to make disciples of all nations.
+23. **6.23 (REDUN, 18 wds):**
+   > And now we end our conferences on the mystery of the Holy Trinity, once again reflecting on evangelization.
+
+### Epilogue — Engineering Mystery (42 cuts · 653 words net)
+
+1. **E.1 (DUP, 58 wds):**
+   > There is something missing. There are clues that, if we add them up in the correct kind of way, we can actually come up with the answer. There is a solution out there. We must solve it. A mystery in this situation, in this application, is something that you don't know the answer to because there's something unknown.
+2. **E.2 (ASIDE, 10 wds):**
+   > If you've ever taken notes, you may cross that out.
+3. **E.3 (REDUN, 26 wds):**
+   > You actually need to do your research and get the ones that actually work. It was a bad mistake. It worked for the eclipse in 2017.
+4. **E.4 (DUP, 22 wds):**
+   > If you were to try to look at the sun, you could not actually see it. Is it because it's invisible? No.
+5. **E.5 (REDUN, 7 wds):**
+   > But you can't see the sun, typically.
+6. **E.6 (REDUN, 13 wds):**
+   > A Christian mystery is not something that you don't know the answer to.
+- **E.7 — SKIPPED:** plan Risky cuts §3 — skip unless owner approves (eclipse occlusion setup).
+7. **E.8 (DUP, 15 wds):**
+   > and of that school, in a different area of the world, was also Karol Wojtyła
+8. **E.9 (REDUN, 8 wds):**
+   > The same thing is true with quantum physics.
+9. **E.10 (REDUN, 7 wds):**
+   > You can't fully take in the Trinity.
+10. **E.11 (DUP, 15 wds):**
+   > You can't fully embrace it, because you can't fully put your arms around a mountain.
+11. **E.12 (REDUN, 13 wds):**
+   > This is actually a basic thing about our understanding of metaphysics, of being.
+12. **E.13 (DUP, 9 wds):**
+   > And so your being is a participation in his.
+13. **E.14 (REDUN, 5 wds):**
+   > the excess of God's creation
+14. **E.15 (REDUN, 13 wds):**
+   > And you think, the Trinity — oh, well, we can't understand it. No.
+15. **E.16 (DUP, 16 wds):**
+   > The proper response to mystery is to enter, to delve deeply, to be embraced by it.
+16. **E.17 (REDUN, 10 wds):**
+   > The visible communicates the invisible. The matter communicates the immaterial.
+17. **E.18 (REDUN, 5 wds):**
+   > Has anyone heard that before?
+18. **E.19 (REDUN, 16 wds):**
+   > "Intimacy means into me see. You can see into me." Okay, fair enough. That's not bad.
+19. **E.20 (DUP, 22 wds):**
+   > A superlative is, you know, good, better, best. Best is the superlative. Better is the comparative. And good is the normal word.
+20. **E.21 (REDUN, 13 wds):**
+   > You've got to get through this class. You've got to do this project.
+21. **E.22 (REDUN, 9 wds):**
+   > And in a grander way of going about it,
+22. **E.23 (REDUN, 13 wds):**
+   > We are meant to respond to his love for us in creating us.
+23. **E.24 (DUP, 34 wds):**
+   > The speed limit — you know: you go a little bit higher going downhill, the car will slow down; if it slows down too much, it speeds up, to stay at a constant speed.
+24. **E.25 (ASIDE, 14 wds):**
+   > Engineers at Franciscan get to learn a little bit about theology of the body.
+25. **E.26 (REDUN, 7 wds):**
+   > And this continues over and over again.
+26. **E.27 (REDUN, 14 wds):**
+   > that has a magic behind it. There are forces beyond what we can see.
+27. **E.28 (TANGENT, 23 wds):**
+   > In the Greek myth of the Odyssey, Odysseus' men at one point were seduced by Circe, and Circe's kiss made them become pigs.
+28. **E.29 (REDUN, 20 wds):**
+   > I do that until I can just get through these next ten minutes when I have nothing else to do.
+29. **E.30 (REDUN, 6 wds):**
+   > You're giving yourself back to God.
+30. **E.31 (REDUN, 7 wds):**
+   > Maybe it's more analogous to — well,
+31. **E.32 (REDUN, 29 wds):**
+   > I desired to make things — it was fun, exciting — and this way I could make a job out of it, and actually do a pretty good job.
+32. **E.33 (REDUN, 25 wds):**
+   > For some, there's actually maybe an incentive not to virtue but to a great fear, to keep them locked into a grueling freshman engineering program.
+33. **E.34 (REDUN, 6 wds):**
+   > It was part of my identity.
+34. **E.35 (REDUN, 6 wds):**
+   > tiring myself out and doing nothing
+35. **E.36 (ASIDE, 15 wds):**
+   > — not physically on the altar, but the expression means in the sanctuary, helping, assisting
+- **E.37 — SKIPPED:** plan Risky cuts §4 — skip unless owner approves (inside Uncle Mark signature story).
+36. **E.38 (REDUN, 6 wds):**
+   > It doesn't try to hurt you.
+37. **E.39 (REDUN, 11 wds):**
+   > I could model it. I could wrap my mind around it.
+38. **E.40 (REDUN, 10 wds):**
+   > The desire for holiness was something that stuck with me.
+39. **E.41 (REDUN, 7 wds):**
+   > and I grew up with thirteen siblings
+40. **E.42 (DUP, 54 wds):**
+   > We might think of the ancients, how they looked up at the stars, and grown men would sketch out, connecting the dots from one star to another. They would draw pictures in the sky — constellations — that reminded them of the myths that were so important to them, the stories that had meaning.
+41. **E.43 (DUP, 22 wds):**
+   > We know the distances. We know the sizes. We know the effects of the atmosphere as the moon goes over the horizon.
+- **E.44 — SKIPPED:** plan Risky cuts §4 — skip unless owner approves (inside signature moon telling).
+42. **E.45 (REDUN, 10 wds):**
+   > You can do that from a distance, actually relatively safely.

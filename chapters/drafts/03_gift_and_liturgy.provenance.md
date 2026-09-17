@@ -247,3 +247,44 @@ Bridge count: **17** (B1–B17). All are connective/rendering only; none adds th
 4. Closing Glory Be + sign-of-cross frame (00:23:32–00:23:56) — author decision (global note). **Unparked by Owner edit 2026-09-16** (appended to the chapter; recorded here only — `chapters/outlines/parking_lot.md` is not edited by this task and is left to the sync agent). **Removed again by a further Owner edit 2026-09-16** (all Glory Be prayers out; see "Owner edits" section).
 5. One uninterpretable word at 00:03:41 (U1) — human listen; candidate restoration possible after review.
 
+---
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical); the flag resolutions were also applied to `transcripts/clean/C03_gift_and_liturgy.clean.md`.
+
+1. **"roles `[possibly: rules]`" → "rules" (P2, 00:05:29).** "the rubrics, the rules, about how we are to celebrate Mass" — flag removed in the chapter copies and the clean transcript. Supersedes Owner edit 10's retention note for P2; review-log P2/Q7 resolved.
+2. **"creates one `[possibly: no one]`" → "one" (P3, 00:07:07).** "And God creates one in creation to give some kind of echo of response." — flag removed in the chapter copies and the clean transcript. Supersedes Owner edit 10's retention note for P3; review-log P3/Q10 resolved.
+3. **"prayer `[possibly: love]`" → "love" (P9, 00:21:19).** "St. Thérèse says, love is to be poured out into another." — flag removed in the chapter copies and the clean transcript. **Owner's source: Jean Lafrance, *My Vocation is Love***; the exact wording is still to be verified against the book — the unresolved.md item (page pin) remains open. Supersedes Owner edit 4 (LeFrance note) and Owner edit 10's retention note for P9; review-log P9/Q28 resolved with the open provenance note.
+4. **"biology `[possibly: physiology]`" → "Biology" (P7, 00:19:42).** The passage is parked (not in this chapter); the clean transcript now reads "Biology relies on positive feedback loops." — flag removed. Supersedes Owner edit 9's retention note; review-log P7/Q21 resolved.
+
+
+## RSV-2CE alignment 2026-09-16
+
+Direct edits (2CE digitally confirmed):
+
+1. **E07 — Gen 1:26 fragment.** `God created. He used the passive tense. "Let us create," he says.` → `God created. He used the passive tense. "Let us make," he says.`
+2. **E08 — Gen 1:9.** `"Let there be dry land." And there it was, dry land.` → `"Let the dry land appear." And there it was, dry land.` (book quotes only the final clause; Latin gloss "fiat terra" untouched).
+3. **E09 — Lk 1:38.** `responded to God's will: "Let it be done to me according to thy word."` → `responded to God's will: "Let it be to me according to your word."` (replacement covers only the printed span).
+4. **E10 — Jn 15:5.** `Christ said, "Without me you can do nothing."` → `Christ said, "Apart from me you can do nothing."`
+5. **E11 — Lk 15:18.** `to say, "I will rise and go to my father."` → `to say, "I will arise and go to my father."`
+
+Suspect alignment edits (2CE confirmed; contradict the heard audio — **CONFIRM WITH OWNER**):
+
+6. **S01 — Ps 42:3.** `"Where is your God?" These things I remember` → `"Where is your God." These things I remember` (2CE ends v3 with a period, not "?").
+7. **S02 — Ps 42:5.** `for I shall again praise him, my Savior and my God.` → `for I shall again praise him, my savior and my God.` (lowercase "savior" per 2CE).
+8. **S03 — Rom 12:2.** `says, "Do not be conformed to this age, but be transformed by the renewal of your mind."` → `says, "Do not be conformed to this world but be transformed by the renewal of your mind."` ("this world" NOT "this age"; comma after "world" dropped per 2CE).
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identical). Source: `research/RSV-2CE_alignment_edits.md` (2CE digitally confirmed via biblia.com previews, 2026-09-17; policy: printed Scripture matches RSV-2CE where digitally confirmed; speaker prose, attributions, quotation marks, and surrounding punctuation structure unchanged; `[quotation wording unverified]` tags retained). The confirm-with-owner readings and the unverified (leave-as-printed) rows live in `research/RSV-2CE_alignment_edits.md`.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`).
+- **Result:** 45 spans cut; 881 words removed net (6,290 → 5,409, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** none.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

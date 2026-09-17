@@ -80,6 +80,7 @@ Appended 2026-09-16 by `pipeline-researcher`. Each entry: what is missing / unce
 - **RESOLVED (owner, 2026-09-16):** (a) the saint is Thérèse; (b) the attribution reads "her Last Conversations".
 - **NEW OWNER FLAG (owner, 2026-09-16):** (c) owner found the line in a Jean LeFrance book (note: the usual published spelling may be "Jean Lafrance"); pin exact book/page later.
 - **Sync note (2026-09-16):** item 6c (LeFrance) — unchanged, no action.
+- **UPDATE (owner, 2026-09-16, batch 3):** (c) owner supplied the source: **Jean Lafrance, *My Vocation is Love*** (usual published spelling). The chapter now prints "love is to be poured out into another" (flag removed); the exact wording is still to be verified against the book — page pin remains open.
 
 ## 7. Weber "19th-century German philosopher" (SRC-030, E01 00:31:57; C03 00:14:51)
 - **What's found:** The speaker inverts Weber's "disenchantment of the world" (Entzauberung der Welt — verified, *Wissenschaft als Beruf* 1919, Gerth & Mills 1946 p. 155). Weber (1864–1920) is usually classed early-20th-century sociologist; audio says "19th-century German philosopher."
@@ -132,6 +133,7 @@ Appended 2026-09-16 by `pipeline-researcher`. Each entry: what is missing / unce
 
 ## 17. ICEL permission note (SRC-025, SRC-026)
 - The heard Confessions quotations match the ICEL Liturgy of the Hours renderings ("O Beauty ever ancient, ever new…"; "you have made us for yourself…"). If printed as quotations, ICEL (©) permission applies; alternatively cite the public-domain Pusey translation. Owner: rights reviewer.
+- **RESOLVED (owner, 2026-09-16, batch 3 — decision A):** Pusey's public-domain translation adopted, printed verbatim from newadvent.org (fathers/110110.htm, 110101.htm) in the Ch. 5 opening prayer and the epilogue's "restless hearts" passage. ICEL permission no longer applies to these quotations. Ledger rows SRC-025/SRC-026 updated.
 
 ---
 
@@ -188,9 +190,9 @@ Appended 2026-09-16 after the owner's large edit round.
 - Owner 2026-09-16: all ritual sign-of-the-cross recitations and Glory Be prayers are omitted from the book (Scripture quotations of Mt 28:19 and prose about the sign of the cross are retained). Omitted material recorded in `chapters/outlines/parking_lot.md`.
 
 ## 24. OWNER-DECISION entries pending (2026-09-16)
-- **(a) Augustine prayers — Pusey vs current modern rendering (SRC-025, SRC-026).** Pusey comparison done: substantial archaic-pronoun differences; the current modern rendering is kept for now. Owner decision pending: keep with ICEL permission vs switch to Pusey.
-- **(b) Ch. 2 "as one in three" vs "three in one".** Context requested from the owner; pending.
-- **(c) Ch. 3 "biology [possibly: physiology]".** Context requested; pending.
+- **(a) Augustine prayers — Pusey vs current modern rendering (SRC-025, SRC-026).** Pusey comparison done: substantial archaic-pronoun differences; the current modern rendering is kept for now. Owner decision pending: keep with ICEL permission vs switch to Pusey. **RESOLVED (owner, 2026-09-16, batch 3 — decision A): Pusey adopted; see item 17.**
+- **(b) Ch. 2 "as one in three" vs "three in one".** Context requested from the owner; pending. **RESOLVED (owner, 2026-09-16, batch 3): owner's wording — "as one and three".**
+- **(c) Ch. 3 "biology [possibly: physiology]".** Context requested; pending. **RESOLVED (owner, 2026-09-16, batch 3): "Biology" (flag removed in the clean transcript; the passage is parked, not in the chapter).**
 
 ## 25. Review-log flag resolutions from this sync
 - C01 "We [possibly: He] looked upon us" — RESOLVED: "He" (owner listening).
@@ -212,3 +214,19 @@ Appended 2026-09-16 after the owner's large edit round.
 - **LOW items left for cleanup:**
   - Ch. 1 smoothing-log non-exhaustive — accepted.
   - Ch. 6 stale flag pointer `[attribution questioned; see chapter note]` — the chapter note was owner-deleted; pending fix.
+
+---
+
+# Batch-3 additions (owner resolutions, 2026-09-16)
+
+Appended 2026-09-16 after the owner's batch-3 resolution round.
+
+## 26. Partialism vs modalism label clash (ch. 2 T2-B vs ch. 1 T1-B) — RESOLVED (owner decision F)
+- The ch. 2 shamrock joke now reads "Wow, that's partialism, Patrick." (owner: partialism is the accurate label). The separate heresy-list mention of Sabellianism/modalism in the ch. 2 T2-I passage is a different, accurate reference and remains untouched. The ch. 2 provenance doctrinal-flag note (T2-B) is updated to RESOLVED.
+
+## 27. Batch-3 flag resolutions (summary)
+- Ch. 1 (C01): sign-of-cross sentence replaced with the owner's dictation "As Catholics, we are very used to beginning and ending prayer with the sign of the cross." (`[possibly: both]` removed); "Every word matters — even the 'and of the's." (`[possibly: these]` removed — owner's phrase).
+- Ch. 2 (C02): "as one and three" (owner's wording; item 24(b)); "partialism" joke (decision F; item 26).
+- Ch. 3 (C03): "the rubrics, the rules" (P2); "God creates one in creation" (P3); "love is to be poured out into another" (P9 — source: Jean Lafrance, *My Vocation is Love*, page still to pin; item 6(c)); "Biology" (P7 — parked passage, clean-transcript flag removed; item 24(c)).
+- Epilogue (E01): "at last" (Q21); "not mere magic" (Q12); "of what you're meant to be" (flags row 6).
+- Augustine quotations (SRC-025/SRC-026): Pusey public-domain translation adopted (decision A; item 17/24(a)).

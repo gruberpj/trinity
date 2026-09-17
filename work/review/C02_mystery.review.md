@@ -91,7 +91,7 @@ Note: "mysterium", CCC, canon-law citations, and Ratzinger pp. 162/175 quotation
 4. **00:08:33** — "Several years ago": confirm "several" (p=0.012); alternatives: "a few", "some".
 5. **00:08:55** — "She said to me, 'Uncle PJ' — because she calls me Uncle PJ — 'Uncle PJ, guess what?'": confirm the exact duplication structure (the double "Uncle PJ").
 6. **00:10:44** — "Jake [possibly: 'kay], it really follows me.": confirm the word (p=0.132). Candidates: 'kay / yeah / repeated "Uncle PJ".
-7. **00:13:34** — "when you try to understand God as one in three": confirm "one in three" ("in" p=0.701; could be "three in one").
+7. **00:13:34** — "when you try to understand God as one in three": confirm "one in three" ("in" p=0.701; could be "three in one"). **RESOLVED (owner, batch 3, 2026-09-16): owner's wording — "when you try to understand God as one and three." Applied to both chapter copies.**
 8. **00:13:45** — "We can talk about its different parts": confirm "to"→"its" fix ("to" p=0.916).
 9. **00:14:00** — "they go forth — the missions of the Trinity —": confirm phrasing ("the" p=0.888).
 10. **00:15:12–00:15:24** — quantum passage: "you have a [possibly: qubit], which are called bits — that make up the language of all computers — are just zeros and ones" is a conservative reconstruction; the ASR grammar is garbled. Confirm the speaker's exact words. Also "it's zero or one" — confirm "zero" (p=0.245; parallel with "defaults to a zero" supports it).
@@ -116,3 +116,10 @@ Note: "mysterium", CCC, canon-law citations, and Ratzinger pp. 162/175 quotation
 Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
 
 1. **Q1 (00:03:51) — "halogy [possibly: analogy]" → "analogy" (owner-confirmed).** The word is "analogy". The `[possibly: analogy]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (flags table) and §5 Q1.
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied to the chapter draft/reviewed copies and this log.
+
+1. **Q7 (00:13:34) — "as one in three" → "as one and three" (owner's wording).** The Augustine legend sentence now reads "…when you try to understand God as one and three." Applied to both chapter copies (the clean transcript keeps the heard "one in three"). Annotated inline at §5 Q7. Supersedes the earlier retention note in the chapter provenance.
+2. **T2-B "modalism" joke → "partialism" (owner decision F).** In the shamrock joke paragraph, "Wow, that's modalism, Patrick." is changed to "Wow, that's partialism, Patrick." — owner: partialism is the accurate label for the shamrock's risk. The chapter's separate heresy list ("that's Sabellianism, that's modalism, that's pseudo-Pelagianism") is left untouched. The doctrinal-flag partialism/modalist clash (T1-B vs T2-B, chapter provenance) is RESOLVED by this owner choice. The clean transcript keeps "modalism" as heard.

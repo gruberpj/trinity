@@ -59,8 +59,8 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 | # | Timestamp | Raw ASR text | Action | Reason |
 |---|---|---|---|---|
 | 1 | 00:02:46 | "And if you were Jewish and you believed in many gods" | Kept "Jewish", flagged `[possibly: pagan]` | "Jewish" p=0.492; context ("believed in many gods") fits a pagan/polytheist, not a Jew; possible speaker slip or loose syntax. Human listen required. |
-| 2 | 00:17:21 | "beginning prayer and ending prayer, bulk ending it with the sign of the cross" | Kept "bulk", flagged `[possibly: both]` | "bulk" p=0.899 but semantically incoherent; likely "both" (both beginning and ending with the sign of the cross). Human listen required. |
-| 3 | 00:18:31 | "Every word matters. even the and of thus." | Kept "thus", flagged `[possibly: these]`; rendered as "even the 'and' of thus [possibly: these]" | "thus" p=0.888 but "the 'and' of thus" is meaningless; context ("every word matters", the words just quoted) suggests "of these [words]". Human listen required. |
+| 2 | 00:17:21 | "beginning prayer and ending prayer, bulk ending it with the sign of the cross" | Kept "bulk", flagged `[possibly: both]` | "bulk" p=0.899 but semantically incoherent; likely "both" (both beginning and ending with the sign of the cross). Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): owner dictated replacement wording — "As Catholics, we are very used to beginning and ending prayer with the sign of the cross." Applied to the clean transcript and both chapter copies; flag removed.** |
+| 3 | 00:18:31 | "Every word matters. even the and of thus." | Kept "thus", flagged `[possibly: these]`; rendered as "even the 'and' of thus [possibly: these]" | "thus" p=0.888 but "the 'and' of thus" is meaningless; context ("every word matters", the words just quoted) suggests "of these [words]". Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): rendered with the owner's phrase — "Every word matters — even the 'and of the's." Applied to the clean transcript and both chapter copies; flag removed.** |
 | 4 | 00:19:13 | "that saint teres talks about when she says what is prayer but a simple glance directed towards heaven" | Rendered "St. Teresa", flagged `[possibly: Thérèse]` | "teres" p=0.64; ambiguous between Teresa (of Avila) and Thérèse (of Lisieux). The "simple glance directed towards heaven" is classically St. Thérèse of Lisieux's (Story of a Soul, ch. XI: "a simple look turned toward heaven"). Attribution must be confirmed by the author. |
 | 5 | 00:20:41 | "This scent of the Holy Spirit is now with us." | Kept "scent", flagged `[possibly: descent]` | "scent" p=0.355 and contextually wrong; candidates: "descent" (parallels "the descent of Christ" at 00:19:54), "sending" (parallels "has been sent among us" at 00:20:37), or "same". Human listen required. **RESOLVED by owner listening 2026-09-16: the word is "descent"; flag removed from the clean transcript and chapter layers.** |
 | 6 | 00:23:47 | "he said, it is good. We looked upon us created in his image and likeness" | Kept "We", flagged `[possibly: He]` | "We" p=0.77 but "We looked upon us" is ungrammatical; the subject is God (parallel with "when God looked… he said" and "He looked at us and said"). Almost certainly "He". Human listen required. |
@@ -102,9 +102,9 @@ Note: "Ratzinger", "Newman", "Elizabeth of the Trinity", CCC, and canon-law cita
 4. **00:06:22** — "when God says, 'Let us create man…'": confirm the dropped false start "It says," (It p=0.186) — speaker may have said "when God says it".
 5. **00:07:59** — "this scepter, this stave — in their, I believe that's the word, stave? We'll go with that": confirm "stave" (staff) and the dangling "in their" (he means the left hands).
 6. **00:12:53** — "It's original — when it was originally written": confirm whether the speaker said "It's original" or "In the original".
-7. **00:17:21** — "bulk [possibly: both] ending it with the sign of the cross": confirm word.
+7. **00:17:21** — "bulk [possibly: both] ending it with the sign of the cross": confirm word. **RESOLVED (owner, batch 3, 2026-09-16): owner dictated the replacement sentence — "As Catholics, we are very used to beginning and ending prayer with the sign of the cross." Flag removed from the clean transcript and both chapter copies.**
 8. **00:17:30** — "water poured three times over our heads": confirm word order (transposed in clean).
-9. **00:18:31** — "even the 'and' of thus [possibly: these]": confirm the phrase.
+9. **00:18:31** — "even the 'and' of thus [possibly: these]": confirm the phrase. **RESOLVED (owner, batch 3, 2026-09-16): rendered with the owner's phrase — "Every word matters — even the 'and of the's." Flag removed from the clean transcript and both chapter copies.**
 10. **00:19:13** — St. Teresa vs St. Thérèse of Lisieux: confirm whom the speaker named; the "simple glance" quote is Thérèse's.
 11. **00:20:39** — "Pour it out for the forgiveness of sins.": confirm "Pour it out" vs "Poured out" (Pour p=0.938).
 12. **00:20:41** — "This scent [possibly: descent] of the Holy Spirit is now with us.": confirm the word (scent p=0.355). Candidates: descent / sending / same. **RESOLVED (owner 2026-09-16, listening): "descent" confirmed; flag removed in clean + drafts/reviewed.**
@@ -127,3 +127,10 @@ Note: "Ratzinger", "Newman", "Elizabeth of the Trinity", CCC, and canon-law cita
 Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
 
 1. **Q12 (00:20:41) — "scent [possibly: descent]" → "descent" (owner-confirmed).** The word is "descent". The `[possibly: descent]` flag is removed from the clean transcript and from both chapter copies. Annotated inline at §2 (flags table) and §5 Q12.
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q7 (00:17:21) — "bulk [possibly: both]" → owner's dictated sentence.** Owner dictated the replacement wording: "As Catholics, we are very used to beginning and ending prayer with the sign of the cross." Applied in place of "Catholics, we are very used to beginning prayer and ending prayer, bulk [possibly: both] ending it with the sign of the cross." in the clean transcript and both chapter copies; flag removed. Annotated inline at §2 (flags row 2) and §5 Q7.
+2. **Q9 (00:18:31) — "the 'and' of thus [possibly: these]" → owner's phrase.** Rendered with the owner's phrase, keeping his tone: "Every word matters — even the 'and of the's." Applied in the clean transcript and both chapter copies; flag removed. Annotated inline at §2 (flags row 3) and §5 Q9.

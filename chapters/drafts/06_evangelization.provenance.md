@@ -172,3 +172,25 @@ Full smoothing log:
 **[INCOHERENT — author review] markers: NONE.** No section was incoherent beyond repair; nothing was deleted for incoherence.
 
 **Flags preserved (constraint):** all existing flags retained — `[attribution questioned; see chapter note]` (Newman prayer), `[quotation wording unverified]` (Ignatius dictum). New flags added only from the mine (§10 table): `[possibly: Michael]`, `[possibly: confession]`, `[possibly: mercy]`, `[unclear]`. The Radiating Christ prayer is unchanged; its attribution question remains noted in §5 row 1 and is not resolved here.
+
+## RSV-2CE alignment 2026-09-16
+
+Suspect alignment edits (2CE confirmed; contradict the heard audio — **CONFIRM WITH OWNER**):
+
+1. **S05 — Mt 28:18 self-correction collapse.** `"All power in heaven and earth — all authority in heaven and earth has been given over to me.` → `"All authority in heaven and on earth has been given to me.` (collapses the heard self-correction; "on earth" not "in earth").
+2. **S06 — Mt 28:19.** `Go, therefore, make disciples of all nations` → `Go therefore and make disciples of all nations`.
+3. **S07 — Mt 28:20.** `Behold, I am with you always, even to the close of the age."` → `Behold, I am with you always, to the close of the age."` ("Behold" already matches 2CE — unchanged).
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identical). Source: `research/RSV-2CE_alignment_edits.md` (2CE digitally confirmed via biblia.com previews, 2026-09-17; policy: printed Scripture matches RSV-2CE where digitally confirmed; speaker prose, attributions, quotation marks, and surrounding punctuation structure unchanged; `[quotation wording unverified]` tags retained). The confirm-with-owner readings and the unverified (leave-as-printed) rows live in `research/RSV-2CE_alignment_edits.md`.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; verified with `cmp`).
+- **Result:** 23 spans cut; 343 words removed net (3,919 → 3,576, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** none.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

@@ -225,3 +225,35 @@ All entries below were directed by the author (owner); each edit is labeled "Own
 | Taste/touch | "I have tasted you. Now I hunger and thirst for more. You touched me, and I burn for your peace." | "I tasted, and do hunger and thirst. You touched me, and I burned for Your peace." |
 
 **Verdict: SUBSTANTIAL difference** — diction, word order, and tense differ throughout ("Too late did I love You" vs "Late have I loved you"; "O Fairness" vs "O Beauty ever ancient, ever new"; "do pant"/"do hunger"; "I burned" past tense). Not a punctuation/capitalization-only difference. Per the owner rule, the current text is KEPT; the public-domain text was not silently modernized or substituted. **Needs owner decision:** if the owner prefers public-domain wording, the Pusey/Pilkington text would replace the current ICEL Liturgy-of-the-Hours-based rendering (which carries the ICEL © permission note, unresolved.md item 17). The SRC-025 gate remains open only for that decision.
+
+---
+
+## Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions (owner decision A). Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical). The clean transcript keeps the heard wording.
+
+1. **Opening prayer — Pusey public-domain translation adopted (owner decision A).** Supersedes "Owner-directed edits" item 5 (Pusey comparison — KEEP) above. The chapter's opening prayer (St. Augustine, *Confessions* X.27) is now reprinted in E. B. Pusey's public-domain translation, verbatim from newadvent.org (fathers/110110.htm), archaic forms printed exactly: "Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You! For behold, You were within, and I without, and there did I seek You; I, unlovely, rushed heedlessly among the things of beauty You made. You were with me, but I was not with You. Those things kept me far from You, which, unless they were in You, were not. You called, and cried aloud, and forced open my deafness. You gleamed and shine, and chase away my blindness. You exhaled odours, and I drew in my breath and do pant after You. I tasted, and do hunger and thirst. You touched me, and I burned for Your peace." The attribution line now reads "— St. Augustine, *Confessions*, X.27 (trans. E. B. Pusey)". Ledger rows SRC-025/SRC-026 updated (discrepancy += owner decision A; permission_status → PUBLIC_DOMAIN); unresolved.md item 17 RESOLVED.
+
+## RSV-2CE alignment 2026-09-16
+
+Direct edits (2CE digitally confirmed):
+
+1. **E13 — Ex 3:14, occurrence 1.** `from the burning bush, says, "I am who am." Maybe this is God just saying` → `from the burning bush, says, "I AM WHO I AM." Maybe this is God just saying` (2CE prints "I AM WHO I AM."; owner may set the span in small caps).
+2. **E14 — Ex 3:14, occurrence 2.** `But "I am who am" — we can read back into this and say` → `But "I AM WHO I AM" — we can read back into this and say`.
+3. **E15 — Ex 3:14, occurrence 3.** `who is being. "I am who am."` → `who is being. "I AM WHO I AM."`
+4. **E16 — Mk 4:38.** `"Lord, do you not care that we are perishing?"` → `"Teacher, do you not care if we perish?"`
+5. **E17 — Lk 23:46.** `"Father, into your hands, I commend my spirit."` → `"Father, into your hands, I commit my spirit."` (book's comma/period kept per the structure rule; owner may adopt 2CE punctuation).
+
+Applied identically to `chapters/drafts/` and `chapters/reviewed/` (byte-identical). Source: `research/RSV-2CE_alignment_edits.md` (2CE digitally confirmed via biblia.com previews, 2026-09-17; policy: printed Scripture matches RSV-2CE where digitally confirmed; speaker prose, attributions, quotation marks, and surrounding punctuation structure unchanged; `[quotation wording unverified]` tags retained). The confirm-with-owner readings and the unverified (leave-as-printed) rows live in `research/RSV-2CE_alignment_edits.md`.
+
+
+---
+
+## Reduction pass 2026-09-16
+
+- **Plan:** `work/review/reduction_plan.md` (RECOMMENDED set; target ≈3,452 words across 7 chapters).
+- **Applied identically** to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; verified with `cmp`).
+- **Result:** 27 spans cut; 482 words removed net (4,858 → 4,376, `wc -w`). Splices are deletions only — no words invented; minimal punctuation/case joins at splice points.
+- **Skipped (per plan):** 5.28.
+- **Parked text:** every removed span is appended verbatim to `chapters/outlines/parking_lot.md` under "## Reduction 2026-09-16" with its plan span reference.
+- **Untouched:** prayers, verified quotations, fivefold litany + uncle attribution, signature stories, owner-dictated sentences, and every `[possibly]`/`[unclear]` flagged span (spot-verified after the pass).

@@ -98,10 +98,10 @@ Deletion/edit detail (raw → clean), all at segment boundaries unless noted:
 |---|---|---|---|---|
 | 1 | 00:08:17 | "opening up towards silence, the regressing, and the embrace of Christ" | Kept "regressing", flagged `[possibly: the resting]` | "regressing" p=0.743 but contextually odd; candidates: "the resting" (parallel: silence, resting, embrace). Human listen required. |
 | 2 | 00:11:30 | "I work in chemistry to give back to the students at Pitt, CMU, and Chatham" | Kept "chemistry", flagged `[possibly: campus ministry]` | "chemistry" p=0.284 (<0.3, suspect). Opening sentence (00:00:12) says "we serve the campus ministry for the University of Pittsburgh, Carnegie Mellon, and Chatham Universities" — decisive internal context. Human listen required. **RESOLVED by owner listening 2026-09-16: "campus ministry" confirmed; flag removed from the clean transcript.** |
-| 3 | 00:29:21 | "But as everyone, he looked into his heart" | Kept "as everyone", flagged `[possibly: at last]` | "as everyone," p=0.744 but ungrammatical; "at last" fits the contrast (looked outside → at last looked within). Human listen required. |
-| 4 | 00:32:16 | "When we live in this way as Christians, not near magic, but the love of God..." | Kept "near", flagged `[possibly: mere]` | "near" p=0.854; "mere magic" parallels the talk's repeated "mere matter"/"mere bread and wine". Human listen required. |
+| 3 | 00:29:21 | "But as everyone, he looked into his heart" | Kept "as everyone", flagged `[possibly: at last]` | "as everyone," p=0.744 but ungrammatical; "at last" fits the contrast (looked outside → at last looked within). Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "at last" — "But at last, he looked into his heart." Flag removed from the clean transcript and both chapter copies.** |
+| 4 | 00:32:16 | "When we live in this way as Christians, not near magic, but the love of God..." | Kept "near", flagged `[possibly: mere]` | "near" p=0.854; "mere magic" parallels the talk's repeated "mere matter"/"mere bread and wine". Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "mere" — "not mere magic". Flag removed from the clean transcript and both chapter copies.** |
 | 5 | 00:33:01 | "It is an egon yet to be transformed" | Kept "egon", flagged `[possibly: icon]` | "egon" p=0.311 (<0.3). Candidates: "icon" (creation as icon to be transformed — echoes C01's iconography and the following recapitulation theme) or "eon". Human listen required. |
-| 6 | 00:39:37 | "won't deprive you of what you're meant to have, to what you're meant to be" | Kept "to", flagged `[possibly: of]` | "to" p=0.625; parallel construction suggests "of what you're meant to have, of what you're meant to be". Human listen required. |
+| 6 | 00:39:37 | "won't deprive you of what you're meant to have, to what you're meant to be" | Kept "to", flagged `[possibly: of]` | "to" p=0.625; parallel construction suggests "of what you're meant to have, of what you're meant to be". Human listen required. **RESOLVED (owner, batch 3, 2026-09-16): "of" — "of what you're meant to have, of what you're meant to be." Flag removed from the clean transcript and both chapter copies.** |
 
 ## 3. Quotations and citations detected
 
@@ -169,7 +169,7 @@ Note: "Ratzinger", "Rublev", "St. Patrick", "Elizabeth of the Trinity", "Code of
 9. **00:34:46** — "in the Offertory, we give ourselves over to him in Holy Communion": confirm. ASR: "in the offer to our enemy," (enemy, p=0.172). **RESOLVED (owner 2026-09-16, listening): "Offertory" confirmed; prose already reads "in the Offertory, we give ourselves over…" in all layers.**
 10. **00:33:01** — "an egon [possibly: icon] yet to be transformed": confirm the word (icon? eon? egon p=0.311).
 11. **00:07:19** — "Franciscan youth conference": confirm (ASR "Fred Sisson", Fred p=0.280). **RESOLVED (owner 2026-09-16, listening): "Franciscan youth conference" confirmed as printed; no text change.**
-12. **00:32:16** — "not near [possibly: mere] magic": confirm word.
+12. **00:32:16** — "not near [possibly: mere] magic": confirm word. **RESOLVED (owner, batch 3, 2026-09-16): "mere" — flag removed in clean + drafts/reviewed.**
 13. **00:05:28** — "They saw you out and said": confirm "saw you out" (saw p=0.989) vs "sought you out".
 14. **00:37:20** — "too much courage is foolhardiness — in the midst of excess": confirm the trailing phrase; ASR "full heartedness in the midst of excess" is a split-word mis-hearing of "foolhardiness" but the tail clause is uncertain.
 15. **00:35:16** — "to stay at a constant speed": confirm (ASR "to stay out of constant speed", out p=0.974).
@@ -178,7 +178,7 @@ Note: "Ratzinger", "Rublev", "St. Patrick", "Elizabeth of the Trinity", "Code of
 18. **00:14:17** — "so it should have been fun": confirm "fun" (p=0.937) vs "fine".
 19. **00:15:19** — "any difference in the angle": confirm "in" (ASR "and", p=0.893).
 20. **00:16:38** — "Had the moon any care for little four-year-old Elizabeth?": confirm question inversion.
-21. **00:29:21** — "But as everyone [possibly: at last], he looked into his heart": confirm.
+21. **00:29:21** — "But as everyone [possibly: at last], he looked into his heart": confirm. **RESOLVED (owner, batch 3, 2026-09-16): "at last" — flag removed in clean + drafts/reviewed.**
 22. **00:08:17** — "the regressing [possibly: the resting]": confirm word.
 23. **00:31:03** — "Phrasing that part of the engineering worldview is that we've got to work": confirm the opening word ("Phrasing" p=0.739; candidates: "For instance, part of...").
 24. **00:42:16** — "The abstract veils — they clothe mystery...": confirm "the abstract veils" (abstract p=0.979); the clause reads like he may mean the veils clothe mystery while screens block it — confirm the spoken contrast.
@@ -208,3 +208,12 @@ Recorded 2026-09-16 after the owner listened to the audio. Applied to the clean 
 4. **Q11 (00:07:19) — "Franciscan youth conference" confirmed as printed.** No text change; confirmation recorded.
 
 **Not in this batch:** Q6 (00:10:01, "doing Mass" vs "going to Mass") remains open.
+
+## 9. Owner resolutions 2026-09-16 (batch 3)
+
+Recorded 2026-09-16 after the owner's batch-3 resolutions. Applied to the clean transcript, the chapter draft/reviewed copies, and this log.
+
+1. **Q21 (00:29:21) — "as everyone [possibly: at last]" → "at last".** "But at last, he looked into his heart, and he found God there." Flag removed from the clean transcript and both chapter copies. Annotated inline at §2 (flags row 3) and §6 Q21.
+2. **Q12 (00:32:16) — "near [possibly: mere]" → "mere".** "When we live in this way as Christians — not mere magic, but the love of God…" Flag removed from the clean transcript and both chapter copies. Annotated inline at §2 (flags row 4) and §6 Q12.
+3. **Flags row 6 (00:39:37) — "to [possibly: of]" → "of".** "…won't deprive you of what you're meant to have, of what you're meant to be." Flag removed from the clean transcript and both chapter copies. Annotated inline at §2 (flags row 6).
+4. **Augustine quotation — Pusey translation adopted (owner decision A, print layer only).** The epilogue's Confessions quotation is reprinted in E. B. Pusey's public-domain translation, verbatim from newadvent.org (fathers/110110.htm, 110101.htm): "Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You! You have made us for Yourself, and our hearts are restless until they rest in You." The clean transcript keeps the heard wording. Ledger rows SRC-025/SRC-026 and unresolved.md item 17 updated (RESOLVED — public domain).
