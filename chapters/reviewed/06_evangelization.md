@@ -2,15 +2,15 @@
 
 > *Dear Jesus, help me to spread your fragrance everywhere I go. Flood my soul with your Spirit and life. Penetrate and possess my whole being so utterly that my life may only be a radiance of yours. Shine through me and be so in me that every soul I come in contact with may feel your presence in my soul. Let them look up and see no longer me, but only Jesus. Stay with me, and then I shall begin to shine as you shine, so to shine as to be a light to others. The light, O Jesus, will be for all from you. None of it will be mine. It will be you shining on others through me. Let me praise you the way you love best, by shining on those around me. Let me preach you without preaching, not by words but by example, by the catching force of the sympathetic influence of what I do, the evident fullness of the love my heart bears to you. Amen.*
 
-This prayer is traditionally attributed to St. John Henry Newman.
+— St. John Henry Newman
 
 ## Back to St. Patrick
 
-This last of our conferences circles back to where we started, talking about St. Patrick and his evangelization of the people of Ireland.
+This last of our chapters circles back to where we started, talking about St. Patrick and his evangelization of the people of Ireland.
 
 St. Patrick had blessed a fire in the 400s that no attempts by the Druid pagans could extinguish. That fire kept burning and burned brightly — a witness against the pagans, but more importantly, a witness of God's love. And that fire was meant to go forth and to spread.
 
-These words to evangelize come from our Lord before he ascended into heaven, telling his apostles: "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit. Behold, I am with you always, to the close of the age."
+These words to evangelize come from our Lord before he ascended into heaven, telling his apostles: "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age."
 
 There has been an evangelizing impulse from the beginning, from the gift of the Holy Trinity given to us. Because we are baptized into Christ, because we receive the divine life of the blessed three in one, we are impelled to go outwards.
 
@@ -64,11 +64,11 @@ The mission of evangelization — we remember how St. Ignatius of Loyola would s
 
 The way we evangelize the love of the Trinity is the same way the light is spread at the Easter Vigil, the mother of all liturgies, when the priest blesses the fire, the sacred fire. Lifting it up and saying, "Lumen Christi" — the light of Christ. And from that one flame, there goes forth all the different tapers, all the little candles around the church. The church that was in darkness is now filled with the light. Each of us carries in ourselves the flame of Christ in our hearts, symbolized by the candle that we carry. Now it is kept blazing and is meant not to be confined to that church, but to go out from there.
 
-At the end of every Mass, it is said: "Go forth." In some way or other — "Go forth, the Mass has ended." "Go and announce the gospel of the world" — whatever variation it is, there is a going forth.
-
 ## Missa est: "it has been sent"
 
-In the original, in the older Mass, there was just one phrase: "Go forth, the Mass has ended." *Ite, missa est.* "Ite" means go. Go out. What happened here is not meant to be confined to here.
+At the end of every Mass, it is said: "Go forth." In some way or other — "Go forth, the Mass has ended." "Go and announce the Gospel of the Lord" — whatever variation it is, there is a going forth.
+
+In the older form of the Mass, there was just one phrase: "Go forth, the Mass has ended." *Ite, missa est.* "Ite" means go. Go out. What happened here is not meant to be confined to here.
 
 This is a liturgy that is meant to envelop all of creation. It is cosmic in its proportions. Christ comes so that all things might be recapitulated in him, might be united in him — all things. Christ says in the book of Revelation, "Behold, I make all things new."
 
@@ -88,7 +88,7 @@ For God's unselfish love, his agape — that has been poured out, and from it, i
 
 In fact, not just how we teach, but how we live, needs to be relational. We think of it mostly in terms of teaching, and we think there is right teaching and there is wrong teaching. And those who espouse right teaching — we are in that group. We are in that same tribe. That is where we are comfortable. That is where we are supported. They will say things that we will most likely agree with, and therefore we will be around those people. And those people who say false teachings, we will reject. We will separate them. They do not matter. They are problems to be solved, or problems to be ignored more often. And in this way of only focusing on teaching, we end up falling into that way of rejecting others and rejecting that mystery — not allowing that story that they have, of brokenness and error, to be completed by Christ with the mercy of God.
 
-Do not just teach the Trinity. To live the Trinity means to love them as persons. We are tempted to have that dividing line — there is us and them. But there is no peace in thinking this way. This is the peace the world gives. As Father Michael often says, it is the peace that comes from the unity of everyone minus one. It is how we can scapegoat. But that is not how we are to live.
+Do not just teach the Trinity. To live the Trinity means to love them as persons. We are tempted to have that dividing line — there is us and them. But there is no peace in thinking this way. This is the peace the world gives. As Fr. Michael often says, it is the peace that comes from the unity of everyone minus one. It is how we can scapegoat. But that is not how we are to live.
 
 The mystery of the Trinity does embrace all. All things make sense by it. All persons are meant to be included in it — if not just by nature, but by grace as well. So to live from the love of the Trinity means to love all those — even those that hate us — as our Lord says, "Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account." We can share that blessedness if we make sure to give of ourselves and be truly vulnerable.
 

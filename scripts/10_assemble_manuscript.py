@@ -45,8 +45,7 @@ BOOK_TITLE = "The Mystery of the Trinity"
 AUTHOR = "Fr. Peter Gruber, C.O."
 
 NOTE_ON_THE_TEXT = (
-    "This book was prepared from seven audio recordings of a retreat and a talk given by Fr. Peter Gruber, C.O., in 2025 and 2026. The text was produced by an auditable audio-to-book pipeline: each recording was machine-transcribed (faster-whisper, large-v3 model), reviewed against word-level confidence data, lightly corrected for grammar while preserving the author's spoken wording, and assembled into chapters, with a provenance record kept for every section of every chapter. Quotations were checked against published editions where possible; any wording or attribution that could not be verified is flagged in the project records and consolidated in the accompanying notes file. Scripture is cited as heard, with translation questions noted for the author. This is a working manuscript draft: final doctrinal review, quotation-permission review, and editorial approval remain with the author and his reviewers."
-    "\n\n*Provisional note — the author may confirm, correct, or replace it.*"
+    "This book was prepared from seven audio recordings of a retreat and a talk given by Fr. Peter Gruber, C.O., in 2025 and 2026. The text was produced by an auditable audio-to-book pipeline: each recording was machine-transcribed (faster-whisper, large-v3 model), reviewed against word-level confidence data, lightly corrected for grammar while preserving the author's spoken wording, and assembled into chapters, with a provenance record kept for every section of every chapter. Quotations were checked against published editions where possible; any wording or attribution that could not be verified is flagged in the project records and consolidated in the accompanying notes file. Scripture is cited as heard, with translation questions noted for the author."
 )
 
 VERIFIED_STATUSES = {
@@ -188,6 +187,8 @@ def build_toc(chapters):
 
 
 def build_notes():
+    # Book-style "Notes and Sources": grouped by chapter, prose entries,
+    # no URLs and no access dates. Deterministic from the source ledger.
     if not os.path.isfile(LEDGER):
         return [
             "# Notes and Sources",
@@ -203,53 +204,162 @@ def build_notes():
             ):
                 rows.append(row)
     rows.sort(key=lambda row: natural_key(row.get("source_id", "")))
-    lines = ["# Notes and Sources", ""]
-    if not rows:
-        lines.append(
-            "_(no ledger rows with VERIFIED_EXACT / VERIFIED_MINOR_VARIANT / "
-            "PARAPHRASE_CONFIRMED.)_"
+
+    CHAPTER_LABELS = {
+        "C01": "Chapter 1 — Icons of the Trinity",
+        "C02": "Chapter 2 — Mystery",
+        "C03": "Chapter 3 — Gift and Liturgy",
+        "C04": "Chapter 4 — Relationship",
+        "C05": "Chapter 5 — Intimacy",
+        "C06": "Chapter 6 — Evangelization",
+        "E01": "Epilogue — Engineering Mystery",
+    }
+    SPECIAL = {
+        "SRC-045": (
+            "St. Augustine, *Confessions* X.41.66. The 'deepest wound' "
+            "passage is a modern paraphrase of this text; the speaker's "
+            "hedge is retained."
+        ),
+    }
+
+    def note_entry(row):
+        sid = (row.get("source_id") or "").strip()
+        if sid in SPECIAL:
+            return SPECIAL[sid]
+
+        def clean(value):
+            value = (value or "").strip()
+            if value in ("—", "(no source located)", "(attribution "
+                          "doubtful — speaker hedges)"):
+                return ""
+            return value
+
+        author = clean(row.get("attributed_author"))
+        work = clean(row.get("work_title"))
+        year = clean(row.get("year"))
+        locator = clean(row.get("page_or_section")) or clean(
+            row.get("claimed_locator")
         )
-        return lines
-    lines.append(
-        "Compiled from research/source_ledger.csv (verification status "
-        "VERIFIED_EXACT, VERIFIED_MINOR_VARIANT, or PARAPHRASE_CONFIRMED only)."
-    )
-    lines.append("")
-    for index, row in enumerate(rows, 1):
-        author = (row.get("attributed_author") or "").strip()
-        work = (row.get("work_title") or "").strip()
-        edition = (row.get("edition_or_translation") or "").strip()
-        publisher = (row.get("publisher") or "").strip()
-        year = (row.get("year") or "").strip()
-        locator = (row.get("page_or_section") or "").strip() or (
-            row.get("claimed_locator") or ""
-        ).strip()
-        url = (row.get("canonical_url") or "").strip()
-        accessed = (row.get("accessed_at") or "").strip()
+        discrepancy = (row.get("discrepancy") or "")
+
+        # Sources removed from the book by owner decision are not cited.
+        if "removed from book" in discrepancy:
+            return ""
+        # Bare scripture citations are covered by the opening paragraph.
+        verse = r"\d?\s?[A-Za-z0-9]+ \d+:\d+(?:[–-]\d+)?(?:, \d+:\d+)*"
+        if re.fullmatch(verse, work) or re.fullmatch(verse, locator):
+            return ""
+        if not author and re.search(
+            r"\b[A-Za-z]+ \d+:\d+(?:[–-]\d+)?\s*/", work
+        ):
+            return ""
+        # Bare Bible book names (seeded scripture-range rows) are covered
+        # by the opening paragraph.
+        if not author and re.fullmatch(
+            r"(Psalms|Genesis|Exodus|Mark|Matthew|John|Luke|Romans|"
+            r"1 Corinthians|2 Corinthians|1 Thessalonians|1 John|Judges)",
+            work,
+        ):
+            return ""
+        # Mention-only sources (no printed quotation) are not notes.
+        if "reference" in locator.lower() or "reference" in work.lower():
+            return ""
+        # The Icon paragraph at the end covers Rublev's artwork.
+        if "Rublev" in author and "Trinity" in work:
+            return ""
+
+        # Compact author: first clause before a parenthesis.
+        short_author = re.split(r"\s*[;(]\s*", author, maxsplit=1)[0].rstrip(", ")
+        # Compact work title: first clause before parenthesis/semicolon;
+        # if that is empty (e.g. "(cf. The Religious Sense)"), recover
+        # the title after "cf.".
+        short_work = re.split(r"\s*[;(]\s*", work, maxsplit=1)[0].strip(" ,")
+        if not short_work:
+            m = re.search(r"\bcf\.\s*([^)]+)", work)
+            if m:
+                short_work = m.group(1).strip(" ,")
+        # First 4-digit year in the year field.
+        m = re.search(r"\b(1[89]\d{2}|20\d{2})\b", year)
+        year_short = m.group(1) if m else ""
+        # Compact locator: first clause if it runs long.
+        loc_short = locator
+        if len(locator) > 70:
+            loc_short = re.split(r"\s*[;(]\s*", locator, maxsplit=1)[0].rstrip(", ")
+        # Drop trailing parenthetical qualifiers like "(of 9)".
+        loc_short = re.sub(r"\s*\([^)]{1,40}\)$", "", loc_short).rstrip(", ")
+        # Drop a locator that merely repeats the work title.
+        if loc_short and (
+            loc_short.lower() in short_work.lower()
+            or short_work.lower() in loc_short.lower()
+        ):
+            loc_short = ""
 
         parts = []
-        if author:
-            parts.append("**%s**" % author)
-        if work:
-            parts.append("*%s*" % work)
-        edition_info = ", ".join(
-            part for part in (edition, publisher, year) if part
-        )
-        if edition_info:
-            parts.append(edition_info)
-        if locator:
-            parts.append(locator)
-        head = ", ".join(parts) if parts else (
-            "(source_id %s)" % row.get("source_id", "")
-        )
-        if head and head[-1] not in ".?!)":
-            head += "."
-        entry = "%d. %s" % (index, head)
-        if url:
-            entry += " — %s" % url
-            if accessed:
-                entry += " (accessed %s)" % accessed
-        lines.append(entry)
+        if short_author:
+            parts.append(short_author)
+        if short_work:
+            parts.append("*%s*" % short_work)
+        if year_short:
+            parts.append(year_short)
+        if loc_short:
+            parts.append(loc_short)
+        if not parts:
+            return ""
+        entry = ", ".join(parts)
+        if entry[-1] not in ".?!)":
+            entry += "."
+        return entry
+
+    lines = ["# Notes and Sources", ""]
+    if not rows:
+        lines.append("_(no verified sources.)_")
+        return lines
+    lines.append(
+        "Quotations follow the editions noted below. Scripture quotations "
+        "follow the Revised Standard Version, Second Catholic Edition "
+        "(Ignatius Press, 2006); a few verses retain the wording as spoken."
+    )
+    lines.append("")
+
+    grouped = {}
+    for row in rows:
+        cid = (row.get("chapter_id") or "").strip()
+        grouped.setdefault(cid or "_general", []).append(row)
+
+    for cid in ("C01", "C02", "C03", "C04", "C05", "C06", "E01"):
+        if cid not in grouped:
+            continue
+        lines.append("## " + CHAPTER_LABELS[cid])
+        lines.append("")
+        for row in grouped[cid]:
+            entry = note_entry(row)
+            if entry:
+                lines.append(entry)
+        lines.append("")
+
+    if "_general" in grouped:
+        lines.append("## General")
+        lines.append("")
+        for row in grouped["_general"]:
+            entry = note_entry(row)
+            if entry:
+                lines.append(entry)
+        lines.append("")
+
+    lines.append("## Translations")
+    lines.append("")
+    lines.append(
+        "The prayers from St. Augustine's *Confessions* use E. B. Pusey's "
+        "public-domain translation. The closing line of Dante's *Paradiso* "
+        "is Henry Wadsworth Longfellow's 1867 translation."
+    )
+    lines.append("")
+    lines.append("## Icon")
+    lines.append("")
+    lines.append(
+        "The cover art is Andrei Rublev's *The Trinity* (c. 1411 or "
+        "1425–1427), State Tretyakov Gallery, Moscow."
+    )
     return lines
 
 

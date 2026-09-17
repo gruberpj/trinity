@@ -1,6 +1,18 @@
 # Chapter 4 — Relationship
 
-> *O my God, Trinity whom I adore, help me forget myself entirely so to establish myself in you, unmovable and peaceful as if my soul were already in eternity. May nothing be able to trouble my peace or make me leave you, O my unchanging God, but may each minute bring me more deeply into your mystery! Grant my soul peace. Make it your heaven, your beloved dwelling and the place of your rest. May I never abandon you there, but may I be there, whole and entire, completely vigilant in my faith, entirely adoring, and wholly given over to your creative action.*
+> *O Eternal God! O Eternal Trinity! Through the union of Thy divine nature Thou hast made so precious the Blood of Thine only-begotten Son! O eternal Trinity, Thou art as deep a mystery as the sea, in whom the more I seek, the more I find; and the more I find, the more I seek. For even immersed in the depths of Thee, my soul is never satisfied, always famished and hungering for Thee, eternal Trinity, wishing and desiring to see Thee, the True Light.*
+>
+> *O eternal Trinity, with the light of understanding I have tasted and seen the depths of Thy mystery and the beauty of Thy creation. In seeing myself in Thee, I have seen that I will become like Thee. O eternal Father, from Thy power and Thy wisdom clearly Thou hast given to me a share of that wisdom which belongs to Thine Only-begotten Son. And truly hast the Holy Spirit, who proceedeth from Thee, Father and Son, given to me the desire to love Thee.*
+>
+> *O eternal Trinity, Thou art my maker and I am Thy creation. Illuminated by Thee, I have learned that Thou hast made me a new creation through the Blood of Thine Only-begotten Son because Thou art captivated by love at the beauty of Thy creation.*
+>
+> *O eternal Trinity, O Divinity, O unfathomable abyss, O deepest sea, what greater gift couldst Thou give me than Thy very Self? Thou art a fire that burns eternally yet never consumed, a fire that consumes with Thy heat my self-love. Again and again Thou art the fire who taketh away all cold heartedness and illuminateth the mind by Thy light, the light with which Thou hast made me to know Thy truth.*
+>
+> *By this mirrored light I know Thou art the highest good, a good above all good, a fortunate good, an incomprehensible good, an unmeasurable good, a beauty above all beauty, a wisdom above all wisdom, for Thou art wisdom itself, the food of angels, the fire of love that Thou givest to man.*
+>
+> *Thou art the garment covering our nakedness. Thou feedest our family with Thy sweetness, a sweetness Thou art from which there is no trace of bitterness. O Eternal Trinity! Amen.*
+
+— St. Catherine of Siena (1347–1380), Doctor of the Church
 
 ## Two Kinds of Knowledge
 

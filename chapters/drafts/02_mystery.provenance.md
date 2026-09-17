@@ -335,3 +335,13 @@ No chapter changes this pass. Sources: biblia.com rsv2ce preview pages (fetched 
 2. **Row 10 — Rom 8:15.** Printed `"Abba, Father."` matches the 2CE wording ("…When we cry, 'Abba! Father!'") — punctuation-only diff vs 2CE ("!" / "!") left as printed per the structure rule. No edit.
 
 2CE wording recorded in the worksheet (rows now VERIFIED).
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02_mystery.md` (byte-identical; verified with `cmp`). No git commit. Net −85 words; 4 paragraphs replaced, no whole-paragraph insertions or deletions. Changes:
+
+- §The Graveyard of Heresies: "And I am sure that many of you have heard homilies…" → "I am sure that many of you…"; the clause "— and I actually recommend you read the full passages about the Trinity from the Catechism" removed.
+- §A Way of Approaching All Reality: "I guess this lamp is a mystery" → "This lamp here even is a mystery"; "I replaced the light bulb in it myself during COVID — that was a hard time" → "…during a hard time".
+- Stars paragraph: "And that inspired people, and there were secular movements to have Earth Day as a result. Whatever good came out of that, I do not know, but it was at least a movement towards a wonder." → "It was a movement towards a wonder."

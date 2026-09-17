@@ -295,3 +295,22 @@ Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/0
 1. **Liquid Death reference omitted (owner: OMIT).** §"Being itself" — the sentence "So that a Liquid Death can [possibly: brand name — verify audio] — it exists, right?" is removed entirely (queue 5.1). The now-dangling dependent sentence "By being a can, it does." is spliced to "By merely existing, it does." (minimal splice; no invented content). The resumptive "Everything participates in God." that immediately followed the removed sentence is also dropped to avoid a verbatim duplicate (identical wording — no content lost). The paragraph now reads: "…no, we all participate in God. Everything participates in God. You might think objects do not. Yes, they do. By merely existing, it does. But you participate not just by existing…"
 2. **1 Jn 3:2 line — unattributed paraphrase (owner).** §"Intimus: the most in" — the clause "— as it says in one of the Eucharistic prayers of the Mass." is removed and the `[quotation wording unverified]` flag dropped; the paraphrase is kept unattributed: "…and we become like him — for we shall see him as he really is, for we will be like him." (Owner chose the unattributed paraphrase; it echoes 1 John 3:2.) Supersedes queue 5.2 and the T5-S11 attribution-flag note.
 3. **Augustine Ascension — owner-approved paraphrase.** §"Christ resting in the storm" — the `[quotation wording unverified]` flag is removed; the passage stays as reported speech ("St. Augustine said that when Christ ascended into heaven…") with no quotation marks. Unlocated traditional attribution, owner-approved as paraphrase. Supersedes queue 5.3 and the C05 Q20 (ii) attribution item.
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; verified with `cmp`). No git commit. Net −62 words; 2 paragraphs replaced, 1 deleted. Changes:
+
+- §Being itself: the burning-bush passage is condensed — "Next week you will hear it as your first reading at Mass, where Moses, wandering in the desert, tending the flock of his father-in-law, Jethro — he is away from Egypt for a while… comes up to Mount Sinai, and he sees there is this bush burning, but not being consumed." → "Moses, wandering in the desert and tending the flock of his father-in-law Jethro, sees on Mount Sinai is this bush burning but not being consumed."
+- "That is confusing. That is a lot to wrap our minds around." → "That is a lot to wrap our minds around."
+- Final paragraph "God rests in us. He is intimate with us. Whether we like it or not — I suggest that we like it." deleted; the chapter now ends with the sign-of-the-cross hug paragraph.
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; `cmp`-verified). No git commit.
+
+- §Being itself: "sees on Mount Sinai is this bush burning but not being consumed" → "sees on Mount Sinai this bush burning but not being consumed" (the owner's condensation dropped the clause connector; stray "is" removed).
+- Attribution line de-italicized to the book's roman attribution format: "*— St. Augustine, Confessions, X.27 (trans. E. B. Pusey)*" → "— St. Augustine, Confessions X.27, trans. E. B. Pusey" (matches ch2/ch3/ch6).
+- §Intimus: the most in — 1 Jn 3:2 paraphrase de-circularized: "we become like him — for we shall see him as he really is, for we will be like him." → "we become like him — for we shall see him as he really is." (owner-approved paraphrase; redundant clause dropped).
+- §Christ resting in the storm — incomplete question repaired by merge: "…or the ship breaking under the waves? But Christ is there, sleeping." → "…or the ship breaking under the waves, Christ is there, sleeping?"

@@ -285,3 +285,23 @@ Owner confirmed all six confirm-list readings stay aligned to RSV-2CE, Owner lat
 Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; verified with `cmp`). No git commit.
 
 1. **Augustine wound quotation — owner approved hedge + endnote.** §"Intimacy — The Most In" — the `[quotation wording unverified]` flag is removed from the "I looked into my deepest wound, and there I saw your glory, and it dazzled me" quotation; the "apparently said" hedge and the quotation stay as heard (queue E.1). Ledger row **SRC-045** updated: `verification_status` → `PARAPHRASE_CONFIRMED` (chapter_id E01 unchanged) and the discrepancy field now records "Owner 2026-09-17: keep hedge + endnote citing Confessions X.41.66." — the Notes section will carry the row.
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; verified with `cmp`). No git commit. Net −375 words; 7 paragraphs deleted, 7 replaced — the largest single cut of the owner's pass. Changes:
+
+- §An Optimized Vocation: "Even at Franciscan, that is a large family." removed; "I got a scapular" → "I bought my first brown scapular and was invested."
+- §What Mystery Is Not: eclipse paragraph rewritten — "…you would actually damage your eye. Do not ask me how I know. I thought a welding lens was sufficient. The engineering worldview is not sufficient in itself." (the "shaky part in the middle of your right eye" detail removed).
+- §The Moon and the Child: trimmed from nine paragraphs to two — the whole Elizabeth car-ride retelling (the two cars, the principle of non-contradiction, "No, Uncle PJ, it really follows me") is deleted; the section now runs "You look up in the sky…" + "Recall the story of Elisabeth and the moon…".
+- §The Enchanted World: liturgy paragraph rewritten — "…hands that, as a priest, do not go beyond your shoulders in the orans position"; the "I do not know about your experience of liturgy at Franciscan" aside removed.
+- Feedback-loop paragraph recast: "Have you studied any systems engineering yet? Do you know feedback loops — positive and negative feedback loops?" → "In systems engineering, a feedback loop is where an output is fed into its own input. There are positive and negative feedback loops."
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; `cmp`-verified). No git commit.
+
+- §The Feed and the Feasts — comma splice repaired: "Unlike screens, veils clothe mystery, they accentuate it; they show what is behind the veil." → "Unlike screens, veils clothe mystery; they accentuate it; they show what is behind the veil."
+- §Intimacy — The Most In — period moved inside the closing quotation mark per the book's convention: "…and it dazzled me". → "…and it dazzled me."
+- §The Moon and the Child — dangling "those things" now names the referent: "You look up in the sky — those things do not matter to you." → "You look up at the moon and the stars — those things do not matter to you."

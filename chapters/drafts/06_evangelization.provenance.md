@@ -233,3 +233,20 @@ Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/revi
 3. **Mt 5:11 aligned to RSV-2CE (owner: match Mt).** §"Living it, not just teaching it" — `"Blessed are you when you are hated and persecuted for my name."` → `"Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account."` (Mt 5:11 RSV-2CE, per `research/RSV-2CE_verification_worksheet.md` row 35; biblia.com rsv2ce, verified 2026-09-17). Resolves the row-35 "alignment blocked" note (owner confirmed the verse: Mt 5:11, not Lk 6:22).
 4. **"the sacrament of [possibly: confession]" → "the sacrament of confession"** (§"Floodgates"; queue 6.3 / supplement T6-S19). Flag removed.
 5. **"spread [possibly: mercy]" → "spread mercy"** (§"Floodgates"; queue 6.4 / supplement T6-S20). Flag removed.
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; verified with `cmp`). No git commit. Net −5 words; 5 paragraphs replaced (one of them the opening attribution) plus heading-quote normalization. Changes:
+
+- **Opening attribution replaced:** "This prayer is traditionally attributed to St. John Henry Newman." → "— St. John Henry Newman" (Attribution paragraph, right-aligned like the other chapters' attribution lines).
+- §Back to St. Patrick: "This last of our conferences circles back…" → "This last of our chapters circles back…".
+- §Missa est: "it has been sent": "In the original, in the older Mass, there was just one phrase…" → "In the older form of the Mass, there was just one phrase…"; the heading's quotes normalized to curly quotes per the docx.
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; `cmp`-verified). No git commit.
+
+- §Back to St. Patrick — Great Commission quotation completed with the missing RSV-2CE clause: "…and of the Holy Spirit. Behold, I am with you always, to the close of the age." → "…and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age." (RSV-2CE_verification_worksheet.md row 30; 2CE prints "behold" — RSV/RSVCE-1966 print "lo".)
+- §Missa est — Missal dismissal corrected: "Go and announce the gospel of the world" → "Go and announce the Gospel of the Lord" (*Ite ad Evangelium Domini annuntiandum*).

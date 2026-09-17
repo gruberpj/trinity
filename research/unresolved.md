@@ -232,3 +232,8 @@ Appended 2026-09-16 after the owner's batch-3 resolution round.
 - Augustine quotations (SRC-025/SRC-026): Pusey public-domain translation adopted (decision A; item 17/24(a)).
 
 - **RSV-2CE confirm list — RESOLVED (owner, 2026-09-17):** all six DIRECT quotations stay aligned to RSV-2CE (Rom 12:2 'this world'; epilogue's indirect allusion keeps 'this age' per owner for section consistency; Ps 42:3 period; Ps 42:5 lowercase 'savior'; Mt 28:18-20 collapsed form; Mt 11:28 'heavy laden'; John 14:16/31 no chapter text).
+
+# Proofreading-round additions (2026-09-17)
+
+## 28. Ch. 4 Catherine of Siena prayer — translation source unidentified (owner item)
+- The ch. 4 opening prayer ("O Eternal God! O Eternal Trinity!") does not match Algar Thorold's 1907 translation (Kegan Paul; archive.org `dialogueofseraph00cath`) or the CCEL text of the *Dialogue* in wording — e.g., the book prints "as deep a mystery as the sea", "fortunate good", "unmeasurable good", "feedest our family", where Thorold reads "art a deep Sea", "Good Blessed", "Good Inestimable", "feedest the hungry". The owner copied the prayer into the docx round; **owner to name the edition they copied from** before print. Objective typo/inflection fixes were applied 2026-09-17 without re-aligning wording (see ch. 4 provenance "Proofreading fixes 2026-09-17").

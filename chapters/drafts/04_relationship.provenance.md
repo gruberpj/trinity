@@ -240,3 +240,24 @@ Applied identically to `chapters/drafts/04_relationship.md` and `chapters/review
 Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit.
 
 1. **2 Cor 12:2 (line ~19).** `he knew a man who was lifted up into the ninth [possibly: third] heaven` → `he knew a man who was caught up to the third heaven`. Verified against RSV-2CE (biblia.com/bible/rsv2ce/2-corinthians/12/2: "I know a man in Christ who fourteen years ago was caught up to the third heaven—whether in the body or out of the body I do not know, God knows.") and against biblegateway RSV + RSVCE (both read "caught up to the third heaven"). The `[possibly: third]` flag is removed; the verb is aligned ("lifted up" → "caught up") and the preposition ("into" → "to") per the edition. Note: the verse's "whether in the body or out of the body I do not know" corresponds to the chapter's following "And he said, I do not know which — I do not know." (prose, unchanged).
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit. Net +278 words; the opening prayer replacement is the only change (no body-text edits). Changes:
+
+- **Opening prayer replaced:** the prayer of St. Elizabeth of the Trinity that opened the chapter is gone; the owner substituted St. Catherine of Siena's "O Eternal God! O Eternal Trinity!" prayer (six paragraphs) with the attribution "—St. Catherine of Siena (1347-1380), Doctor of the Church".
+- The owner's docx carried the prayer as Section-styled paragraphs; per the standing owner prayer policy (prayers italic, no subheadings) it is rendered as one italic blockquote — six paragraphs separated by blank quote lines — with the attribution line directly after, matching the other chapters' prayers. The wording (including the prayer's own "the the food of angels" and the hyphenated "1347-1380") is preserved verbatim from the docx.
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; `cmp`-verified). No git commit. Objective typo/inflection fixes only — the prayer's wording is otherwise preserved exactly as the owner typed it (no alignment to any published translation):
+
+- "who procedeth from Thee" → "who proceedeth from Thee".
+- "what greater gift could Thou givest me then Thy very Self?" → "what greater gift couldst Thou give me than Thy very Self?"
+- "I know Thou are the highest good" → "I know Thou art the highest good".
+- "the the food of angels" → "the food of angels".
+- Attribution line normalized: "—St. Catherine of Siena (1347-1380), Doctor of the Church" → "— St. Catherine of Siena (1347–1380), Doctor of the Church" (space after the em dash, en dash in the date range).
+
+Owner-prayer-swap note (record, not text fix): the opening prayer remains the owner's docx-round substitution — St. Catherine of Siena's "O Eternal God! O Eternal Trinity!" replaced the Elizabeth of the Trinity prayer originally documented from the audio (see the owner's-manual-edits section above and voice_profile.md §6). The swap is the owner's; the translation source of the Catherine prayer is unidentified (matches neither Thorold 1907 nor CCEL) — owner item appended to `research/unresolved.md`.

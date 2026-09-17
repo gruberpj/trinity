@@ -340,3 +340,27 @@ Three [quotation wording unverified] flags removed after verification against RS
 Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`). No git commit.
 
 1. **Thérèse quotation → CCC wording (owner: go with the catechism).** §"The Motions: Father and Son" — the heard line `"What is prayer but a simple glance directed towards heaven?"` and its `[quotation wording unverified]` flag are replaced by the Catechism's quotation of St. Thérèse with attribution: "This is that simple glance directed towards heaven that St. Thérèse talks about when, in the words the Catechism quotes from her, "prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy."" **Wording fetched from vatican.va 2026-09-17** (`https://www.vatican.va/archive/ENG0015/__P8Z.HTM`). **Note:** the quote is **CCC ¶2558** (under "WHAT IS PRAYER?"; footnote 1: "St. Therese of Lisieux, Manuscrits autobiographiques, C 25r.") — the owner's instruction referenced "¶2658", which on vatican.va is the Cure of Ars passage (`__P9D.HTM`); the "surge of the heart" wording is ¶2558. Flag removed. Supersedes listening-queue item 1.2 and the §10 SRC-027 "simple glance" caveat (the printed line now follows the CCC, not the audio).
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`). No git commit. Net −96 words; 1 paragraph deleted, 10 paragraphs replaced. Changes:
+
+- §Another Icon of the Trinity: the owner removed the "The Hospitality of Abraham" subheading and its opening paragraph; the Genesis 18 material now runs under "Another Icon of the Trinity" (merged into the "Andrei Rublev wrote this icon…" paragraph).
+- New paragraph: "We say icons are not painted but written, because the Word became flesh… Saying that it is written seperates the icon from every other kind of art." (owner's spelling "seperates" preserved verbatim).
+- "Andrei Rublev wrote this icon of the Trinity, included on the cover of this book." replaces the "included in all of your packets" sentence.
+- §Reading the Icon: One Divinity: owner-added caveat appended to the first paragraph ("I should say up front: iconographers and theologians do not all agree on every detail of this reading… but not the only one on record.").
+- §The Son in the Middle: color passage condensed to "this brown-red-purple color" (the "I do not know what color to call that" aside removed).
+- §The Postures, the Chalice, and the Empty Place: final paragraph condensed to "With our own prayer, I recommend taking this to the chapel – or your own inner room in your own time of silent recollection – to pray with this icon."
+- §The Third Icon: The Sign of the Cross: "And that is the icon of the sign of the cross" → "It is the icon of the sign of the cross."
+- §The Spirit's Crossing — and the Amen: "In the Coptic tradition, it is left to right. And there are reasons why it is done differently." removed.
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; `cmp`-verified). No git commit.
+
+- "Saying that it is written seperates the icon" → "…separates the icon" (owner typo).
+- "Andrei Rublev wrote this icon of  the Trinity" → "…icon of the Trinity" (double space).
+- "taking this to the chapel – or your own inner room in your own time of silent recollection – to pray" → em dashes in place of the two en dashes (book convention: spaced em dashes).
+- Opening Breastplate prayer now carries an attribution line, matching the other chapters: "— St. Patrick's Breastplate, trans. Cecil Frances Alexander" (translator named, per the ch5 attribution style). The translation is Cecil Frances Alexander's (1889; SRC-012).

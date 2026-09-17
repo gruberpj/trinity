@@ -330,3 +330,20 @@ Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/re
 2. **"you can [possibly: only] use these words" → "you can only use these words"** (§"Mary's yes"; queue 3.2 / supplement T5-S5). Flag removed.
 3. **"It is too much to go into [unclear], but it is already including us." → "It is too much to go into now, but it is already including us."** (§"The enchanted world and the law of the gift"; queue 3.3 / supplement T3-14). Flag removed.
 4. **"to die, to enter into hell [unclear], to rise from the dead" → "to die, to descend into hell, to rise from the dead"** (§"Deep calls to deep"; queue 3.4 / supplement T4-13; owner's wording). Flag removed.
+
+---
+
+## Owner docx reverse-integration 2026-09-17
+
+The chapter was brought in line with the owner's manual edits in `manuscript/Mystery_of_the_Trinity.docx` (hand-edited Word document). Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`). No git commit. Net −11 words; 3 paragraphs replaced. Changes:
+
+- §The Trinity of love that overflows: "I wanted to try to capture that with the Trinity. I remember how Father Mike explained the Trinity" → "When I was in college, I remember how Fr. Michael explained the Trinity"; "It is imperfect, because it seems to be too directional" → "It is imperfect, but the idea is that the water flows and falls…".
+- §Two kinds of feedback: honorifics added — "St. John Paul II", "St. John of the Cross", "St. Louis de Montfort".
+- "Explosions — chemical explosions. You need heat in order for…" → "In chemical explosions, you need heat in order for…".
+
+## Proofreading fixes 2026-09-17
+
+Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; `cmp`-verified). No git commit.
+
+- "Recall John Paul II's Theology of the Body." → "Recall St. John Paul II's Theology of the Body." (honorific harmonized with the same chapter's "St. John Paul II").
+- Psalm 42:5 left unchanged: "my savior and my God" stands. Verified against RSV-2CE_verification_worksheet.md row 11 — the 2CE (biblia.com) preview records "my savior"; the "my help" reading the reviewer attributed to 2CE is the RSV/RSVCE-1966 column. No edit.
