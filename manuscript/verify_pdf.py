@@ -214,7 +214,7 @@ def main():
         "Go, set the world on fire",
         "Too late loved I Thee, O Thou Beauty of ancient days",
     ):
-        check(f"verbatim probe {probe[:34]!r}...", probe in all_text)
+        check(f"verbatim probe {probe[:34]!r}...", probe in re.sub(r"\s+", " ", re.sub(r"\b\d+\b", " ", all_text)))
 
     print()
     print(f"CHECKS: {sum(1 for _, ok, _ in checks if ok)}/{len(checks)} passed")

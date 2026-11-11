@@ -273,3 +273,6 @@ paragraphs to four. Changes:
 
 ## Owner stylistic revision 2026-10-14
 Applied by the supervisor in batch edit scripts after repeated subagent platform failures. Ch6: 46 edits — get/got smoothed (since we have/earn/work around), that/this antecedents named, 9 paragraph-initial And/But/So reduced, Missa est passage smoothed.
+
+## Owner simplification (2026-11-10)
+The owner simplified the awkward-question paragraph in the Word document: the 'Do we admit that there are actually two persons...' digression is deleted; the paragraph now ends at "Don't worry about that — it's a mystery"? (space after dash normalized).
