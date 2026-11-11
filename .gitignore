@@ -14,3 +14,6 @@ __pycache__/
 
 # review records ARE audit artifacts that must be versioned
 !work/review/
+
+# Word lock files
+~$*.docx
