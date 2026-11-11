@@ -305,3 +305,35 @@ Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `ch
 - §The Feed and the Feasts — comma splice repaired: "Unlike screens, veils clothe mystery, they accentuate it; they show what is behind the veil." → "Unlike screens, veils clothe mystery; they accentuate it; they show what is behind the veil."
 - §Intimacy — The Most In — period moved inside the closing quotation mark per the book's convention: "…and it dazzled me". → "…and it dazzled me."
 - §The Moon and the Child — dangling "those things" now names the referent: "You look up in the sky — those things do not matter to you." → "You look up at the moon and the stars — those things do not matter to you."
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/epilogue_engineering_mystery.md` and `chapters/reviewed/epilogue_engineering_mystery.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+Largest set of changes outside Chapter 1: 12 paragraphs deleted, 14 replaced (82 prior paragraphs → 66).
+Changes:
+
+- §An Optimized Vocation: "And so my sophomore year" → "During my sophomore year"; "And so that was the
+  advice I was given." → "That was the advice I was given."
+- §What Mystery Is Not deleted entirely (heading + 4 paragraphs).
+- §The Moon and the Child deleted entirely (heading + 2 paragraphs).
+- Gabriel Marcel passage condensed to "Recall how Gabriel Marcel said that mystery, properly speaking,
+  implicates the viewer. We are part of it."; the measurement example recast around the Heisenberg
+  Uncertainty Principle.
+- §A Solar Flare of Love: "God is a mystery. That is not because we cannot understand God…" → "God is a
+  mystery, not because we cannot understand God, but because God overwhelms us…"; "We are included in this
+  mystery" → "Through worship, we are included in this mystery".
+- §Intimacy — The Most In: the "into me see" false-etymology passage replaced by "Recall the meaning of
+  the word “intimacy.” It comes from a Latin word — intimus. It is a superlative: in, interior, intimus —
+  the most in…"; "This is grammar, so this is hard for engineers to understand. Engineers are notoriously
+  bad writers." deleted.
+- §The Enchanted World: Liturgy, Gift, and Poverty deleted entirely (heading + 3 paragraphs).
+- "It does not matter how you do it. We end up getting" → "Conversely we find".
+- Ending restructured: the "Rest" heading and the standalone "Come to me, all who labor and are heavy
+  laden, and I will give you rest." paragraph removed; the quotation is now appended to the closing
+  paragraph: "…the invitation that Christ constantly gives us: 'Come to me, all who labor and are heavy
+  laden, and I will give you rest.'"
+
+## Owner stylistic revision 2026-10-14
+Applied by the supervisor in batch edit scripts after repeated subagent platform failures. Epilogue: 73 edits — get/got smoothed (had dinner/let me see/bring me), that/this antecedents named, 11 paragraph-initial And/But/So reduced, book titles italicized, spoken cleanup.

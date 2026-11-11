@@ -348,3 +348,42 @@ The chapter was brought in line with the owner's manual edits in `manuscript/Mys
 
 ## Rednal audio corrections (2026-09-17)
 The Rednal first-retreat recordings (F01/F02) were transcribed and compared against the prior DOCX-based mine: no substantial new material, but two wording corrections confirmed against the clean audio (F02 14:47 and the Trinity-credit passage): 'to be at home in' → 'to be a home of'; 'Father of mercy' → 'Father of mercies'. Full comparison: work/review/rednal_mine_report.md.
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02_mystery.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+Four in-place paragraph replacements; no insertions or deletions. Changes:
+
+- §The Graveyard of Heresies: "And every single time, we just dismiss it as: 'Okay…'" → "…we just dismiss
+  it: 'Okay…'".
+- §Elisabeth and the Moon: "…to visit my brother-in-law's family, and so I talked to my niece Elisabeth…"
+  → "…family. Afterwards I talked to my niece Elisabeth…".
+- §How Far Analysis Goes: "We can talk about its different parts." → "We can theologically distinquish its
+  properties and inherent notions." (owner's spelling "distinquish" preserved; the paragraph is highlighted
+  in the docx for the later revision pass).
+- Stars paragraph (§Squashing Wonder): "And it reveals the vastness…" → "It reveals the vastness…"; "And
+  that was a wonder…" → "That was a wonder…".
+
+---
+
+## Owner stylistic revision 2026-10-14
+
+Applied identically to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02_mystery.md` (byte-identical; verified with `cmp`). No git commit. Targets taken from the owner's yellow run-highlights in `manuscript/Mystery_of_the_Trinity.docx` (chapter paragraph range 72–140), per the round-2 note that they mark this revision pass.
+
+- **Highlighted targets resolved:** bare that/this made explicit or restructured: 25; sentence-initial And/But/So treated (drops/combines/em-dash or semicolon joins/recasts — varied): 27; "Okay" fillers deleted: 4 (two interior "okay," interjections in the moon-experiment monologue, the standalone "Okay?", and "Okay, sure —" → "Sure —"); "look at" → stronger verb: 3 ("gaze at the sun"; "consider it separately"; "observe the stars"); typo "distinquish" → "distinguish": 1. **Checked and kept** (grammatical relatives/complementizers, demonstratives with their noun, idiomatic or clear-antecedent uses): ~121 — including "that graveyard", "that sun", "That is to say", "this point", "this table", "this lamp", "this place", "on this retreat" (flagged spot untouched), "this Holy Trinity", "that home", "but that is okay" (idiomatic), the double "that Trinity … that Trinity" anaphora (kept; sentence-initial "And" dropped), and "This is what the Trinity is." **Skipped as inside quotations/owner-dictated: 29** — all 5 spans in the FOCUS-conference quotation; all 14 spans in the performed interior-monologue quotation; "this" in "Lord, I messed this up."; "that" in "Elisabeth, that is not true."; "this" in "I am pouring the ocean into this hole."; "this" in "Look, this is our blue marble."; the three "that"s in "Well, that is Sabellianism, that is modalism, that is pseudo-Pelagianism"; "This" in "This is my beloved Son"; "that" inside the O'Connor quotation ("…in ways that we cannot fathom"); and the "that" in the owner's dictated closing sentence ("God is so beyond our finite grasp that He encompasses us…" — preserved exactly).
+- **get/got pass:** changed: 5 — "His Catholic friend got him to meet up with" → "persuaded him to meet up with"; "we just cannot get close to it at all" → "come close to it at all"; "not something that we really get at all" → "really grasp at all"; "and you get your answer" → "and you arrive at your answer"; "why we get so anxious all the time" → "why we become so anxious all the time". Kept: 1 — "We can try to get away from it" (idiomatic phrasal verb; recorded keep).
+- **Conjunction sweep beyond highlights (unmarked paragraph-initial and mid-sentence conjunctions):** 12 treated — 10 paragraph-initial drops ("And we do not even have our minds wrapped…", "And every single time…", "And a mystery is likewise…", "And we might think that was a terrible time…", "And there are many that would even espouse…", "So quickly, I said to Elisabeth," — "Quickly, I said to Elisabeth,"; "And it is not wrong to study the Trinity…", "And just as with this table…", "And when I observe the stars…", "And how do we practice this?"); 1 paragraph-initial drop of "And" from "And that Trinity that made the sun and the stars…" (the double "that Trinity" anaphora kept); 1 mid-sentence drop ("And the whole exchange is happening…" → "The whole exchange is happening…", removing the doubled "And" after "And I am thinking…"). **Kept deliberately: 9** — "So you would not say the sun is invisible." and "So what do we do?" (logical "therefore"); "But to approach something as a mystery," and "But she saw the moon as if it had a personality…" (real contrasts); "But are we then cut off entirely, irreparably?" (pivot question); "And my heart sunk." (storytelling cadence); "And I am thinking, how can I prove it to her?" (interior-monologue voice); "And the proper Christian response to mystery is to love, adore, and worship." (documented deliberate chapter close); mid-sentence "And why do you not drive in separate directions" (dialogue proposal flow) and "So it is not wrong to study dogmas" (logical connector). The four remaining mid-sentence sentence-initial conjunctions are inside quotations (FOCUS quote "And then, even though we fell…"; monologue quote "But I know…", "But was God the Father…", "But for me…") and are untouched.
+- **Spoken-speech cleanup:** 1 item beyond the pass-1 treatments — moon-experiment monologue: "because I am thinking, I need to prove to her that it is not true" → "because I have to prove to her that it is not true" (redundant repeated "I am thinking" removed).
+- **Untouched:** opening prayer + attribution, all quoted material, owner-dictated closing sentence, "Cosmos — they engage with the sky…" (flagged spot), italic emphasis, headings, RSV-2CE wording.
+- **Questions for owner:** 4, listed below.
+
+**Questions for owner (2026-10-14 pass):**
+
+1. §The Graveyard of Heresies: ". But we read in the Catechism that the Trinity is the central Christian mystery." → applied combine: "…and we stop there, even though we read in the Catechism that the Trinity is the central Christian mystery." Options: (a) applied; (b) drop "But" only ("We read in the Catechism…"); (c) restore the original split with "Yet we read…".
+2. §Elisabeth and the Moon: "I felt bad for her; in my mind, I am thinking, this belief is like one of those Santa Claus moments." Options: (a) "this belief" (applied); (b) "this idea of hers"; (c) keep bare "this".
+3. §Elisabeth and the Moon: "And the whole exchange is happening in a very short period of time…" → applied "The whole exchange is happening in a very short period of time…" (the "And" was dropped to avoid doubling after "And I am thinking…"; the repeated "I am thinking" also removed). Options: (a) applied; (b) "This whole exchange is happening…"; (c) keep "And the whole exchange…".
+4. §A Way of Approaching All Reality: "In the ancient world, engaging the cosmos as mystery was not so uncommon:" Options: (a) applied; (b) "In the ancient world, this engagement was not so uncommon:"; (c) keep bare "this".
+5. §Elisabeth and the Moon: "And my heart sunk." — paragraph-initial "And" KEPT (storytelling cadence). Options: (a) kept; (b) drop → "My heart sunk."; (c) combine with the preceding dialogue.
+6. §Elisabeth and the Moon: "So quickly, I said to Elisabeth," → applied "Quickly, I said to Elisabeth,". Options: (a) applied; (b) keep "So quickly"; (c) "And quickly, I said…".

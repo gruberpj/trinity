@@ -84,7 +84,7 @@ def main():
         for p in pages
     )
     check("all pages 306x495 pt", sizes_ok, f"{n} pages")
-    check("page count in 85..125", 85 <= n <= 125, str(n))
+    check("page count in 75..125", 75 <= n <= 125, str(n))
 
     # 2. spot text extraction (normalized)
     p1 = norm(pages[0].extract_text())

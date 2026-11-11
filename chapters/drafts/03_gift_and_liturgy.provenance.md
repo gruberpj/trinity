@@ -347,3 +347,57 @@ Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/re
 
 - "Recall John Paul II's Theology of the Body." → "Recall St. John Paul II's Theology of the Body." (honorific harmonized with the same chapter's "St. John Paul II").
 - Psalm 42:5 left unchanged: "my savior and my God" stands. Verified against RSV-2CE_verification_worksheet.md row 11 — the 2CE (biblia.com) preview records "my savior"; the "my help" reading the reviewer attributed to 2CE is the RSV/RSVCE-1966 column. No edit.
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+28 paragraphs replaced in place (of 58 prior paragraphs; one paragraph net removed); no whole-section
+restructuring. Representative changes:
+
+- §The Trinity of love that overflows: "Can I try to explain this? There is an artist… he has this
+  depiction — I will go first with the staircase. It is a really mind-bending staircase…" condensed to
+  "There is an artist of the twentieth century named M.C. Escher, and he drew two mind-bending staircases
+  and a waterfall…"; the fingers-between-the-fingers analogy paragraph ("I kind of like to do this,
+  too…") deleted, the Fr. Michael three-buckets paragraph now ends "…There is a constant pouring." and
+  names "the P.J. Gruber Trinitarian waterfall".
+- §Made to respond: "And in some way" → "In some way" (twice); "the response liturgy" → "“liturgy”".
+- Adam and Eve paragraph: "And Adam shared in that fall…" → "Subsequently Adam shared in that fall…";
+  "preveniently," → "preveniently"; "give some kind of response" → "make that full response… a complete
+  response".
+- §Baptism: inserted into the Trinity: "He was adopted into the nature of the Son…" → "Through him who
+  received fully our human nature, we receive adoption as sons…"; "And baptism gives us…" → "Baptism…".
+- §Everything is positive: "Luigi Giussani, one of the great religious thinkers and reformers of the 20th
+  century: everything is positive, to use Giussani's phrase." → "Luigi Giussani, one of the great religious
+  thinkers of the 20th century would say “everything is positive.”".
+- "Is a number a mystery? Yes. And so it seems…" → "Is a number a mystery? It seems…".
+- §Two kinds of feedback: the cruise-control example rewritten ("This is what — what is it called in a car,
+  when you want to go the same speed… control? Cruise control…" → "In your car, cruise control is a
+  negative feedback loop. If you start going faster than your speed, the car will slow down…").
+- §The enchanted world and the law of the gift: "When we do that…" → "When we are transformed by the
+  renewal of our mind steeped in the sacramental vision, we will want to respond."; "you see," deleted.
+- §The positive feedback loop of grace: "This is the positive feedback loop of grace." → "This is the
+  positive feedback loop of grace, lived."; "And then we end up living within the Trinity." deleted;
+  "That itself, within the blessed Trinity, is the Eucharist." → "Eucharistic self-gift reflects and
+  reveals Trinitarian love…"; "Being, capital B." → "Being."
+- §Deep calls to deep and §Give thanks: sentence-opening "And"s removed; "And so this" → "This"; "say," →
+  "respond,"; "suffering," → "suffering —".
+
+## Owner stylistic revision 2026-10-14
+
+Applied identically to `chapters/drafts/03_gift_and_liturgy.md` and `chapters/reviewed/03_gift_and_liturgy.md` (byte-identical; verified with `cmp`). No git commit. Targets taken from the owner's yellow run-highlights in `manuscript/Mystery_of_the_Trinity.docx` (chapter paragraph range 141–202), per the round-2 note that they mark this revision pass.
+
+- **Highlighted targets resolved: 66** — bare that/this made explicit or restructured: 44; sentence-initial And/But/So treated (combine/drop/recast): 21; "Okay" fillers deleted: 0 (none present in the chapter); "look at" → stronger verb: 1 (Rublev: "when you look at it" → "when you contemplate it"). **Checked and kept (grammatical/idiomatic or clear antecedent): 121.** **Skipped as inside quotations: 3** — "this world" (Rom 12:2 quote); "this way" ("When you pray, pray this way…"); "that thing" ("Hey, how have you been doing since that thing happened?").
+- **get/got pass:** changed: 4 — "finally got a full response from a creature" → "finally received a full response from a creature"; "to get back to that speed of 70 miles per hour" → "to return to that speed of 70 miles per hour"; "and it gets picked up by the microphone" → "and it is picked up by the microphone"; "and you get this loud screech" → "and you hear this loud screech". Kept: 0 (no other get/got outside quotations or the prayer).
+- **Conjunction sweep beyond highlights:** 0 changed. Kept deliberately: "And when Jesus teaches us how to pray" (paragraph-initial bridge, §Mary's yes); "And everything being good" (paragraph-initial bridge, §The enchanted world and the law of the gift); "And there is something that happens" (paragraph-initial bridge, §Two kinds of feedback); "And when we sin, we do nothing" (follows the Jn 15:5 quotation — rhetorical amplification); "And there it was, dry land." (deliberate biblical creation-account echo, §Mary's yes).
+- **Spoken-speech cleanup:** 2 items, folded into Pass-1 treatments — §The Trinity of love that overflows: "But this is the idea of this water constantly flowing" → "The idea is of water constantly flowing" (awkwardness removed); §Everything is positive: "But we also have this idea of maybe more broadly sacramentality:" → "We also have the broader idea of sacramentality:" (awkwardness removed). No other fillers/restatements touched (do not over-edit; the author's voice, hedges, and devices are preserved).
+- **Untouched:** opening prayer + attribution, all quoted material, headings, italic Latin, RSV-2CE wording.
+- **Questions for owner:** 4, listed below.
+
+**Questions for owner (2026-10-14 pass):**
+
+1. §Deep calls to deep: "To this we respond, let this happen." → applied "To that call we respond, let it happen." Options: (a) applied; (b) "To that call we respond, let this happen." (keeps the imperative "let this happen" — the mid-chapter eruption into prayer is a registered voice-profile device); (c) "To this call we respond, let it happen."
+2. §Everything is positive: ". But everything is gift." → applied "Everything is gift." (But dropped). Note: the voice profile cites "But everything is gift." as a short-landing rhythm exemplar; the owner's highlight marks it, so it was treated. Options: (a) applied drop; (b) combine — "…everything communicated something of the Trinity — everything is gift."; (c) restore "But".
+3. §Deep calls to deep: "This is why we are created." → applied "It is why we are created." Options: (a) applied; (b) "This participation is why we are created."; (c) keep original.
+4. §Give thanks: "This is our return to God the Father." → applied "The liturgy is our return to God the Father." (referent = carrying out the return in liturgy; interpretive). Options: (a) applied; (b) "This return is our return to God the Father."; (c) keep original.

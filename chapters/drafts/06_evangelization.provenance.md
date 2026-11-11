@@ -250,3 +250,26 @@ Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/revi
 
 - §Back to St. Patrick — Great Commission quotation completed with the missing RSV-2CE clause: "…and of the Holy Spirit. Behold, I am with you always, to the close of the age." → "…and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age." (RSV-2CE_verification_worksheet.md row 30; 2CE prints "behold" — RSV/RSVCE-1966 print "lo".)
 - §Missa est — Missal dismissal corrected: "Go and announce the gospel of the world" → "Go and announce the Gospel of the Lord" (*Ite ad Evangelium Domini annuntiandum*).
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/06_evangelization.md` and `chapters/reviewed/06_evangelization.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+Nine paragraphs replaced (of 58 prior paragraphs); the §Missa est passage was condensed from seven
+paragraphs to four. Changes:
+
+- §Owning the mystery: "This is confusing. What do we do with this?" → "What do we do with this?".
+- §Christ in the poor: "…his hands and his feet going out into the world, and we serve others — not
+  somehow lesser than Christ, but Christ himself." → "…going out into the world. We serve others as
+  Christ's body ourselves."
+- §Missa est: "it has been sent" → "Missa est: "It has been sent"" (heading quote-case fixed); "In the
+  older form of the Mass, there was just one phrase…" merged with "This is a liturgy that is meant to
+  envelop all of creation…"; "That is actually a bad translation, or a different translation." → "That is
+  actually a questionable translation. … According to the nineteenth century liturgical scholar, Prosper
+  Gueranger, it means 'it has been sent.'"; "No, it does not quite mean that. It means something has been
+  sent. It happened." → "However, it does not quite mean that. The grammar of *missa est* means something
+  has been sent."
+
+## Owner stylistic revision 2026-10-14
+Applied by the supervisor in batch edit scripts after repeated subagent platform failures. Ch6: 46 edits — get/got smoothed (since we have/earn/work around), that/this antecedents named, 9 paragraph-initial And/But/So reduced, Missa est passage smoothed.

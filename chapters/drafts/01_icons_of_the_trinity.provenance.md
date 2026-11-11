@@ -364,3 +364,30 @@ Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapter
 - "Andrei Rublev wrote this icon of  the Trinity" → "…icon of the Trinity" (double space).
 - "taking this to the chapel – or your own inner room in your own time of silent recollection – to pray" → em dashes in place of the two en dashes (book convention: spaced em dashes).
 - Opening Breastplate prayer now carries an attribution line, matching the other chapters: "— St. Patrick's Breastplate, trans. Cecil Frances Alexander" (translator named, per the ch5 attribution style). The translation is Cecil Frances Alexander's (1889; SRC-012).
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/01_icons_of_the_trinity.md` and `chapters/reviewed/01_icons_of_the_trinity.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+The owner substantially rewrote Chapter 1: of 47 prior paragraphs, 39 were replaced and 8 carried over
+(the chapter heading, the Breastplate prayer, its attribution line, and four section headings). Kinds of
+changes:
+
+- Section structure reorganized: "The Holy Spirit and the Mountain" → "The Holy Spirit on the Right";
+  "The Son in the Middle, the Father on the Left" split into "The Son in the Middle" and "The Father on
+  the Left"; "The Postures, the Chalice, and the Empty Place" → "The Postures and the Chalice" plus a new
+  "The Rectangle" section; the sign-of-the-cross sections reworked as "In the Name" / "Of the Father" /
+  "And of the Son" / "And of the Holy Spirit" / "Amen".
+- Nearly every body paragraph recast in the owner's voice (e.g., the new opening: "St. Patrick evangelized
+  Ireland in the fifth century. Years earlier, he had been enslaved there…"). The shamrock, Rublev, and
+  sign-of-the-cross passages were all rewritten.
+- Scripture/source citations added throughout: Matthew 28:18-19 (Great Commission quoted in full),
+  John 1:14, Genesis 18:1-15, Genesis 1:26, Luke 9:28-36, John 14:2, Luke 2:49, John 12:24,
+  2 Corinthians 5:17, Catechism no. 2558, John 20:22-23, Acts 17:28, Matthew 6:6, Genesis 1:4-25 and 1:31.
+- New credit added: "Here I benefited greatly from the analysis of Fr. James Dominic Brent OP in his book
+  *The Father's House*."
+- The Amen meditation rewritten: the Hebrew-root etymology now runs "The word comes from a Hebrew root
+  associated with firmness, faithfulness, security, and trust… I imagine the altogether common experience
+  of a dad tightening a ratchet strap, giving a firm tug, and declaring, 'That's not going anywhere.'"
+- Closing bridge now reads "…we will discuss in the chapters that follow." (was "the future conferences").

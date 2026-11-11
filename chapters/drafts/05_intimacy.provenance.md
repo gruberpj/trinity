@@ -314,3 +314,36 @@ Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/0
 - Attribution line de-italicized to the book's roman attribution format: "*— St. Augustine, Confessions, X.27 (trans. E. B. Pusey)*" → "— St. Augustine, Confessions X.27, trans. E. B. Pusey" (matches ch2/ch3/ch6).
 - §Intimus: the most in — 1 Jn 3:2 paraphrase de-circularized: "we become like him — for we shall see him as he really is, for we will be like him." → "we become like him — for we shall see him as he really is." (owner-approved paraphrase; redundant clause dropped).
 - §Christ resting in the storm — incomplete question repaired by merge: "…or the ship breaking under the waves? But Christ is there, sleeping." → "…or the ship breaking under the waves, Christ is there, sleeping?"
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/05_intimacy.md` and `chapters/reviewed/05_intimacy.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+10 paragraphs replaced in place (of 63 prior paragraphs; one net removed). Changes:
+
+- §Being itself: "And, actually, there have been Protestant theologians who have argued more or less for
+  that conception of God." + "We might be thinking, that is not that wrong, right?… God is just really
+  great." condensed to "There is a fairly common conception of God that He is the greatest of all beings —
+  all powerful, all knowing, without beginning or end — but not Being."; "God is Being, with a capital B.
+  We are beings with a lowercase b." → "God is Being. We are beings. We participate in him. We have being;
+  he is being."
+- Ex-nihilo paragraphs rewritten: "…created out of nothing — ex nihilo? How are we not God?" recast;
+  "And it is somewhat misleading, then, to say God is creating out of nothing…" → "Although true
+  materially, it is somewhat misleading to say God is creating out of nothing…"; "But then, it is not like
+  pantheism, right — no, we all participate in God." → "We all participate in God. Although not God,
+  everything that is created participates in God."; "So if you sin, you are existing less? Yes, that is
+  fine. You could say that…" → "So if you sin, are you existing less? In a sense, but it would be more
+  fitting to say sin diminishes the perfection of our participation in the good."
+- Love paragraph (§The fifth transcendental): "No animals — besides human beings, the rational, worded
+  animals — can love. We can truly love…" → "No animals (besides human beings, the rational, worded
+  animalszcan love. Human persons alone among bodily creatures can make a rational, free, morally
+  responsible gift of self." (owner's "animalszcan" — missing space — preserved; highlighted in the docx
+  for the later revision pass).
+- §The friend already home: "That's okay. Hey, you should wait in your car…" → "That is not socially
+  acceptable. You should have waited in your car…".
+- §Martha, Mary, and the one thing: "…animated by the Holy Spirit through him." → "…through him
+  (Acts 17:28)."
+
+## Owner stylistic revision 2026-10-14
+Applied by the supervisor in batch edit scripts after repeated subagent platform failures. Ch5: 41 edits — get/got smoothed (receives/was able/returned), that/this antecedents named, 13 paragraph-initial And/But/So reduced, animalsz typo repaired, spoken cleanup. See supervisor batch 2026-10-14.

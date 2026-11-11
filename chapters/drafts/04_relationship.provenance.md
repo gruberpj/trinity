@@ -261,3 +261,27 @@ Applied identically to `chapters/drafts/04_relationship.md` and `chapters/review
 - Attribution line normalized: "—St. Catherine of Siena (1347-1380), Doctor of the Church" → "— St. Catherine of Siena (1347–1380), Doctor of the Church" (space after the em dash, en dash in the date range).
 
 Owner-prayer-swap note (record, not text fix): the opening prayer remains the owner's docx-round substitution — St. Catherine of Siena's "O Eternal God! O Eternal Trinity!" replaced the Elizabeth of the Trinity prayer originally documented from the audio (see the owner's-manual-edits section above and voice_profile.md §6). The swap is the owner's; the translation source of the Catherine prayer is unidentified (matches neither Thorold 1907 nor CCEL) — owner item appended to `research/unresolved.md`.
+
+
+## Owner docx round 2 reverse-integration (2026-10-14)
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit. The chapter text was rebuilt from the owner's hand-edited `manuscript/Mystery_of_the_Trinity.docx` (the master for this step); the docx run highlights (yellow) were ignored — they mark spots a later revision pass will fix. The owner's wording and punctuation are preserved exactly (including highlighted typos where present). Pipeline formatting conventions applied: docx spaced en dashes normalized to the book's spaced em dashes, chapter/section heading en dashes normalized to the em-dash form, and run-level italics carried over as markdown emphasis.
+
+Two in-place paragraph replacements:
+
+- §Knowing from the Inside: "St. Paul sheepishly talks about… heaven, whatever, some level of…" — the
+  "heaven, whatever, some level of" aside deleted.
+- §I and Thou: the word "between" is now quoted with curly quotes: "there is a between. … And in that
+  “between” — this is the space of the Holy Spirit, He who is “between” the Father and the Son."
+
+---
+
+## Owner stylistic revision 2026-10-14
+
+Applied identically to `chapters/drafts/04_relationship.md` and `chapters/reviewed/04_relationship.md` (byte-identical; verified with `cmp`). No git commit. Targets taken from the owner's yellow run-highlights in `manuscript/Mystery_of_the_Trinity.docx` (chapter paragraph range 203–240), per the round-2 note that they mark this revision pass.
+
+- **Highlighted targets resolved:** bare that/this made explicit or restructured: 15; sentence-initial And/But/So treated (drops/combines/recasts, varied): 24; "Okay" fillers: none present; "look at": none highlighted. Checked and kept (grammatical relatives/complementizers, demonstratives with their noun, and deliberate devices): ~40 — including "this carpet"/"that carpet", "that mark", "that seal", "that sign of the cross", "that primordial love … That love", "That woman in France", "this second kind of knowledge", "Much of our knowledge comes this way", and the ch. 2 echo "the Trinity is really that by which we understand everything else". Skipped as inside quotations/prayer: 11 — the eight prayer spans (St. Catherine blockquote), "this world" (Rom 12:2 quote), the ". And" inside the Benedict XVI homily quote, the ". And" inside the uncle Mark quote.
+- **get/got pass:** changed: 2 — "dissecting them, getting down deep into them" → "dissecting them, going down deep into them"; "and I understand it inside and out – I get it." → "and I understand it inside and out." (redundant restatement deleted). Kept: 0.
+- **Conjunction sweep beyond highlights:** the paragraph-initial "And"s and the remaining in-quote conjunctions kept; no further non-highlighted speech-artifact conjunctions found (all were covered by the highlighted set).
+- **Spoken-speech cleanup:** 3 — carpet passage tail recast ("But I could know something in a deeper way. Carpet is not the best example, where I become like the thing." → "I could know something in a deeper way, by becoming like the thing I know. A carpet is not the best example of that."); "the same might be true with the mystic" → "the same might be true of the mystic"; St. Paul passage: two sentence-initial "And"s dropped ("sheepishly" kept).
+- **Untouched:** opening prayer + attribution, all quoted material (Aristotle axiom, Rom 12:2, Mt 18:20, the "between us" phrase, Benedict homily, uncle Mark litany), the Newman fifth-station sentence, headings, curly "between" quotes, *I and Thou* italics, RSV-2CE wording.
