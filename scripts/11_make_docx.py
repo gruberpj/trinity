@@ -26,8 +26,8 @@ MD_PATH = BASE_DIR / "manuscript" / "Mystery_of_the_Trinity.md"
 DOCX_PATH = BASE_DIR / "manuscript" / "Mystery_of_the_Trinity.docx"
 
 BYLINE_MARKER = "by Fr. Peter Gruber, C.O."
-EDITION_LINE = "Working manuscript draft \u00b7 2026"
-TOC_NOTE = "(Select and update this table in Word to fill in page numbers.)"
+EDITION_LINE = ""
+TOC_NOTE = ""
 
 # Final interior trim: 4.25 x 6.875 in, portrait, matching the book PDF's
 # margins and footer position.

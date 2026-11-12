@@ -1,5 +1,7 @@
 # Epilogue — Engineering Mystery
 
+*This talk was given at a retreat for engineering students.*
+
 ## The Engineering Worldview
 
 Without realizing it, all of us have a way of viewing the world: an imaginative vision, a lens through which everything comes, and we experience it — adding labels to it, quantifying, qualifying, calculating. There is also an engineering worldview, a way of looking at the world as engineers. I was very much of the engineering worldview. It was a safe way of thinking for me, especially in high school.
@@ -18,7 +20,7 @@ There was really only one option for me for college, and that was the University
 
 You see how that worked out?
 
-When I went to the University of Pittsburgh, I had a desire to be an engineer. I put my identity in my work. I studied because I was told that freshman engineering, before Dr. Sanchez got involved with teaching freshmen, was grueling. And they told us we had to make a choice. You either have friends, or you are an engineer. You can party on weekends, but there are other programs for you in the arts and sciences. Liberal arts? Yes, do that. That way you can party. I threw myself into it. But I also had a desire at the same time to pray, to enter into the interior life. I knew that was lacking in me. I knew that many of my years and my youth were wasted away in utter dissipation. It was not YouTube then, but the beginnings of social media — I had a MySpace account. I was friends with Tom from MySpace, as was everyone. The dissipation was mostly watching TV, watching movies, letting my life just disappear, staying up late doing nothing.
+When I went to the University of Pittsburgh, I had a desire to be an engineer. I put my identity in my work. I studied because I was told that freshman engineering was grueling. And they told us we had to make a choice. You either have friends, or you are an engineer. You can party on weekends, but there are other programs for you in the arts and sciences. Liberal arts? Yes, do that. That way you can party. I threw myself into it. But I also had a desire at the same time to pray, to enter into the interior life. I knew that was lacking in me. I knew that many of my years and my youth were wasted away in utter dissipation. It was not YouTube then, but the beginnings of social media — I had a MySpace account. I was friends with Tom from MySpace, as was everyone. The dissipation was mostly watching TV, watching movies, letting my life just disappear, staying up late doing nothing.
 
 I did not like this. I wanted the interior life, and I did not realize what it was. I wanted to pray. When I came to the Franciscan youth conference during high school, I bought my first brown scapular and was invested. I thought, I need to pray the rosary every day, because if I do not, it does not count, and I am living a lie — which is a little bit true. I did not pray the rosary, I do not think, at all during my senior year. I started a few times, and I thought, I just cannot do it. It is too much, because it was the weight of all of this — a lot of suffering, a lot of woundedness. But I never managed to actually pray.
 
@@ -44,7 +46,7 @@ I looked at the world in a technical frame of mind — the engineering worldview
 
 Recall how Gabriel Marcel said that mystery, properly speaking, implicates the viewer. We are part of it.
 
-Think of the Heisenberg Uncertainty Principle of quantum physics. When you go to measure something — the effect does not matter on the macro level, but it matters on the micro and the nano level — the means by which you measure it actually affect the thing you are measuring. You cannot get an accurate, precise measurement, because the probe you are using comes into contact with it. And if you had a qubit — you know about quantum computers — a qubit is something that is a zero, a one, or anywhere in between, but once you measure it, it defaults to a zero or a one. The act of measuring it affects it. It seems that on the quantum physics level, we understand that we are part of the experiment. We are not separate from it.
+Think of the observer effect in quantum physics. When you go to measure something — the effect does not matter on the macro level, but it matters on the micro and the nano level — the means by which you measure it actually affect the thing you are measuring. You cannot get an accurate, precise measurement, because the probe you are using comes into contact with it. And if you had a qubit — you know about quantum computers — a qubit exists in a superposition of zero and one, but once you measure it, it defaults to a zero or a one. The act of measuring it affects it. It seems that on the quantum physics level, we understand that we are part of the experiment. We are not separate from it.
 
 ## A Solar Flare of Love
 
@@ -54,7 +56,7 @@ Not only is God a mystery — the Trinity is a mystery. There is so much to unde
 
 Through worship, we are included in this mystery — this mystery that is like a solar flare out of the love of God, Father, Son, and Holy Spirit. Out of all things that were created — the excess, the abundance of God's love spilled out and strewn across the sky — God looked for someone who would share in his image and likeness, who could respond, who could reflect him, who could make a total gift of themselves, who could receive others. We are thus included in the mystery of creation, implicated in its mystery. When we study creation, we are studying ourselves in the process. We are examining the echo of the Trinity.
 
-This Holy Trinity is not something merely studied. Rather, marriage enshrines it. Motherhood embraces it. Fatherhood mirrors it. Friendship touches it. Loneliness, when it does not despair, adores it.
+This Holy Trinity is not something merely studied. Rather, marriage enshrines it. Motherhood expresses it. Fatherhood mirrors it. Friendship touches it. Loneliness, when it does not despair, adores it — the fivefold litany of my uncle Mark's reflection.
 
 ## The Invisible World and the Sacraments
 
@@ -86,7 +88,7 @@ This is love — not that we have loved God, St. John says — not that we have 
 
 Part of the engineering worldview is that we have to work and to have success in order to make any kind of progress. The problem with school is you have to earn your good grades. You go into your work, and you have to do what your boss expects of you. You have to live up to some standard of performance. And in that way you might be rewarded with some kind of raise. That makes sense; it is the basic reward system we have. It is the worldview of this age — being conformed to this age rather than transformed by the renewal of your mind. For God has already loved you. You do not have to do anything to prove it. How we live that out, then, is that we receive that love, and we respond.
 
-We are meant to respond to the gift, to the mystery of God. We are meant to respond to him for redeeming us. We are meant to respond — with, through, and in Christ, the second person of the Holy Trinity — to God the Father in the Holy Spirit. The way we do that is through the body of Christ — the body of Christ, his bride, the Church. When we follow the rules, when we do Mass, we hear readings that are themselves a prayer offered to God. When we give ourselves over to God in the Offertory, we give ourselves over to him in Holy Communion — he who gives himself so totally over to us — and we are caught up in a higher cycle of giving.
+We are meant to respond to the gift, to the mystery of God. We are meant to respond to him for redeeming us. We are meant to respond — with, through, and in Christ, the second person of the Holy Trinity — to God the Father in the Holy Spirit. The way we do that is through the body of Christ — the body of Christ, his bride, the Church. When we follow the rules, when we go to Mass, we hear readings that are themselves a prayer offered to God. When we give ourselves over to God in the Offertory, we give ourselves over to him in Holy Communion — he who gives himself so totally over to us — and we are caught up in a higher cycle of giving.
 
 In systems engineering, a feedback loop is an output fed back into its own input. There are positive and negative feedback loops. A negative feedback loop is typically the more desirable one. Negative feedback loops are safe. In the spiritual life, however, we actually want to be caught up in a positive feedback loop — the loop we met earlier in this book as the positive feedback loop of grace. We want the output to be fed back into the input and to increase things exponentially. In the liturgy, we are offering ourselves to God, who offers himself to us.
 
@@ -102,7 +104,7 @@ One more thing that challenges the engineering worldview: you have heard the exp
 
 I go back to myself as a senior in high school, when I wanted to pray. I had opportunities to pray so much, but instead I listened to music. Instead I would just sit on a couch. Instead I would just fill up my time with whatever I could, in order to not have to face myself. But maybe just praying poorly would have been the move to make at that time. Whatever is worth doing is worth doing poorly.
 
-In fact, in this setting of gift and mystery, whatever is worth doing is worth doing out of your poverty. Give of yourself so totally that you become poor in the process. The lovely emphasis we have as Franciscans on the poverty of St. Francis — Franciscan spirituality — means that poverty is essential to giving. You make yourself poor, and in making yourself poor, you gain everything.
+In fact, in this setting of gift and mystery, whatever is worth doing is worth doing out of your poverty. Give of yourself so totally that you become poor in the process. The lovely Franciscan emphasis on the poverty of St. Francis — Franciscan spirituality — means that poverty is essential to giving. You make yourself poor, and in making yourself poor, you gain everything.
 
 ## The Feed and the Feasts
 

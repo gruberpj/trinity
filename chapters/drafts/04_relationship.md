@@ -10,7 +10,7 @@
 >
 > *By this mirrored light I know Thou art the highest good, a good above all good, a fortunate good, an incomprehensible good, an unmeasurable good, a beauty above all beauty, a wisdom above all wisdom, for Thou art wisdom itself, the food of angels, the fire of love that Thou givest to man.*
 >
-> *Thou art the garment covering our nakedness. Thou feedest our family with Thy sweetness, a sweetness Thou art from which there is no trace of bitterness. O Eternal Trinity! Amen.*
+> *Thou art the garment covering our nakedness. Thou feedest the famished with Thy sweetness, a sweetness Thou art from which there is no trace of bitterness. O Eternal Trinity! Amen.*
 
 — St. Catherine of Siena (1347–1380), Doctor of the Church
 
@@ -28,7 +28,7 @@ The other kind of knowledge is the one that most accords with mystery. It is to 
 
 Those who write and read poetry might be aware that there is a unitive awareness in the poetic imagination — the way in which a poet views the world and approaches things not as pieces, but as wholes. The same might be true of the mystic. The mystic is thrown into the depths of the knowledge of God, but not in a knowledge that we can typically relate to. That knowledge involves the totality of their being with the totality of God's being under some aspect.
 
-Someone who goes through a mystical experience, I am told, is not able to communicate what happened in that experience. St. Paul sheepishly talks about how he knew a man who was caught up to the third heaven. He said, I do not know which — I do not know. He cannot really tell much about it, because it is hard to tell. What you know in that way cannot be easily explained.
+Someone who goes through a mystical experience, I am told, is not able to communicate what happened in that experience. St. Paul sheepishly talks about how he knew a man who was caught up to the third heaven — "whether in the body or out of the body I do not know." He cannot really tell much about it, because it is hard to tell. What you know in that way cannot be easily explained.
 
 This kind of knowledge St. Thomas Aquinas calls connatural knowledge. The example he uses to explain how this knowledge works is that of the virtue of chastity. You can understand chastity by observing it and dividing it into its separate parts, understanding how the intellect and the will work together with the passions or against the passions in order to experience and to give and to receive chaste love in the appropriate context. We can study theology of the body. We can understand these things in all their various ways, and we can understand this virtue well, but someone who lives chastity starts to become like it through their living of it. They might not decipher it and divide it down into its different parts, but someone who understands chastity from the inside has a knowledge that exceeds that of those who study from the outside.
 
@@ -36,9 +36,9 @@ This knowing is called connatural knowledge by St. Thomas Aquinas, because it is
 
 ## Marked with the Cross
 
-Mystery is best engaged with this second kind of knowledge. We are imprinted with the Holy Trinity from our baptisms. We are told we are given a mark. Our baptism marks us. The shape of that mark, of that seal that is placed in our souls, is cruciform. We reenact that mark every time we make that sign of the cross. It is imprinted on us. It is meant to become so deep that the Trinity is really that by which we understand everything else.
+Mystery is best engaged with this second kind of knowledge. We are imprinted with the Holy Trinity from our baptisms. We are told we are given a mark. Our baptism marks us. We might picture the shape of that mark, of that seal placed in our souls, as cruciform. We reenact that mark every time we make that sign of the cross. It is imprinted on us. It is meant to become so deep that the Trinity is really that by which we understand everything else.
 
-St. Paul says in his letter to the Romans, "Do not be conformed to this world but be transformed by the renewal of your mind." The way in which our minds are renewed is how we come into a unitive awareness, a contemplation of — and most especially — relationship.
+St. Paul says in his letter to the Romans, "Do not be conformed to this world but be transformed by the renewal of your mind." The way in which our minds are renewed is how we come into a unitive awareness, a contemplation of relationship most especially.
 
 ## Christ Between Us
 
@@ -62,7 +62,7 @@ I recall Pope Benedict's inaugural homily when he was made Pope in 2005. He said
 
 All relationships have something that they say about the Trinity. In some way they express that primordial love — that love that was there before the sun and the stars and before we came into being, a love shared constantly, acting out fully between Father, Son, and Holy Spirit from all eternity. That love is the same love with which we now love each other, under different aspects and under different relationships.
 
-We are meant to approach, then, the Trinity under and through these relationships that we have. Motherhood, fatherhood, sonship, even co-workers and others — all these things now have something in common with God, Father, Son, and Holy Spirit. There are more ways I am included in Mary, just in the same way that there are more ways I am included in my mother — my biological mother — than in some woman I have never met in France. That woman in France is a mystery. For me, my mom is a mystery — I was enclosed within her. I was given life through her. I was nourished by her. There is a connection there that involves me more than some other random person that I have not yet met. Every person is potentially a mystery to me in some way — which is another way of saying another person is potentially someone to be loved. St. Augustine was not wrong to see the Trinity reflected in all aspects of reality, but most especially in us, who are individually and collectively images of God, Father, Son, and Holy Spirit.
+We are meant to approach, then, the Trinity under and through these relationships that we have. Motherhood, fatherhood, sonship, even co-workers and others — all these things now have something in common with God, Father, Son, and Holy Spirit. There are more ways I am included in my mother — my biological mother — than in some woman I have never met in France. That woman in France is a mystery. For me, my mom is a mystery — I was enclosed within her. I was given life through her. I was nourished by her. There is a connection there that involves me more than some other random person that I have not yet met. Every person is potentially a mystery to me in some way — which is another way of saying another person is potentially someone to be loved. St. Augustine was not wrong to see the Trinity reflected in all aspects of reality, but most especially in us, who are individually and collectively images of God, Father, Son, and Holy Spirit.
 
 ## Encounter, Not Merely Understanding
 

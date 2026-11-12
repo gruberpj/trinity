@@ -8,7 +8,7 @@
 
 This final chapter circles back to where we started, talking about St. Patrick and his evangelization of the people of Ireland.
 
-St. Patrick had blessed a fire in the 400s that no attempts by the Druid pagans could extinguish. That fire kept burning and burned brightly — a witness against the pagans, but more importantly, a witness of God's love; the fire was meant to go forth and spread.
+According to tradition, St. Patrick had blessed a fire in the 400s that no attempts by the Druid pagans could extinguish. That fire kept burning and burned brightly — a witness against the pagans, but more importantly, a witness of God's love; the fire was meant to go forth and spread.
 
 The words that send us to evangelize come from our Lord before he ascended into heaven, when he told his apostles: "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age."
 
@@ -18,7 +18,7 @@ The Church's own canon law recognizes this: all of us, by virtue of baptism and 
 
 This missionary nature derives from our Lord's teaching: the greatest commandment is to love God, and the second is like it — to love your neighbor as yourself. The perfection of that commandment is to love one another as I have loved you. What has been poured into us cannot be contained. If we have now shared in the mystery of the Holy Trinity, the mystery is not ours alone; it is meant to go out and make us evangelize all people.
 
-And going back to the little rectangle on Rublev's Trinity icon — it represents the four corners of the world. The message of the Trinitarian love of God is meant to go out.
+And going back to the little rectangle on Rublev's Trinity icon — it may represent, as we saw, the four corners of the world. The message of the Trinitarian love of God is meant to go out.
 
 ## Owning the mystery
 
@@ -26,7 +26,7 @@ We think about evangelizing those who do not yet know Christianity, or who do no
 
 We run into the problem of the Trinity right away, anytime we try to evangelize and catechize as part of that work, and it is an awkward thing. Do we try to work around it? Do we insist there is one God and just say, "Don't worry about that — it's a mystery"?
 
-Some from the outside might say, "How is this altogether different from those people who believe in multiple gods? It seems that you want to have your cake and eat it too." Or maybe, "How is this different from Mormonism? For don't they have one big God, and Jesus is the God of this planet? And if we are good Mormons, then we become gods of our own planets after we die. How is this different? For don't you, as Christians, believe that you will become like God? Did not one of your early Christian saints — St. Athanasius — say, 'For the Son of God became man so that we might become God'?"
+Some from the outside might say, "How is this altogether different from those people who believe in multiple gods? It seems that you want to have your cake and eat it too." Or maybe, "How is this different from the Mormons, who believe the Father and Son are separate divine beings, and that the faithful may one day become gods? How is this different? For don't you, as Christians, believe that you will become like God? Did not one of your early Christian saints — St. Athanasius — say, 'For the Son of God became man so that we might become God'?"
 
 What do we do with this objection? We need to take ownership of it. We need to acknowledge that the Trinitarian mystery of God is something that actually gives us greater access to God. He is not just transcendent, far away; he is immanent — close to us, within us, the most within us. He is intimate with us.
 
@@ -36,7 +36,7 @@ Once we even begin to understand the Trinity — even with just helpful images �
 
 It is fitting that the prayer I said at the beginning is from St. John Henry Newman, and it was a favorite prayer of Mother Teresa. As she went out and encountered Christ in the poorest of the poor, she lived out Matthew 25. "How, Lord, when did we see you hungry and give you food, and thirsty and give you drink? When did we see you naked and clothe you, and find you in prison and visit you?" And our Lord said, "Amen. Whatever you did for the least of my brothers, you did for me."
 
-St. Paul was taught by his conversion. "Saul, Saul, why are you persecuting me?" "Who are you, Lord, that I may know who I'm persecuting?" "I am Jesus, whom you are persecuting." St. Paul recognized that in those who suffer, Christ is present. Christ is with us in the poor. He is with us in our poverty.
+St. Paul was taught by his conversion. "Saul, Saul, why are you persecuting me?" "Who are you, Lord?" "I am Jesus, whom you are persecuting." St. Paul recognized that in those who suffer, Christ is present. Christ is with us in the poor. He is with us in our poverty.
 
 And when Mother Teresa went out to serve the poorest of the poor, she could not help but see Christ in them. It gives me great edification to know that she loved this prayer of St. John Henry Newman so much that when people hear it — this prayer of "help me to spread your fragrance everywhere I go" — they think it is Mother Teresa's, because she prayed it so often. Yet it actually belongs to a rather intellectual saint of the nineteenth century, an Oratorian priest named John Henry Newman.
 
@@ -46,7 +46,7 @@ But we are meant for others to see only Jesus in us, so that we might shine out 
 
 We, who have been incorporated into his body through the Holy Eucharist, are his hands and his feet going out into the world. We serve others as Christ’s body ourselves.
 
-Here we start to see a positive feedback loop. It is Christ serving Christ. We who give of ourselves so fully to this work of evangelization, this work of the corporal works of mercy, serve Christ. They are built up, and they too are transformed. They might go forth and also love Christ and others. It is a chain reaction. In an atomic bomb, the chain reaction would result in a massive explosion of megatons of dynamite. For us, it is evangelization.
+Here we start to see a positive feedback loop. It is Christ serving Christ. We who give of ourselves so fully to this work of evangelization, this work of the corporal works of mercy, serve Christ. They are built up, and they too are transformed. They might go forth and also love Christ and others. It is a chain reaction. In an atomic bomb, the chain reaction would result in a massive explosion of megatons of TNT. For us, it is evangelization.
 
 We serve Christ, and as Christ, everyone we serve encounters the gospel. They encounter Christ, and they know they are loved. The two great desires of our heart are to be known and to be loved. How could they go forth without loving others with that same love?
 
@@ -62,13 +62,13 @@ We remember how St. Ignatius of Loyola would say to his missionaries, the Jesuit
 
 ## The Easter flame
 
-The way we evangelize the love of the Trinity is the same way the light is spread at the Easter Vigil, the mother of all liturgies, when the priest blesses the fire, the sacred fire. Lifting it up and saying, "Lumen Christi" — the light of Christ — and from that one flame go forth all the different tapers, all the little candles around the church. The church that was in darkness is now filled with the light. Each of us carries in ourselves the flame of Christ in our hearts, symbolized by the candle that we carry. Now it is kept blazing and is meant not to be confined to that church, but to go out from there.
+The way we evangelize the love of the Trinity is the same way the light is spread at the Easter Vigil, the mother of all vigils, when the priest blesses the fire, the sacred fire. Lifting it up and saying, "Lumen Christi" — the light of Christ — and from that one flame go forth all the different tapers, all the little candles around the church. The church that was in darkness is now filled with the light. Each of us carries in ourselves the flame of Christ in our hearts, symbolized by the candle that we carry. Now it is kept blazing and is meant not to be confined to that church, but to go out from there.
 
 ## Missa est: "It has been sent"
 
 At the end of every Mass, we hear: "Go forth, the Mass is ended." *Ite, missa est.* "Ite" means go. Go out. What happened here is not meant to be confined here. The liturgy is meant to envelop all of creation. It is cosmic in its proportions. Christ comes so that all things might be recapitulated in him, might be united in him — all things. Christ says in the book of Revelation, "Behold, I make all things new."
 
-"The Mass is ended" is actually a questionable translation. "*Missa est*" does not mean "the Mass has ended." According to the nineteenth-century liturgical scholar, Prosper Gueranger, it means "it has been sent." What has been sent? Sometimes people translate it as "be sent" — "go and be sent." Some priests, not understanding the Latin, will explain that "missa est" means "be sent" — "go and be sent, be sent, go out into the world, be sent into the world." However, it does not quite mean that. The grammar of *missa est* means something has been sent.
+"The Mass is ended" is actually a questionable translation. "*Missa est*" does not mean "the Mass has ended." According to one older reading — that of the nineteenth-century liturgical scholar, Prosper Guéranger — it means "it has been sent." What has been sent? Sometimes people translate it as "be sent" — "go and be sent." Some priests will explain that "missa est" means "be sent" — "go and be sent, be sent, go out into the world, be sent into the world." However, it does not quite mean that; the grammar of *missa est* means something has been sent.
 
 What has been sent? Who has it been sent to? What has been sent is the offering of Christ, the *Eucharistia* — the thanksgiving, the oblation, the full gift of himself. Who has it been sent to? We might think that the Mass is offered to us. It is not primarily offered to us. The Mass is our offering of Christ to the Father. Christ has been offered to the Father. The Mass is not just Jesus coming down to us in the Eucharist. The Mass is that Jesus comes, and he goes — he goes out from the Father down to us, and he goes back to the Father. What he does in salvation — in becoming incarnate and dying and rising and ascending — he does in the Mass. He has been sent back to the Father.
 
@@ -88,7 +88,7 @@ The mystery of the Trinity does embrace all. All things make sense by it. All pe
 
 ## Tell everyone
 
-How could we contain this mystery in us? If you have been changed by this retreat, if you have been transformed by the renewal of your mind, you will not let it just stay with you. If this is a secret, tell everyone. The mystery is not meant to be confined, not meant to be held back; it is meant to be the leading point, the arrow of our evangelization.
+How could we contain this mystery in us? If you have been changed by this retreat, if you have been transformed by the renewal of your mind, you will not let it just stay with you. If the Trinity is the best-kept secret of our faith, as Fr. James Dominic Brent calls it, then tell everyone. The mystery is not meant to be confined, not meant to be held back; it is meant to be the leading point, the arrow of our evangelization.
 
 There is nothing to be ashamed of in the Trinity, and nothing to hide away and say, "I can't understand it, neither can you, but just know that Jesus loves you." Yes, Jesus loves you, but he wants you to be part of him, incorporated into his body, sharing in his very being, and to be part of the Holy Trinity with, through, and in him.
 

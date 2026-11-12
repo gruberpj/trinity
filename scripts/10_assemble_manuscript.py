@@ -45,8 +45,11 @@ BOOK_TITLE = "The Mystery of the Trinity"
 AUTHOR = "Fr. Peter Gruber, C.O."
 
 NOTE_ON_THE_TEXT = (
-    "This book was prepared from seven audio recordings of a retreat and a talk given by Fr. Peter Gruber, C.O., in 2025 and 2026. The text was produced by an auditable audio-to-book pipeline: each recording was machine-transcribed (faster-whisper, large-v3 model), reviewed against word-level confidence data, lightly corrected for grammar while preserving the author's spoken wording, and assembled into chapters, with a provenance record kept for every section of every chapter. Quotations were checked against published editions where possible; any wording or attribution that could not be verified is flagged in the project records and consolidated in the accompanying notes file. Scripture is cited as heard, with translation questions noted for the author."
+    "These chapters began as talks given on retreat in 2025 and 2026. "
+    "They have been transcribed and lightly edited for reading, but I "
+    "have kept the voice in which they were spoken."
 )
+
 
 VERIFIED_STATUSES = {
     "VERIFIED_EXACT",
@@ -326,25 +329,38 @@ def build_notes():
         cid = (row.get("chapter_id") or "").strip()
         grouped.setdefault(cid or "_general", []).append(row)
 
+    last_entry = None
     for cid in ("C01", "C02", "C03", "C04", "C05", "C06", "E01"):
         if cid not in grouped:
             continue
+        entries = [note_entry(row) for row in grouped[cid]]
+        entries = [e for e in entries if e]
+        deduped = []
+        prev = None
+        for e in entries:
+            if e != prev:
+                deduped.append(e)
+            prev = e
+        if not deduped:
+            continue
         lines.append("## " + CHAPTER_LABELS[cid])
         lines.append("")
-        for row in grouped[cid]:
-            entry = note_entry(row)
-            if entry:
-                lines.append(entry)
+        lines.extend(deduped)
         lines.append("")
 
     if "_general" in grouped:
-        lines.append("## General")
-        lines.append("")
-        for row in grouped["_general"]:
-            entry = note_entry(row)
-            if entry:
-                lines.append(entry)
-        lines.append("")
+        entries = [note_entry(row) for row in grouped["_general"]]
+        deduped = []
+        prev = None
+        for e in entries:
+            if e and e != prev:
+                deduped.append(e)
+            prev = e
+        if deduped:
+            lines.append("## General")
+            lines.append("")
+            lines.extend(deduped)
+            lines.append("")
 
     lines.append("## Translations")
     lines.append("")

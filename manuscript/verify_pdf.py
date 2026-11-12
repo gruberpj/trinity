@@ -95,7 +95,6 @@ def main():
             for s in (
                 "The Mystery of the Trinity",
                 "by Fr. Peter Gruber, C.O.",
-                "Working manuscript draft",
             )
         ),
         p1[:100],
@@ -103,7 +102,7 @@ def main():
     p2 = norm(pages[1].extract_text()).upper()
     check(
         "page 2: Note on the Text",
-        "NOTE ON THE TEXT" in p2 and "MACHINE-TRANSCRIBED" in p2,
+        "NOTE ON THE TEXT" in p2 and "BEGAN AS TALKS GIVEN ON RETREAT" in p2,
         p2[:100],
     )
     p3 = norm(pages[TOC_PAGE_INDEX].extract_text())

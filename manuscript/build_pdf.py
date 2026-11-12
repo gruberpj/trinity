@@ -475,6 +475,8 @@ def build_pass(blocks, page_numbers, outfile):
 
 
 # --------------------------------------------------------------------------
+EDITION_LINE = ""
+
 # Main
 # --------------------------------------------------------------------------
 def main():
@@ -487,7 +489,6 @@ def main():
     title_full = blocks[0][1]  # e.g. "The Mystery of the Trinity"
     TITLE_MAIN, _, TITLE_SUB = title_full.partition(": ")
     BYLINE = blocks[1][1]  # "by Fr. Peter Gruber, C.O."
-    EDITION_LINE = "Working manuscript draft \u00b7 2026"
 
     # Split the subtitle (if any) across lines if it exceeds the text measure
     # at 14 pt

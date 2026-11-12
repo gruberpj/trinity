@@ -6,11 +6,9 @@
 
 ## Being itself
 
-In theology, there is a central concept in talking about God. It is called the analogy of being. There are many who have ideas of God as a being above other beings. Many Protestants would see God as the greatest of all beings, and because he is the greatest — in fact, he is infinite, he is omnibenevolent, he is omniscient, he is omnipotent; he is omniscient, omnipotent, and all-loving — and therefore he, as the highest of all beings, receives all of our praise and worship.
+In theology, there is a central concept in talking about God. It is called the analogy of being. There are many who have ideas of God as a being above other beings. Many of us would see God as the greatest of all beings, and because he is the greatest — in fact, he is infinite, omniscient, omnipotent, and all-loving — and therefore he, as the highest of all beings, receives all of our praise and worship.
 
 For many of us, this picture of God as the highest of all beings is our default conception of how God works. We are lesser beings. We are creatures made by God, but God just stands above and beyond all these things. To this we can add his eternality. He is, before time existed, he is, and he always will be. There is no change in God.
-
-This Being is God.
 
 There is a fairly common conception of God as the greatest of all beings — all-powerful, all-knowing, without beginning or end — but not Being.
 
@@ -34,11 +32,11 @@ We all participate in God. Although not God, everything that is created particip
 
 If you sin, are you existing less? In a sense, but it would be more fitting to say sin diminishes the perfection of our participation in the good.
 
-We have goodness, and we also share in God, especially through the gift of his grace. We are made in his image and likeness, so we have a higher share than other things. Protestants would say, "Well, maybe there's a hierarchy of being. God's the highest kind of being." But we say, no, God is being itself, and everything else shares in his being. And this sharing in being is why we speak of an analogy of being: everything that has being harkens back to God, who is being. "I AM WHO I AM."
+We have goodness, and we also share in God, especially through the gift of his grace. We are made in his image and likeness, so we have a higher share than other things. Many would say, "Well, maybe there is a hierarchy of being, and God is the highest kind of being." But we say, no, God is being itself, and everything else shares in his being. And this sharing in being is why we speak of an analogy of being: everything that has being harkens back to God, who is being. "I AM WHO I AM."
 
 ## The fifth transcendental
 
-Joseph Ratzinger, in *Introduction to Christianity*, made an interesting claim. We are perhaps familiar with what we call the transcendentals: truth, beauty, goodness, unity — those four. Unity — oneness — that is the original transcendental. God is one. We see that oneness is in a communion of three persons. Transcendentals are something that is in God. It is a characteristic of being that God has in himself and that everything else shares in, in some way. Joseph Ratzinger puts forward the idea that there is a fifth transcendental — a fifth characteristic that, because we know it is in God, belongs to all being. What is that fifth transcendental, that characteristic that is in God? We know of it only because God has revealed himself in his inner life of the Trinity. That fifth characteristic is relationality. All beings are relational.
+Joseph Ratzinger, in *Introduction to Christianity*, made an interesting claim. We are perhaps familiar with what we call the transcendentals: truth, beauty, goodness, unity — those four. Unity — oneness — that is the original transcendental. God is one. We see that oneness is in a communion of three persons. Transcendentals are something that is in God. It is a characteristic of being that God has in himself and that everything else shares in, in some way. Joseph Ratzinger suggests something that amounts to a fifth transcendental — a fifth characteristic that, because we know it is in God, belongs to all being. What is that fifth transcendental, that characteristic that is in God? We know of it only because God has revealed himself in his inner life of the Trinity. That fifth characteristic is relationality. All beings are relational.
 
 We share in that relationality because we are capable of relationship. We are capable of giving of ourselves and receiving from another under different aspects and different ways, but we give. We do not just communicate words or concepts. We communicate our very selves through those words and through those concepts, through those symbols, through our actions.
 
@@ -46,7 +44,7 @@ We recall that God made us in his image and likeness — male and female he crea
 
 No animals besides human beings, the rational, worded animals, can love. Human persons alone among bodily creatures can make a rational, free, morally responsible gift of self.
 
-Because God is relational, because God is being itself, because what he has, he is. We would not say God has knowledge. We have intellect and will, right? We are able to know and we are able to love. We are able to consume truth in our intellects, and we are able to reach out towards others in love. God has knowledge and love. But remember, God does not merely have. What we say God has, God is. God's knowledge is the Son. The Father knows the Son. He is the Word of the Father, spoken from all eternity. And God's love — God's love is the Holy Spirit, the breathing forth of the Father and the Son.
+Because God is relational, because God is being itself, because what he has, he is. We have intellect and will, right? We are able to know and we are able to love. We are able to consume truth in our intellects, and we are able to reach out towards others in love. We say God has knowledge and love. But remember, God does not merely have; what we say God has, God is. God's knowledge is the Son. The Father knows the Son. He is the Word of the Father, spoken from all eternity. And God's love — God's love is the Holy Spirit, the breathing forth of the Father and the Son.
 
 Knowledge and love are in the Trinity as subsistent relations. That theological formulation follows from the principle that what God has, God is: he is always knowing, and he is always loving.
 
@@ -54,7 +52,7 @@ There is a going out with this knowledge. Then there is a fittingness with how t
 
 This is the simplest explanation of God. We look for how we are made in the image and likeness of God, because we are relational, because we are able to know and to love — not know merely in a divisive way, through sciences and different ologies, but we are able to know each other.
 
-All reality, then, has a share not only in truth, goodness, and beauty, but also relationality. And this relationality makes sense, because we can only speak of a water bottle in relation to my ability to drink from it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God — yes.
+All reality, then, has a share not only in truth, goodness, and beauty, but also relationality. And this relationality makes sense, because we can only speak of a water bottle in relation to my ability to drink from it. There is a relationality with all material things. Even the things that we do not yet see — the tree that falls in the forest with no one around — there is still relationality built into all of these things: that coming together of one thing and another thing. There is relationality built into all material creation, all immaterial creation. All things share in this relationality. This also means that there is no escaping God.
 
 God is in us. In him we move. "We live and move and have our being," St. Paul says. This means, because of the analogy of being, that we cannot escape God. There is no hiding from God. For Adam and Eve, there was no hiding in the Garden of Eden. For us, there is no hiding. We cannot go anywhere to escape him. But also, why would we want to?
 
@@ -100,7 +98,7 @@ St. Augustine said that when Christ ascended into heaven, he ascended from the a
 
 We might think it is very hard for God to rest in my soul, because it seems my experience has told me otherwise. In my soul, there is little rest. There is constant anxiety. There is constant fear, maybe even anger. There is shame, there is guilt. How could God be there already?
 
-Maybe mostly for our benefit, the one time the apostles were all together on the boat, a great storm came upon them, and these experienced fishermen were afraid for their lives. They who had already weathered many storms — now, this was the big one. This was going to claim their lives. But where is Christ in this? He is there on a cushion, sleeping. How is it that when the boat is being rocked about, water is entering in, there is danger of being capsized, or the ship breaking under the waves, Christ is there, sleeping? Christ rests in our souls. And he likes to rest in our souls when there is the most amount of chaos.
+Maybe mostly for our benefit, once, when the apostles were in the boat, a great storm came upon them, and these experienced fishermen were afraid for their lives. They who had already weathered many storms — now, this was the big one. This was going to claim their lives. But where is Christ in this? He is there on a cushion, sleeping. How is it that when the boat is being rocked about, water is entering in, there is danger of being capsized, or the ship breaking under the waves, Christ is there, sleeping? Christ rests in our souls. And he likes to rest in our souls when there is the most amount of chaos.
 
 He is there, always, sustaining us in being. "Each one of us is the result of a thought of God," Pope Benedict said. If God ever ceased to think about us, we would not exist. We would have no past, no present, no future. He who is being itself is always holding on to us, loving us. And in us, in our souls, in our hearts, he is resting.
 
@@ -110,9 +108,9 @@ Even in every kind of consternation, every stress, every anxiety, every time we 
 
 ## Martha, Mary, and the one thing
 
-We want to be like Martha. "Lord, I'm anxious and troubled by many things. I'm trying to do all this work, and my sister is there just resting with you. Tell her to help me with the work." And our Lord says, "No, Martha, you are anxious and troubled by many things, but one thing is necessary. And Mary has chosen the better part."
+We want to be like Martha. "Lord, do you not care that my sister has left me to serve alone? Tell her then to help me." Our Lord might answer, "Martha, Martha, you are anxious and troubled by many things, but one thing is necessary, and Mary has chosen the better part."
 
-Mary, the sister of Martha, has been resting with me. She has been listening to me in the chaos of this home. She is giving me the greatest hospitality, like Abraham and Sarah, but even more so. Yes, I care for you, and I want you to have the same thing. I want you to have the better part, the one thing. And I want to tell you something about who I am. For God the Son reveals himself, and he speaks of the Father only, for he only has the Father to speak of, because everything he has comes from the Father. He is the Father's, and the Father is his. And then from their love comes the Holy Spirit. Martha, I want you to also know who I am: the one thing necessary — that one thing is three — three persons in one God.
+Our Lord might say: Mary, the sister of Martha, has been resting with me. She has been listening to me in the chaos of this home. She is giving me the greatest hospitality, like Abraham and Sarah, but even more so. Yes, I care for you, and I want you to have the same thing. I want you to have the better part, the one thing. And I want to tell you something about who I am. For God the Son reveals himself, and he speaks of the Father only, for he only has the Father to speak of, because everything he has comes from the Father. He is the Father's, and the Father is his. And then from their love comes the Holy Spirit. Martha, I want you to also know who I am: the one thing necessary — that one thing is three — three persons in one God.
 
 This God — who created in six days and rested on the seventh — desires to rest in you, in your hearts and your souls. Never mind the chaos. Never mind the storms. I am with you.
 
