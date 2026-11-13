@@ -391,3 +391,6 @@ changes:
   associated with firmness, faithfulness, security, and trust… I imagine the altogether common experience
   of a dad tightening a ratchet strap, giving a firm tug, and declaring, 'That's not going anywhere.'"
 - Closing bridge now reads "…we will discuss in the chapters that follow." (was "the future conferences").
+
+## Owner final revision sync (2026-11-13)
+Chapters 1-2 replaced verbatim with the owner's final Word-document text (frozen for human review; pipeline copy only).

@@ -387,3 +387,6 @@ Applied identically to `chapters/drafts/02_mystery.md` and `chapters/reviewed/02
 4. §A Way of Approaching All Reality: "In the ancient world, engaging the cosmos as mystery was not so uncommon:" Options: (a) applied; (b) "In the ancient world, this engagement was not so uncommon:"; (c) keep bare "this".
 5. §Elisabeth and the Moon: "And my heart sunk." — paragraph-initial "And" KEPT (storytelling cadence). Options: (a) kept; (b) drop → "My heart sunk."; (c) combine with the preceding dialogue.
 6. §Elisabeth and the Moon: "So quickly, I said to Elisabeth," → applied "Quickly, I said to Elisabeth,". Options: (a) applied; (b) keep "So quickly"; (c) "And quickly, I said…".
+
+## Owner final revision sync (2026-11-13)
+Chapters 1-2 replaced verbatim with the owner's final Word-document text (frozen for human review; pipeline copy only).
