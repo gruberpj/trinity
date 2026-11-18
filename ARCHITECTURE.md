@@ -52,3 +52,17 @@ shasum -c manifests/checksums.sha256                   # audio fingerprint check
 - Transcription: local only (no hosted API), privacy-preserving.
 - Chapters respect the author's spoken wording; only basic grammar fixes applied; all edits disclosed in provenance sidecars.
 - No fabricated theology, quotations, or citations anywhere in the pipeline; unverifiable items carry explicit flags.
+
+
+## AUTHORITATIVE SOURCE POLICY (owner, 2026-11-18)
+
+`manuscript/Mystery_of_the_Trinity.docx` is the AUTHORITATIVE text, translation, and
+format of the book as of 2026-11-18. All future pipeline output (chapters, manuscript,
+PDF, docx regeneration) must reproduce it VERBATIM — including its typography (curly
+quotes and apostrophes), its prayer translations (e.g., the archaic "as Thou shinest"
+Radiating Christ rendering; the shortened Catherine of Siena epigraph), its numeral
+style ("twenty-first century"), and every other convention. Do NOT sync back to former
+pipeline style or translations (no straight-quote normalization, no reversion to the
+previously verified prayer texts, no em-dash/numeral standardization). The notes,
+ledger, and provenance must be updated to MATCH the docx's choices whenever a sync is
+requested — never the other way around.

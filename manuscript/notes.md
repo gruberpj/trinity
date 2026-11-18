@@ -114,3 +114,17 @@ The listening-queue items and source decisions are RESOLVED by the owner (batch 
 - Marker scan at assembly: 0 blocking markers; chapter prose is flag-free after owner batch-4 (2026-09-17) — 0 inline `[possibly:…]`, `[unclear]`, or `[quotation wording unverified]` flags remain in prose.
 
 - RSV-2CE confirm list (6 readings): RESOLVED — owner chose to keep all aligned to RSV-2CE, indirect epilogue allusion keeps 'this age' per owner (section consistency, 2026-09-17).
+
+
+## AUTHORITATIVE SOURCE POLICY (owner, 2026-11-18)
+
+`manuscript/Mystery_of_the_Trinity.docx` is the AUTHORITATIVE text, translation, and
+format of the book as of 2026-11-18. All future pipeline output (chapters, manuscript,
+PDF, docx regeneration) must reproduce it VERBATIM — including its typography (curly
+quotes and apostrophes), its prayer translations (e.g., the archaic "as Thou shinest"
+Radiating Christ rendering; the shortened Catherine of Siena epigraph), its numeral
+style ("twenty-first century"), and every other convention. Do NOT sync back to former
+pipeline style or translations (no straight-quote normalization, no reversion to the
+previously verified prayer texts, no em-dash/numeral standardization). The notes,
+ledger, and provenance must be updated to MATCH the docx's choices whenever a sync is
+requested — never the other way around.
